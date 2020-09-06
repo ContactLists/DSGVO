@@ -6550,7 +6550,7 @@
 2226550,IU8AAV Giovanni,Giovanni                                                                 ITA
 2226551,IZ8OED Claudio ,Claudio                                                                  ITA
 2226552,IQ7EL Era      ,Era                                                                      ITA
-2226553,IT9DXE Giuseppe,Giuseppe                                                                 ITA
+2226553,IW0HET Simolo  ,Simolo                                                                   ITA
 2226554,IZ1WZJ Luca    ,Luca                                                                     ITA
 2226555,IK2TQB Pasquale,Pasquale                                                                 ITA
 2226556,IQ2MM Sezione  ,Sezione                                                                  ITA
@@ -6560,6 +6560,29 @@
 2226560,IU4LAU Stefano ,Stefano                                                                  ITA
 2226561,IX1APT Giuseppe,Giuseppe                                                                 ITA
 2226562,IW2DCY Antonio ,Antonio                                                                  ITA
+2226563,IU1MTZ Luca    ,Luca                                                                     ITA
+2226564,IU2NTG Giampy  ,Giampy                                                                   ITA
+2226565,IZ0PAU Marcello,Marcello                                                                 ITA
+2226566,IZ3VYL Romeo   ,Romeo                                                                    ITA
+2226567,I1ONK Gian Carl,Gian Carlo                                                               ITA
+2226568,IU3GLY Giampiet,Giampietro                                                               ITA
+2226569,IW1CYL Fabrizio,Fabrizio                                                                 ITA
+2226570,IQ3PN Ari      ,Ari                                                                      ITA
+2226571,IW3FQT Luca    ,Luca                                                                     ITA
+2226572,IQ3VN Radio Clu,Radio Club                                                               ITA
+2226573,IT9IPQ Paolo   ,Paolo                                                                    ITA
+2226574,IT9OBK Carmelo ,Carmelo                                                                  ITA
+2226575,IT9BOM Antonino,Antonino                                                                 ITA
+2226576,IK8HIS Luigi   ,Luigi                                                                    ITA
+2226577,IW1GDN Danilo  ,Danilo                                                                   ITA
+2226578,IK8SUT Antonio ,Antonio                                                                  ITA
+2226579,IU1NYD Roberto ,Roberto                                                                  ITA
+2226580,IU7KIH No_name ,No_name                                                                  ITA
+2226581,IU3BZU Emiliano,Emiliano                                                                 ITA
+2226582,IU3NYU Pieranto,Pierantonio                                                              ITA
+2226583,IZ2OGG Dattero ,Dattero                                                                  ITA
+2226584,IZ0JRI Ivan    ,Ivan                                                                     ITA
+2226585,IV3ZNK Luca    ,Luca                                                                     ITA
 2227001,IZ7OIX Domenico,Domenico                                                                 ITA
 2227002,IZ7GLL Massimo ,Massimo                                                                  ITA
 2227003,IZ7ZFT Silvio  ,Silvio                                                                   ITA
@@ -9075,6 +9098,8 @@
 2284239,HB3XVI Pascal  ,Pascal                                                                   CHE
 2284240,HB9HGH Schindle,Schindler                                                                CHE
 2284241,HB9HGG Simon   ,Simon                                                                    CHE
+2284242,HB9MKV Rudi    ,Rudi                                                                     CHE
+2284243,HB9HEI Dominic ,Dominic                                                                  CHE
 2285001,HB9CNT Paul    ,Paul                                                                     CHE
 2285002,HB9CNT Paul    ,Paul                                                                     CHE
 2285003,HB9CNT Paul    ,Paul                                                                     CHE
@@ -9441,6 +9466,7 @@
 2287033,HB9GYA Mauro   ,Mauro                                                                    CHE
 2287034,HB9GNO Chrigi  ,Chrigi                                                                   CHE
 2287035,HB9GPO Franco  ,Franco                                                                   CHE
+2287036,HB9GZK Mark    ,Mark                                                                     CHE
 2288000,HB9SDB Tschumi ,Tschumi                                                                  CHE
 2288001,HB3YEJ Andreas ,Andreas                                                                  CHE
 2288002,HB9WOF Reto    ,Reto                                                                     CHE
@@ -9941,29 +9967,25 @@
 2920019,T77TF Tullio   ,Tullio                                                                   SMR
 2920020,T77IC Roberto  ,Roberto                                                                  SMR
 2920021,T77WL Massimo  ,Massimo                                                                  SMR
-2226563,IU1MTZ Luca    ,Luca                                                                     ITA
-2226564,IU2NTG Giampy  ,Giampy                                                                   ITA
-2226565,IZ0PAU Marcello,Marcello                                                                 ITA
-2226566,IZ3VYL Romeo   ,Romeo                                                                    ITA
-2226567,I1ONK Gian Carl,Gian Carlo                                                               ITA
-2226569,IW1CYL Fabrizio,Fabrizio                                                                 ITA
-2226570,IQ3PN Ari      ,Ari                                                                      ITA
-2226571,IW3FQT Luca    ,Luca                                                                     ITA
-2226572,IQ3VN Radio Clu,Radio Club                                                               ITA
-2226573,IT9IPQ Paolo   ,Paolo                                                                    ITA
-2226574,IT9OBK Carmelo ,Carmelo                                                                  ITA
-2226575,IT9BOM Antonino,Antonino                                                                 ITA
-2226577,IW1GDN Danilo  ,Danilo                                                                   ITA
-2226578,IK8SUT Antonio ,Antonio                                                                  ITA
-2226579,IU1NYD Roberto ,Roberto                                                                  ITA
-2226581,IU3BZU Emiliano,Emiliano                                                                 ITA
-2226583,IZ2OGG Dattero ,Dattero                                                                  ITA
-2226584,IZ0JRI Ivan    ,Ivan                                                                     ITA
-2284242,HB9MKV Rudi    ,Rudi                                                                     CHE
-2284243,HB9HEI Dominic ,Dominic                                                                  CHE
-2287036,HB9GZK Mark    ,Mark                                                                     CHE
-2226568,IU3GLY Giampiet,Giampietro                                                               ITA
-2226576,IK8HIS Luigi   ,Luigi                                                                    ITA
-2226580,IU7KIH No_name ,No_name                                                                  ITA
-2226582,IU3NYU Pieranto,Pierantonio                                                              ITA
-2226585,IV3ZNK Luca    ,Luca                                                                     ITA
+2226586,IZ1FIG Davide  ,Davide                                                                   ITA
+2226587,IT9GSZ Nunziato,Nunziato                                                                 ITA
+2226588,IU8KMR Vincenzo,Vincenzo                                                                 ITA
+2226589,IW8DCS Vittorio,Vittorio                                                                 ITA
+2226590,IT9HUB Seby    ,Seby                                                                     ITA
+2226591,I1DDS Davide   ,Davide                                                                   ITA
+2226593,IK4POT Guido   ,Guido                                                                    ITA
+2226594,IW3HMH Daniele ,Daniele                                                                  ITA
+2226598,IU6OBP Emanuele,Emanuele                                                                 ITA
+2226599,IW9DJW Luca    ,Luca                                                                     ITA
+2281242,HB9GFV Gregory ,Gregory                                                                  CHE
+2284244,HB9GUU Peter   ,Peter                                                                    CHE
+2285072,HB3YFT Walter  ,Walter                                                                   CHE
+2286261,HB3XVP Philipp ,Philipp                                                                  CHE
+2286262,HB9TIK Fausto  ,Fausto                                                                   CHE
+2288331,HB3XUX Andy    ,Andy                                                                     CHE
+2226592,IK7MXD Giovanni,Giovanni                                                                 ITA
+2226595,I3MKH Mirko    ,Mirko                                                                    ITA
+2226597,IU3EIU Fabiob  ,Fabiob                                                                   ITA
+2226600,IT9IEI No_name ,No_name                                                                  ITA
+2226601,IU8DSP Ivan    ,Ivan                                                                     ITA
+2226602,IW6PEO No_name ,No_name                                                                  ITA
