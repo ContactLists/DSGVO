@@ -2519,6 +2519,7 @@
 2325186,OE5HWN Helmut  ,Helmut                                                                   AUT
 2325187,OE5JPP Johannes,Johannes                                                                 AUT
 2325188,OE5HRT Helmut  ,Helmut                                                                   AUT
+2325189,OE5BKE Herolind,Herolind                                                                 AUT
 2325251,OE5DRP Peter   ,Peter                                                                    AUT
 2326001,OE6HEF Harald  ,Harald                                                                   AUT
 2326002,OE6HXF Michael ,Michael                                                                  AUT
@@ -2726,6 +2727,7 @@
 2326204,OE6DUG Edgar   ,Edgar                                                                    AUT
 2326205,OE6PWE Wolfgang,Wolfgang                                                                 AUT
 2326206,OE6OMC Michael ,Michael                                                                  AUT
+2326207,OE6VIE Jo      ,Jo                                                                       AUT
 2326221,OE6KWD Wolfgang,Wolfgang                                                                 AUT
 2326222,OE6JFG Franz   ,Franz                                                                    AUT
 2326223,OE6MKD Rene    ,Rene                                                                     AUT
@@ -2940,6 +2942,7 @@
 2327192,OE7OLI Josef   ,Josef                                                                    AUT
 2327193,OE7WRJ Rudolf  ,Rudolf                                                                   AUT
 2327194,OE7GPI Gerhard ,Gerhard                                                                  AUT
+2327195,OE7IWT Wilfried,Wilfried                                                                 AUT
 2327232,OE7OST Thomas  ,Thomas                                                                   AUT
 2328001,OE8AGK Alfred  ,Alfred                                                                   AUT
 2328002,OE8DDK no_name ,no_name                                                                  AUT
@@ -3198,6 +3201,7 @@
 2329122,OE9RFV no_name ,no_name                                                                  AUT
 2329123,OE9IGV Ingo    ,Ingo                                                                     AUT
 2329124,OE9NGH Guenther,Guenther                                                                 AUT
+2329125,OE9XBV Amateurf,Amateurfunkclub                                                          AUT
 2620001,DD8OA Jan      ,Jan                                                                      DEU
 2620002,DB1JBA Jens    ,Jens                                                                     DEU
 2620003,DG0CCO Joerg   ,Joerg                                                                    DEU
@@ -4840,7 +4844,7 @@
 2621640,DK1MN Heinrich ,Heinrich                                                                 DEU
 2621641,DO5KKL Klaus   ,Klaus                                                                    DEU
 2621642,DL6NAF Werner  ,Werner                                                                   DEU
-2621643,DA1AF Robert   ,Robert                                                                   DEU
+2621643,DL6EAC Josef   ,Josef                                                                    DEU
 2621644,DL8JO Joachim  ,Joachim                                                                  DEU
 2621645,DG1YEB Juergen ,Juergen                                                                  DEU
 2621646,DG1GRY Hans-Pet,Hans-Peter                                                               DEU
@@ -4862,6 +4866,46 @@
 2621662,DL2FBB Peter   ,Peter                                                                    DEU
 2621663,DH1FAN Martin  ,Martin                                                                   DEU
 2621664,DM2HK Hartmut  ,Hartmut                                                                  DEU
+2621665,DO6TU Thomas   ,Thomas                                                                   DEU
+2621666,DH7DHB Dirk    ,Dirk                                                                     DEU
+2621667,DD2DF Wolfhart ,Wolfhart                                                                 DEU
+2621668,DH4MBM Bernd   ,Bernd                                                                    DEU
+2621669,DJ2LJW Jens    ,Jens                                                                     DEU
+2621670,DO1UMS Martin  ,Martin                                                                   DEU
+2621671,DA1AF Robert   ,Robert                                                                   DEU
+2621672,DL5MFC Wolfgang,Wolfgang                                                                 DEU
+2621673,DB5DN Kai      ,Kai                                                                      DEU
+2621674,DL9EM Eckhard  ,Eckhard                                                                  DEU
+2621675,DB9JU Benjamin ,Benjamin                                                                 DEU
+2621676,DD7QJ Sebastian,Sebastian                                                                DEU
+2621677,DL9TI Guenter  ,Guenter                                                                  DEU
+2621678,DD6AU Sascha   ,Sascha                                                                   DEU
+2621679,DO1OMD Monika  ,Monika                                                                   DEU
+2621680,DO2HRO Hans    ,Hans                                                                     DEU
+2621681,DO1AEC Christof,Christof                                                                 DEU
+2621682,DO9DR Damiano  ,Damiano                                                                  DEU
+2621683,DH2WW Werner   ,Werner                                                                   DEU
+2621684,DL2SH Hans-Diet,Hans-Dieter                                                              DEU
+2621685,DH7OBM Matthias,Matthias                                                                 DEU
+2621686,DL1AAL Klaus   ,Klaus                                                                    DEU
+2621687,DO5TS Sascha   ,Sascha                                                                   DEU
+2621688,DL7HMO Heinz   ,Heinz                                                                    DEU
+2621689,DO6DW Dirk     ,Dirk                                                                     DEU
+2621690,DO2XU Timm     ,Timm                                                                     DEU
+2621691,DK5PH Peter    ,Peter                                                                    DEU
+2621692,DO7TLN Tom     ,Tom                                                                      DEU
+2621693,DO5AG Christian,Christian                                                                DEU
+2621694,DL2SAH Karl    ,Karl                                                                     DEU
+2621695,DO7PM Michael  ,Michael                                                                  DEU
+2621696,DL1MM Meinhard ,Meinhard                                                                 DEU
+2621697,DL5ALX Alex    ,Alex                                                                     DEU
+2621698,DL4TM Tim      ,Tim                                                                      DEU
+2621699,DO7TMA Tamara  ,Tamara                                                                   DEU
+2621700,DO1REH Mitja   ,Mitja                                                                    DEU
+2621701,DL4QP Thomas   ,Thomas                                                                   DEU
+2621702,DG5OBX Dirk    ,Dirk                                                                     DEU
+2621703,DF7HSA Horst   ,Horst                                                                    DEU
+2621704,DL7FGJ Naximo  ,Naximo                                                                   DEU
 2622000,DF4HN Joerg    ,Joerg                                                                    DEU
 2622001,DL6LIM Iven    ,Iven                                                                     DEU
 2622002,DJ3HZ Klaus    ,Klaus                                                                    DEU
@@ -16050,47 +16094,11 @@
 2644849,DO7KY Andreas  ,Andreas                                                                  DEU
 2644850,DL5JA Peter    ,Peter                                                                    DEU
 2644851,DO3THP Thorben ,Thorben                                                                  DEU
-2621665,DO6TU Thomas   ,Thomas                                                                   DEU
-2621666,DH7DHB Dirk    ,Dirk                                                                     DEU
-2621667,DD2DF Wolfhart ,Wolfhart                                                                 DEU
-2621668,DH4MBM Bernd   ,Bernd                                                                    DEU
-2621669,DJ2LJW Jens    ,Jens                                                                     DEU
-2621670,DO1UMS Martin  ,Martin                                                                   DEU
-2621671,DA1AF Bob      ,Bob                                                                      DEU
-2621672,DL5MFC Wolfgang,Wolfgang                                                                 DEU
-2621673,DB5DN Kai      ,Kai                                                                      DEU
-2621674,DL9EM Eckhard  ,Eckhard                                                                  DEU
-2621675,DB9JU Benjamin ,Benjamin                                                                 DEU
-2621676,DD7QJ Sebastian,Sebastian                                                                DEU
-2621677,DL9TI Guenter  ,Guenter                                                                  DEU
-2621678,DD6AU Sascha   ,Sascha                                                                   DEU
-2621679,DO1OMD Monika  ,Monika                                                                   DEU
-2621680,DO2HRO Hans    ,Hans                                                                     DEU
-2621681,DO1AEC Christof,Christof                                                                 DEU
-2621682,DO9DR Damiano  ,Damiano                                                                  DEU
-2621683,DH2WW Werner   ,Werner                                                                   DEU
-2621684,DL2SH Hans-Diet,Hans-Dieter                                                              DEU
-2621685,DH7OBM Matthias,Matthias                                                                 DEU
-2621686,DL1AAL Klaus   ,Klaus                                                                    DEU
-2621687,DO5TS Sascha   ,Sascha                                                                   DEU
-2621688,DL7HMO Heinz   ,Heinz                                                                    DEU
-2621689,DO6DW Dirk     ,Dirk                                                                     DEU
-2621690,DO2XU Timm     ,Timm                                                                     DEU
-2621691,DK5PH Peter    ,Peter                                                                    DEU
-2621692,DO7TLN Tom     ,Tom                                                                      DEU
-2621693,DO5AG Christian,Christian                                                                DEU
-2621694,DL2SAH Karl    ,Karl                                                                     DEU
-2621695,DO7PM Michael  ,Michael                                                                  DEU
-2621696,DL1MM Meinhard ,Meinhard                                                                 DEU
-2621697,DL5ALX Alex    ,Alex                                                                     DEU
-2621698,DL4TM Tim      ,Tim                                                                      DEU
-2621699,DO7TMA Tamara  ,Tamara                                                                   DEU
-2621700,DO1REH Mitja   ,Mitja                                                                    DEU
-2621701,DL4QP Thomas   ,Thomas                                                                   DEU
-2621702,DG5OBX Dirk    ,Dirk                                                                     DEU
-2325189,OE5BKE Herolind,Herolind                                                                 AUT
-2326207,OE6VIE Jo      ,Jo                                                                       AUT
-2327195,OE7IWT Wilfried,Wilfried                                                                 AUT
-2329125,OE9XBV Amateurf,Amateurfunkclub                                                          AUT
-2621703,DF7HSA Horst   ,Horst                                                                    DEU
-2621704,DL7FGJ Naximo  ,Naximo                                                                   DEU
+2621705,DL5IAS Martin  ,Martin                                                                   DEU
+2621706,DO9SZ Stephan  ,Stephan                                                                  DEU
+2621707,DF6NP Klaus    ,Klaus                                                                    DEU
+2621708,DO1MHZ Matthias,Matthias                                                                 DEU
+2621709,DL1SNU Joerg   ,Joerg                                                                    DEU
+2621710,DO1ALX Alexande,Alexander                                                                DEU
+2621711,DF7PF Otfried  ,Otfried                                                                  DEU
+2621712,DG8DAU Joachim ,Joachim                                                                  DEU
