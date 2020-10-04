@@ -6627,7 +6627,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2226626,IT9IND,IT9IND Gabriele,,,ITA,,Private Call,None
 ,2226627,IQ3QW,IQ3QW Era,,,ITA,,Private Call,None
 ,2226628,IU0NYC,IU0NYC Raffaele,,,ITA,,Private Call,None
-,2226629,IK4RAJ,IK4RAJ Daniele,,,ITA,,Private Call,None
+,2226629,IU4BJQ,IU4BJQ Mamo,,,ITA,,Private Call,None
 ,2226630,IX1DSY,IX1DSY Fabrizio,,,ITA,,Private Call,None
 ,2226631,IT9HJH,IT9HJH Diego,,,ITA,,Private Call,None
 ,2226632,IK1XPK,IK1XPK Claudio,,,ITA,,Private Call,None
@@ -6656,6 +6656,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2226655,IW2MTA,IW2MTA Maurizio,,,ITA,,Private Call,None
 ,2226656,IW2IGO,IW2IGO Francesco,,,ITA,,Private Call,None
 ,2226657,IZ4FVR,IZ4FVR Marcov,,,ITA,,Private Call,None
+,2226658,IT9AUH,IT9AUH Riccardo,,,ITA,,Private Call,None
 ,2227001,IZ7OIX,IZ7OIX Domenico,,,ITA,,Private Call,None
 ,2227002,IZ7GLL,IZ7GLL Massimo,,,ITA,,Private Call,None
 ,2227003,IZ7ZFT,IZ7ZFT Silvio,,,ITA,,Private Call,None
@@ -10049,4 +10050,13 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2920019,T77TF,T77TF Tullio,,,SMR,,Private Call,None
 ,2920020,T77IC,T77IC Roberto,,,SMR,,Private Call,None
 ,2920021,T77WL,T77WL Massimo,,,SMR,,Private Call,None
-,2226658,IT9AUH,IT9AUH Riccardo,,,ITA,,Private Call,None
+,2226659,IZ0UIQ,IZ0UIQ Arduino,,,ITA,,Private Call,None
+,2226660,IK2QED,IK2QED Stefano,,,ITA,,Private Call,None
+,2226661,IU2GLO,IU2GLO Adriano,,,ITA,,Private Call,None
+,2226663,IU3OFZ,IU3OFZ Tommaso,,,ITA,,Private Call,None
+,2226664,IW0HKZ,IW0HKZ Roberto,,,ITA,,Private Call,None
+,2226665,IZ2LIX,IZ2LIX Emilio,,,ITA,,Private Call,None
+,2285073,HB9BRH,HB9BRH Thomas,,,CHE,,Private Call,None
+,2288333,HB3XUD,HB3XUD Walter,,,CHE,,Private Call,None
+,2289106,HB3XVL,HB3XVL Christian,,,CHE,,Private Call,None
+,2226662,IK8GTI,IK8GTI Giovanni,,,ITA,,Private Call,None
