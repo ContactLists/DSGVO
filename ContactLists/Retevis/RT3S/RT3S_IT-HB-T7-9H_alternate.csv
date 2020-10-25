@@ -6682,6 +6682,25 @@
 2226682,IU4ODZ Francesc,Francesco                                                                ITA
 2226683,IK0ITC Mauro   ,Mauro                                                                    ITA
 2226684,IW5AKT Claudio ,Claudio                                                                  ITA
+2226685,IU1CYQ Andrea  ,Andrea                                                                   ITA
+2226686,IU2NSK Maurizio,Maurizio                                                                 ITA
+2226687,IU1JRN Pierluig,Pierluigi                                                                ITA
+2226688,IK0YKM Enrico  ,Enrico                                                                   ITA
+2226689,IW4EIC Vincenzo,Vincenzo                                                                 ITA
+2226690,IU7NJS Fabio   ,Fabio                                                                    ITA
+2226691,IU2KXX Agostino,Agostino                                                                 ITA
+2226692,IT9HOL Gabriele,Gabriele                                                                 ITA
+2226693,IW2KFG Claudio ,Claudio                                                                  ITA
+2226694,IW1GDD Roberto ,Roberto                                                                  ITA
+2226695,IZ8XYJ Antonio ,Antonio                                                                  ITA
+2226696,IZ2OII Andrea  ,Andrea                                                                   ITA
+2226697,IK3YAE Carlo   ,Carlo                                                                    ITA
+2226700,IU7OEF Sergio  ,Sergio                                                                   ITA
+2226701,IZ5VTN Moreno  ,Moreno                                                                   ITA
+2226702,IU5OGF Stefano ,Stefano                                                                  ITA
+2226703,IU5FHB Giampier,Giampiero                                                                ITA
+2226704,IU2NUF Paolo   ,Paolo                                                                    ITA
+2226705,IZ8SGF Bruno   ,Bruno                                                                    ITA
 2227001,IZ7OIX Domenico,Domenico                                                                 ITA
 2227002,IZ7GLL Massimo ,Massimo                                                                  ITA
 2227003,IZ7ZFT Silvio  ,Silvio                                                                   ITA
@@ -9201,6 +9220,7 @@
 2284242,HB9MKV Rudi    ,Rudi                                                                     CHE
 2284243,HB9HEI Dominic ,Dominic                                                                  CHE
 2284244,HB9GUU Peter   ,Peter                                                                    CHE
+2284245,HB9TCZ Rick    ,Rick                                                                     CHE
 2285001,HB9CNT Paul    ,Paul                                                                     CHE
 2285002,HB9CNT Paul    ,Paul                                                                     CHE
 2285003,HB9CNT Paul    ,Paul                                                                     CHE
@@ -9907,6 +9927,7 @@
 2288331,HB3XUX Andy    ,Andy                                                                     CHE
 2288332,HB9HCP Bruno   ,Bruno                                                                    CHE
 2288333,HB3XUD Walter  ,Walter                                                                   CHE
+2288334,HB9HGP Patrick ,Patrick                                                                  CHE
 2288424,HB9EPF Peter   ,Peter                                                                    CHE
 2288542,HB9ANF Hans-Joe,Hans-Joerg                                                               CHE
 2288822,HB9SDB Rolf    ,Rolf                                                                     CHE
@@ -10057,6 +10078,7 @@
 2780037,9H1LE Jason    ,Jason                                                                    MLT
 2780038,9H1FBS Charles ,Charles                                                                  MLT
 2780039,9H1FF Fred     ,Fred                                                                     MLT
+2780040,9H5MT Martin   ,Martin                                                                   MLT
 2920001,T77GR Renato   ,Renato                                                                   SMR
 2920002,T77NC Nazzareno,Nazzareno                                                                SMR
 2920003,T77DB Danilo   ,Danilo                                                                   SMR
@@ -10078,25 +10100,39 @@
 2920019,T77TF Tullio   ,Tullio                                                                   SMR
 2920020,T77IC Roberto  ,Roberto                                                                  SMR
 2920021,T77WL Massimo  ,Massimo                                                                  SMR
-2226685,IU1CYQ Andrea  ,Andrea                                                                   ITA
-2226686,IU2NSK Maurizio,Maurizio                                                                 ITA
-2226687,IU1JRN Pierluig,Pierluigi                                                                ITA
-2226688,IK0YKM Enrico  ,Enrico                                                                   ITA
-2226689,IW4EIC Vincenzo,Vincenzo                                                                 ITA
-2226690,IU7NJS Fabio   ,Fabio                                                                    ITA
-2226691,IU2KXX Agostino,Agostino                                                                 ITA
-2226692,IT9HOL Gabriele,Gabriele                                                                 ITA
-2226693,IW2KFG Claudio ,Claudio                                                                  ITA
-2226694,IW1GDD Roberto ,Roberto                                                                  ITA
-2226696,IZ2OII Andrea  ,Andrea                                                                   ITA
-2226697,IK3YAE Carlo   ,Carlo                                                                    ITA
-2226700,IU7OEF Sergio  ,Sergio                                                                   ITA
-2226701,IZ5VTN Moreno  ,Moreno                                                                   ITA
-2226702,IU5OGF Stefano ,Stefano                                                                  ITA
-2226703,IU5FHB Giampier,Giampiero                                                                ITA
-2226704,IU2NUF Paolo   ,Paolo                                                                    ITA
-2226705,IZ8SGF Bruno   ,Bruno                                                                    ITA
-2284245,HB9TCZ Rick    ,Rick                                                                     CHE
-2288334,HB9HGP Patrick ,Patrick                                                                  CHE
-2780040,9H5MT Martin   ,Martin                                                                   MLT
-2226695,IZ8XYJ Antonio ,Antonio                                                                  ITA
+2226698,IS0IGM Mario   ,Mario                                                                    ITA
+2226699,IS0IGU Marco   ,Marco                                                                    ITA
+2226706,IK7MOJ Vito    ,Vito                                                                     ITA
+2226707,IU2MDX Tiziano ,Tiziano                                                                  ITA
+2226708,IZ7NLL Michele ,Michele                                                                  ITA
+2226709,IT9GOF Giuseppe,Giuseppe                                                                 ITA
+2226710,IW9HJD Antonino,Antonino                                                                 ITA
+2226711,IS0BGL Daniele ,Daniele                                                                  ITA
+2226712,IZ0FYM Lino    ,Lino                                                                     ITA
+2226713,IU5ICD Stefano ,Stefano                                                                  ITA
+2226714,IU8NUB Ciro    ,Ciro                                                                     ITA
+2226715,IV3HLS Alessand,Alessandro                                                               ITA
+2226716,IT9DBM Salvo   ,Salvo                                                                    ITA
+2226717,IK4RAJ Daniele ,Daniele                                                                  ITA
+2226718,IU5JWK Riccardo,Riccardo                                                                 ITA
+2226719,IV3HZN Francisc,Francisco                                                                ITA
+2226720,IK8GTI Giovanni,Giovanni                                                                 ITA
+2226721,IK8GTN Vincenzo,Vincenzo                                                                 ITA
+2226722,IU1NHR Gian    ,Gian                                                                     ITA
+2226723,IT9HVZ Francesc,Francesco                                                                ITA
+2226724,IZ2QCE Paolo   ,Paolo                                                                    ITA
+2226725,IS0HZE Luca    ,Luca                                                                     ITA
+2226726,IU8NWM Antonio ,Antonio                                                                  ITA
+2226727,IZ2KTK Alex    ,Alex                                                                     ITA
+2226728,IK8SUR Rodolfo ,Rodolfo                                                                  ITA
+2226729,IZ1ASS Maurilio,Maurilio                                                                 ITA
+2226730,IW8DBS Ezio    ,Ezio                                                                     ITA
+2226731,IZ1CYD Marco   ,Marco                                                                    ITA
+2226732,IZ0GIB Francesc,Francesco                                                                ITA
+2281243,HB9HHG Luismo70,Luismo70                                                                 CHE
+2284246,HB3XVW Martin  ,Martin                                                                   CHE
+2285074,HB9HHO Christia,Christian                                                                CHE
+2286264,HB9GCC Joe     ,Joe                                                                      CHE
+2288335,HB9HHQ Stefan  ,Stefan                                                                   CHE
+2780041,9H2NG Nicola   ,Nicola                                                                   MLT
+2780042,9H6SGM Scout   ,Scout                                                                    MLT
