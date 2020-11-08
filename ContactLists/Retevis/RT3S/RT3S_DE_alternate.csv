@@ -1802,6 +1802,32 @@
 2621803,DC1OD Andreas  ,Andreas                                                                  DEU
 2621804,DL1CHO Christia,Christian                                                                DEU
 2621805,DL5TN Tibor    ,Tibor                                                                    DEU
+2621806,DL2CBA Christop,Christoph                                                                DEU
+2621807,DF1UMA Florian ,Florian                                                                  DEU
+2621808,DO8JKR Joerg   ,Joerg                                                                    DEU
+2621809,DL2RCG Erich   ,Erich                                                                    DEU
+2621810,DF3GC Peter    ,Peter                                                                    DEU
+2621811,DG1EFX Guenther,Guenther                                                                 DEU
+2621812,DO5DC Dennis   ,Dennis                                                                   DEU
+2621813,DO7FA Werner   ,Werner                                                                   DEU
+2621814,DO2YRM Reinke  ,Reinke                                                                   DEU
+2621815,DK0Z Clubstatio,Clubstation                                                              DEU
+2621816,DL7OAP Andreas ,Andreas                                                                  DEU
+2621817,DO1HKL Herbert ,Herbert                                                                  DEU
+2621818,DL5STX Steffen ,Steffen                                                                  DEU
+2621819,DO5BPU Bjoern  ,Bjoern                                                                   DEU
+2621820,DH6HQ Wolfgang ,Wolfgang                                                                 DEU
+2621821,DG1MAW Wolfgang,Wolfgang                                                                 DEU
+2621822,DM1IE Juergen  ,Juergen                                                                  DEU
+2621823,DB9CR Christian,Christian                                                                DEU
+2621824,DH5HQ Stephan  ,Stephan                                                                  DEU
+2621825,DH2SKB Karl    ,Karl                                                                     DEU
+2621826,DD2KO Karlheinz,Karlheinz                                                                DEU
+2621827,DO2KSL Sebastia,Sebastian                                                                DEU
+2621828,DL1KUP Kurt    ,Kurt                                                                     DEU
+2621829,DO1REM Ralf    ,Ralf                                                                     DEU
+2621830,DL5ZAO Gernot  ,Gernot                                                                   DEU
+2621831,DL8NY Klaus-Die,Klaus-Dieter                                                             DEU
 2622000,DF4HN Joerg    ,Joerg                                                                    DEU
 2622001,DL6LIM Iven    ,Iven                                                                     DEU
 2622002,DJ3HZ Klaus    ,Klaus                                                                    DEU
@@ -12990,29 +13016,28 @@
 2644849,DO7KY Andreas  ,Andreas                                                                  DEU
 2644850,DL5JA Peter    ,Peter                                                                    DEU
 2644851,DO3THP Thorben ,Thorben                                                                  DEU
-2621806,DL2CBA Christop,Christoph                                                                DEU
-2621807,DF1UMA Florian ,Florian                                                                  DEU
-2621808,DO8JKR Jorg    ,Jorg                                                                     DEU
-2621809,DL2RCG Erich   ,Erich                                                                    DEU
-2621810,DF3GC Peter    ,Peter                                                                    DEU
-2621811,DG1EFX Guenter ,Guenter                                                                  DEU
-2621812,DO5DC Dennis   ,Dennis                                                                   DEU
-2621813,DO7FA Werner   ,Werner                                                                   DEU
-2621814,DO2YRM Reinke  ,Reinke                                                                   DEU
-2621815,DK0Z Clubstatio,Clubstation                                                              DEU
-2621816,DL7OAP Andreas ,Andreas                                                                  DEU
-2621817,DO1HKL Herbert ,Herbert                                                                  DEU
-2621818,DL5STX Steffen ,Steffen                                                                  DEU
-2621819,DO5BPU Bjoern  ,Bjoern                                                                   DEU
-2621820,DH6HQ Wolfgang ,Wolfgang                                                                 DEU
-2621821,DG1MAW Wolfgang,Wolfgang                                                                 DEU
-2621822,DM1IE Juergen  ,Juergen                                                                  DEU
-2621823,DB9CR Christian,Christian                                                                DEU
-2621824,DH5HQ Stephan  ,Stephan                                                                  DEU
-2621825,DH2SKB Karl    ,Karl                                                                     DEU
-2621826,DD2KO Karlheinz,Karlheinz                                                                DEU
-2621827,DO2KSL Sebastia,Sebastian                                                                DEU
-2621828,DL1KUP Kurt    ,Kurt                                                                     DEU
-2621829,DO1REM Ralf    ,Ralf                                                                     DEU
-2621830,DL5ZAO Gernot  ,Gernot                                                                   DEU
-2621831,DL8NY Klaus-Die,Klaus-Dieter                                                             DEU
+2621799,DL2EAN Stefan  ,Stefan                                                                   DEU
+2621832,DG4ZV Bernd    ,Bernd                                                                    DEU
+2621833,DO1NJR Ralf    ,Ralf                                                                     DEU
+2621834,DG1TTA Lars    ,Lars                                                                     DEU
+2621835,DL5JH Knut     ,Knut                                                                     DEU
+2621836,DL7AKZ Klaus   ,Klaus                                                                    DEU
+2621837,DH6ST Stefan   ,Stefan                                                                   DEU
+2621838,DK5NR Norbert  ,Norbert                                                                  DEU
+2621839,DG9RAF Christia,Christian                                                                DEU
+2621840,DO6GE Holger   ,Holger                                                                   DEU
+2621841,DO7DD David    ,David                                                                    DEU
+2621842,DG2YKS Stefan  ,Stefan                                                                   DEU
+2621843,DO4LTD Mitko   ,Mitko                                                                    DEU
+2621844,DF2RB Gertrud  ,Gertrud                                                                  DEU
+2621845,DF3RB Bernhard ,Bernhard                                                                 DEU
+2621846,DL4STS Stephan ,Stephan                                                                  DEU
+2621847,DC6PL Atharva  ,Atharva                                                                  DEU
+2621848,DD0PS Philipp  ,Philipp                                                                  DEU
+2621849,DB5GE Gerhard  ,Gerhard                                                                  DEU
+2621850,DO3HVA Heinrich,Heinrich                                                                 DEU
+2621851,DO8MFG Manfred ,Manfred                                                                  DEU
+2621852,DL1MOG Stephan ,Stephan                                                                  DEU
+2621853,DC9WX Robert   ,Robert                                                                   DEU
+2621854,DJ4GB Gerrit   ,Gerrit                                                                   DEU
+2621855,DL1VHM Michael ,Michael                                                                  DEU
