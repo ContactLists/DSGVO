@@ -1,12 +1,5 @@
-*DACH*.csv
-*DE*.csv
-*EU*.csv
-*IT*.csv
-*T7*.csv
-*Zone*.csv
-*DACH*.bin
-*DE*.bin
-*EU*.bin
-*IT*.bin
-*T7*.bin
-*Zone*.bin
+*_DACH*.csv
+*_DE*.csv
+*_EU*.csv
+*_IT*.csv
+*_Zone*.csv
