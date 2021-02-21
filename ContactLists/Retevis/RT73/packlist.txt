@@ -1,0 +1,5 @@
+*_DACH*.csv
+*_DE*.csv
+*_EU*.csv
+*_IT*.csv
+*_Zone*.csv
