@@ -24,6 +24,12 @@
 2280023,HB9DAG Bernhard,Bernhard                                                                 CHE
 2280024,HB9HDI Martin  ,Martin                                                                   CHE
 2280025,HB9HAN Roland  ,Roland                                                                   CHE
+2280026,HB9HIB Sabine  ,Sabine                                                                   CHE
+2280027,HB9GUW Richard ,Richard                                                                  CHE
+2280028,HB9MDU Eugen   ,Eugen                                                                    CHE
+2280029,HB9SVQ Emmerich,Emmerich                                                                 CHE
+2280030,HB9EDN Michele ,Michele                                                                  CHE
+2280031,HB9GNG Felix   ,Felix                                                                    CHE
 2281001,HB3YNV Cedric  ,Cedric                                                                   CHE
 2281002,HB3YNV Cedric  ,Cedric                                                                   CHE
 2281003,HB3YNV Cedric  ,Cedric                                                                   CHE
@@ -1646,6 +1652,9 @@
 2320043,OE3YLR Larissa ,Larissa                                                                  AUT
 2320044,OE7HDJ Robert  ,Robert                                                                   AUT
 2320045,OE1EKG Erwin   ,Erwin                                                                    AUT
+2320046,OE1DWD Wolfgang,Wolfgang                                                                 AUT
+2320047,OE5HNG Guenter ,Guenter                                                                  AUT
+2320048,OE9KHJ Kurt    ,Kurt                                                                     AUT
 2321001,OE1KBC Kurt    ,Kurt                                                                     AUT
 2321002,OE1KBC Kurt    ,Kurt                                                                     AUT
 2321003,OE1KBC Kurt    ,Kurt                                                                     AUT
@@ -6293,7 +6302,7 @@
 2622931,DO1FEH Otto    ,Otto                                                                     DEU
 2622932,DH2FAB Holger  ,Holger                                                                   DEU
 2622933,DO1HSP Sven    ,Sven                                                                     DEU
-2622934,DO9MWZ Martin  ,Martin                                                                   DEU
+2622934,DL8ZAD Juergen ,Juergen                                                                  DEU
 2622935,DL3MDZ Rudolf  ,Rudolf                                                                   DEU
 2622936,DM2PC Christian,Christian                                                                DEU
 2622937,DL5KIM Michael ,Michael                                                                  DEU
@@ -6311,6 +6320,47 @@
 2622949,DF3UC Alfons   ,Alfons                                                                   DEU
 2622950,DO1AKB Andreas ,Andreas                                                                  DEU
 2622951,DO8UWE Uwe     ,Uwe                                                                      DEU
+2622952,DG8NFY Roland  ,Roland                                                                   DEU
+2622953,DC3PH Peter    ,Peter                                                                    DEU
+2622954,DO2FK Florian  ,Florian                                                                  DEU
+2622955,DL6CHM Thomas  ,Thomas                                                                   DEU
+2622956,DO3KKD Klaus   ,Klaus                                                                    DEU
+2622957,DF7ET Bernhard ,Bernhard                                                                 DEU
+2622958,DB1BHR Hartwig ,Hartwig                                                                  DEU
+2622959,DK1AJ Michael-A,Michael-Alfred                                                           DEU
+2622960,DL6TP Wolfgang ,Wolfgang                                                                 DEU
+2622961,DO2GT Thomas   ,Thomas                                                                   DEU
+2622962,DK0MM Volker   ,Volker                                                                   DEU
+2622963,DK3QH Ulrich   ,Ulrich                                                                   DEU
+2622964,DG2GGP Gerd    ,Gerd                                                                     DEU
+2622965,DL1NGO Ingo    ,Ingo                                                                     DEU
+2622966,DD5FC Edward   ,Edward                                                                   DEU
+2622967,DG5FAX Werner  ,Werner                                                                   DEU
+2622968,DG1YFV Horst-Di,Horst-Dieter                                                             DEU
+2622969,DL7IO Ibrahim  ,Ibrahim                                                                  DEU
+2622970,DL4AAZ Wolf-Mar,Wolf-Markus                                                              DEU
+2622971,DL1LEV Martin  ,Martin                                                                   DEU
+2622972,DH9NAD Bernd   ,Bernd                                                                    DEU
+2622973,DH2AP Georg    ,Georg                                                                    DEU
+2622974,DO1FDK Oliver  ,Oliver                                                                   DEU
+2622975,DF8OA Reemt    ,Reemt                                                                    DEU
+2622976,DO2RSJ Rudolf  ,Rudolf                                                                   DEU
+2622977,DO7UWE Uwe     ,Uwe                                                                      DEU
+2622978,DL6CLO Claudia ,Claudia                                                                  DEU
+2622979,DL6SPG Ulrich  ,Ulrich                                                                   DEU
+2622980,DM8BJF Bernd   ,Bernd                                                                    DEU
+2622981,DD5MJ Johannes ,Johannes                                                                 DEU
+2622982,DL9FBI Frank   ,Frank                                                                    DEU
+2622983,DB8MU Martin   ,Martin                                                                   DEU
+2622984,DF1ZC Jose     ,Jose                                                                     DEU
+2622985,DL1MTT Michael ,Michael                                                                  DEU
+2622986,DF1HK Klaus    ,Klaus                                                                    DEU
+2622987,DO2XL Sebastian,Sebastian                                                                DEU
+2622988,DD0OX Christian,Christian                                                                DEU
+2622989,DO2OA Oliver   ,Oliver                                                                   DEU
+2622990,DD4AD Guenter  ,Guenter                                                                  DEU
+2622991,DF1NPZ Emmanoui,Emmanouil                                                                DEU
+2622992,DF8GG Gerhard  ,Gerhard                                                                  DEU
 2623001,DL4BCG Paul    ,Paul                                                                     DEU
 2623002,DG5AV Gerd     ,Gerd                                                                     DEU
 2623003,DL5HSN Hendrik ,Hendrik                                                                  DEU
@@ -10263,7 +10313,7 @@
 2627178,DL2SDG Volker  ,Volker                                                                   DEU
 2627179,DO1SRT Frank   ,Frank                                                                    DEU
 2627180,DO2RHB Johannes,Johannes                                                                 DEU
-2627181,dc9al Angelo   ,Angelo                                                                   DEU
+2627181,DC9AL Angelo   ,Angelo                                                                   DEU
 2627182,DL3SES Dieter  ,Dieter                                                                   DEU
 2627183,DG4UAK Ingo    ,Ingo                                                                     DEU
 2627184,DO3WKA Reinhold,Reinhold                                                                 DEU
@@ -14602,7 +14652,7 @@
 2637298,DL3KLM Peter   ,Peter                                                                    DEU
 2637299,DL9MC Marcello ,Marcello                                                                 DEU
 2637300,DF7NT Tobias   ,Tobias                                                                   DEU
-2637301,dc9al Angelo   ,Angelo                                                                   DEU
+2637301,DC9AL Angelo   ,Angelo                                                                   DEU
 2637302,DG6UI Michael  ,Michael                                                                  DEU
 2637303,DL9SEC Thorsten,Thorsten                                                                 DEU
 2637304,DJ5CD Hans-Adol,Hans-Adolf                                                               DEU
@@ -16758,30 +16808,6 @@
 2644849,DO7KY Andreas  ,Andreas                                                                  DEU
 2644850,DL5JA Peter    ,Peter                                                                    DEU
 2644851,DO3THP Thorben ,Thorben                                                                  DEU
-2280026,HB9HIB Sabine  ,Sabine                                                                   CHE
-2280027,HB9GUW Richard ,Richard                                                                  CHE
-2280028,HB9MDU Eugen   ,Eugen                                                                    CHE
-2280029,HB9SVQ Emmerich,Emmerich                                                                 CHE
-2280030,HB9EDN Michele ,Michele                                                                  CHE
-2280031,HB9GNG Felix   ,Felix                                                                    CHE
-2320046,OE1DWD Wolfgang,Wolfgang                                                                 AUT
-2622952,DG8NFY Roland  ,Roland                                                                   DEU
-2622953,DC3PH Peter    ,Peter                                                                    DEU
-2622954,DO2FK Florian  ,Florian                                                                  DEU
-2622955,DL6CHM Thomas  ,Thomas                                                                   DEU
-2622956,DO3KKD Klaus   ,Klaus                                                                    DEU
-2622957,DF7ET Bernhard ,Bernhard                                                                 DEU
-2622958,DB1BHR Hartwig ,Hartwig                                                                  DEU
-2622959,DK1AJ Michael  ,Michael                                                                  DEU
-2622960,DL6TP Wolfgang ,Wolfgang                                                                 DEU
-2622961,DO2GT Thomas   ,Thomas                                                                   DEU
-2622962,DK0MM Clubstati,Clubstation                                                              DEU
-2622963,DK3QH Ulrich   ,Ulrich                                                                   DEU
-2622964,DG2GGP Gerd    ,Gerd                                                                     DEU
-2622965,DL1NGO Ingo    ,Ingo                                                                     DEU
-2622966,DD5FC Edward   ,Edward                                                                   DEU
-2622967,DG5FAX Werner  ,Werner                                                                   DEU
-2622968,DG1YFV Horst   ,Horst                                                                    DEU
-2622969,DL7IO Ibrahim  ,Ibrahim                                                                  DEU
-2622970,DL4AAZ Wolf    ,Wolf                                                                     DEU
-2622971,DL1LEV Martin  ,Martin                                                                   DEU
+2320049,OE2LRO Robert  ,Robert                                                                   AUT
+2622993,DL2KMA Marc    ,Marc                                                                     DEU
+2622994,DC1PW Philipp  ,Philipp                                                                  DEU
