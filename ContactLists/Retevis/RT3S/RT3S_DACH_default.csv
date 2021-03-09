@@ -31,6 +31,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280029,HB9SVQ,Emmerich ,Emmerich,,,CHE
 2280030,HB9EDN,Michele ,Michele,,,CHE
 2280031,HB9GNG,Felix ,Felix,,,CHE
+2280032,HB3XXB,Tobias ,Tobias,,,CHE
+2280033,HB9CKF,Eduard ,Eduard,,,CHE
 2281001,HB3YNV,Cedric ,Cedric,,,CHE
 2281002,HB3YNV,Cedric ,Cedric,,,CHE
 2281003,HB3YNV,Cedric ,Cedric,,,CHE
@@ -1788,7 +1790,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2321129,OE1BAW,Wilfried ,Wilfried,,,AUT
 2321130,OE1ILW,Martin ,Martin,,,AUT
 2321131,OE1XBH,Am ,Am,,,AUT
-2321132,OE1MPR,Matthias ,Matthias,,,AUT
+2321132,OE8MPR,Matthias ,Matthias,,,AUT
 2321133,OE1BSA,Heinz ,Heinz,,,AUT
 2321134,OE1MBW,Martin ,Martin,,,AUT
 2321135,OE1WRS,Werner ,Werner,,,AUT
@@ -6365,6 +6367,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2622992,DF8GG,Gerhard ,Gerhard,,,DEU
 2622993,DL2KMA,Marc ,Marc,,,DEU
 2622994,DC1PW,Philipp ,Philipp,,,DEU
+2622995,DM5TE,Oliver ,Oliver,,,DEU
+2622996,DB7KW,Kai ,Kai,,,DEU
+2622997,DO4HJ,Heinz-Juergen ,Heinz-Juergen,,,DEU
+2622998,DF9TS,Gerd ,Gerd,,,DEU
+2622999,DO1PWN,Bastian ,Bastian,,,DEU
+2623000,DD6WG,Dennis ,Dennis,,,DEU
 2623001,DL4BCG,Paul ,Paul,,,DEU
 2623002,DG5AV,Gerd ,Gerd,,,DEU
 2623003,DL5HSN,Hendrik ,Hendrik,,,DEU
@@ -6448,7 +6456,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2623081,DO9BAU,Alexander ,Alexander,,,DEU
 2623082,DL2MF,Meinhard-Frank ,Meinhard-Frank,,,DEU
 2623083,DL9OBM,Thorsten ,Thorsten,,,DEU
-2623084,DO1BMK,Mike ,Mike,,,DEU
+2623084,DO2FWS,Friedrich-Wilhelm ,Friedrich-Wilhelm,,,DEU
 2623085,DA0LCC,Hans ,Hans,,,DEU
 2623086,DG9OY,Helmut ,Helmut,,,DEU
 2623087,DB9WY,Manfred ,Manfred,,,DEU
@@ -6460,7 +6468,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2623093,DJ6OL,Ralf ,Ralf,,,DEU
 2623094,DL1BD,Daniele ,Daniele,,,DEU
 2623095,DL2MB,Rolf ,Rolf,,,DEU
-2623096,DO1TRI,Tristan ,Tristan,,,DEU
+2623096,DJ0MDJ,Christoph ,Christoph,,,DEU
 2623097,DG9OBW,Michael ,Michael,,,DEU
 2623098,DL8BBZ,Horst ,Horst,,,DEU
 2623099,DO1FRK,Frank ,Frank,,,DEU
@@ -16812,11 +16820,3 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2644849,DO7KY,Andreas ,Andreas,,,DEU
 2644850,DL5JA,Peter ,Peter,,,DEU
 2644851,DO3THP,Thorben ,Thorben,,,DEU
-2280032,HB3XXB,Tobias ,Tobias,,,CHE
-2280033,HB9CKF,Eduard ,Eduard,,,CHE
-2622995,DM5TE,Oliver ,Oliver,,,DEU
-2622996,DB7KW,Kai ,Kai,,,DEU
-2622997,DO4HJ,Heinz ,Heinz,,,DEU
-2622998,DF9TS,Gerd ,Gerd,,,DEU
-2622999,DO1PWN,Bastian ,Bastian,,,DEU
-2623000,DD6WG,Dennis ,Dennis,,,DEU

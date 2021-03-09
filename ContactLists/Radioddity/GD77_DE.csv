@@ -2994,6 +2994,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2622992,DF8GG,Gerhard ,Gerhard,, - DEU,,DMR
 2622993,DL2KMA,Marc ,Marc,, - DEU,,DMR
 2622994,DC1PW,Philipp ,Philipp,, - DEU,,DMR
+2622995,DM5TE,Oliver ,Oliver,, - DEU,,DMR
+2622996,DB7KW,Kai ,Kai,, - DEU,,DMR
+2622997,DO4HJ,Heinz-Juergen ,Heinz-Juergen,, - DEU,,DMR
+2622998,DF9TS,Gerd ,Gerd,, - DEU,,DMR
+2622999,DO1PWN,Bastian ,Bastian,, - DEU,,DMR
+2623000,DD6WG,Dennis ,Dennis,, - DEU,,DMR
 2623001,DL4BCG,Paul ,Paul,, - DEU,,DMR
 2623002,DG5AV,Gerd ,Gerd,, - DEU,,DMR
 2623003,DL5HSN,Hendrik ,Hendrik,, - DEU,,DMR
@@ -3077,7 +3083,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2623081,DO9BAU,Alexander ,Alexander,, - DEU,,DMR
 2623082,DL2MF,Meinhard-Frank ,Meinhard-Frank,, - DEU,,DMR
 2623083,DL9OBM,Thorsten ,Thorsten,, - DEU,,DMR
-2623084,DO1BMK,Mike ,Mike,, - DEU,,DMR
+2623084,DO2FWS,Friedrich-Wilhelm ,Friedrich-Wilhelm,, - DEU,,DMR
 2623085,DA0LCC,Hans ,Hans,, - DEU,,DMR
 2623086,DG9OY,Helmut ,Helmut,, - DEU,,DMR
 2623087,DB9WY,Manfred ,Manfred,, - DEU,,DMR
@@ -3089,7 +3095,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2623093,DJ6OL,Ralf ,Ralf,, - DEU,,DMR
 2623094,DL1BD,Daniele ,Daniele,, - DEU,,DMR
 2623095,DL2MB,Rolf ,Rolf,, - DEU,,DMR
-2623096,DO1TRI,Tristan ,Tristan,, - DEU,,DMR
+2623096,DJ0MDJ,Christoph ,Christoph,, - DEU,,DMR
 2623097,DG9OBW,Michael ,Michael,, - DEU,,DMR
 2623098,DL8BBZ,Horst ,Horst,, - DEU,,DMR
 2623099,DO1FRK,Frank ,Frank,, - DEU,,DMR
@@ -13441,9 +13447,3 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2644849,DO7KY,Andreas ,Andreas,, - DEU,,DMR
 2644850,DL5JA,Peter ,Peter,, - DEU,,DMR
 2644851,DO3THP,Thorben ,Thorben,, - DEU,,DMR
-2622995,DM5TE,Oliver ,Oliver,, - DEU,,DMR
-2622996,DB7KW,Kai ,Kai,, - DEU,,DMR
-2622997,DO4HJ,Heinz ,Heinz,, - DEU,,DMR
-2622998,DF9TS,Gerd ,Gerd,, - DEU,,DMR
-2622999,DO1PWN,Bastian ,Bastian,, - DEU,,DMR
-2623000,DD6WG,Dennis ,Dennis,, - DEU,,DMR

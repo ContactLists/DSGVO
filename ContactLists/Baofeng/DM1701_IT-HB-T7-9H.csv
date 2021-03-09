@@ -7788,11 +7788,16 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2227787,IU7OVD,Mario ,Mario,,,ITA,DMR
 2227788,IU4OOC,Alessandro ,Alessandro,,,ITA,DMR
 2227789,IU0OVW,Massimo ,Massimo,,,ITA,DMR
-2227790,IT9EJW,Alfio ,Alfio,,,ITA,DMR
 2227791,IU4OGZ,Massimiliano ,Massimiliano,,,ITA,DMR
 2227792,IU1KBL,Gian ,Gian,,,ITA,DMR
 2227793,IZ0CTL,Luigi ,Luigi,,,ITA,DMR
 2227794,IW8ATY,Roberto ,Roberto,,,ITA,DMR
+2227795,IW7DOL,Giovanni ,Giovanni,,,ITA,DMR
+2227796,IT9CLK,Angelo ,Angelo,,,ITA,DMR
+2227797,IK4XCK,Stefano ,Stefano,,,ITA,DMR
+2227798,IW4EKH,Cristina ,Cristina,,,ITA,DMR
+2227799,IZ1MMA,Giovanni ,Giovanni,,,ITA,DMR
+2227800,IU7OTK,Daniele ,Daniele,,,ITA,DMR
 2228001,IZ8IYJ,Nicola ,Nicola,,,ITA,DMR
 2228002,IW8XQP,Elio ,Elio,,,ITA,DMR
 2228003,IZ8XSS,Federico ,Federico,,,ITA,DMR
@@ -9064,6 +9069,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280029,HB9SVQ,Emmerich ,Emmerich,,,CHE,DMR
 2280030,HB9EDN,Michele ,Michele,,,CHE,DMR
 2280031,HB9GNG,Felix ,Felix,,,CHE,DMR
+2280032,HB3XXB,Tobias ,Tobias,,,CHE,DMR
+2280033,HB9CKF,Eduard ,Eduard,,,CHE,DMR
 2281001,HB3YNV,Cedric ,Cedric,,,CHE,DMR
 2281002,HB3YNV,Cedric ,Cedric,,,CHE,DMR
 2281003,HB3YNV,Cedric ,Cedric,,,CHE,DMR
@@ -10717,11 +10724,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2920019,T77TF,Tullio ,Tullio,,,SMR,DMR
 2920020,T77IC,Roberto ,Roberto,,,SMR,DMR
 2920021,T77WL,Massimo ,Massimo,,,SMR,DMR
-2227795,IW7DOL,Giovanni ,Giovanni,,,ITA,DMR
-2227796,IT9CLK,Angelo ,Angelo,,,ITA,DMR
-2227797,IK4XCK,Stefano ,Stefano,,,ITA,DMR
-2227798,IW4EKH,Cristina ,Cristina,,,ITA,DMR
-2227799,IZ1MMA,Giovanni ,Giovanni,,,ITA,DMR
-2227800,IU7OTK,Daniele ,Daniele,,,ITA,DMR
-2280032,HB3XXB,Tobias ,Tobias,,,CHE,DMR
-2280033,HB9CKF,Eduard ,Eduard,,,CHE,DMR
+2227790,IT9EJW,Alfio ,Alfio,,,ITA,DMR
+2227801,IW2MCE,Paolo ,Paolo,,,ITA,DMR
+2227802,IQ3VO,Ari Vr ,Ari Vr,,,ITA,DMR
+2227803,IS0GFU,Carlo ,Carlo,,,ITA,DMR
+2227804,IU5PEP,Alessio ,Alessio,,,ITA,DMR
