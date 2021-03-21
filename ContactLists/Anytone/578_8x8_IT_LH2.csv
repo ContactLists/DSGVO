@@ -2978,7 +2978,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2222977,IZ2PGY,IZ2PGY Gigi,,, - ITA,,Private Call,None
 ,2222978,IW2EFJ,IW2EFJ Livio,,, - ITA,,Private Call,None
 ,2222979,IK2LNF,IK2LNF Massimo,,, - ITA,,Private Call,None
-,2222980,IW9HQZ,IW9HQZ Claudio,,, - ITA,,Private Call,None
+,2222980,IW9HQZ,IW9HQZ Salvatore,,, - ITA,,Private Call,None
 ,2222981,IU2CNT,IU2CNT Franz,,, - ITA,,Private Call,None
 ,2222982,IU2GOH,IU2GOH Irene,,, - ITA,,Private Call,None
 ,2222983,IU2CUV,IU2CUV Nicola,,, - ITA,,Private Call,None
@@ -7818,6 +7818,22 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2227817,IU0PEB,IU0PEB Teodoro,,, - ITA,,Private Call,None
 ,2227818,IU0ESZ,IU0ESZ Massimiliano,,, - ITA,,Private Call,None
 ,2227819,IW0QHA,IW0QHA Angelo,,, - ITA,,Private Call,None
+,2227820,IZ5CMH,IZ5CMH Paolo,,, - ITA,,Private Call,None
+,2227821,IT9UUP,IT9UUP Rosario,,, - ITA,,Private Call,None
+,2227822,IZ0NKC,IZ0NKC Francesco,,, - ITA,,Private Call,None
+,2227823,IT9IED,IT9IED Giuseppe,,, - ITA,,Private Call,None
+,2227824,IU1LPV,IU1LPV Andrea,,, - ITA,,Private Call,None
+,2227825,IV3BYA,IV3BYA Adolfo,,, - ITA,,Private Call,None
+,2227826,IT9DNO,IT9DNO Matilde,,, - ITA,,Private Call,None
+,2227827,IW1GDM,IW1GDM Paolo,,, - ITA,,Private Call,None
+,2227828,IZ6OCO,IZ6OCO Americo,,, - ITA,,Private Call,None
+,2227829,IZ0IVZ,IZ0IVZ Alfredo,,, - ITA,,Private Call,None
+,2227830,IW4EMF,IW4EMF Matteo,,, - ITA,,Private Call,None
+,2227831,IU1OPP,IU1OPP Francesco,,, - ITA,,Private Call,None
+,2227832,IU8NMZ,IU8NMZ Antonio,,, - ITA,,Private Call,None
+,2227833,IW3SOX,IW3SOX Elio,,, - ITA,,Private Call,None
+,2227834,IU1FGC,IU1FGC Giancarlo,,, - ITA,,Private Call,None
+,2227835,IS0HNV,IS0HNV Marco,,, - ITA,,Private Call,None
 ,2228001,IZ8IYJ,IZ8IYJ Nicola,,, - ITA,,Private Call,None
 ,2228002,IW8XQP,IW8XQP Elio,,, - ITA,,Private Call,None
 ,2228003,IZ8XSS,IZ8XSS Federico,,, - ITA,,Private Call,None
@@ -9057,3 +9073,4 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2229491,IT9MRB,IT9MRB Vincenzo,,, - ITA,,Private Call,None
 ,2229492,IT9HTB,IT9HTB Giuseppe,,, - ITA,,Private Call,None
 ,2229493,IT9JMR,IT9JMR Gianpiero,,, - ITA,,Private Call,None
+,2227836,I0LRA,I0LRA Carminio,,, - ITA,,Private Call,None

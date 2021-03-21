@@ -2978,7 +2978,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2222977,IZ2PGY,Gigi,Gigi,,, - ITA,,Private Call,None
 ,2222978,IW2EFJ,Livio,Livio,,, - ITA,,Private Call,None
 ,2222979,IK2LNF,Massimo,Massimo,,, - ITA,,Private Call,None
-,2222980,IW9HQZ,Claudio,Claudio,,, - ITA,,Private Call,None
+,2222980,IW9HQZ,Salvatore,Salvatore,,, - ITA,,Private Call,None
 ,2222981,IU2CNT,Franz,Franz,,, - ITA,,Private Call,None
 ,2222982,IU2GOH,Irene,Irene,,, - ITA,,Private Call,None
 ,2222983,IU2CUV,Nicola,Nicola,,, - ITA,,Private Call,None
@@ -7818,6 +7818,22 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2227817,IU0PEB,Teodoro,Teodoro,,, - ITA,,Private Call,None
 ,2227818,IU0ESZ,Massimiliano,Massimiliano,,, - ITA,,Private Call,None
 ,2227819,IW0QHA,Angelo,Angelo,,, - ITA,,Private Call,None
+,2227820,IZ5CMH,Paolo,Paolo,,, - ITA,,Private Call,None
+,2227821,IT9UUP,Rosario,Rosario,,, - ITA,,Private Call,None
+,2227822,IZ0NKC,Francesco,Francesco,,, - ITA,,Private Call,None
+,2227823,IT9IED,Giuseppe,Giuseppe,,, - ITA,,Private Call,None
+,2227824,IU1LPV,Andrea,Andrea,,, - ITA,,Private Call,None
+,2227825,IV3BYA,Adolfo,Adolfo,,, - ITA,,Private Call,None
+,2227826,IT9DNO,Matilde,Matilde,,, - ITA,,Private Call,None
+,2227827,IW1GDM,Paolo,Paolo,,, - ITA,,Private Call,None
+,2227828,IZ6OCO,Americo,Americo,,, - ITA,,Private Call,None
+,2227829,IZ0IVZ,Alfredo,Alfredo,,, - ITA,,Private Call,None
+,2227830,IW4EMF,Matteo,Matteo,,, - ITA,,Private Call,None
+,2227831,IU1OPP,Francesco,Francesco,,, - ITA,,Private Call,None
+,2227832,IU8NMZ,Antonio,Antonio,,, - ITA,,Private Call,None
+,2227833,IW3SOX,Elio,Elio,,, - ITA,,Private Call,None
+,2227834,IU1FGC,Giancarlo,Giancarlo,,, - ITA,,Private Call,None
+,2227835,IS0HNV,Marco,Marco,,, - ITA,,Private Call,None
 ,2228001,IZ8IYJ,Nicola,Nicola,,, - ITA,,Private Call,None
 ,2228002,IW8XQP,Elio,Elio,,, - ITA,,Private Call,None
 ,2228003,IZ8XSS,Federico,Federico,,, - ITA,,Private Call,None
@@ -10748,3 +10764,4 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2920019,T77TF,Tullio,Tullio,,, - SMR,,Private Call,None
 ,2920020,T77IC,Roberto,Roberto,,, - SMR,,Private Call,None
 ,2920021,T77WL,Massimo,Massimo,,, - SMR,,Private Call,None
+,2227836,I0LRA,Carminio,Carminio,,, - ITA,,Private Call,None
