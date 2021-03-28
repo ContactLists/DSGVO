@@ -7834,6 +7834,23 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2227833,IW3SOX,IW3SOX Elio,,,ITA,,Private Call,None
 ,2227834,IU1FGC,IU1FGC Giancarlo,,,ITA,,Private Call,None
 ,2227835,IS0HNV,IS0HNV Marco,,,ITA,,Private Call,None
+,2227836,I0LRA,I0LRA Carminio,,,ITA,,Private Call,None
+,2227837,IN3IVL,IN3IVL Martin,,,ITA,,Private Call,None
+,2227838,IZ3JZL,IZ3JZL Ubaldo,,,ITA,,Private Call,None
+,2227839,IZ7NSE,IZ7NSE Antonio,,,ITA,,Private Call,None
+,2227840,IZ3VCD,IZ3VCD Mario,,,ITA,,Private Call,None
+,2227841,IZ4HJP,IZ4HJP Vittorio,,,ITA,,Private Call,None
+,2227842,IU0NFA,IU0NFA Nicola,,,ITA,,Private Call,None
+,2227843,IZ8QHW,IZ8QHW Daniele,,,ITA,,Private Call,None
+,2227844,I8JPO,I8JPO Fulvio,,,ITA,,Private Call,None
+,2227845,I6QIZ,I6QIZ Luca,,,ITA,,Private Call,None
+,2227846,IW9GZH,IW9GZH Antonino,,,ITA,,Private Call,None
+,2227847,IU2PBQ,IU2PBQ Andrea,,,ITA,,Private Call,None
+,2227848,IU2PCV,IU2PCV Malusardi,,,ITA,,Private Call,None
+,2227849,IU2JZU,IU2JZU Marco,,,ITA,,Private Call,None
+,2227850,IQ3JR,IQ3JR Cisar Agordo,,,ITA,,Private Call,None
+,2227851,IU8PBZ,IU8PBZ Francesco,,,ITA,,Private Call,None
+,2227852,IW4BFW,IW4BFW Orio,,,ITA,,Private Call,None
 ,2228001,IZ8IYJ,IZ8IYJ Nicola,,,ITA,,Private Call,None
 ,2228002,IW8XQP,IW8XQP Elio,,,ITA,,Private Call,None
 ,2228003,IZ8XSS,IZ8XSS Federico,,,ITA,,Private Call,None
@@ -8952,7 +8969,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2229370,IW9CJC,IW9CJC Giuseppe,,,ITA,,Private Call,None
 ,2229371,IT9VHP,IT9VHP Giuseppe,,,ITA,,Private Call,None
 ,2229372,IT9AWE,IT9AWE Umberto,,,ITA,,Private Call,None
-,2229373,IQ9OW,IQ9OW no_name,,,ITA,,Private Call,None
+,2229373,IQ9OW,IQ9OW A.R.P.,,,ITA,,Private Call,None
 ,2229374,IT9MEW,IT9MEW Marco,,,ITA,,Private Call,None
 ,2229375,IT9VXS,IT9VXS Giovanni,,,ITA,,Private Call,None
 ,2229376,IT9BGY,IT9BGY Salvatore,,,ITA,,Private Call,None
@@ -9073,4 +9090,3 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2229491,IT9MRB,IT9MRB Vincenzo,,,ITA,,Private Call,None
 ,2229492,IT9HTB,IT9HTB Giuseppe,,,ITA,,Private Call,None
 ,2229493,IT9JMR,IT9JMR Gianpiero,,,ITA,,Private Call,None
-,2227836,I0LRA,I0LRA Carminio,,,ITA,,Private Call,None

@@ -7834,6 +7834,23 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2227833,IW3SOX,Elio ,Elio,, - ITA,,DMR
 2227834,IU1FGC,Giancarlo ,Giancarlo,, - ITA,,DMR
 2227835,IS0HNV,Marco ,Marco,, - ITA,,DMR
+2227836,I0LRA,Carminio ,Carminio,, - ITA,,DMR
+2227837,IN3IVL,Martin ,Martin,, - ITA,,DMR
+2227838,IZ3JZL,Ubaldo ,Ubaldo,, - ITA,,DMR
+2227839,IZ7NSE,Antonio ,Antonio,, - ITA,,DMR
+2227840,IZ3VCD,Mario ,Mario,, - ITA,,DMR
+2227841,IZ4HJP,Vittorio ,Vittorio,, - ITA,,DMR
+2227842,IU0NFA,Nicola ,Nicola,, - ITA,,DMR
+2227843,IZ8QHW,Daniele ,Daniele,, - ITA,,DMR
+2227844,I8JPO,Fulvio ,Fulvio,, - ITA,,DMR
+2227845,I6QIZ,Luca ,Luca,, - ITA,,DMR
+2227846,IW9GZH,Antonino ,Antonino,, - ITA,,DMR
+2227847,IU2PBQ,Andrea ,Andrea,, - ITA,,DMR
+2227848,IU2PCV,Malusardi ,Malusardi,, - ITA,,DMR
+2227849,IU2JZU,Marco ,Marco,, - ITA,,DMR
+2227850,IQ3JR,Cisar Agordo ,Cisar Agordo,, - ITA,,DMR
+2227851,IU8PBZ,Francesco ,Francesco,, - ITA,,DMR
+2227852,IW4BFW,Orio ,Orio,, - ITA,,DMR
 2228001,IZ8IYJ,Nicola ,Nicola,, - ITA,,DMR
 2228002,IW8XQP,Elio ,Elio,, - ITA,,DMR
 2228003,IZ8XSS,Federico ,Federico,, - ITA,,DMR
@@ -8952,7 +8969,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2229370,IW9CJC,Giuseppe ,Giuseppe,, - ITA,,DMR
 2229371,IT9VHP,Giuseppe ,Giuseppe,, - ITA,,DMR
 2229372,IT9AWE,Umberto ,Umberto,, - ITA,,DMR
-2229373,IQ9OW,no_name ,no_name,, - ITA,,DMR
+2229373,IQ9OW,A.R.P. ,A.R.P.,, - ITA,,DMR
 2229374,IT9MEW,Marco ,Marco,, - ITA,,DMR
 2229375,IT9VXS,Giovanni ,Giovanni,, - ITA,,DMR
 2229376,IT9BGY,Salvatore ,Salvatore,, - ITA,,DMR
@@ -9111,6 +9128,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2280035,HB9ZG,Uska ,Uska,, - CHE,,DMR
 2280036,HB9CJX,Marco ,Marco,, - CHE,,DMR
 2280037,HB9VIN,Patrick ,Patrick,, - CHE,,DMR
+2280038,HB9JCB,Johann ,Johann,, - CHE,,DMR
 2281001,HB3YNV,Cedric ,Cedric,, - CHE,,DMR
 2281002,HB3YNV,Cedric ,Cedric,, - CHE,,DMR
 2281003,HB3YNV,Cedric ,Cedric,, - CHE,,DMR
@@ -10764,4 +10782,3 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2920019,T77TF,Tullio ,Tullio,, - SMR,,DMR
 2920020,T77IC,Roberto ,Roberto,, - SMR,,DMR
 2920021,T77WL,Massimo ,Massimo,, - SMR,,DMR
-2227836,I0LRA,Carminio ,Carminio,, - ITA,,DMR
