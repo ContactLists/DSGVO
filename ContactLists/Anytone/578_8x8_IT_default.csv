@@ -4235,7 +4235,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2224234,IU4FKO,Reggianini,,, - ITA,,Private Call,None
 ,2224235,IK4DCV,Valerio,,, - ITA,,Private Call,None
 ,2224236,IU4FJG,Erio,,, - ITA,,Private Call,None
-,2224237,IU5NGR,Nicolo,,, - ITA,,Private Call,None
+,2224237,IU5NGR,Paolo,,, - ITA,,Private Call,None
 ,2224238,IU4BJC,Stefano,,, - ITA,,Private Call,None
 ,2224239,I4OGY,Gabriele,,, - ITA,,Private Call,None
 ,2224240,IU4DCR,Fabrizio,,, - ITA,,Private Call,None
@@ -7851,6 +7851,25 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2227850,IQ3JR,Cisar Agordo,,, - ITA,,Private Call,None
 ,2227851,IU8PBZ,Francesco,,, - ITA,,Private Call,None
 ,2227852,IW4BFW,Orio,,, - ITA,,Private Call,None
+,2227853,IZ0VRP,Fabio,,, - ITA,,Private Call,None
+,2227854,IW9FRB,Filippo,,, - ITA,,Private Call,None
+,2227855,IW2KJJ,Massimiliano,,, - ITA,,Private Call,None
+,2227856,IU0OGO,Francesco,,, - ITA,,Private Call,None
+,2227857,I8EJC,Cesare,,, - ITA,,Private Call,None
+,2227858,IU2OWR,Andrea,,, - ITA,,Private Call,None
+,2227859,IK0PIC,Luciano,,, - ITA,,Private Call,None
+,2227860,IV3JAC,Andrea,,, - ITA,,Private Call,None
+,2227861,IU8OPH,Francesco,,, - ITA,,Private Call,None
+,2227862,IU7OGW,Stefano,,, - ITA,,Private Call,None
+,2227863,IU4NUC,Simone,,, - ITA,,Private Call,None
+,2227864,IW0FZP,Fabrizio,,, - ITA,,Private Call,None
+,2227865,IW7ECA,Bartolomeo,,, - ITA,,Private Call,None
+,2227866,IZ6FKV,Davide,,, - ITA,,Private Call,None
+,2227867,IK0NDB,Fabio,,, - ITA,,Private Call,None
+,2227868,IU4PDA,Paolo,,, - ITA,,Private Call,None
+,2227869,IU8IXZ,Loprete,,, - ITA,,Private Call,None
+,2227870,IZ4MAO,Roberto,,, - ITA,,Private Call,None
+,2227871,IU6PHM,Marco,,, - ITA,,Private Call,None
 ,2228001,IZ8IYJ,Nicola,,, - ITA,,Private Call,None
 ,2228002,IW8XQP,Elio,,, - ITA,,Private Call,None
 ,2228003,IZ8XSS,Federico,,, - ITA,,Private Call,None
@@ -8084,7 +8103,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2228231,IZ8LYL,Marco,,, - ITA,,Private Call,None
 ,2228232,IZ8EZL,Carmelo,,, - ITA,,Private Call,None
 ,2228233,IU8AGH,Enrico,,, - ITA,,Private Call,None
-,2228234,IU8BB0,CIRO,,, - ITA,,Private Call,None
+,2228234,IU8BB0,Ciro,,, - ITA,,Private Call,None
 ,2228235,IU8IHA,Michal,,, - ITA,,Private Call,None
 ,2228236,IZ8OIA,Giuseppe,,, - ITA,,Private Call,None
 ,2228237,IZ8VKW,Luigi,,, - ITA,,Private Call,None

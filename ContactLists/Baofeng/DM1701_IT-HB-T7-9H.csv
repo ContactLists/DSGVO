@@ -4235,7 +4235,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2224234,IU4FKO,Reggianini ,Reggianini,,,ITA,DMR
 2224235,IK4DCV,Valerio ,Valerio,,,ITA,DMR
 2224236,IU4FJG,Erio ,Erio,,,ITA,DMR
-2224237,IU5NGR,Nicolo ,Nicolo,,,ITA,DMR
+2224237,IU5NGR,Paolo ,Paolo,,,ITA,DMR
 2224238,IU4BJC,Stefano ,Stefano,,,ITA,DMR
 2224239,I4OGY,Gabriele ,Gabriele,,,ITA,DMR
 2224240,IU4DCR,Fabrizio ,Fabrizio,,,ITA,DMR
@@ -7851,6 +7851,25 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2227850,IQ3JR,Cisar Agordo ,Cisar Agordo,,,ITA,DMR
 2227851,IU8PBZ,Francesco ,Francesco,,,ITA,DMR
 2227852,IW4BFW,Orio ,Orio,,,ITA,DMR
+2227853,IZ0VRP,Fabio ,Fabio,,,ITA,DMR
+2227854,IW9FRB,Filippo ,Filippo,,,ITA,DMR
+2227855,IW2KJJ,Massimiliano ,Massimiliano,,,ITA,DMR
+2227856,IU0OGO,Francesco ,Francesco,,,ITA,DMR
+2227857,I8EJC,Cesare ,Cesare,,,ITA,DMR
+2227858,IU2OWR,Andrea ,Andrea,,,ITA,DMR
+2227859,IK0PIC,Luciano ,Luciano,,,ITA,DMR
+2227860,IV3JAC,Andrea ,Andrea,,,ITA,DMR
+2227861,IU8OPH,Francesco ,Francesco,,,ITA,DMR
+2227862,IU7OGW,Stefano ,Stefano,,,ITA,DMR
+2227863,IU4NUC,Simone ,Simone,,,ITA,DMR
+2227864,IW0FZP,Fabrizio ,Fabrizio,,,ITA,DMR
+2227865,IW7ECA,Bartolomeo ,Bartolomeo,,,ITA,DMR
+2227866,IZ6FKV,Davide ,Davide,,,ITA,DMR
+2227867,IK0NDB,Fabio ,Fabio,,,ITA,DMR
+2227868,IU4PDA,Paolo ,Paolo,,,ITA,DMR
+2227869,IU8IXZ,Loprete ,Loprete,,,ITA,DMR
+2227870,IZ4MAO,Roberto ,Roberto,,,ITA,DMR
+2227871,IU6PHM,Marco ,Marco,,,ITA,DMR
 2228001,IZ8IYJ,Nicola ,Nicola,,,ITA,DMR
 2228002,IW8XQP,Elio ,Elio,,,ITA,DMR
 2228003,IZ8XSS,Federico ,Federico,,,ITA,DMR
@@ -8084,7 +8103,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2228231,IZ8LYL,Marco ,Marco,,,ITA,DMR
 2228232,IZ8EZL,Carmelo ,Carmelo,,,ITA,DMR
 2228233,IU8AGH,Enrico ,Enrico,,,ITA,DMR
-2228234,IU8BB0,CIRO ,CIRO,,,ITA,DMR
+2228234,IU8BB0,Ciro ,Ciro,,,ITA,DMR
 2228235,IU8IHA,Michal ,Michal,,,ITA,DMR
 2228236,IZ8OIA,Giuseppe ,Giuseppe,,,ITA,DMR
 2228237,IZ8VKW,Luigi ,Luigi,,,ITA,DMR
@@ -9129,6 +9148,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280036,HB9CJX,Marco ,Marco,,,CHE,DMR
 2280037,HB9VIN,Patrick ,Patrick,,,CHE,DMR
 2280038,HB9JCB,Johann ,Johann,,,CHE,DMR
+2280039,HB3YSH,Cedric ,Cedric,,,CHE,DMR
+2280040,HB9MKE,Fritz ,Fritz,,,CHE,DMR
 2281001,HB3YNV,Cedric ,Cedric,,,CHE,DMR
 2281002,HB3YNV,Cedric ,Cedric,,,CHE,DMR
 2281003,HB3YNV,Cedric ,Cedric,,,CHE,DMR
@@ -10262,7 +10283,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2287034,HB9GNO,Chrigi ,Chrigi,,,CHE,DMR
 2287035,HB9GPO,Franco ,Franco,,,CHE,DMR
 2287036,HB9GZK,Mark ,Mark,,,CHE,DMR
-2288000,HB9SDB,Tschumi ,Tschumi,,,CHE,DMR
+2288000,HB9SDB,Rolf ,Rolf,,,CHE,DMR
 2288001,HB3YEJ,Andreas ,Andreas,,,CHE,DMR
 2288002,HB9WOF,Reto ,Reto,,,CHE,DMR
 2288003,HB9WOF,Reto ,Reto,,,CHE,DMR
