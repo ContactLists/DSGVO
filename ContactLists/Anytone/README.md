@@ -11,6 +11,7 @@ The countries are:
 - IT			=	only Italy
 - IT-HB..		=	only Italy, Switzerland, San Marino and Malta
 - WW			=	worldwide
+- Zone123		=	only zone 1, 2 and 3
 
 The file name of the RAR files is composed as follows:
 
@@ -31,5 +32,3 @@ Example: 578_8x8_DACH_alternate.csv
 There are also a number of pictures in this path.
 The images show the differences between the individual versions of the lists, whereby the differences relate exclusively to the display. 
 The dataset is identical!
-
-

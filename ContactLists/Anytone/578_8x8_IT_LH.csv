@@ -383,7 +383,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2220382,IZ0RPS,IZ0RPS Marcello,,,ITA,,Private Call,None
 ,2220383,IU0GIL,IU0GIL Roberto,,,ITA,,Private Call,None
 ,2220384,IK0JOS,IK0JOS Roberto,,,ITA,,Private Call,None
-,2220385,IZ0HSR,IZ0HSR GianCarlo,,,ITA,,Private Call,None
+,2220385,IZ0HSR,IZ0HSR Giancarlo,,,ITA,,Private Call,None
 ,2220386,IZ0KAT,IZ0KAT Fabio,,,ITA,,Private Call,None
 ,2220387,IU0AFP,IU0AFP Riccardo,,,ITA,,Private Call,None
 ,2220388,IU0BCN,IU0BCN Paolo,,,ITA,,Private Call,None
@@ -1523,7 +1523,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2221522,IW1CDD,IW1CDD Pierangelo,,,ITA,,Private Call,None
 ,2221523,IZ1YSM,IZ1YSM Massimiliano,,,ITA,,Private Call,None
 ,2221524,IW1BEZ,IW1BEZ Ettore,,,ITA,,Private Call,None
-,2221525,IW1ECY,IW1ECY GianFranco,,,ITA,,Private Call,None
+,2221525,IW1ECY,IW1ECY Gianfranco,,,ITA,,Private Call,None
 ,2221526,IK1AQI,IK1AQI Michele,,,ITA,,Private Call,None
 ,2221527,IZ1RHY,IZ1RHY Marco,,,ITA,,Private Call,None
 ,2221528,IU1IRV,IU1IRV Salvatore,,,ITA,,Private Call,None
@@ -1821,7 +1821,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2221820,IU1KWK,IU1KWK Maurizio,,,ITA,,Private Call,None
 ,2221821,IU1MQK,IU1MQK Carlos,,,ITA,,Private Call,None
 ,2221822,IU1MOZ,IU1MOZ Mauro,,,ITA,,Private Call,None
-,2221823,IZ0WKP,IZ0WKP no_name,,,ITA,,Private Call,None
+,2221823,IZ0WKP,IZ0WKP No_name,,,ITA,,Private Call,None
 ,2221824,IZ0MII,IZ0MII Giovanni,,,ITA,,Private Call,None
 ,2221825,IK1ICF,IK1ICF Claudio,,,ITA,,Private Call,None
 ,2221826,IZ1KGA,IZ1KGA Manuel,,,ITA,,Private Call,None
@@ -1881,7 +1881,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2221880,IW1DQS,IW1DQS Davide,,,ITA,,Private Call,None
 ,2221881,IU1KIZ,IU1KIZ Roberto,,,ITA,,Private Call,None
 ,2221882,IK1XVO,IK1XVO Marco,,,ITA,,Private Call,None
-,2221883,IQ1JP,IQ1JP ARI_Santena,,,ITA,,Private Call,None
+,2221883,IQ1JP,IQ1JP Ari_santena,,,ITA,,Private Call,None
 ,2221884,IU1CBD,IU1CBD Federico,,,ITA,,Private Call,None
 ,2221885,IU1CZD,IU1CZD Remo,,,ITA,,Private Call,None
 ,2221886,IU1NCL,IU1NCL Marco,,,ITA,,Private Call,None
@@ -1965,20 +1965,20 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2221964,IZ0REY,IZ0REY Ray,,,ITA,,Private Call,None
 ,2221965,IU0MBJ,IU0MBJ Christian,,,ITA,,Private Call,None
 ,2221966,IK1SOW,IK1SOW Pasquale,,,ITA,,Private Call,None
-,2221967,IQ0ID,IQ0ID ERA,,,ITA,,Private Call,None
+,2221967,IQ0ID,IQ0ID Era,,,ITA,,Private Call,None
 ,2221968,IK0EUM,IK0EUM Ennio,,,ITA,,Private Call,None
 ,2221969,IZ0HQN,IZ0HQN Cristiano,,,ITA,,Private Call,None
 ,2221970,IK1ZJB,IK1ZJB Vittorio,,,ITA,,Private Call,None
 ,2221971,IU1NEV,IU1NEV Matteo,,,ITA,,Private Call,None
 ,2221972,IK1WGT,IK1WGT Ezio,,,ITA,,Private Call,None
 ,2221973,I1GIK,I1GIK Antonio,,,ITA,,Private Call,None
-,2221974,IZ1TMN,IZ1TMN no_name,,,ITA,,Private Call,None
+,2221974,IZ1TMN,IZ1TMN No_name,,,ITA,,Private Call,None
 ,2221975,IZ1RGS,IZ1RGS Simone,,,ITA,,Private Call,None
 ,2221976,IU0NDT,IU0NDT Mauro,,,ITA,,Private Call,None
 ,2221977,IU1NEA,IU1NEA Giuseppe,,,ITA,,Private Call,None
 ,2221978,IW1DGI,IW1DGI Diego,,,ITA,,Private Call,None
 ,2221979,IZ1PJC,IZ1PJC Mauro,,,ITA,,Private Call,None
-,2221980,IW1CWY,IW1CWY no_name,,,ITA,,Private Call,None
+,2221980,IW1CWY,IW1CWY No_name,,,ITA,,Private Call,None
 ,2221981,IU1NDA,IU1NDA Pietro,,,ITA,,Private Call,None
 ,2221982,IK0SWN,IK0SWN Paolo,,,ITA,,Private Call,None
 ,2221983,IW1PNW,IW1PNW Gianluigi,,,ITA,,Private Call,None
@@ -1989,13 +1989,13 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2221988,IU0DEO,IU0DEO Davide,,,ITA,,Private Call,None
 ,2221989,IZ0OVW,IZ0OVW Romolo,,,ITA,,Private Call,None
 ,2221990,IW0DVK,IW0DVK Giovanni,,,ITA,,Private Call,None
-,2221991,IU0NHL,IU0NHL AleX,,,ITA,,Private Call,None
-,2221992,IU0EUC,IU0EUC no_name,,,ITA,,Private Call,None
+,2221991,IU0NHL,IU0NHL Alex,,,ITA,,Private Call,None
+,2221992,IU0EUC,IU0EUC No_name,,,ITA,,Private Call,None
 ,2221993,IS0IGT,IS0IGT Andrea,,,ITA,,Private Call,None
 ,2221994,IK0SMD,IK0SMD Raffaele,,,ITA,,Private Call,None
 ,2221995,IU1LAY,IU1LAY Riccardo,,,ITA,,Private Call,None
 ,2221996,IS0HYQ,IS0HYQ Raffaele,,,ITA,,Private Call,None
-,2221997,IW0HKX,IW0HKX no_name,,,ITA,,Private Call,None
+,2221997,IW0HKX,IW0HKX No_name,,,ITA,,Private Call,None
 ,2221998,IQ1YY,IQ1YY A.I.R.S.,,,ITA,,Private Call,None
 ,2221999,IZ1HVD,IZ1HVD Danilo,,,ITA,,Private Call,None
 ,2222000,IK1SPR,IK1SPR Flavio,,,ITA,,Private Call,None
@@ -3019,7 +3019,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2223018,IW3GEW,IW3GEW Gianluca,,,ITA,,Private Call,None
 ,2223019,IZ3HPC,IZ3HPC Giovanni,,,ITA,,Private Call,None
 ,2223020,IZ3XEM,IZ3XEM Massimo,,,ITA,,Private Call,None
-,2223021,IQ3RV,IQ3RV CISAR RO,,,ITA,,Private Call,None
+,2223021,IQ3RV,IQ3RV Cisar Ro,,,ITA,,Private Call,None
 ,2223022,I3LUG,I3LUG Giancarlo,,,ITA,,Private Call,None
 ,2223023,IW3ROW,IW3ROW Mauro,,,ITA,,Private Call,None
 ,2223024,IK3EDR,IK3EDR Elvi,,,ITA,,Private Call,None
@@ -4466,7 +4466,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2224465,IW3IPS,IW3IPS Alessandro,,,ITA,,Private Call,None
 ,2224466,IK2UCJ,IK2UCJ Giuseppe,,,ITA,,Private Call,None
 ,2224467,IK2SAI,IK2SAI Marcello,,,ITA,,Private Call,None
-,2224468,IU2LOM,IU2LOM no_name,,,ITA,,Private Call,None
+,2224468,IU2LOM,IU2LOM No_name,,,ITA,,Private Call,None
 ,2224469,IW4CFZ,IW4CFZ Raffaele,,,ITA,,Private Call,None
 ,2224470,IK4SWW,IK4SWW Massimo,,,ITA,,Private Call,None
 ,2224471,IZ3XNJ,IZ3XNJ Stefano,,,ITA,,Private Call,None
@@ -4759,7 +4759,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2224758,IN3LFL,IN3LFL Luciano,,,ITA,,Private Call,None
 ,2224759,IU3MUO,IU3MUO Andrea,,,ITA,,Private Call,None
 ,2224760,IW2LSY,IW2LSY Corrado,,,ITA,,Private Call,None
-,2224761,IU2MIR,IU2MIR no_name,,,ITA,,Private Call,None
+,2224761,IU2MIR,IU2MIR No_name,,,ITA,,Private Call,None
 ,2224762,IK3OTW,IK3OTW Roberto,,,ITA,,Private Call,None
 ,2224763,IZ4BQY,IZ4BQY Nicola,,,ITA,,Private Call,None
 ,2224764,IK2GAO,IK2GAO Alberto,,,ITA,,Private Call,None
@@ -4883,7 +4883,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2224882,IZ3QON,IZ3QON Donald,,,ITA,,Private Call,None
 ,2224883,IU4MUY,IU4MUY Giuseppe,,,ITA,,Private Call,None
 ,2224884,IU3NAP,IU3NAP Michele,,,ITA,,Private Call,None
-,2224885,IZ4MNT,IZ4MNT no_name,,,ITA,,Private Call,None
+,2224885,IZ4MNT,IZ4MNT No_name,,,ITA,,Private Call,None
 ,2224886,IU2LQD,IU2LQD Massimo,,,ITA,,Private Call,None
 ,2224887,IW2JOT,IW2JOT Vincenzo,,,ITA,,Private Call,None
 ,2224888,I4XLT,I4XLT Sauro,,,ITA,,Private Call,None
@@ -4942,7 +4942,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2224941,IU2NEZ,IU2NEZ Franco,,,ITA,,Private Call,None
 ,2224942,IW2LTW,IW2LTW Emanuele,,,ITA,,Private Call,None
 ,2224943,IZ3WWO,IZ3WWO Massimo,,,ITA,,Private Call,None
-,2224944,IU2LYI,IU2LYI no_name,,,ITA,,Private Call,None
+,2224944,IU2LYI,IU2LYI No_name,,,ITA,,Private Call,None
 ,2224945,IW2GPY,IW2GPY Massimiliano,,,ITA,,Private Call,None
 ,2224946,IK4YAZ,IK4YAZ Fabrizio,,,ITA,,Private Call,None
 ,2224947,IW3FUA,IW3FUA Valter,,,ITA,,Private Call,None
@@ -4954,7 +4954,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2224953,IU2NKD,IU2NKD Patrizio,,,ITA,,Private Call,None
 ,2224954,IZ0DIA,IZ0DIA Vittorio,,,ITA,,Private Call,None
 ,2224955,IU2JYN,IU2JYN Angelo,,,ITA,,Private Call,None
-,2224956,IU0NMW,IU0NMW no_name,,,ITA,,Private Call,None
+,2224956,IU0NMW,IU0NMW No_name,,,ITA,,Private Call,None
 ,2224957,IW1FWO,IW1FWO Marco,,,ITA,,Private Call,None
 ,2224958,IU1FZY,IU1FZY Augusto,,,ITA,,Private Call,None
 ,2224959,IU2JXK,IU2JXK Matteo,,,ITA,,Private Call,None
@@ -5497,7 +5497,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2225496,IK1ZOE,IK1ZOE Giuseppe,,,ITA,,Private Call,None
 ,2225497,IU2KWO,IU2KWO Silvano,,,ITA,,Private Call,None
 ,2225498,IU0MUR,IU0MUR Roberto,,,ITA,,Private Call,None
-,2225499,IU8NIY,IU8NIY no_name,,,ITA,,Private Call,None
+,2225499,IU8NIY,IU8NIY No_name,,,ITA,,Private Call,None
 ,2225500,IK2GAU,IK2GAU Antonio,,,ITA,,Private Call,None
 ,2225501,IS0ANZ,IS0ANZ Alessandro,,,ITA,,Private Call,None
 ,2225502,IZ5MJL,IZ5MJL Mauro,,,ITA,,Private Call,None
@@ -5550,7 +5550,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2225549,IT9IIJ,IT9IIJ Mario,,,ITA,,Private Call,None
 ,2225550,IU3NPQ,IU3NPQ Andrea,,,ITA,,Private Call,None
 ,2225551,IZ3OCW,IZ3OCW Giuseppe,,,ITA,,Private Call,None
-,2225552,IU2BZJ,IU2BZJ no_name,,,ITA,,Private Call,None
+,2225552,IU2BZJ,IU2BZJ No_name,,,ITA,,Private Call,None
 ,2225553,IQ1KE,IQ1KE Tortona,,,ITA,,Private Call,None
 ,2225554,IK1IXG,IK1IXG Roberto,,,ITA,,Private Call,None
 ,2225555,IW5CGM,IW5CGM Giuseppe,,,ITA,,Private Call,None
@@ -5561,8 +5561,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2225560,IZ5VVO,IZ5VVO Andrea,,,ITA,,Private Call,None
 ,2225561,I1QIP,I1QIP Ivo,,,ITA,,Private Call,None
 ,2225562,IW8PKK,IW8PKK Antonio,,,ITA,,Private Call,None
-,2225563,IZ0KIS,IZ0KIS no_name,,,ITA,,Private Call,None
-,2225564,IU0NON,IU0NON no_name,,,ITA,,Private Call,None
+,2225563,IZ0KIS,IZ0KIS No_name,,,ITA,,Private Call,None
+,2225564,IU0NON,IU0NON No_name,,,ITA,,Private Call,None
 ,2225565,IW6PWD,IW6PWD Renato,,,ITA,,Private Call,None
 ,2225566,IZ5EKW,IZ5EKW Sergio,,,ITA,,Private Call,None
 ,2225567,IT9BZW,IT9BZW Vincenzo,,,ITA,,Private Call,None
@@ -5578,13 +5578,13 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2225577,IT9GOT,IT9GOT Giuseppe,,,ITA,,Private Call,None
 ,2225578,IU3NOC,IU3NOC Enrico,,,ITA,,Private Call,None
 ,2225579,IU5MOY,IU5MOY Lorenzo,,,ITA,,Private Call,None
-,2225580,IU2GDD,IU2GDD no_name,,,ITA,,Private Call,None
+,2225580,IU2GDD,IU2GDD No_name,,,ITA,,Private Call,None
 ,2225581,IU8FCK,IU8FCK Giuseppe,,,ITA,,Private Call,None
 ,2225582,IU2NSJ,IU2NSJ Federico,,,ITA,,Private Call,None
 ,2225583,IU2JZF,IU2JZF Francesco,,,ITA,,Private Call,None
 ,2225584,IU2NTC,IU2NTC Saverio,,,ITA,,Private Call,None
 ,2225585,IK8SVA,IK8SVA Michele,,,ITA,,Private Call,None
-,2225586,IU2IKL,IU2IKL no_name,,,ITA,,Private Call,None
+,2225586,IU2IKL,IU2IKL No_name,,,ITA,,Private Call,None
 ,2225587,IW2OEB,IW2OEB Claudio,,,ITA,,Private Call,None
 ,2225588,IT9IVT,IT9IVT Antonino,,,ITA,,Private Call,None
 ,2225589,IW1QPQ,IW1QPQ Mauro,,,ITA,,Private Call,None
@@ -5597,7 +5597,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2225596,IZ0YQH,IZ0YQH Angelo,,,ITA,,Private Call,None
 ,2225597,IW2CMK,IW2CMK Michele,,,ITA,,Private Call,None
 ,2225598,IK7IZM,IK7IZM Massimo,,,ITA,,Private Call,None
-,2225599,IU3NQR,IU3NQR no_name,,,ITA,,Private Call,None
+,2225599,IU3NQR,IU3NQR No_name,,,ITA,,Private Call,None
 ,2225600,IU5CJP,IU5CJP Massimiliano,,,ITA,,Private Call,None
 ,2225601,IK4MGG,IK4MGG Massimo,,,ITA,,Private Call,None
 ,2225602,IZ2LUR,IZ2LUR Mirko,,,ITA,,Private Call,None
@@ -5634,7 +5634,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2225633,IU0JKU,IU0JKU Gianpaolo,,,ITA,,Private Call,None
 ,2225634,IW2GSC,IW2GSC Marco,,,ITA,,Private Call,None
 ,2225635,IU4MTR,IU4MTR Stefania,,,ITA,,Private Call,None
-,2225636,IQ8JQ,IQ8JQ no_name,,,ITA,,Private Call,None
+,2225636,IQ8JQ,IQ8JQ No_name,,,ITA,,Private Call,None
 ,2225637,IU3LGV,IU3LGV Gasta,,,ITA,,Private Call,None
 ,2225638,I7URN,I7URN Maddalena,,,ITA,,Private Call,None
 ,2225639,I7YEC,I7YEC Domenico,,,ITA,,Private Call,None
@@ -5661,8 +5661,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2225660,IW2MMX,IW2MMX Ennio,,,ITA,,Private Call,None
 ,2225661,IZ4HBF,IZ4HBF Giancarlo,,,ITA,,Private Call,None
 ,2225662,IZ8NNY,IZ8NNY Vito,,,ITA,,Private Call,None
-,2225663,IZ6RAF,IZ6RAF no_name,,,ITA,,Private Call,None
-,2225664,IU5MQM,IU5MQM no_name,,,ITA,,Private Call,None
+,2225663,IZ6RAF,IZ6RAF No_name,,,ITA,,Private Call,None
+,2225664,IU5MQM,IU5MQM No_name,,,ITA,,Private Call,None
 ,2225665,IU7CMS,IU7CMS Gigi,,,ITA,,Private Call,None
 ,2225666,IZ2SXZ,IZ2SXZ Nicol,,,ITA,,Private Call,None
 ,2225667,IW5BUD,IW5BUD Sergio,,,ITA,,Private Call,None
@@ -5671,7 +5671,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2225670,IU8CDS,IU8CDS Raffaele,,,ITA,,Private Call,None
 ,2225671,IZ1MMM,IZ1MMM Sergio,,,ITA,,Private Call,None
 ,2225672,IW2LPC,IW2LPC Alessandro,,,ITA,,Private Call,None
-,2225673,IU0DSZ,IU0DSZ no_name,,,ITA,,Private Call,None
+,2225673,IU0DSZ,IU0DSZ No_name,,,ITA,,Private Call,None
 ,2225674,IW6PIC,IW6PIC Ivo,,,ITA,,Private Call,None
 ,2225675,IU3MAQ,IU3MAQ Ivan,,,ITA,,Private Call,None
 ,2225676,IK8WTK,IK8WTK Salvatore,,,ITA,,Private Call,None
@@ -5681,7 +5681,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2225680,IW2NZY,IW2NZY Giuseppe,,,ITA,,Private Call,None
 ,2225681,IW3BBI,IW3BBI Robert,,,ITA,,Private Call,None
 ,2225682,IW2DCH,IW2DCH Lorenzo,,,ITA,,Private Call,None
-,2225683,IZ1WKH,IZ1WKH no_name,,,ITA,,Private Call,None
+,2225683,IZ1WKH,IZ1WKH No_name,,,ITA,,Private Call,None
 ,2225684,IW3IAB,IW3IAB Andrea,,,ITA,,Private Call,None
 ,2225685,IZ0ORG,IZ0ORG Fausto,,,ITA,,Private Call,None
 ,2225686,IK2HMU,IK2HMU Danny,,,ITA,,Private Call,None
@@ -5702,7 +5702,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2225701,IZ1SES,IZ1SES Sergio,,,ITA,,Private Call,None
 ,2225702,IU7NKX,IU7NKX Giuseppe,,,ITA,,Private Call,None
 ,2225703,IW4DST,IW4DST Andrea,,,ITA,,Private Call,None
-,2225704,IT9NIF,IT9NIF no_name,,,ITA,,Private Call,None
+,2225704,IT9NIF,IT9NIF No_name,,,ITA,,Private Call,None
 ,2225705,IZ3NUI,IZ3NUI Giancarlo,,,ITA,,Private Call,None
 ,2225706,IT9HVD,IT9HVD Stefano,,,ITA,,Private Call,None
 ,2225707,IU2INF,IU2INF Silvia,,,ITA,,Private Call,None
@@ -5721,13 +5721,13 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2225720,IZ8SWY,IZ8SWY Salvatore,,,ITA,,Private Call,None
 ,2225721,IU2GPJ,IU2GPJ Massimiliano,,,ITA,,Private Call,None
 ,2225722,IZ0TYF,IZ0TYF Claudio,,,ITA,,Private Call,None
-,2225723,IU1EST,IU1EST no_name,,,ITA,,Private Call,None
+,2225723,IU1EST,IU1EST No_name,,,ITA,,Private Call,None
 ,2225724,IT9MGD,IT9MGD Renato,,,ITA,,Private Call,None
 ,2225725,IU5FGI,IU5FGI Roberto,,,ITA,,Private Call,None
 ,2225726,IV3SXI,IV3SXI Massimo,,,ITA,,Private Call,None
 ,2225727,IZ8EZB,IZ8EZB Vincenzo,,,ITA,,Private Call,None
 ,2225728,IU2ABD,IU2ABD Fabrizio,,,ITA,,Private Call,None
-,2225729,IU4NTK,IU4NTK no_name,,,ITA,,Private Call,None
+,2225729,IU4NTK,IU4NTK No_name,,,ITA,,Private Call,None
 ,2225730,IU8IPU,IU8IPU Giovanni,,,ITA,,Private Call,None
 ,2225731,IZ6BYS,IZ6BYS Franco,,,ITA,,Private Call,None
 ,2225732,IU5MSR,IU5MSR Leonardo,,,ITA,,Private Call,None
@@ -5745,7 +5745,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2225744,I4AWX,I4AWX Luigi,,,ITA,,Private Call,None
 ,2225745,IW8RVX,IW8RVX Raffaele,,,ITA,,Private Call,None
 ,2225746,IS0LIO,IS0LIO Sergio,,,ITA,,Private Call,None
-,2225747,IW0CFZ,IW0CFZ no_name,,,ITA,,Private Call,None
+,2225747,IW0CFZ,IW0CFZ No_name,,,ITA,,Private Call,None
 ,2225748,IU3NOZ,IU3NOZ Giovanni,,,ITA,,Private Call,None
 ,2225749,IZ7ECR,IZ7ECR Cristian,,,ITA,,Private Call,None
 ,2225750,I8VLW,I8VLW Franco,,,ITA,,Private Call,None
@@ -6349,7 +6349,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2226348,IU6FSP,IU6FSP Mauro,,,ITA,,Private Call,None
 ,2226349,IU6LDR,IU6LDR Sandro,,,ITA,,Private Call,None
 ,2226350,IZ6MZV,IZ6MZV Carla,,,ITA,,Private Call,None
-,2226351,IU6LFD,IU6LFD no_name,,,ITA,,Private Call,None
+,2226351,IU6LFD,IU6LFD No_name,,,ITA,,Private Call,None
 ,2226352,IW6NRY,IW6NRY Carlo,,,ITA,,Private Call,None
 ,2226353,IK6OUS,IK6OUS Agostino,,,ITA,,Private Call,None
 ,2226354,IK6IHP,IK6IHP Walter,,,ITA,,Private Call,None
@@ -7904,6 +7904,19 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2227903,IK0TLR,IK0TLR Pierluigi,,,ITA,,Private Call,None
 ,2227904,IU8FUO,IU8FUO Fabio,,,ITA,,Private Call,None
 ,2227905,IT9IRT,IT9IRT Tony,,,ITA,,Private Call,None
+,2227906,IK5UZD,IK5UZD Alessandro,,,ITA,,Private Call,None
+,2227907,IT9JDB,IT9JDB Onofrio,,,ITA,,Private Call,None
+,2227908,IZ4EFV,IZ4EFV Emanuele,,,ITA,,Private Call,None
+,2227909,IK7WTY,IK7WTY Pino,,,ITA,,Private Call,None
+,2227910,IT9JUP,IT9JUP Giovanni,,,ITA,,Private Call,None
+,2227911,IU2OSZ,IU2OSZ Adalberto,,,ITA,,Private Call,None
+,2227912,IU2AQB,IU2AQB Francesco,,,ITA,,Private Call,None
+,2227913,IK3UVB,IK3UVB Carlo,,,ITA,,Private Call,None
+,2227914,IU8GXD,IU8GXD Enrico,,,ITA,,Private Call,None
+,2227915,IU2PEU,IU2PEU Matteo,,,ITA,,Private Call,None
+,2227916,IQ8BB,IQ8BB Ari Salerno,,,ITA,,Private Call,None
+,2227917,IZ1HJR,IZ1HJR Rosario,,,ITA,,Private Call,None
+,2227918,IT9HBX,IT9HBX Corrado,,,ITA,,Private Call,None
 ,2228001,IZ8IYJ,IZ8IYJ Nicola,,,ITA,,Private Call,None
 ,2228002,IW8XQP,IW8XQP Elio,,,ITA,,Private Call,None
 ,2228003,IZ8XSS,IZ8XSS Federico,,,ITA,,Private Call,None
@@ -8959,7 +8972,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2229307,IT9LEW,IT9LEW Giovanni,,,ITA,,Private Call,None
 ,2229308,IW9GIA,IW9GIA Salv.Massimo,,,ITA,,Private Call,None
 ,2229309,IQ9IL,IQ9IL Arc,,,ITA,,Private Call,None
-,2229310,IT9CIF,IT9CIF no_name,,,ITA,,Private Call,None
+,2229310,IT9CIF,IT9CIF No_name,,,ITA,,Private Call,None
 ,2229311,IT9TUL,IT9TUL Andrea,,,ITA,,Private Call,None
 ,2229312,IT9BCW,IT9BCW Adamo,,,ITA,,Private Call,None
 ,2229313,IT9BOV,IT9BOV Enzo,,,ITA,,Private Call,None
