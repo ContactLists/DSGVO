@@ -7917,6 +7917,31 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2227916,IQ8BB,IQ8BB Ari Salerno,,, - ITA,,Private Call,None
 ,2227917,IZ1HJR,IZ1HJR Rosario,,, - ITA,,Private Call,None
 ,2227918,IT9HBX,IT9HBX Corrado,,, - ITA,,Private Call,None
+,2227919,IU4PJD,IU4PJD Giuliano,,, - ITA,,Private Call,None
+,2227920,IW7EHE,IW7EHE Torzullo,,, - ITA,,Private Call,None
+,2227921,IW9GLA,IW9GLA Sebastiano,,, - ITA,,Private Call,None
+,2227922,IZ8OLX,IZ8OLX Luigi,,, - ITA,,Private Call,None
+,2227923,IU1DWT,IU1DWT Walter,,, - ITA,,Private Call,None
+,2227924,IZ1PJP,IZ1PJP Giuseppe,,, - ITA,,Private Call,None
+,2227925,IU7LPA,IU7LPA Roberto,,, - ITA,,Private Call,None
+,2227926,IT9HRW,IT9HRW Giuseppe,,, - ITA,,Private Call,None
+,2227927,IZ0NNI,IZ0NNI Emilio,,, - ITA,,Private Call,None
+,2227928,IV3CWB,IV3CWB Nicola,,, - ITA,,Private Call,None
+,2227929,IU2INI,IU2INI Carlo,,, - ITA,,Private Call,None
+,2227930,IU0EGC,IU0EGC Giuseppe,,, - ITA,,Private Call,None
+,2227931,IU2OZH,IU2OZH Giordano,,, - ITA,,Private Call,None
+,2227932,IU8PAX,IU8PAX Saverio,,, - ITA,,Private Call,None
+,2227933,IU2IHT,IU2IHT Roberto,,, - ITA,,Private Call,None
+,2227934,IS0HYV,IS0HYV Mauro,,, - ITA,,Private Call,None
+,2227935,IQ0CR,IQ0CR Associazione,,, - ITA,,Private Call,None
+,2227936,IU1PHN,IU1PHN Luca,,, - ITA,,Private Call,None
+,2227937,I2JWK,I2JWK Daniele,,, - ITA,,Private Call,None
+,2227938,IU4NJV,IU4NJV Riccardo,,, - ITA,,Private Call,None
+,2227939,IU4PJP,IU4PJP Fabio,,, - ITA,,Private Call,None
+,2227940,IK0VCK,IK0VCK Stefano,,, - ITA,,Private Call,None
+,2227941,IW3IOS,IW3IOS Andre,,, - ITA,,Private Call,None
+,2227942,IW1EVU,IW1EVU Massimo,,, - ITA,,Private Call,None
+,2227943,IU8OJT,IU8OJT Marco,,, - ITA,,Private Call,None
 ,2228001,IZ8IYJ,IZ8IYJ Nicola,,, - ITA,,Private Call,None
 ,2228002,IW8XQP,IW8XQP Elio,,, - ITA,,Private Call,None
 ,2228003,IZ8XSS,IZ8XSS Federico,,, - ITA,,Private Call,None
@@ -9202,6 +9227,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280043,HB9HJH,HB9HJH Mitko,,, - CHE,,Private Call,None
 ,2280044,HB9COQ,HB9COQ Jaime,,, - CHE,,Private Call,None
 ,2280045,HB9FNN,HB9FNN Matthias,,, - CHE,,Private Call,None
+,2280046,HB9FZF,HB9FZF Matthias,,, - CHE,,Private Call,None
 ,2281001,HB3YNV,HB3YNV Cedric,,, - CHE,,Private Call,None
 ,2281002,HB3YNV,HB3YNV Cedric,,, - CHE,,Private Call,None
 ,2281003,HB3YNV,HB3YNV Cedric,,, - CHE,,Private Call,None
@@ -10834,6 +10860,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2780044,9H2LB,9H2LB Louis,,, - MLT,,Private Call,None
 ,2780045,9H1LC,9H1LC Paul,,, - MLT,,Private Call,None
 ,2780046,9H1CL,9H1CL John,,, - MLT,,Private Call,None
+,2780047,9H5SB,9H5SB Frans,,, - MLT,,Private Call,None
 ,2920001,T77GR,T77GR Renato,,, - SMR,,Private Call,None
 ,2920002,T77NC,T77NC Nazzareno,,, - SMR,,Private Call,None
 ,2920003,T77DB,T77DB Danilo,,, - SMR,,Private Call,None

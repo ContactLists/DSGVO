@@ -7917,6 +7917,31 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2227916,IQ8BB,Ari Salerno ,Ari Salerno,,,ITA,DMR
 2227917,IZ1HJR,Rosario ,Rosario,,,ITA,DMR
 2227918,IT9HBX,Corrado ,Corrado,,,ITA,DMR
+2227919,IU4PJD,Giuliano ,Giuliano,,,ITA,DMR
+2227920,IW7EHE,Torzullo ,Torzullo,,,ITA,DMR
+2227921,IW9GLA,Sebastiano ,Sebastiano,,,ITA,DMR
+2227922,IZ8OLX,Luigi ,Luigi,,,ITA,DMR
+2227923,IU1DWT,Walter ,Walter,,,ITA,DMR
+2227924,IZ1PJP,Giuseppe ,Giuseppe,,,ITA,DMR
+2227925,IU7LPA,Roberto ,Roberto,,,ITA,DMR
+2227926,IT9HRW,Giuseppe ,Giuseppe,,,ITA,DMR
+2227927,IZ0NNI,Emilio ,Emilio,,,ITA,DMR
+2227928,IV3CWB,Nicola ,Nicola,,,ITA,DMR
+2227929,IU2INI,Carlo ,Carlo,,,ITA,DMR
+2227930,IU0EGC,Giuseppe ,Giuseppe,,,ITA,DMR
+2227931,IU2OZH,Giordano ,Giordano,,,ITA,DMR
+2227932,IU8PAX,Saverio ,Saverio,,,ITA,DMR
+2227933,IU2IHT,Roberto ,Roberto,,,ITA,DMR
+2227934,IS0HYV,Mauro ,Mauro,,,ITA,DMR
+2227935,IQ0CR,Associazione ,Associazione,,,ITA,DMR
+2227936,IU1PHN,Luca ,Luca,,,ITA,DMR
+2227937,I2JWK,Daniele ,Daniele,,,ITA,DMR
+2227938,IU4NJV,Riccardo ,Riccardo,,,ITA,DMR
+2227939,IU4PJP,Fabio ,Fabio,,,ITA,DMR
+2227940,IK0VCK,Stefano ,Stefano,,,ITA,DMR
+2227941,IW3IOS,Andre ,Andre,,,ITA,DMR
+2227942,IW1EVU,Massimo ,Massimo,,,ITA,DMR
+2227943,IU8OJT,Marco ,Marco,,,ITA,DMR
 2228001,IZ8IYJ,Nicola ,Nicola,,,ITA,DMR
 2228002,IW8XQP,Elio ,Elio,,,ITA,DMR
 2228003,IZ8XSS,Federico ,Federico,,,ITA,DMR
@@ -9202,6 +9227,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280043,HB9HJH,Mitko ,Mitko,,,CHE,DMR
 2280044,HB9COQ,Jaime ,Jaime,,,CHE,DMR
 2280045,HB9FNN,Matthias ,Matthias,,,CHE,DMR
+2280046,HB9FZF,Matthias ,Matthias,,,CHE,DMR
 2281001,HB3YNV,Cedric ,Cedric,,,CHE,DMR
 2281002,HB3YNV,Cedric ,Cedric,,,CHE,DMR
 2281003,HB3YNV,Cedric ,Cedric,,,CHE,DMR
@@ -10834,6 +10860,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2780044,9H2LB,Louis ,Louis,,,MLT,DMR
 2780045,9H1LC,Paul ,Paul,,,MLT,DMR
 2780046,9H1CL,John ,John,,,MLT,DMR
+2780047,9H5SB,Frans ,Frans,,,MLT,DMR
 2920001,T77GR,Renato ,Renato,,,SMR,DMR
 2920002,T77NC,Nazzareno ,Nazzareno,,,SMR,DMR
 2920003,T77DB,Danilo ,Danilo,,,SMR,DMR
