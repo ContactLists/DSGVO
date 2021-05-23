@@ -48,6 +48,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2280046,HB9FZF,Matthias Pobig,Matthias,Weiach,Zurich - CHE,,DMR
 2280047,HB9FAZ,Massimo Costantini,Massimo,Coldrerio,Ticino - CHE,,DMR
 2280048,HB9PRU,Christian Bantle,Christian,Appenzell Steinegg,Appenzell Inner-Rhodes - CHE,,DMR
+2280049,HB9HJD,Giorgio Barinetti,Giorgio,Mendrisio,Ticino - CHE,,DMR
 2281001,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt - CHE,,DMR
 2281002,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt - CHE,,DMR
 2281003,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt - CHE,,DMR
@@ -1701,6 +1702,14 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2320074,OE9KBV,Matthias Koch,Matthias,Bludenz (),VBG - AUT,,DMR
 2320075,OE5SEG,Martin Schirghuber,Martin,Steyr,OOE - AUT,,DMR
 2320076,OE5EIL,Emil Meindl,Emil,Steyr (),OOE - AUT,,DMR
+2320077,OE9XXK,Oerk  Lv Feldkirch,Oerk  Lv,Feldkirch (),VBG - AUT,,DMR
+2320078,OE9XRK,Oerk Lv Vorarlberg,Oerk Lv,Feldkirch (),VBG - AUT,,DMR
+2320079,OE7MFI,Florian Millinger,Florian,Sankt Ulrich am Pillersee,TIROL - AUT,,DMR
+2320080,OE4DJN,Daniel Jeitler,Daniel,Neustift An der Lafnitz (),BGLD - AUT,,DMR
+2320081,OE3SMA,Sebastian Maderner,Sebastian,Poysbrunn,NOE - AUT,,DMR
+2320082,OE3DWE,Dominic Wesseli,Dominic,Laaben,NOE - AUT,,DMR
+2320083,OE1UHA,Kurt Hirsch,Kurt,Wien,WIEN - AUT,,DMR
+2320084,OE3ANC,Andreas Schmidberger,Andreas,Traisen,NOE - AUT,,DMR
 2321001,OE1KBC,Kurt Baumann,Kurt,Wien,Wien - AUT,,DMR
 2321002,OE1KBC,Kurt Baumann,Kurt,Wien,Wien - AUT,,DMR
 2321003,OE1KBC,Kurt Baumann,Kurt,Wien,Wien - AUT,,DMR
@@ -3411,8 +3420,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2329123,OE9IGV,Ingo Giesinger,Ingo,Dornbirn,Vbg - AUT,,DMR
 2329124,OE9NGH,Guenther Nussbaumer,Guenther,Langenegg,Vbg - AUT,,DMR
 2329125,OE9XBV,Amateurfunkclub A1,Amateurfunkclub,Bregenz,Vbg - AUT,,DMR
-2329126,OE9XXK,Vorarlberg Oerk  Lv,Vorarlberg,Feldkirch,Vbg - AUT,,DMR
-2329127,OE9XRK,Vorarlberg Oerk Lv,Vorarlberg,Feldkirch,Vbg - AUT,,DMR
+2329126,OE9XXK,Oerk  Lv Feldkirch,Oerk  Lv,Feldkirch,VBG - AUT,,DMR
+2329127,OE9XRK,Oerk Lv Vorarlberg,Oerk Lv,Feldkirch,VBG - AUT,,DMR
 2329128,OE9REN,Rene Pichler,Rene,Rankweil,Vbg - AUT,,DMR
 2620000,DK5RAS,Ralph Schmid,Ralph,Haundorf,By - DEU,,DMR
 2620001,DD8OA,Jan Oppermann,Jan,Thale,St - DEU,,DMR
@@ -7699,7 +7708,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2624282,DL6KBC,Paul Van Limbeek,Paul,Selfkant,Nw - DEU,,DMR
 2624283,DL6KBC,Paul Van Limbeek,Paul,Selfkant,Nw - DEU,,DMR
 2624284,DG4YT,Peter Jagusch,Peter,Haltern am See,Nw - DEU,,DMR
-2624285,DO1DR,Dennis-Patrick Reimer,Dennis-Patrick,Neuss,Nw - DEU,,DMR
+2624285,DO1DR,Dennis Reimer,Dennis,no_city,NW - DEU,,DMR
 2624286,DL1DAI,Hans-Dieter Hedtfeld,Hans-Dieter,Hagen,Nw - DEU,,DMR
 2624287,DL6DAQ,Artur Poppe,Artur,Castrop-Rauxel,Nw - DEU,,DMR
 2624288,DJ3KF,Klaus Fischer,Klaus,Korschenbroich,Nw - DEU,,DMR
@@ -8602,7 +8611,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2625185,DL1SR,Ruediger Zaeh,Ruediger,Bexbach,Sl - DEU,,DMR
 2625186,DB1ID,Michael Vorbeck,Michael,Alzey,Rp - DEU,,DMR
 2625187,DL9UXF,Harald Zahnow,Harald,Schalkenbach,Rp - DEU,,DMR
-2625188,DO1RO,Ulrich Emmesberger,Ulrich,Niederneisen,Rp - DEU,,DMR
+2625188,DO1RO,Rene Otter,Rene,Hamburg,HH - DEU,,DMR
 2625189,DF7WH,Herbert Plunien,Herbert,Trier,Rp - DEU,,DMR
 2625190,DJ2PP,Harald Schmidtchen,Harald,Zweibruecken,Rp - DEU,,DMR
 2625191,DB4VI,Thomas Himbert,Thomas,Wallerfangen,Sl - DEU,,DMR
@@ -9214,6 +9223,24 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2625797,DO3SKS,Stefan Knoess,Stefan,Staufenberg,HE - DEU,,DMR
 2625798,DL2FDP,Toma Gruenfeld,Toma,Wiesbaden,HE - DEU,,DMR
 2625799,DO3JST,Joerg Staedele,Joerg,Denkendorf (),BY - DEU,,DMR
+2625800,DL1GOA,Tobias Mosgart,Tobias,Kriftel,HE - DEU,,DMR
+2625801,DL3YBD,Uwe Nagel,Uwe,Rheine,NW - DEU,,DMR
+2625802,DL0THL,Manfred Helbing,Manfred,Lauf,BY - DEU,,DMR
+2625803,DC6AE,Ulrich Voelkner,Ulrich,Papenburg,NI - DEU,,DMR
+2625804,DO2JGB,Jan Bender,Jan,Berlin,BE - DEU,,DMR
+2625805,DO1ML,Manuel Lindner,Manuel,Bad Goegging,BY - DEU,,DMR
+2625806,DO1RK,Roland Kanus,Roland,Dortmund,NW - DEU,,DMR
+2625807,DG6FG,Dieter Kalb,Dieter,Nidderau,HE - DEU,,DMR
+2625808,DL1NAC,Volker Richter,Volker,Erlangen,BY - DEU,,DMR
+2625809,DK3MP,Georgios Argyriadis,Georgios,Gross-Umstadt,HE - DEU,,DMR
+2625810,DL6MGR,Manfred Gralki,Manfred,Burg,ST - DEU,,DMR
+2625811,DK8JY,Thomas Hess,Thomas,Haan,NW - DEU,,DMR
+2625812,DB4QU,Ralf Borkowski,Ralf,Herten,NW - DEU,,DMR
+2625813,DO5MSN,Marcel Steigelmann,Marcel,Neugersdorf,SN - DEU,,DMR
+2625814,DL7ZI,Thomas-Bernd Kimmel,Thomas-Bernd,Asslar Werdorf,HE - DEU,,DMR
+2625815,DG8DZ,Peter Zeller,Peter,Regensburg,BY - DEU,,DMR
+2625816,DO5MP,Peter Thiele,Peter,Kirchenlamitz (),BY - DEU,,DMR
+2625817,DO8CA,Carsten Wennemer,Carsten,Rheine (),NW - DEU,,DMR
 2625998,DM0NR,Hans-Juergen Barthen,Hans-Juergen,Kruft,Rp - DEU,,DMR
 2625999,DB0LJ,Hans-Juergen Barthen,Hans-Juergen,Kruft,Rp - DEU,,DMR
 2626000,DF6RK,Ralf Klingler,Ralf,Glashuetten,He - DEU,,DMR

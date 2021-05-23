@@ -48,6 +48,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280046,HB9FZF,Matthias,Matthias,Pobig,Weiach,Zurich - CHE,,Private Call,None
 ,2280047,HB9FAZ,Massimo,Massimo,Costantini,Coldrerio,Ticino - CHE,,Private Call,None
 ,2280048,HB9PRU,Christian,Christian,Bantle,Appenzell Steinegg,Appenzell Inner-Rhodes - CHE,,Private Call,None
+,2280049,HB9HJD,Giorgio,Giorgio,Barinetti,Mendrisio,Ticino - CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
@@ -1701,6 +1702,14 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2320074,OE9KBV,Matthias,Matthias,Koch,Bludenz (),VBG - AUT,,Private Call,None
 ,2320075,OE5SEG,Martin,Martin,Schirghuber,Steyr,OOE - AUT,,Private Call,None
 ,2320076,OE5EIL,Emil,Emil,Meindl,Steyr (),OOE - AUT,,Private Call,None
+,2320077,OE9XXK,Oerk  Lv,Oerk  Lv,Feldkirch,Feldkirch (),VBG - AUT,,Private Call,None
+,2320078,OE9XRK,Oerk Lv,Oerk Lv,Vorarlberg,Feldkirch (),VBG - AUT,,Private Call,None
+,2320079,OE7MFI,Florian,Florian,Millinger,Sankt Ulrich am Pillersee,TIROL - AUT,,Private Call,None
+,2320080,OE4DJN,Daniel,Daniel,Jeitler,Neustift An der Lafnitz (),BGLD - AUT,,Private Call,None
+,2320081,OE3SMA,Sebastian,Sebastian,Maderner,Poysbrunn,NOE - AUT,,Private Call,None
+,2320082,OE3DWE,Dominic,Dominic,Wesseli,Laaben,NOE - AUT,,Private Call,None
+,2320083,OE1UHA,Kurt,Kurt,Hirsch,Wien,WIEN - AUT,,Private Call,None
+,2320084,OE3ANC,Andreas,Andreas,Schmidberger,Traisen,NOE - AUT,,Private Call,None
 ,2321001,OE1KBC,Kurt,Kurt,Baumann,Wien,Wien - AUT,,Private Call,None
 ,2321002,OE1KBC,Kurt,Kurt,Baumann,Wien,Wien - AUT,,Private Call,None
 ,2321003,OE1KBC,Kurt,Kurt,Baumann,Wien,Wien - AUT,,Private Call,None
@@ -3411,8 +3420,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2329123,OE9IGV,Ingo,Ingo,Giesinger,Dornbirn,Vbg - AUT,,Private Call,None
 ,2329124,OE9NGH,Guenther,Guenther,Nussbaumer,Langenegg,Vbg - AUT,,Private Call,None
 ,2329125,OE9XBV,Amateurfunkclub,Amateurfunkclub,A1,Bregenz,Vbg - AUT,,Private Call,None
-,2329126,OE9XXK,Vorarlberg,Vorarlberg,Oerk  Lv,Feldkirch,Vbg - AUT,,Private Call,None
-,2329127,OE9XRK,Vorarlberg,Vorarlberg,Oerk Lv,Feldkirch,Vbg - AUT,,Private Call,None
+,2329126,OE9XXK,Oerk  Lv,Oerk  Lv,Feldkirch,Feldkirch,VBG - AUT,,Private Call,None
+,2329127,OE9XRK,Oerk Lv,Oerk Lv,Vorarlberg,Feldkirch,VBG - AUT,,Private Call,None
 ,2329128,OE9REN,Rene,Rene,Pichler,Rankweil,Vbg - AUT,,Private Call,None
 ,2620000,DK5RAS,Ralph,Ralph,Schmid,Haundorf,By - DEU,,Private Call,None
 ,2620001,DD8OA,Jan,Jan,Oppermann,Thale,St - DEU,,Private Call,None
@@ -7699,7 +7708,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2624282,DL6KBC,Paul,Paul,Van Limbeek,Selfkant,Nw - DEU,,Private Call,None
 ,2624283,DL6KBC,Paul,Paul,Van Limbeek,Selfkant,Nw - DEU,,Private Call,None
 ,2624284,DG4YT,Peter,Peter,Jagusch,Haltern am See,Nw - DEU,,Private Call,None
-,2624285,DO1DR,Dennis-Patrick,Dennis-Patrick,Reimer,Neuss,Nw - DEU,,Private Call,None
+,2624285,DO1DR,Dennis,Dennis,Reimer,no_city,NW - DEU,,Private Call,None
 ,2624286,DL1DAI,Hans-Dieter,Hans-Dieter,Hedtfeld,Hagen,Nw - DEU,,Private Call,None
 ,2624287,DL6DAQ,Artur,Artur,Poppe,Castrop-Rauxel,Nw - DEU,,Private Call,None
 ,2624288,DJ3KF,Klaus,Klaus,Fischer,Korschenbroich,Nw - DEU,,Private Call,None
@@ -8602,7 +8611,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2625185,DL1SR,Ruediger,Ruediger,Zaeh,Bexbach,Sl - DEU,,Private Call,None
 ,2625186,DB1ID,Michael,Michael,Vorbeck,Alzey,Rp - DEU,,Private Call,None
 ,2625187,DL9UXF,Harald,Harald,Zahnow,Schalkenbach,Rp - DEU,,Private Call,None
-,2625188,DO1RO,Ulrich,Ulrich,Emmesberger,Niederneisen,Rp - DEU,,Private Call,None
+,2625188,DO1RO,Rene,Rene,Otter,Hamburg,HH - DEU,,Private Call,None
 ,2625189,DF7WH,Herbert,Herbert,Plunien,Trier,Rp - DEU,,Private Call,None
 ,2625190,DJ2PP,Harald,Harald,Schmidtchen,Zweibruecken,Rp - DEU,,Private Call,None
 ,2625191,DB4VI,Thomas,Thomas,Himbert,Wallerfangen,Sl - DEU,,Private Call,None
@@ -9214,6 +9223,24 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2625797,DO3SKS,Stefan,Stefan,Knoess,Staufenberg,HE - DEU,,Private Call,None
 ,2625798,DL2FDP,Toma,Toma,Gruenfeld,Wiesbaden,HE - DEU,,Private Call,None
 ,2625799,DO3JST,Joerg,Joerg,Staedele,Denkendorf (),BY - DEU,,Private Call,None
+,2625800,DL1GOA,Tobias,Tobias,Mosgart,Kriftel,HE - DEU,,Private Call,None
+,2625801,DL3YBD,Uwe,Uwe,Nagel,Rheine,NW - DEU,,Private Call,None
+,2625802,DL0THL,Manfred,Manfred,Helbing,Lauf,BY - DEU,,Private Call,None
+,2625803,DC6AE,Ulrich,Ulrich,Voelkner,Papenburg,NI - DEU,,Private Call,None
+,2625804,DO2JGB,Jan,Jan,Bender,Berlin,BE - DEU,,Private Call,None
+,2625805,DO1ML,Manuel,Manuel,Lindner,Bad Goegging,BY - DEU,,Private Call,None
+,2625806,DO1RK,Roland,Roland,Kanus,Dortmund,NW - DEU,,Private Call,None
+,2625807,DG6FG,Dieter,Dieter,Kalb,Nidderau,HE - DEU,,Private Call,None
+,2625808,DL1NAC,Volker,Volker,Richter,Erlangen,BY - DEU,,Private Call,None
+,2625809,DK3MP,Georgios,Georgios,Argyriadis,Gross-Umstadt,HE - DEU,,Private Call,None
+,2625810,DL6MGR,Manfred,Manfred,Gralki,Burg,ST - DEU,,Private Call,None
+,2625811,DK8JY,Thomas,Thomas,Hess,Haan,NW - DEU,,Private Call,None
+,2625812,DB4QU,Ralf,Ralf,Borkowski,Herten,NW - DEU,,Private Call,None
+,2625813,DO5MSN,Marcel,Marcel,Steigelmann,Neugersdorf,SN - DEU,,Private Call,None
+,2625814,DL7ZI,Thomas-Bernd,Thomas-Bernd,Kimmel,Asslar Werdorf,HE - DEU,,Private Call,None
+,2625815,DG8DZ,Peter,Peter,Zeller,Regensburg,BY - DEU,,Private Call,None
+,2625816,DO5MP,Peter,Peter,Thiele,Kirchenlamitz (),BY - DEU,,Private Call,None
+,2625817,DO8CA,Carsten,Carsten,Wennemer,Rheine (),NW - DEU,,Private Call,None
 ,2625998,DM0NR,Hans-Juergen,Hans-Juergen,Barthen,Kruft,Rp - DEU,,Private Call,None
 ,2625999,DB0LJ,Hans-Juergen,Hans-Juergen,Barthen,Kruft,Rp - DEU,,Private Call,None
 ,2626000,DF6RK,Ralf,Ralf,Klingler,Glashuetten,He - DEU,,Private Call,None

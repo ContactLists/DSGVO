@@ -4284,7 +4284,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2624282,DL6KBC,Paul Van Limbeek,Paul,Selfkant,Nw,DEU
 2624283,DL6KBC,Paul Van Limbeek,Paul,Selfkant,Nw,DEU
 2624284,DG4YT,Peter Jagusch,Peter,Haltern am See,Nw,DEU
-2624285,DO1DR,Dennis-Patrick Reimer,Dennis-Patrick,Neuss,Nw,DEU
+2624285,DO1DR,Dennis Reimer,Dennis,no_city,NW,DEU
 2624286,DL1DAI,Hans-Dieter Hedtfeld,Hans-Dieter,Hagen,Nw,DEU
 2624287,DL6DAQ,Artur Poppe,Artur,Castrop-Rauxel,Nw,DEU
 2624288,DJ3KF,Klaus Fischer,Klaus,Korschenbroich,Nw,DEU
@@ -5187,7 +5187,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2625185,DL1SR,Ruediger Zaeh,Ruediger,Bexbach,Sl,DEU
 2625186,DB1ID,Michael Vorbeck,Michael,Alzey,Rp,DEU
 2625187,DL9UXF,Harald Zahnow,Harald,Schalkenbach,Rp,DEU
-2625188,DO1RO,Ulrich Emmesberger,Ulrich,Niederneisen,Rp,DEU
+2625188,DO1RO,Rene Otter,Rene,Hamburg,HH,DEU
 2625189,DF7WH,Herbert Plunien,Herbert,Trier,Rp,DEU
 2625190,DJ2PP,Harald Schmidtchen,Harald,Zweibruecken,Rp,DEU
 2625191,DB4VI,Thomas Himbert,Thomas,Wallerfangen,Sl,DEU
@@ -5799,6 +5799,24 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2625797,DO3SKS,Stefan Knoess,Stefan,Staufenberg,HE,DEU
 2625798,DL2FDP,Toma Gruenfeld,Toma,Wiesbaden,HE,DEU
 2625799,DO3JST,Joerg Staedele,Joerg,Denkendorf (),BY,DEU
+2625800,DL1GOA,Tobias Mosgart,Tobias,Kriftel,HE,DEU
+2625801,DL3YBD,Uwe Nagel,Uwe,Rheine,NW,DEU
+2625802,DL0THL,Manfred Helbing,Manfred,Lauf,BY,DEU
+2625803,DC6AE,Ulrich Voelkner,Ulrich,Papenburg,NI,DEU
+2625804,DO2JGB,Jan Bender,Jan,Berlin,BE,DEU
+2625805,DO1ML,Manuel Lindner,Manuel,Bad Goegging,BY,DEU
+2625806,DO1RK,Roland Kanus,Roland,Dortmund,NW,DEU
+2625807,DG6FG,Dieter Kalb,Dieter,Nidderau,HE,DEU
+2625808,DL1NAC,Volker Richter,Volker,Erlangen,BY,DEU
+2625809,DK3MP,Georgios Argyriadis,Georgios,Gross-Umstadt,HE,DEU
+2625810,DL6MGR,Manfred Gralki,Manfred,Burg,ST,DEU
+2625811,DK8JY,Thomas Hess,Thomas,Haan,NW,DEU
+2625812,DB4QU,Ralf Borkowski,Ralf,Herten,NW,DEU
+2625813,DO5MSN,Marcel Steigelmann,Marcel,Neugersdorf,SN,DEU
+2625814,DL7ZI,Thomas-Bernd Kimmel,Thomas-Bernd,Asslar Werdorf,HE,DEU
+2625815,DG8DZ,Peter Zeller,Peter,Regensburg,BY,DEU
+2625816,DO5MP,Peter Thiele,Peter,Kirchenlamitz (),BY,DEU
+2625817,DO8CA,Carsten Wennemer,Carsten,Rheine (),NW,DEU
 2625998,DM0NR,Hans-Juergen Barthen,Hans-Juergen,Kruft,Rp,DEU
 2625999,DB0LJ,Hans-Juergen Barthen,Hans-Juergen,Kruft,Rp,DEU
 2626000,DF6RK,Ralf Klingler,Ralf,Glashuetten,He,DEU

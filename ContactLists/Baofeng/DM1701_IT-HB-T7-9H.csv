@@ -7972,6 +7972,21 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2227971,IN3HRR,Mayr Cornaiano (BZ),Mayr,Trentino AA,ITA,222,DMR
 2227972,IT9IVU,Italiano Belmonte Mezzagno (PA),Italiano,Sicilia,ITA,222,DMR
 2227973,IZ3VIV,Ferretti Verona (VR),Ferretti,Veneto,ITA,222,DMR
+2227974,IS0DZC,Sanna Cagliari (CA),Sanna,Sardegna,ITA,222,DMR
+2227975,IT9NGJ,Gallarizzo Torrenova (ME),Gallarizzo,Sicilia,ITA,222,DMR
+2227976,IU1AQV,Soldi Casale Monferrato (AL),Soldi,Piemonte,ITA,222,DMR
+2227977,IU0HSP,Scarpelli Roma (RM),Scarpelli,Lazio,ITA,222,DMR
+2227978,IU2LXR,Ivancic Milano (MI),Ivancic,Lombardia,ITA,222,DMR
+2227979,IT9ASQ,Donia San Pier Niceto (ME),Donia,Sicilia,ITA,222,DMR
+2227980,IW2ISC,Tino Cantu' (CO),Tino,Lombardia,ITA,222,DMR
+2227981,IW9HHR,Santoro Menfi (AG),Santoro,Sicilia,ITA,222,DMR
+2227982,IU7PHR,Doccini Bari (BA),Doccini,Puglia,ITA,222,DMR
+2227983,IW2JBB,Pappalettera Vaprio D'Adda (MI),Pappalettera,Lombardia,ITA,222,DMR
+2227984,IZ3VEI,Saviane Alpago (BL),Saviane,Veneto,ITA,222,DMR
+2227985,IZ3WNH,Nuzzi Povegliano Veronese (VR),Nuzzi,Veneto,ITA,222,DMR
+2227986,IU0MBL,De Rocchis Sezze (LT),De Rocchis,Lazio,ITA,222,DMR
+2227987,IW6OFI,Severo Magliano De' Marsi (AQ),Severo,Abruzzo,ITA,222,DMR
+2227988,I4JEE,Magnanini Ferrara (FE),Magnanini,Emilia-Rom.,ITA,222,DMR
 2228001,IZ8IYJ,Daniele Cosenza (cs),Daniele,Calabria,ITA,222,DMR
 2228002,IW8XQP,Scarselli Isernia (is),Scarselli,Molise,ITA,222,DMR
 2228003,IZ8XSS,Santulli Aversa (ce),Santulli,Campania,ITA,222,DMR
@@ -9260,6 +9275,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280046,HB9FZF,Pobig Weiach,Pobig,Zurich,CHE,228,DMR
 2280047,HB9FAZ,Costantini Coldrerio,Costantini,Ticino,CHE,228,DMR
 2280048,HB9PRU,Bantle Appenzell Steinegg,Bantle,Appenzell Inner-Rhodes,CHE,228,DMR
+2280049,HB9HJD,Barinetti Mendrisio,Barinetti,Ticino,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR

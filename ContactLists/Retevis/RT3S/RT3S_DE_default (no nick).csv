@@ -4284,7 +4284,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2624282,DL6KBC,Paul,,Selfkant,Nw,DEU
 2624283,DL6KBC,Paul,,Selfkant,Nw,DEU
 2624284,DG4YT,Peter,,Haltern am See,Nw,DEU
-2624285,DO1DR,Dennis-Patrick,,Neuss,Nw,DEU
+2624285,DO1DR,Dennis,,no_city,NW,DEU
 2624286,DL1DAI,Hans-Dieter,,Hagen,Nw,DEU
 2624287,DL6DAQ,Artur,,Castrop-Rauxel,Nw,DEU
 2624288,DJ3KF,Klaus,,Korschenbroich,Nw,DEU
@@ -5187,7 +5187,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2625185,DL1SR,Ruediger,,Bexbach,Sl,DEU
 2625186,DB1ID,Michael,,Alzey,Rp,DEU
 2625187,DL9UXF,Harald,,Schalkenbach,Rp,DEU
-2625188,DO1RO,Ulrich,,Niederneisen,Rp,DEU
+2625188,DO1RO,Rene,,Hamburg,HH,DEU
 2625189,DF7WH,Herbert,,Trier,Rp,DEU
 2625190,DJ2PP,Harald,,Zweibruecken,Rp,DEU
 2625191,DB4VI,Thomas,,Wallerfangen,Sl,DEU
@@ -5799,6 +5799,24 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2625797,DO3SKS,Stefan,,Staufenberg,HE,DEU
 2625798,DL2FDP,Toma,,Wiesbaden,HE,DEU
 2625799,DO3JST,Joerg,,Denkendorf (),BY,DEU
+2625800,DL1GOA,Tobias,,Kriftel,HE,DEU
+2625801,DL3YBD,Uwe,,Rheine,NW,DEU
+2625802,DL0THL,Manfred,,Lauf,BY,DEU
+2625803,DC6AE,Ulrich,,Papenburg,NI,DEU
+2625804,DO2JGB,Jan,,Berlin,BE,DEU
+2625805,DO1ML,Manuel,,Bad Goegging,BY,DEU
+2625806,DO1RK,Roland,,Dortmund,NW,DEU
+2625807,DG6FG,Dieter,,Nidderau,HE,DEU
+2625808,DL1NAC,Volker,,Erlangen,BY,DEU
+2625809,DK3MP,Georgios,,Gross-Umstadt,HE,DEU
+2625810,DL6MGR,Manfred,,Burg,ST,DEU
+2625811,DK8JY,Thomas,,Haan,NW,DEU
+2625812,DB4QU,Ralf,,Herten,NW,DEU
+2625813,DO5MSN,Marcel,,Neugersdorf,SN,DEU
+2625814,DL7ZI,Thomas-Bernd,,Asslar Werdorf,HE,DEU
+2625815,DG8DZ,Peter,,Regensburg,BY,DEU
+2625816,DO5MP,Peter,,Kirchenlamitz (),BY,DEU
+2625817,DO8CA,Carsten,,Rheine (),NW,DEU
 2625998,DM0NR,Hans-Juergen,,Kruft,Rp,DEU
 2625999,DB0LJ,Hans-Juergen,,Kruft,Rp,DEU
 2626000,DF6RK,Ralf,,Glashuetten,He,DEU

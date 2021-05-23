@@ -48,6 +48,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280046,HB9FZF,Matthias Pobig,Weiach,Zurich,CHE
 2280047,HB9FAZ,Massimo Costantini,Coldrerio,Ticino,CHE
 2280048,HB9PRU,Christian Bantle,Appenzell Steinegg,Appenzell Inner-Rhodes,CHE
+2280049,HB9HJD,Giorgio Barinetti,Mendrisio,Ticino,CHE
 2281001,HB3YNV,Cedric ,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric ,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric ,Saint-Cergue,Waadt,CHE
@@ -1701,6 +1702,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2320074,OE9KBV,Matthias Koch,Bludenz (),VBG,AUT
 2320075,OE5SEG,Martin Schirghuber,Steyr,OOE,AUT
 2320076,OE5EIL,Emil Meindl,Steyr (),OOE,AUT
+2320077,OE9XXK,Oerk  Lv Feldkirch,Feldkirch (),VBG,AUT
+2320078,OE9XRK,Oerk Lv Vorarlberg,Feldkirch (),VBG,AUT
+2320079,OE7MFI,Florian Millinger,Sankt Ulrich am Pillersee,TIROL,AUT
+2320080,OE4DJN,Daniel Jeitler,Neustift An der Lafnitz (),BGLD,AUT
+2320081,OE3SMA,Sebastian Maderner,Poysbrunn,NOE,AUT
+2320082,OE3DWE,Dominic Wesseli,Laaben,NOE,AUT
+2320083,OE1UHA,Kurt Hirsch,Wien,WIEN,AUT
+2320084,OE3ANC,Andreas Schmidberger,Traisen,NOE,AUT
 2321001,OE1KBC,Kurt Baumann,Wien,Wien,AUT
 2321002,OE1KBC,Kurt Baumann,Wien,Wien,AUT
 2321003,OE1KBC,Kurt Baumann,Wien,Wien,AUT
@@ -3411,8 +3420,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2329123,OE9IGV,Ingo Giesinger,Dornbirn,Vbg,AUT
 2329124,OE9NGH,Guenther Nussbaumer,Langenegg,Vbg,AUT
 2329125,OE9XBV,Amateurfunkclub A1,Bregenz,Vbg,AUT
-2329126,OE9XXK,Vorarlberg Oerk  Lv,Feldkirch,Vbg,AUT
-2329127,OE9XRK,Vorarlberg Oerk Lv,Feldkirch,Vbg,AUT
+2329126,OE9XXK,Oerk  Lv Feldkirch,Feldkirch,VBG,AUT
+2329127,OE9XRK,Oerk Lv Vorarlberg,Feldkirch,VBG,AUT
 2329128,OE9REN,Rene Pichler,Rankweil,Vbg,AUT
 2620000,DK5RAS,Ralph Schmid,Haundorf,By,DEU
 2620001,DD8OA,Jan Oppermann,Thale,St,DEU
@@ -7699,7 +7708,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2624282,DL6KBC,Paul Van Limbeek,Selfkant,Nw,DEU
 2624283,DL6KBC,Paul Van Limbeek,Selfkant,Nw,DEU
 2624284,DG4YT,Peter Jagusch,Haltern am See,Nw,DEU
-2624285,DO1DR,Dennis-Patrick Reimer,Neuss,Nw,DEU
+2624285,DO1DR,Dennis Reimer,no_city,NW,DEU
 2624286,DL1DAI,Hans-Dieter Hedtfeld,Hagen,Nw,DEU
 2624287,DL6DAQ,Artur Poppe,Castrop-Rauxel,Nw,DEU
 2624288,DJ3KF,Klaus Fischer,Korschenbroich,Nw,DEU
@@ -8602,7 +8611,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2625185,DL1SR,Ruediger Zaeh,Bexbach,Sl,DEU
 2625186,DB1ID,Michael Vorbeck,Alzey,Rp,DEU
 2625187,DL9UXF,Harald Zahnow,Schalkenbach,Rp,DEU
-2625188,DO1RO,Ulrich Emmesberger,Niederneisen,Rp,DEU
+2625188,DO1RO,Rene Otter,Hamburg,HH,DEU
 2625189,DF7WH,Herbert Plunien,Trier,Rp,DEU
 2625190,DJ2PP,Harald Schmidtchen,Zweibruecken,Rp,DEU
 2625191,DB4VI,Thomas Himbert,Wallerfangen,Sl,DEU
@@ -9214,6 +9223,24 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2625797,DO3SKS,Stefan Knoess,Staufenberg,HE,DEU
 2625798,DL2FDP,Toma Gruenfeld,Wiesbaden,HE,DEU
 2625799,DO3JST,Joerg Staedele,Denkendorf (),BY,DEU
+2625800,DL1GOA,Tobias Mosgart,Kriftel,HE,DEU
+2625801,DL3YBD,Uwe Nagel,Rheine,NW,DEU
+2625802,DL0THL,Manfred Helbing,Lauf,BY,DEU
+2625803,DC6AE,Ulrich Voelkner,Papenburg,NI,DEU
+2625804,DO2JGB,Jan Bender,Berlin,BE,DEU
+2625805,DO1ML,Manuel Lindner,Bad Goegging,BY,DEU
+2625806,DO1RK,Roland Kanus,Dortmund,NW,DEU
+2625807,DG6FG,Dieter Kalb,Nidderau,HE,DEU
+2625808,DL1NAC,Volker Richter,Erlangen,BY,DEU
+2625809,DK3MP,Georgios Argyriadis,Gross-Umstadt,HE,DEU
+2625810,DL6MGR,Manfred Gralki,Burg,ST,DEU
+2625811,DK8JY,Thomas Hess,Haan,NW,DEU
+2625812,DB4QU,Ralf Borkowski,Herten,NW,DEU
+2625813,DO5MSN,Marcel Steigelmann,Neugersdorf,SN,DEU
+2625814,DL7ZI,Thomas-Bernd Kimmel,Asslar Werdorf,HE,DEU
+2625815,DG8DZ,Peter Zeller,Regensburg,BY,DEU
+2625816,DO5MP,Peter Thiele,Kirchenlamitz (),BY,DEU
+2625817,DO8CA,Carsten Wennemer,Rheine (),NW,DEU
 2625998,DM0NR,Hans-Juergen Barthen,Kruft,Rp,DEU
 2625999,DB0LJ,Hans-Juergen Barthen,Kruft,Rp,DEU
 2626000,DF6RK,Ralf Klingler,Glashuetten,He,DEU

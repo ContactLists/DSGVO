@@ -4284,7 +4284,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2624282,DL6KBC,Van Limbeek Selfkant,Van Limbeek,Nw,DEU,262,DMR
 2624283,DL6KBC,Van Limbeek Selfkant,Van Limbeek,Nw,DEU,262,DMR
 2624284,DG4YT,Jagusch Haltern am See,Jagusch,Nw,DEU,262,DMR
-2624285,DO1DR,Reimer Neuss,Reimer,Nw,DEU,262,DMR
+2624285,DO1DR,Reimer no_city,Reimer,NW,DEU,262,DMR
 2624286,DL1DAI,Hedtfeld Hagen,Hedtfeld,Nw,DEU,262,DMR
 2624287,DL6DAQ,Poppe Castrop-Rauxel,Poppe,Nw,DEU,262,DMR
 2624288,DJ3KF,Fischer Korschenbroich,Fischer,Nw,DEU,262,DMR
@@ -5187,7 +5187,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625185,DL1SR,Zaeh Bexbach,Zaeh,Sl,DEU,262,DMR
 2625186,DB1ID,Vorbeck Alzey,Vorbeck,Rp,DEU,262,DMR
 2625187,DL9UXF,Zahnow Schalkenbach,Zahnow,Rp,DEU,262,DMR
-2625188,DO1RO,Emmesberger Niederneisen,Emmesberger,Rp,DEU,262,DMR
+2625188,DO1RO,Otter Hamburg,Otter,HH,DEU,262,DMR
 2625189,DF7WH,Plunien Trier,Plunien,Rp,DEU,262,DMR
 2625190,DJ2PP,Schmidtchen Zweibruecken,Schmidtchen,Rp,DEU,262,DMR
 2625191,DB4VI,Himbert Wallerfangen,Himbert,Sl,DEU,262,DMR
@@ -5799,6 +5799,24 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625797,DO3SKS,Knoess Staufenberg,Knoess,HE,DEU,262,DMR
 2625798,DL2FDP,Gruenfeld Wiesbaden,Gruenfeld,HE,DEU,262,DMR
 2625799,DO3JST,Staedele Denkendorf (),Staedele,BY,DEU,262,DMR
+2625800,DL1GOA,Mosgart Kriftel,Mosgart,HE,DEU,262,DMR
+2625801,DL3YBD,Nagel Rheine,Nagel,NW,DEU,262,DMR
+2625802,DL0THL,Helbing Lauf,Helbing,BY,DEU,262,DMR
+2625803,DC6AE,Voelkner Papenburg,Voelkner,NI,DEU,262,DMR
+2625804,DO2JGB,Bender Berlin,Bender,BE,DEU,262,DMR
+2625805,DO1ML,Lindner Bad Goegging,Lindner,BY,DEU,262,DMR
+2625806,DO1RK,Kanus Dortmund,Kanus,NW,DEU,262,DMR
+2625807,DG6FG,Kalb Nidderau,Kalb,HE,DEU,262,DMR
+2625808,DL1NAC,Richter Erlangen,Richter,BY,DEU,262,DMR
+2625809,DK3MP,Argyriadis Gross-Umstadt,Argyriadis,HE,DEU,262,DMR
+2625810,DL6MGR,Gralki Burg,Gralki,ST,DEU,262,DMR
+2625811,DK8JY,Hess Haan,Hess,NW,DEU,262,DMR
+2625812,DB4QU,Borkowski Herten,Borkowski,NW,DEU,262,DMR
+2625813,DO5MSN,Steigelmann Neugersdorf,Steigelmann,SN,DEU,262,DMR
+2625814,DL7ZI,Kimmel Asslar Werdorf,Kimmel,HE,DEU,262,DMR
+2625815,DG8DZ,Zeller Regensburg,Zeller,BY,DEU,262,DMR
+2625816,DO5MP,Thiele Kirchenlamitz (),Thiele,BY,DEU,262,DMR
+2625817,DO8CA,Wennemer Rheine (),Wennemer,NW,DEU,262,DMR
 2625998,DM0NR,Barthen Kruft,Barthen,Rp,DEU,262,DMR
 2625999,DB0LJ,Barthen Kruft,Barthen,Rp,DEU,262,DMR
 2626000,DF6RK,Klingler Glashuetten,Klingler,He,DEU,262,DMR
