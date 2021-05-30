@@ -49,6 +49,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280047,HB9FAZ,Massimo,Massimo,Costantini,Coldrerio,Ticino - CHE,,Private Call,None
 ,2280048,HB9PRU,Christian,Christian,Bantle,Appenzell Steinegg,Appenzell Inner-Rhodes - CHE,,Private Call,None
 ,2280049,HB9HJD,Giorgio,Giorgio,Barinetti,Mendrisio,Ticino - CHE,,Private Call,None
+,2280050,HB9FUH,Thomas,Thomas,Gray,Buchs,Stno_info Gallen - CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
@@ -1710,6 +1711,16 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2320082,OE3DWE,Dominic,Dominic,Wesseli,Laaben,NOE - AUT,,Private Call,None
 ,2320083,OE1UHA,Kurt,Kurt,Hirsch,Wien,WIEN - AUT,,Private Call,None
 ,2320084,OE3ANC,Andreas,Andreas,Schmidberger,Traisen,NOE - AUT,,Private Call,None
+,2320085,OE3KAR,Karl,Karl,Kreutzwiesner,Korneuburg (),NOE - AUT,,Private Call,None
+,2320086,OE2PDR,Peter,Peter,Berger,Neumarkt am Wallersee,SBG - AUT,,Private Call,None
+,2320087,OE6WPR,Wolfgang,Wolfgang,Predikaka,Raaba-Grambach,STMK - AUT,,Private Call,None
+,2320088,OE6CPJ,Claudia,Claudia,Predikaka,Raaba-Grambach,STMK - AUT,,Private Call,None
+,2320089,OE3SHH,Helmut,Helmut,Holzer,Strasshof An der Nordbahn,NOE - AUT,,Private Call,None
+,2320090,OE1KGR,Guenter,Guenter,Koderhold,Wien (),WIEN - AUT,,Private Call,None
+,2320091,OE3GUA,Gunther,Gunther,Mauerkirchner,Neulengbach,NOE - AUT,,Private Call,None
+,2320092,OE1FWU,Friedrich,Friedrich,Wendl,Wien (),WIEN - AUT,,Private Call,None
+,2320093,OE6ELY,Manuel,Manuel,Kanitsch,Gratwein,STMK - AUT,,Private Call,None
+,2320094,OE1PBR,Peter,Peter,Brader,Wien,WIEN - AUT,,Private Call,None
 ,2321001,OE1KBC,Kurt,Kurt,Baumann,Wien,Wien - AUT,,Private Call,None
 ,2321002,OE1KBC,Kurt,Kurt,Baumann,Wien,Wien - AUT,,Private Call,None
 ,2321003,OE1KBC,Kurt,Kurt,Baumann,Wien,Wien - AUT,,Private Call,None
@@ -9241,6 +9252,19 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2625815,DG8DZ,Peter,Peter,Zeller,Regensburg,BY - DEU,,Private Call,None
 ,2625816,DO5MP,Peter,Peter,Thiele,Kirchenlamitz (),BY - DEU,,Private Call,None
 ,2625817,DO8CA,Carsten,Carsten,Wennemer,Rheine (),NW - DEU,,Private Call,None
+,2625818,DH9KF,Ferdinand,Ferdinand,Thuering,Koeln,NW - DEU,,Private Call,None
+,2625819,DL8AAE,Thomas,Thomas,Kerk,Peine,NI - DEU,,Private Call,None
+,2625820,DO5DAB,Joerg,Joerg,Grimm,Offenbach,HE - DEU,,Private Call,None
+,2625821,DG9ABF,Carsten,Carsten,Salveter,Keltern,BW - DEU,,Private Call,None
+,2625822,DL4MDW,Thomas,Thomas,Krahn,Berlin,BE - DEU,,Private Call,None
+,2625823,DG1ACZ,Martina,Martina,Zechmeister,Braunschweig,NI - DEU,,Private Call,None
+,2625824,DO1HMR,Haritta,Haritta,Richter,Erlangen,BY - DEU,,Private Call,None
+,2625825,DH1NB,Bernd,Bernd,Nickstat,Potsdam,BB - DEU,,Private Call,None
+,2625826,DK3UO,Ronny,Ronny,Bennoehr,Ruelzheim,RP - DEU,,Private Call,None
+,2625827,DK0ZD,Clubstation,Clubstation,H50,Wietze (),NI - DEU,,Private Call,None
+,2625828,DL0KSB,Club,Club,Station,Bad Neuenahr-Ahrweiler (),RP - DEU,,Private Call,None
+,2625829,DL3NEY,Florian,Florian,Thienel,Burgebrach,BY - DEU,,Private Call,None
+,2625830,DG3IAM,Ralf,Ralf,Herold,Rastatt,BW - DEU,,Private Call,None
 ,2625998,DM0NR,Hans-Juergen,Hans-Juergen,Barthen,Kruft,Rp - DEU,,Private Call,None
 ,2625999,DB0LJ,Hans-Juergen,Hans-Juergen,Barthen,Kruft,Rp - DEU,,Private Call,None
 ,2626000,DF6RK,Ralf,Ralf,Klingler,Glashuetten,He - DEU,,Private Call,None

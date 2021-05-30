@@ -49,6 +49,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280047,HB9FAZ,Costantini Coldrerio,Costantini,Ticino,CHE,228,DMR
 2280048,HB9PRU,Bantle Appenzell Steinegg,Bantle,Appenzell Inner-Rhodes,CHE,228,DMR
 2280049,HB9HJD,Barinetti Mendrisio,Barinetti,Ticino,CHE,228,DMR
+2280050,HB9FUH,Gray Buchs,Gray,Stno_info Gallen,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
@@ -1710,6 +1711,16 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320082,OE3DWE,Wesseli Laaben,Wesseli,NOE,AUT,232,DMR
 2320083,OE1UHA,Hirsch Wien,Hirsch,WIEN,AUT,232,DMR
 2320084,OE3ANC,Schmidberger Traisen,Schmidberger,NOE,AUT,232,DMR
+2320085,OE3KAR,Kreutzwiesner Korneuburg (),Kreutzwiesner,NOE,AUT,232,DMR
+2320086,OE2PDR,Berger Neumarkt am Wallersee,Berger,SBG,AUT,232,DMR
+2320087,OE6WPR,Predikaka Raaba-Grambach,Predikaka,STMK,AUT,232,DMR
+2320088,OE6CPJ,Predikaka Raaba-Grambach,Predikaka,STMK,AUT,232,DMR
+2320089,OE3SHH,Holzer Strasshof An der Nordbahn,Holzer,NOE,AUT,232,DMR
+2320090,OE1KGR,Koderhold Wien (),Koderhold,WIEN,AUT,232,DMR
+2320091,OE3GUA,Mauerkirchner Neulengbach,Mauerkirchner,NOE,AUT,232,DMR
+2320092,OE1FWU,Wendl Wien (),Wendl,WIEN,AUT,232,DMR
+2320093,OE6ELY,Kanitsch Gratwein,Kanitsch,STMK,AUT,232,DMR
+2320094,OE1PBR,Brader Wien,Brader,WIEN,AUT,232,DMR
 2321001,OE1KBC,Baumann Wien,Baumann,Wien,AUT,232,DMR
 2321002,OE1KBC,Baumann Wien,Baumann,Wien,AUT,232,DMR
 2321003,OE1KBC,Baumann Wien,Baumann,Wien,AUT,232,DMR
@@ -9241,6 +9252,19 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625815,DG8DZ,Zeller Regensburg,Zeller,BY,DEU,262,DMR
 2625816,DO5MP,Thiele Kirchenlamitz (),Thiele,BY,DEU,262,DMR
 2625817,DO8CA,Wennemer Rheine (),Wennemer,NW,DEU,262,DMR
+2625818,DH9KF,Thuering Koeln,Thuering,NW,DEU,262,DMR
+2625819,DL8AAE,Kerk Peine,Kerk,NI,DEU,262,DMR
+2625820,DO5DAB,Grimm Offenbach,Grimm,HE,DEU,262,DMR
+2625821,DG9ABF,Salveter Keltern,Salveter,BW,DEU,262,DMR
+2625822,DL4MDW,Krahn Berlin,Krahn,BE,DEU,262,DMR
+2625823,DG1ACZ,Zechmeister Braunschweig,Zechmeister,NI,DEU,262,DMR
+2625824,DO1HMR,Richter Erlangen,Richter,BY,DEU,262,DMR
+2625825,DH1NB,Nickstat Potsdam,Nickstat,BB,DEU,262,DMR
+2625826,DK3UO,Bennoehr Ruelzheim,Bennoehr,RP,DEU,262,DMR
+2625827,DK0ZD,H50 Wietze (),H50,NI,DEU,262,DMR
+2625828,DL0KSB,Station Bad Neuenahr-Ahrweiler (),Station,RP,DEU,262,DMR
+2625829,DL3NEY,Thienel Burgebrach,Thienel,BY,DEU,262,DMR
+2625830,DG3IAM,Herold Rastatt,Herold,BW,DEU,262,DMR
 2625998,DM0NR,Barthen Kruft,Barthen,Rp,DEU,262,DMR
 2625999,DB0LJ,Barthen Kruft,Barthen,Rp,DEU,262,DMR
 2626000,DF6RK,Klingler Glashuetten,Klingler,He,DEU,262,DMR

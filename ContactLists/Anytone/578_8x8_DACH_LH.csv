@@ -49,6 +49,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280047,HB9FAZ,HB9FAZ Massimo,Coldrerio,Ticino,CHE,,Private Call,None
 ,2280048,HB9PRU,HB9PRU Christian,Appenzell Steinegg,Appenzell Inner-Rhodes,CHE,,Private Call,None
 ,2280049,HB9HJD,HB9HJD Giorgio,Mendrisio,Ticino,CHE,,Private Call,None
+,2280050,HB9FUH,HB9FUH Thomas,Buchs,Stno_info Gallen,CHE,,Private Call,None
 ,2281001,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
 ,2281002,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
 ,2281003,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
@@ -1710,6 +1711,16 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2320082,OE3DWE,OE3DWE Dominic,Laaben,NOE,AUT,,Private Call,None
 ,2320083,OE1UHA,OE1UHA Kurt,Wien,WIEN,AUT,,Private Call,None
 ,2320084,OE3ANC,OE3ANC Andreas,Traisen,NOE,AUT,,Private Call,None
+,2320085,OE3KAR,OE3KAR Karl,Korneuburg (),NOE,AUT,,Private Call,None
+,2320086,OE2PDR,OE2PDR Peter,Neumarkt am Wallersee,SBG,AUT,,Private Call,None
+,2320087,OE6WPR,OE6WPR Wolfgang,Raaba-Grambach,STMK,AUT,,Private Call,None
+,2320088,OE6CPJ,OE6CPJ Claudia,Raaba-Grambach,STMK,AUT,,Private Call,None
+,2320089,OE3SHH,OE3SHH Helmut,Strasshof An der Nordbahn,NOE,AUT,,Private Call,None
+,2320090,OE1KGR,OE1KGR Guenter,Wien (),WIEN,AUT,,Private Call,None
+,2320091,OE3GUA,OE3GUA Gunther,Neulengbach,NOE,AUT,,Private Call,None
+,2320092,OE1FWU,OE1FWU Friedrich,Wien (),WIEN,AUT,,Private Call,None
+,2320093,OE6ELY,OE6ELY Manuel,Gratwein,STMK,AUT,,Private Call,None
+,2320094,OE1PBR,OE1PBR Peter,Wien,WIEN,AUT,,Private Call,None
 ,2321001,OE1KBC,OE1KBC Kurt,Wien,Wien,AUT,,Private Call,None
 ,2321002,OE1KBC,OE1KBC Kurt,Wien,Wien,AUT,,Private Call,None
 ,2321003,OE1KBC,OE1KBC Kurt,Wien,Wien,AUT,,Private Call,None
@@ -9241,6 +9252,19 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2625815,DG8DZ,DG8DZ Peter,Regensburg,BY,DEU,,Private Call,None
 ,2625816,DO5MP,DO5MP Peter,Kirchenlamitz (),BY,DEU,,Private Call,None
 ,2625817,DO8CA,DO8CA Carsten,Rheine (),NW,DEU,,Private Call,None
+,2625818,DH9KF,DH9KF Ferdinand,Koeln,NW,DEU,,Private Call,None
+,2625819,DL8AAE,DL8AAE Thomas,Peine,NI,DEU,,Private Call,None
+,2625820,DO5DAB,DO5DAB Joerg,Offenbach,HE,DEU,,Private Call,None
+,2625821,DG9ABF,DG9ABF Carsten,Keltern,BW,DEU,,Private Call,None
+,2625822,DL4MDW,DL4MDW Thomas,Berlin,BE,DEU,,Private Call,None
+,2625823,DG1ACZ,DG1ACZ Martina,Braunschweig,NI,DEU,,Private Call,None
+,2625824,DO1HMR,DO1HMR Haritta,Erlangen,BY,DEU,,Private Call,None
+,2625825,DH1NB,DH1NB Bernd,Potsdam,BB,DEU,,Private Call,None
+,2625826,DK3UO,DK3UO Ronny,Ruelzheim,RP,DEU,,Private Call,None
+,2625827,DK0ZD,DK0ZD Clubstation,Wietze (),NI,DEU,,Private Call,None
+,2625828,DL0KSB,DL0KSB Club,Bad Neuenahr-Ahrweiler (),RP,DEU,,Private Call,None
+,2625829,DL3NEY,DL3NEY Florian,Burgebrach,BY,DEU,,Private Call,None
+,2625830,DG3IAM,DG3IAM Ralf,Rastatt,BW,DEU,,Private Call,None
 ,2625998,DM0NR,DM0NR Hans-Juergen,Kruft,Rp,DEU,,Private Call,None
 ,2625999,DB0LJ,DB0LJ Hans-Juergen,Kruft,Rp,DEU,,Private Call,None
 ,2626000,DF6RK,DF6RK Ralf,Glashuetten,He,DEU,,Private Call,None
