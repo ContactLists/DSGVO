@@ -11,7 +11,7 @@ The countries are:
 - IT			=	only Italy
 - IT-HB..		=	only Italy, Switzerland, San Marino and Malta
 - WW			=	worldwide
-- Zone123		=	only zone 1, 2 and 3
+- Zone123		=	only zone 1, 2 and 3 (North America and Europe)
 
 The file name of the RAR files is composed as follows:
 
