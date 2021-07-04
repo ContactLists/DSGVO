@@ -1,24 +1,24 @@
 Call Type,Contacts Alias,City,Province,Country,Call ID
-Private Call,N0CALL No_name no_name,no_city,Zuerich und Thurgau,CHE,2280000
-Private Call,4U1ITU International Arc,Geneva,no_name,CHE,2280001
+Private Call,N0CALL No_name No_name,no_city,Zuerich und Thurgau,CHE,2280000
+Private Call,4U1ITU International Arc,Geneva,No_name,CHE,2280001
 Private Call,HB3XWO Kornel Becker,Basel,-,CHE,2280002
 Private Call,HB9HIT Jean Perez,Le Mont-Sur-Lausanne,Westschweiz-Sud,CHE,2280003
 Private Call,HB3XWK Aldo Surder,La Chaux-De-Fonds,Westschweiz-Nord,CHE,2280004
 Private Call,HB9HIK Frederic Miremad,2000 Neuchatel,Westschweiz-Nord,CHE,2280005
 Private Call,HB9HGE Ruedi Egger,Moerschwil,Ostschweiz,CHE,2280006
 Private Call,HB9HEW Michael Mohr,Engelburg,Ostschweiz,CHE,2280007
-Private Call,HB9RHP no_name Linder,Lohn-Ammannsegg,Basel/solothurn,CHE,2280008
+Private Call,HB9RHP No_name Linder,Lohn-Ammannsegg,Basel/solothurn,CHE,2280008
 Private Call,HB9TWP Bolzani Lorenzo,Arlate,-,CHE,2280009
 Private Call,HB9FSN Bruno Kurt,Bretzwil,Basel/solothurn,CHE,2280010
 Private Call,HB9OBB Daniele Guazzoni,Zurich,Zuerich und Thurgau,CHE,2280011
 Private Call,HB9HGO Carlos Laya,no_city,Basel/solothurn,CHE,2280012
 Private Call,HB3XWW Roland Juen,8526 Oberneunforn,-,CHE,2280013
 Private Call,HB9GYV Paul Junod,Bienne,-,CHE,2280014
-Private Call,HB3XVS Stefan no_name,Moosseedorf,Bern,CHE,2280015
+Private Call,HB3XVS Stefan No_name,Moosseedorf,Bern,CHE,2280015
 Private Call,HB3XWN Umberto Nerone,Auw,Aargau,CHE,2280016
 Private Call,HB9CTJ Urs Jenzer,Biel,Bern,CHE,2280017
 Private Call,HB9HJS Stefan Affentranger,Altishofen,Lucerne,CHE,2280018
-Private Call,HB3XXA no_name no_name,Baar,Zug,CHE,2280019
+Private Call,HB3XXA No_name No_name,Baar,Zug,CHE,2280019
 Private Call,HB9SNW Armin Merz,Ch-4528 Zuchwil So,Solothurn,CHE,2280020
 Private Call,HB9OMI Pierre-Yves Jaquenoud,Yverdon-Les-Bains,Vaud,CHE,2280021
 Private Call,HB3XWT Jean Schult,Rickenbach Sulz,Zurich,CHE,2280022
@@ -42,7 +42,7 @@ Private Call,HB3YSH Cedric Maillard,Montfaucon,Jura,CHE,2280039
 Private Call,HB9MKE Fritz Hagen,St  Pantaleon,Solothurn,CHE,2280040
 Private Call,HB9TTU Ruedi Walther,Ch 8332 Russikon,Zurich,CHE,2280041
 Private Call,HB9MQB Meier Beat,Immensee,Schwyz,CHE,2280042
-Private Call,HB9HJH Mitko no_name,Basel,Basel-City,CHE,2280043
+Private Call,HB9HJH Mitko No_name,Basel,Basel-City,CHE,2280043
 Private Call,HB9COQ Jaime Nogues,Basilea,Basel-City,CHE,2280044
 Private Call,HB9FNN Matthias Erhardt,Lyss,Bern,CHE,2280045
 Private Call,HB9FZF Matthias Pobig,Weiach,Zurich,CHE,2280046
@@ -71,46 +71,48 @@ Private Call,HB9HJN Charpoan Kong,Zuerich,Zurich,CHE,2280068
 Private Call,HB9HJU Luis Santiago,Kloten,Zurich,CHE,2280069
 Private Call,HB3XXY Roger Steiner,Glattfelden,Zurich,CHE,2280070
 Private Call,HB3XXI Roman Baechli,Rickenbach Zh,Zurich,CHE,2280071
-Private Call,HB3YNV Cedric no_name,Saint-Cergue,Waadt,CHE,2281001
-Private Call,HB3YNV Cedric no_name,Saint-Cergue,Waadt,CHE,2281002
-Private Call,HB3YNV Cedric no_name,Saint-Cergue,Waadt,CHE,2281003
-Private Call,HB9IBG Hippolyte no_name,Geneva-Ville,Genf,CHE,2281004
-Private Call,HB9IBG Hippolyte no_name,Geneva-Ville,Genf,CHE,2281005
-Private Call,HB9IBG Hippolyte no_name,Geneva-Ville,Genf,CHE,2281006
-Private Call,HB9VAF Marco no_name,Gingins,Genf,CHE,2281007
-Private Call,HB9DNG Raymond no_name,Genve,Genf,CHE,2281008
-Private Call,HB9DBB Jean-Michel no_name,Lutry,Vd,CHE,2281009
-Private Call,HB9VJS Charles no_name,Lutry,Vd,CHE,2281010
-Private Call,HB9IIF Jean-Louis no_name,Lutry,Vd,CHE,2281011
-Private Call,HB9VJS Charles no_name,Lutry,Vd,CHE,2281012
-Private Call,HB9TJU Nicolas no_name,Vevey,Vd,CHE,2281013
-Private Call,HB9TPL Daniel no_name,St. Sulpice,Lausanne,CHE,2281014
-Private Call,HB3YKO Philippe no_name,Meyrin,Genf,CHE,2281015
-Private Call,HB9TYR Renato no_name,Versoix,Genf,CHE,2281016
-Private Call,HB9DNG Raymond no_name,Genf,Genf,CHE,2281017
-Private Call,HB9AXG Antoine no_name,Onex,Genf,CHE,2281018
-Private Call,HB9DBB Jean-Michel no_name,Lutry,Genf,CHE,2281019
-Private Call,HB9DBB Jean-Michel no_name,Lutry,Genf,CHE,2281020
-Private Call,HB9DBB Jean-Michel no_name,Lutry,Genf,CHE,2281021
-Private Call,HB9HFF Stephen no_name,Morlon,Freiburg,CHE,2281022
-Private Call,HB9HFF Stephen no_name,Morlon,Freiburg,CHE,2281023
+Private Call,HB9HJZ Vincent Pesti,Luzern,Lucerne,CHE,2280072
+Private Call,HB3XYE Vladimir Hrusca,8152 Opfikon,Zurich,CHE,2280073
+Private Call,HB3YNV Cedric No_name,Saint-Cergue,Waadt,CHE,2281001
+Private Call,HB3YNV Cedric No_name,Saint-Cergue,Waadt,CHE,2281002
+Private Call,HB3YNV Cedric No_name,Saint-Cergue,Waadt,CHE,2281003
+Private Call,HB9IBG Hippolyte No_name,Geneva-Ville,Genf,CHE,2281004
+Private Call,HB9IBG Hippolyte No_name,Geneva-Ville,Genf,CHE,2281005
+Private Call,HB9IBG Hippolyte No_name,Geneva-Ville,Genf,CHE,2281006
+Private Call,HB9VAF Marco No_name,Gingins,Genf,CHE,2281007
+Private Call,HB9DNG Raymond No_name,Genve,Genf,CHE,2281008
+Private Call,HB9DBB Jean-Michel No_name,Lutry,Vd,CHE,2281009
+Private Call,HB9VJS Charles No_name,Lutry,Vd,CHE,2281010
+Private Call,HB9IIF Jean-Louis No_name,Lutry,Vd,CHE,2281011
+Private Call,HB9VJS Charles No_name,Lutry,Vd,CHE,2281012
+Private Call,HB9TJU Nicolas No_name,Vevey,Vd,CHE,2281013
+Private Call,HB9TPL Daniel No_name,St. Sulpice,Lausanne,CHE,2281014
+Private Call,HB3YKO Philippe No_name,Meyrin,Genf,CHE,2281015
+Private Call,HB9TYR Renato No_name,Versoix,Genf,CHE,2281016
+Private Call,HB9DNG Raymond No_name,Genf,Genf,CHE,2281017
+Private Call,HB9AXG Antoine No_name,Onex,Genf,CHE,2281018
+Private Call,HB9DBB Jean-Michel No_name,Lutry,Genf,CHE,2281019
+Private Call,HB9DBB Jean-Michel No_name,Lutry,Genf,CHE,2281020
+Private Call,HB9DBB Jean-Michel No_name,Lutry,Genf,CHE,2281021
+Private Call,HB9HFF Stephen No_name,Morlon,Freiburg,CHE,2281022
+Private Call,HB9HFF Stephen No_name,Morlon,Freiburg,CHE,2281023
 Private Call,HB9FOX Patrice Guberan,Biere,Westschweiz-Sud,CHE,2281024
 Private Call,HB9FOX Patrice Guberan,Biere,Westschweiz-Sud,CHE,2281025
-Private Call,HB9IJE Dominique no_name,Saint-Livres,Waadt,CHE,2281026
-Private Call,HB9IJE Dominique no_name,Saint-Livres,Waadt,CHE,2281027
-Private Call,HB9DUG Michel no_name,Vich,Waadt,CHE,2281028
-Private Call,HB9DUG Michel no_name,Vich,Waadt,CHE,2281029
-Private Call,HB9RHI Enio no_name,Saint-Cergues,Waadt,CHE,2281030
-Private Call,HB9RHI Enio no_name,Saint-Cergues,Waadt,CHE,2281031
-Private Call,HB9FMF Didier no_name,Rougemont,Waadt,CHE,2281032
-Private Call,HB9FMF Didier no_name,Rougemont,Waadt,CHE,2281033
-Private Call,HB9PCF Olaf no_name,Chatonnaye,Freiburg,CHE,2281034
-Private Call,HB9PCF Olaf no_name,Chatonnaye,Freiburg,CHE,2281035
+Private Call,HB9IJE Dominique No_name,Saint-Livres,Waadt,CHE,2281026
+Private Call,HB9IJE Dominique No_name,Saint-Livres,Waadt,CHE,2281027
+Private Call,HB9DUG Michel No_name,Vich,Waadt,CHE,2281028
+Private Call,HB9DUG Michel No_name,Vich,Waadt,CHE,2281029
+Private Call,HB9RHI Enio No_name,Saint-Cergues,Waadt,CHE,2281030
+Private Call,HB9RHI Enio No_name,Saint-Cergues,Waadt,CHE,2281031
+Private Call,HB9FMF Didier No_name,Rougemont,Waadt,CHE,2281032
+Private Call,HB9FMF Didier No_name,Rougemont,Waadt,CHE,2281033
+Private Call,HB9PCF Olaf No_name,Chatonnaye,Freiburg,CHE,2281034
+Private Call,HB9PCF Olaf No_name,Chatonnaye,Freiburg,CHE,2281035
 Private Call,HB3YRB Alex Jullier,Verbier,Wallis,CHE,2281036
-Private Call,HB9EUF Oliver no_name,Avenches,Waadt,CHE,2281037
-Private Call,HB9VAB Rodolphe no_name,Confignon,Genf,CHE,2281038
-Private Call,HB9FLL Jeremie no_name,Genf-Stadt,Genf,CHE,2281039
-Private Call,HB9AKP Pierre-Andre no_name,Bremblens,Waadt,CHE,2281040
+Private Call,HB9EUF Oliver No_name,Avenches,Waadt,CHE,2281037
+Private Call,HB9VAB Rodolphe No_name,Confignon,Genf,CHE,2281038
+Private Call,HB9FLL Jeremie No_name,Genf-Stadt,Genf,CHE,2281039
+Private Call,HB9AKP Pierre-Andre No_name,Bremblens,Waadt,CHE,2281040
 Private Call,HB9ULG Privet Martial,Denges,Waadt,CHE,2281041
 Private Call,HB3YRB Alex Jullier,Verbier,Bern und Oberwallis,CHE,2281042
 Private Call,HB9MMC Alain Minard,Genf,Westschweiz-Sud,CHE,2281043
@@ -215,7 +217,7 @@ Private Call,HB9RXW Walter Hunkeler,Genve,Westschweiz-Sud,CHE,2281141
 Private Call,HB3YTB Christian Sudan,Villeneuve,Westschweiz-Sud,CHE,2281142
 Private Call,HB3YYR Roberto Scheidegger,Versoix,Westschweiz-Sud,CHE,2281143
 Private Call,HB9SAT Freddy Haldemann,Sugiez,Westschweiz-Sud,CHE,2281144
-Private Call,HB3YSK Bernard no_name,no_city,Westschweiz-Sud,CHE,2281145
+Private Call,HB3YSK Bernard No_name,no_city,Westschweiz-Sud,CHE,2281145
 Private Call,HB9TUI Nicolas Tille,Lausanne,Westschweiz-Sud,CHE,2281146
 Private Call,HB9FMK Mario Girardin,Laconnex,Westschweiz-Sud,CHE,2281147
 Private Call,HB3YDE Dominique Raider,no_city,Westschweiz-Sud,CHE,2281148
@@ -236,7 +238,7 @@ Private Call,HB9IAJ Attila Matas,Geneva,Westschweiz-Sud,CHE,2281162
 Private Call,HB3GYR Jose-Antonio Baza,Geneva,Westschweiz-Sud,CHE,2281163
 Private Call,HB3YBO Nathanael Mermoud,Carouge,Westschweiz-Sud,CHE,2281164
 Private Call,HB9S World Bureau,Geneva,Westschweiz-Sud,CHE,2281165
-Private Call,HB9DUW Agatino no_name,no_city,Westschweiz-Sud,CHE,2281166
+Private Call,HB9DUW Agatino No_name,no_city,Westschweiz-Sud,CHE,2281166
 Private Call,HB3YKB Patrick Baud,Giswil,Westschweiz-Sud,CHE,2281167
 Private Call,HB3YOE Massimiliano Fantuzzi,Bellevue,Westschweiz-Sud,CHE,2281168
 Private Call,HB3YAP Pascal Trosset,Epautheyres,Westschweiz-Sud,CHE,2281169
@@ -249,7 +251,7 @@ Private Call,HB9FXY Jan Olsfors,Le Vaud,Westschweiz-Sud,CHE,2281175
 Private Call,HB3YFI Tom Nielsen,Gd-Saconnex,Westschweiz-Sud,CHE,2281176
 Private Call,HB9FXE Gerard Porchet,Geneva,Westschweiz-Sud,CHE,2281177
 Private Call,HB9AFO Michel Vonlanthen,Bussigny,Westschweiz-Sud,CHE,2281178
-Private Call,HB9RXW Walter no_name,no_city,Westschweiz-Sud,CHE,2281179
+Private Call,HB9RXW Walter No_name,no_city,Westschweiz-Sud,CHE,2281179
 Private Call,HB9UQL Cyril Rey,Ardon,Westschweiz-Sud,CHE,2281180
 Private Call,HB9RYJ Jean-Marie Delvecchio,Saint-Aubin,Westschweiz-Sud,CHE,2281181
 Private Call,HB3XPF Remy Wenger,Geneva,Westschweiz-Sud,CHE,2281182
@@ -267,55 +269,55 @@ Private Call,HB9HFR Michel Masset,Bussy,Westschweiz-Sud,CHE,2281193
 Private Call,HB9TUI Nicolas Tille,Lausanne,Westschweiz-Sud,CHE,2281194
 Private Call,HB9IIU Daniel Staempfli,Saint-Legier-La Chiesaz,Westschweiz-Sud,CHE,2281195
 Private Call,HB3XPR Olivier Tymkiw,Givrins,Westschweiz-Sud,CHE,2281196
-Private Call,HB3XRH Franoise no_name,St.Gallen,Westschweiz-Sud,CHE,2281197
+Private Call,HB3XRH Franoise No_name,St.Gallen,Westschweiz-Sud,CHE,2281197
 Private Call,HB9GVJ Remy Wenger,Geneva,Westschweiz-Sud,CHE,2281198
 Private Call,HB9IAM Pierre Binggeli,Geneva,Westschweiz-Sud,CHE,2281199
-Private Call,HB3XRN Samuel no_name,Geneva,Geneva,CHE,2281200
+Private Call,HB3XRN Samuel No_name,Geneva,Geneva,CHE,2281200
 Private Call,HB9G Uska Geneva,Geneva,Geneva,CHE,2281201
-Private Call,HB9GIC Alexandre no_name,Mies,Westschweiz-Sud,CHE,2281202
-Private Call,HB9GUR Philippe Haake,Geneva,no_name,CHE,2281203
-Private Call,HB9GVX Patrick Beney,Prangins,no_name,CHE,2281204
-Private Call,HB9GKZ Myriam no_name,Vouvry,no_name,CHE,2281205
+Private Call,HB9GIC Alexandre No_name,Mies,Westschweiz-Sud,CHE,2281202
+Private Call,HB9GUR Philippe Haake,Geneva,No_name,CHE,2281203
+Private Call,HB9GVX Patrick Beney,Prangins,No_name,CHE,2281204
+Private Call,HB9GKZ Myriam No_name,Vouvry,No_name,CHE,2281205
 Private Call,HB9RAR Ass Romand,Morlon,Westschweiz-Sud,CHE,2281206
-Private Call,HB3MAS Stephane Sciulli,Lausanne,no_name,CHE,2281207
-Private Call,HB9GXP Marc Battaglia,Verossaz,no_name,CHE,2281208
-Private Call,HB9VCM Ali-Reza no_name,Geneve,no_name,CHE,2281209
+Private Call,HB3MAS Stephane Sciulli,Lausanne,No_name,CHE,2281207
+Private Call,HB9GXP Marc Battaglia,Verossaz,No_name,CHE,2281208
+Private Call,HB9VCM Ali-Reza No_name,Geneve,No_name,CHE,2281209
 Private Call,HB3YCB Yves Messerli,Bulle,Fribourg,CHE,2281210
 Private Call,HB9GYR Jose-Antonio Baza,Geneva,Geneva,CHE,2281211
-Private Call,HB9GYM Jean-Pierre Keops,Geneva,no_name,CHE,2281212
-Private Call,HB9HBY Loick Cosandier,Gland,no_name,CHE,2281213
-Private Call,HB9HBZ Alexandre no_name,Geneva,Geneva,CHE,2281214
+Private Call,HB9GYM Jean-Pierre Keops,Geneva,No_name,CHE,2281212
+Private Call,HB9HBY Loick Cosandier,Gland,No_name,CHE,2281213
+Private Call,HB9HBZ Alexandre No_name,Geneva,Geneva,CHE,2281214
 Private Call,HB9GYR Jose-Antonio Baza,Geneva,Geneva,CHE,2281215
 Private Call,HB9HBE Emilie Baza,Geneva,Geneva,CHE,2281216
 Private Call,HB9TWU Gregoire Sauty,Gingins,Westschweiz-Sud,CHE,2281217
 Private Call,HB9DSB Adolphe Werder,Martigny,Westschweiz-Sud,CHE,2281218
 Private Call,HB9TIX Christophe Morsa,Chamoson,Westschweiz-Sud,CHE,2281219
-Private Call,HB9HCY Yves no_name,Bulle,Westschweiz-Sud,CHE,2281220
-Private Call,HB9VIV Stphane no_name,Servion,Westschweiz-Sud,CHE,2281221
-Private Call,HB9AE Lutry no_name,Lutry,Westschweiz-Sud,CHE,2281222
-Private Call,HB3XUH Floriane no_name,Montreux,Westschweiz-Sud,CHE,2281223
-Private Call,HB3XUI Laurent no_name,Montreux,Westschweiz-Sud,CHE,2281224
-Private Call,HB9TCT Leo no_name,Bruenisried,Westschweiz-Sud,CHE,2281225
-Private Call,HB9TCT Leo no_name,Bruenisried,Westschweiz-Sud,CHE,2281226
-Private Call,HB3XUL Xb3xul no_name,Geneva,Westschweiz-Sud,CHE,2281227
-Private Call,HB3XUL Czar no_name,Geneva,Westschweiz-Sud,CHE,2281228
-Private Call,HB3YEG Jeanluc no_name,Vuisternens-Devant-Romont,Westschweiz-Sud,CHE,2281229
-Private Call,HB9HER Dede no_name,Bullet,no_name,CHE,2281230
-Private Call,HB9HBP Christian no_name,Ravoire,no_name,CHE,2281231
-Private Call,HB9GXO Alain no_name,Missy,no_name,CHE,2281232
-Private Call,HB9GUP Cedric no_name,Euseigne,no_name,CHE,2281233
-Private Call,HB9GFV Greg no_name,Villarimboud,.,CHE,2281234
+Private Call,HB9HCY Yves No_name,Bulle,Westschweiz-Sud,CHE,2281220
+Private Call,HB9VIV Stphane No_name,Servion,Westschweiz-Sud,CHE,2281221
+Private Call,HB9AE Lutry No_name,Lutry,Westschweiz-Sud,CHE,2281222
+Private Call,HB3XUH Floriane No_name,Montreux,Westschweiz-Sud,CHE,2281223
+Private Call,HB3XUI Laurent No_name,Montreux,Westschweiz-Sud,CHE,2281224
+Private Call,HB9TCT Leo No_name,Bruenisried,Westschweiz-Sud,CHE,2281225
+Private Call,HB9TCT Leo No_name,Bruenisried,Westschweiz-Sud,CHE,2281226
+Private Call,HB3XUL Xb3xul No_name,Geneva,Westschweiz-Sud,CHE,2281227
+Private Call,HB3XUL Czar No_name,Geneva,Westschweiz-Sud,CHE,2281228
+Private Call,HB3YEG Jeanluc No_name,Vuisternens-Devant-Romont,Westschweiz-Sud,CHE,2281229
+Private Call,HB9HER Dede No_name,Bullet,No_name,CHE,2281230
+Private Call,HB9HBP Christian No_name,Ravoire,No_name,CHE,2281231
+Private Call,HB9GXO Alain No_name,Missy,No_name,CHE,2281232
+Private Call,HB9GUP Cedric No_name,Euseigne,No_name,CHE,2281233
+Private Call,HB9GFV Greg No_name,Villarimboud,.,CHE,2281234
 Private Call,HB9EVJ Vincent Jeanrenaud,Paudex,Westschweiz-Sud,CHE,2281235
 Private Call,HB9HCT Bernard Vouilloz,Meyrin,.,CHE,2281236
 Private Call,HB3XVJ Anthony Schaer,Etoy,Vaud,CHE,2281237
 Private Call,HB3XVN Pascal Honger,Ecublens,Vaud,CHE,2281238
-Private Call,HB9GUO Francesco no_name,Verbier,Vs,CHE,2281239
-Private Call,HB9CCE Roger no_name,Aigle,.,CHE,2281240
-Private Call,HB9MIG Michel no_name,Froideville,Vaud,CHE,2281241
+Private Call,HB9GUO Francesco No_name,Verbier,Vs,CHE,2281239
+Private Call,HB9CCE Roger No_name,Aigle,.,CHE,2281240
+Private Call,HB9MIG Michel No_name,Froideville,Vaud,CHE,2281241
 Private Call,HB9GFV Gregory Magnin,Villarimboud,Fribourg,CHE,2281242
-Private Call,HB9HHG Luismo70 no_name,Petit-Lancy,Geneva,CHE,2281243
-Private Call,HB3XWC Chris no_name,Lucens,.,CHE,2281244
-Private Call,HB9GZD Herve no_name,Nyon,.,CHE,2281245
+Private Call,HB9HHG Luismo70 No_name,Petit-Lancy,Geneva,CHE,2281243
+Private Call,HB3XWC Chris No_name,Lucens,.,CHE,2281244
+Private Call,HB9GZD Herve No_name,Nyon,.,CHE,2281245
 Private Call,HB9OOI Stephan Hofstetter,Grenchen,Solothurn,CHE,2282001
 Private Call,HB9BEI Bruno Knuchel,Taeuffelen,Bern,CHE,2282002
 Private Call,HB9EZV Michel Perrenoud,La Neuveville,Westschweiz-Nord,CHE,2282003
@@ -334,7 +336,7 @@ Private Call,HB9EZV Michel Perrenoud,La Neuveville,Westschweiz-Nord,CHE,2282015
 Private Call,HB3YPD Serdal Oeztuerk,Pieterln,Westschweiz-Nord,CHE,2282016
 Private Call,HB9FSL Marius Lehenne,Le Locle,Westschweiz-Nord,CHE,2282017
 Private Call,HB9SMU Boldt Pedro,Fretereules,Westschweiz-Nord,CHE,2282018
-Private Call,HB9GWC Andre no_name,Grenchen,Westschweiz-Nord,CHE,2282019
+Private Call,HB9GWC Andre No_name,Grenchen,Westschweiz-Nord,CHE,2282019
 Private Call,HB3YRY Patrick Thiebaud,La Chaux-De-Fonds,Westschweiz-Nord,CHE,2282020
 Private Call,HB9FMC Pascal Droux,Corgemont,Westschweiz-Nord,CHE,2282021
 Private Call,HB9EPM Philippe Metthez,La Chaux-De-Fonds,Westschweiz-Nord,CHE,2282022
@@ -346,55 +348,55 @@ Private Call,HB3YDK Hansruedi Konig,Embrach,Westschweiz-Nord,CHE,2282027
 Private Call,HB9EHB Carlo Maria,no_city,Westschweiz-Nord,CHE,2282028
 Private Call,HB9GPP Jerome Nikles,Cormondreche,Westschweiz-Nord,CHE,2282029
 Private Call,HB9EPC Christian Dubuis,Coffrane,Westschweiz-Nord,CHE,2282030
-Private Call,HB9GSK Daniel no_name,no_city,Westschweiz-Nord,CHE,2282031
+Private Call,HB9GSK Daniel No_name,no_city,Westschweiz-Nord,CHE,2282031
 Private Call,HB3XRF Ferdi Demir,Bienne,Westschweiz-Nord,CHE,2282032
 Private Call,HB9COS Urs Joos,Biel/bienne,Westschweiz-Nord,CHE,2282033
 Private Call,HB3YMM Christophe Aubin,Les Geneveys-Sur-Coffrane,Westschweiz-Nord,CHE,2282034
-Private Call,HB9FML Matthias Illgen,Orpund,no_name,CHE,2282035
+Private Call,HB9FML Matthias Illgen,Orpund,No_name,CHE,2282035
 Private Call,HB3YNP Phil Morend,Le Noirmont,Jura,CHE,2282036
-Private Call,HB9FXW Francois Wisard,La Chaux-De-Fonds,no_name,CHE,2282037
+Private Call,HB9FXW Francois Wisard,La Chaux-De-Fonds,No_name,CHE,2282037
 Private Call,HB9GSO Roland Urbanyik,Grenchen So,Westschweiz-Nord,CHE,2282038
-Private Call,HB9EVI Pascal no_name,Boncourt,.,CHE,2282039
-Private Call,HB9ARD Lorenz no_name,Cressier Ne,.,CHE,2282040
-Private Call,HB9HLM Andre no_name,Boudry,.,CHE,2282041
+Private Call,HB9EVI Pascal No_name,Boncourt,.,CHE,2282039
+Private Call,HB9ARD Lorenz No_name,Cressier Ne,.,CHE,2282040
+Private Call,HB9HLM Andre No_name,Boudry,.,CHE,2282041
 Private Call,HB9FMC Pascal Droux,Corgemont,Bern,CHE,2282042
-Private Call,HB9BEI Bruno no_name,Taeuffelen,Bern,CHE,2282043
+Private Call,HB9BEI Bruno No_name,Taeuffelen,Bern,CHE,2282043
 Private Call,HB9DUU Christian Christian,Ringgenberg,Interlaken,CHE,2283000
-Private Call,HB9DUU Christian no_name,Ringgenberg,Interlaken,CHE,2283001
-Private Call,HB9DUU Christian no_name,Ringgenberg,Interlaken,CHE,2283002
-Private Call,HB9DUU Christian no_name,Ringgenberg,Interlaken,CHE,2283003
-Private Call,HB9DUU Christian no_name,Ringgenberg,Bern und Oberwallis,CHE,2283004
+Private Call,HB9DUU Christian No_name,Ringgenberg,Interlaken,CHE,2283001
+Private Call,HB9DUU Christian No_name,Ringgenberg,Interlaken,CHE,2283002
+Private Call,HB9DUU Christian No_name,Ringgenberg,Interlaken,CHE,2283003
+Private Call,HB9DUU Christian No_name,Ringgenberg,Bern und Oberwallis,CHE,2283004
 Private Call,HB9MHS Roland Moser,Bern,Bern und Oberwallis,CHE,2283005
 Private Call,HB9BSP Hansueli Zwahlen,Detligen,Bern und Oberwallis,CHE,2283006
 Private Call,HB9BO Christian Schmocker,Ringgenberg,Bern und Oberwallis,CHE,2283007
 Private Call,HB9HVS Heinz Hofstetter,Wynigen,Bern und Oberwallis,CHE,2283008
 Private Call,HB9MCY Max Thomi,Bremgarten,Bern und Oberwallis,CHE,2283009
 Private Call,HB9CJQ Urs Thomi,Ittigen,Bern und Oberwallis,CHE,2283010
-Private Call,HB9BEN Ruedi no_name,Brienzwiler,Haslital,CHE,2283011
-Private Call,HB9BEN Ruedi no_name,Brienzwiler,Haslital,CHE,2283012
-Private Call,HB3YAM Vreni no_name,Brienzwiler,Haslital,CHE,2283013
-Private Call,HB9MHS Roland no_name,Bern,Bern und Umgebung,CHE,2283014
-Private Call,HB3YEI Martin no_name,Unterseen,Interlaken,CHE,2283015
-Private Call,HB9SNU Peter no_name,Brienzwiler,Haslital,CHE,2283016
-Private Call,HB9MOA Heinz no_name,Interlaken,Interlaken,CHE,2283017
+Private Call,HB9BEN Ruedi No_name,Brienzwiler,Haslital,CHE,2283011
+Private Call,HB9BEN Ruedi No_name,Brienzwiler,Haslital,CHE,2283012
+Private Call,HB3YAM Vreni No_name,Brienzwiler,Haslital,CHE,2283013
+Private Call,HB9MHS Roland No_name,Bern,Bern und Umgebung,CHE,2283014
+Private Call,HB3YEI Martin No_name,Unterseen,Interlaken,CHE,2283015
+Private Call,HB9SNU Peter No_name,Brienzwiler,Haslital,CHE,2283016
+Private Call,HB9MOA Heinz No_name,Interlaken,Interlaken,CHE,2283017
 Private Call,HB9HVS Heinz Hofstetter,Wynigen,Bern und Oberwallis,CHE,2283018
-Private Call,HB9HVE Ueli no_name,Interlaken,Interlaken,CHE,2283019
-Private Call,HB9CIU Res no_name,Unterseen,Interlaken,CHE,2283020
-Private Call,HB9EVL Heinz no_name,Frutigen,Frutigland,CHE,2283021
-Private Call,HB9EVL Heinz no_name,Frutigen,Frutigland,CHE,2283022
-Private Call,HB9EVK Barbara no_name,Frutigen,Frutigland,CHE,2283023
-Private Call,HB3YUK Oli no_name,Bern,Bern und Umgebung,CHE,2283024
-Private Call,HB9DTN Lorenz no_name,Bern,Bern und Umgebung,CHE,2283025
-Private Call,HB9BEN Ruedi no_name,Brienzwiler,Haslital,CHE,2283026
-Private Call,HB9FGW Urs no_name,Helgisried,Seftigen,CHE,2283027
-Private Call,HB9FGW Urs no_name,Helgisried,Seftigen,CHE,2283028
-Private Call,HB3YEH Jan no_name,Matten,Interlaken,CHE,2283029
-Private Call,HB9FVW Peter Wyss,Brienzwiler,no_name,CHE,2283030
-Private Call,HB9STJ Cyrill no_name,Belp,Bern-Mittelland,CHE,2283031
-Private Call,HB9STJ Cyrill no_name,Belp,Bern-Mittelland,CHE,2283032
-Private Call,HB3YIR Alex no_name,Meiringen,Haslital,CHE,2283033
-Private Call,HB9CUF Paul-Adrien no_name,Bern,Bern und Umgebung,CHE,2283034
-Private Call,HB9ESW Christoph no_name,Burgdorf,Bern,CHE,2283035
+Private Call,HB9HVE Ueli No_name,Interlaken,Interlaken,CHE,2283019
+Private Call,HB9CIU Res No_name,Unterseen,Interlaken,CHE,2283020
+Private Call,HB9EVL Heinz No_name,Frutigen,Frutigland,CHE,2283021
+Private Call,HB9EVL Heinz No_name,Frutigen,Frutigland,CHE,2283022
+Private Call,HB9EVK Barbara No_name,Frutigen,Frutigland,CHE,2283023
+Private Call,HB3YUK Oli No_name,Bern,Bern und Umgebung,CHE,2283024
+Private Call,HB9DTN Lorenz No_name,Bern,Bern und Umgebung,CHE,2283025
+Private Call,HB9BEN Ruedi No_name,Brienzwiler,Haslital,CHE,2283026
+Private Call,HB9FGW Urs No_name,Helgisried,Seftigen,CHE,2283027
+Private Call,HB9FGW Urs No_name,Helgisried,Seftigen,CHE,2283028
+Private Call,HB3YEH Jan No_name,Matten,Interlaken,CHE,2283029
+Private Call,HB9FVW Peter Wyss,Brienzwiler,No_name,CHE,2283030
+Private Call,HB9STJ Cyrill No_name,Belp,Bern-Mittelland,CHE,2283031
+Private Call,HB9STJ Cyrill No_name,Belp,Bern-Mittelland,CHE,2283032
+Private Call,HB3YIR Alex No_name,Meiringen,Haslital,CHE,2283033
+Private Call,HB9CUF Paul-Adrien No_name,Bern,Bern und Umgebung,CHE,2283034
+Private Call,HB9ESW Christoph No_name,Burgdorf,Bern,CHE,2283035
 Private Call,HB9ERS Reto Buetzberger,Kehrsatz,Bern,CHE,2283036
 Private Call,HB9FIL Marcel Staehli,Walkringen,Bern,CHE,2283037
 Private Call,HB9PFV Peter Studer,Spiez,Bern und Oberwallis,CHE,2283038
@@ -490,41 +492,41 @@ Private Call,HB9GKD Detlev Ziereisen,Belp,Bern und Oberwallis,CHE,2283127
 Private Call,HB9PKP Hans Hort,Liebistorf,Bern und Oberwallis,CHE,2283128
 Private Call,HB3YIW Benjamin Grogg,Bern,Bern und Oberwallis,CHE,2283129
 Private Call,HB9DNX Massimo Greco,Krailigen,Bern und Oberwallis,CHE,2283130
-Private Call,HB3YVR Rudolf no_name,Bern,Bern und Oberwallis,CHE,2283131
-Private Call,HB9DLB Matthias no_name,no_city,Bern und Oberwallis,CHE,2283132
+Private Call,HB3YVR Rudolf No_name,Bern,Bern und Oberwallis,CHE,2283131
+Private Call,HB9DLB Matthias No_name,no_city,Bern und Oberwallis,CHE,2283132
 Private Call,HB9GNB Thomas Baehler,Zauggenried,Bern und Oberwallis,CHE,2283133
 Private Call,HB9HQX Beat Oehrli,Brig,Bern und Oberwallis,CHE,2283134
-Private Call,HB3YSZ Daniel no_name,no_city,Bern und Oberwallis,CHE,2283135
+Private Call,HB3YSZ Daniel No_name,no_city,Bern und Oberwallis,CHE,2283135
 Private Call,HB9GSZ Patrick Bruegger,Frutigen,Bern und Oberwallis,CHE,2283136
 Private Call,HB3YYI Martin Schoenholzer,Thun,Bern und Oberwallis,CHE,2283137
 Private Call,HB3YDX Markus Waelchli,Bern,Bern und Oberwallis,CHE,2283138
-Private Call,HB9BRS Walter no_name,Bern,Bern und Oberwallis,CHE,2283139
+Private Call,HB9BRS Walter No_name,Bern,Bern und Oberwallis,CHE,2283139
 Private Call,HB9GPC Christoph Glanzmann,Bern,Bern und Oberwallis,CHE,2283140
-Private Call,HB3YIP Adrian no_name,no_city,Bern und Oberwallis,CHE,2283141
+Private Call,HB3YIP Adrian No_name,no_city,Bern und Oberwallis,CHE,2283141
 Private Call,HB9GAA Roland Elmiger,Konolfingen,Bern und Oberwallis,CHE,2283142
 Private Call,HB9BFC Juerg Ruefli,Frutigen,Bern und Oberwallis,CHE,2283143
 Private Call,HB9BWR Kurt Kobel,Zollikofen,Bern und Oberwallis,CHE,2283144
 Private Call,HB9FLW Tobias Wurzbacher,Spiez,Bern und Oberwallis,CHE,2283145
 Private Call,HB3YYW Gottfried Bach,Heimenschwand,Bern und Oberwallis,CHE,2283146
 Private Call,HB9UVM Rudolf Wenger,no_city,Bern und Oberwallis,CHE,2283147
-Private Call,HB3YBC Christian no_name,no_city,Bern und Oberwallis,CHE,2283148
-Private Call,HB9EIS Florian no_name,no_city,Bern und Oberwallis,CHE,2283149
+Private Call,HB3YBC Christian No_name,no_city,Bern und Oberwallis,CHE,2283148
+Private Call,HB9EIS Florian No_name,no_city,Bern und Oberwallis,CHE,2283149
 Private Call,HB9GIK Kevin Streit,Walliswil,Bern und Oberwallis,CHE,2283150
-Private Call,HB9FMG Adrian no_name,no_city,Bern und Oberwallis,CHE,2283151
+Private Call,HB9FMG Adrian No_name,no_city,Bern und Oberwallis,CHE,2283151
 Private Call,HB9DNM Felix Kunz,Schofflisdorf,Bern und Oberwallis,CHE,2283152
-Private Call,HB9FUR Rodjo no_name,Moosseedorf,Bern und Oberwallis,CHE,2283153
+Private Call,HB9FUR Rodjo No_name,Moosseedorf,Bern und Oberwallis,CHE,2283153
 Private Call,HB9FXH Thomas Eichenberger,Aeschau,Bern und Oberwallis,CHE,2283154
 Private Call,HB9FRN Patrick Bach,Seftigen,Bern und Oberwallis,CHE,2283155
 Private Call,HB9GSZ Patrick Bruegger,no_city,Bern und Oberwallis,CHE,2283156
-Private Call,HB9BPJ Hans-Rudolf no_name,Frutigen,Bern und Oberwallis,CHE,2283157
+Private Call,HB9BPJ Hans-Rudolf No_name,Frutigen,Bern und Oberwallis,CHE,2283157
 Private Call,HB3YHU Daniel Schupbach,Muwensingen,Bern und Oberwallis,CHE,2283158
 Private Call,HB9BWA Walter Buehler,Belp,Bern und Oberwallis,CHE,2283159
-Private Call,HB9XBK Roman no_name,no_city,Bern und Oberwallis,CHE,2283160
+Private Call,HB9XBK Roman No_name,no_city,Bern und Oberwallis,CHE,2283160
 Private Call,HB3YYH Peter Schneider,Interlaken,Bern und Oberwallis,CHE,2283161
 Private Call,HB9GNB Thomas Bahler,Zauggenried,Bern und Oberwallis,CHE,2283162
-Private Call,HB3YHJ Simon no_name,Liechtenstein,Bern und Oberwallis,CHE,2283163
+Private Call,HB3YHJ Simon No_name,Liechtenstein,Bern und Oberwallis,CHE,2283163
 Private Call,HB3YWJ Bruno Bergmann,Gwatt,Bern und Oberwallis,CHE,2283164
-Private Call,HB9GUN Andreas no_name,no_city,Bern und Oberwallis,CHE,2283165
+Private Call,HB9GUN Andreas No_name,no_city,Bern und Oberwallis,CHE,2283165
 Private Call,HB9GUV Martin Schoenholzer,Thun,Bern und Oberwallis,CHE,2283166
 Private Call,HB9GAS Andre Buerki,Ostermundigen,Bern und Oberwallis,CHE,2283167
 Private Call,HB9GAA Roland Elmiger,Konolfingen,Bern und Oberwallis,CHE,2283168
@@ -535,40 +537,40 @@ Private Call,HB9DNF Georg Brechbuehl,Burgdorf,Bern und Oberwallis,CHE,2283172
 Private Call,HB9FIW Regina Gasser,Hettiswil,Bern und Oberwallis,CHE,2283173
 Private Call,HB9GPR Simon Neuhaus,Oberhofen,Bern und Oberwallis,CHE,2283174
 Private Call,HB9GWD Peter Schneider,Interlaken,Bern und Oberwallis,CHE,2283175
-Private Call,HB9PRH Heinz Rohrer,Schliern,no_name,CHE,2283176
+Private Call,HB9PRH Heinz Rohrer,Schliern,No_name,CHE,2283176
 Private Call,HB9TTE Samuel Mann,Thun,Bern,CHE,2283177
-Private Call,HB9FZD Arnold Grossmann,Bern,no_name,CHE,2283178
+Private Call,HB9FZD Arnold Grossmann,Bern,No_name,CHE,2283178
 Private Call,HB9GXK Gottfried Bach,Heimenschwand,Bern und Oberwallis,CHE,2283179
 Private Call,HB3YRX Matthias Nyfeler,Aarberg,Bern,CHE,2283180
 Private Call,HB3YBS Monty Schebesta,Javea,Valencia,CHE,2283181
-Private Call,HB9GHC Bruno Maire,Oberburg,no_name,CHE,2283182
+Private Call,HB9GHC Bruno Maire,Oberburg,No_name,CHE,2283182
 Private Call,HB3YRU Mark Gress,Zollikofen,Bern,CHE,2283183
 Private Call,HB3YZD Pascal Marti,Grosshoechstetten,Bern,CHE,2283184
 Private Call,HB9GZQ Peter Baumann,Bern,Bern und Oberwallis,CHE,2283185
-Private Call,HB3XRE Peter no_name,St.Gallen,no_name,CHE,2283186
-Private Call,HB9OAD Gianpaolo no_name,Bellinzona,Ticino,CHE,2283187
-Private Call,HB9BJL Christian Eugster,Messen,no_name,CHE,2283188
-Private Call,HB9HDW Christoph no_name,Worben,Bern und Oberwallis,CHE,2283189
-Private Call,HB9CZV Werner Buechli,Spiez,no_name,CHE,2283190
+Private Call,HB3XRE Peter No_name,St.Gallen,No_name,CHE,2283186
+Private Call,HB9OAD Gianpaolo No_name,Bellinzona,Ticino,CHE,2283187
+Private Call,HB9BJL Christian Eugster,Messen,No_name,CHE,2283188
+Private Call,HB9HDW Christoph No_name,Worben,Bern und Oberwallis,CHE,2283189
+Private Call,HB9CZV Werner Buechli,Spiez,No_name,CHE,2283190
 Private Call,HB3XSX Martin Bader,Steg im Tosstal,Bern,CHE,2283191
 Private Call,HB3YWL Michael Niederhausern,Heimberg,Bern,CHE,2283192
 Private Call,HB9EWH Hansjoerg Wittwer,Muensingen,Bern,CHE,2283193
 Private Call,HB9RNP Peter Kraft,Huenibach,Bern,CHE,2283194
-Private Call,HB9HBH Simon no_name,Schliern,Bern und Oberwallis,CHE,2283195
+Private Call,HB9HBH Simon No_name,Schliern,Bern und Oberwallis,CHE,2283195
 Private Call,HB9FEA Joaquim Dias,Brienz Be,Bern und Oberwallis,CHE,2283196
 Private Call,HB9CWK Hans Pfister,Heimiswil,Bern und Oberwallis,CHE,2283197
-Private Call,HB3XUE Elisabeth no_name,Thun,Bern und Oberwallis,CHE,2283198
-Private Call,HB3XTM Mario no_name,Muehlethurnen,Bern und Oberwallis,CHE,2283199
-Private Call,HB9RWR Urs Fluekiger,Ersigen,no_name,CHE,2283200
-Private Call,HB9SHB Marc no_name,Zollikofen,no_name,CHE,2283201
-Private Call,HB9RVH No_name no_name,no_city,.,CHE,2283202
-Private Call,HB9RVG Roli no_name,Graechen,no_name,CHE,2283203
-Private Call,HB9TBI Francesco no_name,Bern,no_name,CHE,2283204
-Private Call,HB9EVN Remo no_name,Bern,no_name,CHE,2283205
-Private Call,HB9HGK Kevin no_name,Zollikofen,Bern und Oberwallis,CHE,2283206
+Private Call,HB3XUE Elisabeth No_name,Thun,Bern und Oberwallis,CHE,2283198
+Private Call,HB3XTM Mario No_name,Muehlethurnen,Bern und Oberwallis,CHE,2283199
+Private Call,HB9RWR Urs Fluekiger,Ersigen,No_name,CHE,2283200
+Private Call,HB9SHB Marc No_name,Zollikofen,No_name,CHE,2283201
+Private Call,HB9RVH No_name No_name,no_city,.,CHE,2283202
+Private Call,HB9RVG Roli No_name,Graechen,No_name,CHE,2283203
+Private Call,HB9TBI Francesco No_name,Bern,No_name,CHE,2283204
+Private Call,HB9EVN Remo No_name,Bern,No_name,CHE,2283205
+Private Call,HB9HGK Kevin No_name,Zollikofen,Bern und Oberwallis,CHE,2283206
 Private Call,HB9GUX Hawe Grotemeyer,Muensingen / Bern,Bern,CHE,2283207
 Private Call,HB9TKB Reto Trachsel,Steffisburg,Bern,CHE,2283208
-Private Call,HB9BMR Lorenz no_name,Gurmels,.,CHE,2283209
+Private Call,HB9BMR Lorenz No_name,Gurmels,.,CHE,2283209
 Private Call,HB9HGU David Gertsch,Innertkirchen,Be,CHE,2283210
 Private Call,HB9AOO Kurt Von Escher,Ch-3267 Seedorf,.,CHE,2283211
 Private Call,HB9HID Meno Schnapauff,Spiegel Be,.,CHE,2283212
@@ -576,44 +578,44 @@ Private Call,HB9EMQ Andy Wetzikon,Oberbuchsitten,Olten,CHE,2284001
 Private Call,HB9EMQ Andy Wetzikon,Oberbuchsitten,Olten,CHE,2284002
 Private Call,HB9EMQ Andy Wetzikon,Oberbuchsitten,Olten,CHE,2284003
 Private Call,HB9EMQ Andy Wetzikon,Oberbuchsitten,Olten,CHE,2284004
-Private Call,HB9MFL Armin no_name,Deitingen,Solothurn,CHE,2284005
-Private Call,HB3YKD Tata no_name,Oberbuchsitten,Olten,CHE,2284006
+Private Call,HB9MFL Armin No_name,Deitingen,Solothurn,CHE,2284005
+Private Call,HB3YKD Tata No_name,Oberbuchsitten,Olten,CHE,2284006
 Private Call,HB9EBZ Lukas Mundwiler,Hafelfingen,Basel Land,CHE,2284007
 Private Call,HB9EBZ Lukas Mundwiler,Hafelfingen,Basel Land,CHE,2284008
-Private Call,HB9FGF Beat no_name,Zofingen,Aargau,CHE,2284009
-Private Call,HB9ROH Erich no_name,Farnern,Solothurn,CHE,2284010
-Private Call,HB9ROH Erich no_name,Farnern,Solothurn,CHE,2284011
-Private Call,HB9MNX Christoph no_name,Langendorf,Solothurn,CHE,2284012
-Private Call,HB9MNX Christoph no_name,Langendorf,Solothurn,CHE,2284013
-Private Call,HB9TWT Max no_name,Langenbruck,Basel Land,CHE,2284014
-Private Call,HB9TWT Max no_name,Langenbruck,Basel Land,CHE,2284015
-Private Call,HB9TWT Max no_name,Langenbruck,Basel Land,CHE,2284016
-Private Call,HB9TVW Gabriele no_name,Basel,Basel,CHE,2284017
-Private Call,HB9FEF Beni no_name,Basel,Basel Stadt,CHE,2284018
+Private Call,HB9FGF Beat No_name,Zofingen,Aargau,CHE,2284009
+Private Call,HB9ROH Erich No_name,Farnern,Solothurn,CHE,2284010
+Private Call,HB9ROH Erich No_name,Farnern,Solothurn,CHE,2284011
+Private Call,HB9MNX Christoph No_name,Langendorf,Solothurn,CHE,2284012
+Private Call,HB9MNX Christoph No_name,Langendorf,Solothurn,CHE,2284013
+Private Call,HB9TWT Max No_name,Langenbruck,Basel Land,CHE,2284014
+Private Call,HB9TWT Max No_name,Langenbruck,Basel Land,CHE,2284015
+Private Call,HB9TWT Max No_name,Langenbruck,Basel Land,CHE,2284016
+Private Call,HB9TVW Gabriele No_name,Basel,Basel,CHE,2284017
+Private Call,HB9FEF Beni No_name,Basel,Basel Stadt,CHE,2284018
 Private Call,HB9FEF Beni Gelzer,Basel,Basel/solothurn,CHE,2284019
 Private Call,HB9FEG Jakob Grieder,Aurigeno,Basel Stadt,CHE,2284020
 Private Call,HB9FEG Jakob Grieder,Aurigeno,Basel Stadt,CHE,2284021
-Private Call,HB3YDW Samuel no_name,Oberamsern,Solothurn,CHE,2284022
-Private Call,HB9RNX Hansruedi no_name,Bellach,Solothurn,CHE,2284023
-Private Call,HB9EXT Lukas no_name,Riehen,Basel Stadt,CHE,2284024
-Private Call,HB9EXT Lukas no_name,Riehen,Basel Stadt,CHE,2284025
-Private Call,HB9TQJ Philipp no_name,Dornach,Solothurn,CHE,2284026
-Private Call,HB9TQJ Philipp no_name,Dornach,Solothurn,CHE,2284027
-Private Call,HB9FND Alex no_name,Steinhof,Solothurn,CHE,2284028
-Private Call,HB9FND Alex no_name,Steinhof,Solothurn,CHE,2284029
-Private Call,HB9NMT Matthias no_name,Muttenz,Basel Land,CHE,2284030
-Private Call,HB9NMT Matthias no_name,Muttenz,Basel Land,CHE,2284031
-Private Call,HB9FIA Philipp no_name,Basel,Basel Stadt,CHE,2284032
-Private Call,HB9FIA Philipp no_name,Basel,Basel Stadt,CHE,2284033
-Private Call,HB9EYW Philipp no_name,Allschwil,Basel Land,CHE,2284034
-Private Call,HB9EYW Philipp no_name,Allschwil,Basel Land,CHE,2284035
-Private Call,HB9FMJ Kurt no_name,Lohn,Solothurn,CHE,2284036
-Private Call,HB9FEH Sergio no_name,Basel,Basel Stadt,CHE,2284037
-Private Call,HB9RCJ Martin no_name,Arlesheim,Basel Land,CHE,2284038
-Private Call,HB9RCJ Martin no_name,Arlesheim,Basel Land,CHE,2284039
-Private Call,HB9AUV Ruedi no_name,Olten,Olten,CHE,2284040
+Private Call,HB3YDW Samuel No_name,Oberamsern,Solothurn,CHE,2284022
+Private Call,HB9RNX Hansruedi No_name,Bellach,Solothurn,CHE,2284023
+Private Call,HB9EXT Lukas No_name,Riehen,Basel Stadt,CHE,2284024
+Private Call,HB9EXT Lukas No_name,Riehen,Basel Stadt,CHE,2284025
+Private Call,HB9TQJ Philipp No_name,Dornach,Solothurn,CHE,2284026
+Private Call,HB9TQJ Philipp No_name,Dornach,Solothurn,CHE,2284027
+Private Call,HB9FND Alex No_name,Steinhof,Solothurn,CHE,2284028
+Private Call,HB9FND Alex No_name,Steinhof,Solothurn,CHE,2284029
+Private Call,HB9NMT Matthias No_name,Muttenz,Basel Land,CHE,2284030
+Private Call,HB9NMT Matthias No_name,Muttenz,Basel Land,CHE,2284031
+Private Call,HB9FIA Philipp No_name,Basel,Basel Stadt,CHE,2284032
+Private Call,HB9FIA Philipp No_name,Basel,Basel Stadt,CHE,2284033
+Private Call,HB9EYW Philipp No_name,Allschwil,Basel Land,CHE,2284034
+Private Call,HB9EYW Philipp No_name,Allschwil,Basel Land,CHE,2284035
+Private Call,HB9FMJ Kurt No_name,Lohn,Solothurn,CHE,2284036
+Private Call,HB9FEH Sergio No_name,Basel,Basel Stadt,CHE,2284037
+Private Call,HB9RCJ Martin No_name,Arlesheim,Basel Land,CHE,2284038
+Private Call,HB9RCJ Martin No_name,Arlesheim,Basel Land,CHE,2284039
+Private Call,HB9AUV Ruedi No_name,Olten,Olten,CHE,2284040
 Private Call,HB9DBQ Benj Tschumi,Zuchwil,Basel/solothurn,CHE,2284041
-Private Call,HB9FGU Michael no_name,Basel,Basel,CHE,2284042
+Private Call,HB9FGU Michael No_name,Basel,Basel,CHE,2284042
 Private Call,HB9DDE Urs Haechler,Rothrist,Aargau,CHE,2284043
 Private Call,HB9SQV Ralph Vonlaufen,Langendorf,Basel,CHE,2284044
 Private Call,HB9FKF Thomas Egloff,Basel,Basel Stadt,CHE,2284045
@@ -706,10 +708,10 @@ Private Call,HB9GKI Karsten Kroesch,Dulliken,Basel/solothurn,CHE,2284131
 Private Call,HB9DOL Stefan Pauli,Biberist,Basel/solothurn,CHE,2284132
 Private Call,HB3YMZ Michel Meili,Laeufelfingen,Basel/solothurn,CHE,2284133
 Private Call,HB9FZX Christian Koelliker,Wynau,Basel/solothurn,CHE,2284134
-Private Call,HB9GFI Daniel no_name,no_city,Basel/solothurn,CHE,2284135
+Private Call,HB9GFI Daniel No_name,no_city,Basel/solothurn,CHE,2284135
 Private Call,HB9BSL Funkamateur Club,Basel,Basel/solothurn,CHE,2284136
 Private Call,HB9KIDS Funk-Amateur Club,Basel,Basel/solothurn,CHE,2284137
-Private Call,HB9CWI Budi no_name,no_city,Basel/solothurn,CHE,2284138
+Private Call,HB9CWI Budi No_name,no_city,Basel/solothurn,CHE,2284138
 Private Call,HB9FZX Christian Koelliker,Wynau,Basel/solothurn,CHE,2284139
 Private Call,HB9TUL Mimmo Labriola,Gerlafingen,Westschweiz-Nord,CHE,2284140
 Private Call,HB9DHR Heinz Ruef,Vordemwald,Basel/solothurn,CHE,2284141
@@ -718,127 +720,127 @@ Private Call,HB9BNQ Sammy Pluess,Rheinfelden,Basel/solothurn,CHE,2284143
 Private Call,HB9BVB Helmut Scharrer,Rheinfelden,Basel/solothurn,CHE,2284144
 Private Call,HB9FVK Ruedi Kneubuehler,Strengelbach,Basel/solothurn,CHE,2284145
 Private Call,HB9EOR Rolf Schulthess,Melchnau,Basel/solothurn,CHE,2284146
-Private Call,HB9FMZ Walter no_name,Basel,Basel/solothurn,CHE,2284147
-Private Call,HB9GIQ Andreas no_name,Basel,Basel/solothurn,CHE,2284148
-Private Call,HB9FSG Toni no_name,Basel,Basel/solothurn,CHE,2284149
-Private Call,HB9GNZ Michel no_name,Basel,Basel/solothurn,CHE,2284150
+Private Call,HB9FMZ Walter No_name,Basel,Basel/solothurn,CHE,2284147
+Private Call,HB9GIQ Andreas No_name,Basel,Basel/solothurn,CHE,2284148
+Private Call,HB9FSG Toni No_name,Basel,Basel/solothurn,CHE,2284149
+Private Call,HB9GNZ Michel No_name,Basel,Basel/solothurn,CHE,2284150
 Private Call,HB3YST Bruno Strub,Daniken,Basel/solothurn,CHE,2284151
 Private Call,HB9DSG Paul Schar,Basel,Basel/solothurn,CHE,2284152
-Private Call,HB9EAS No_name no_name,Amateurfunkgruppe Hb9eas,Basel/solothurn,CHE,2284153
-Private Call,HB3YDB Daniel no_name,Basel,Basel/solothurn,CHE,2284154
-Private Call,HB9GSQ Mathias no_name,Basel,Basel/solothurn,CHE,2284155
-Private Call,HB9GSI Pascal no_name,Basel,Basel/solothurn,CHE,2284156
+Private Call,HB9EAS No_name No_name,Amateurfunkgruppe Hb9eas,Basel/solothurn,CHE,2284153
+Private Call,HB3YDB Daniel No_name,Basel,Basel/solothurn,CHE,2284154
+Private Call,HB9GSQ Mathias No_name,Basel,Basel/solothurn,CHE,2284155
+Private Call,HB9GSI Pascal No_name,Basel,Basel/solothurn,CHE,2284156
 Private Call,HB3YOY Hansruedi Thomann,Rheinfelden,Basel/solothurn,CHE,2284157
 Private Call,HB9GSP Josua Studer,Allschwil,Basel/solothurn,CHE,2284158
 Private Call,HB9EDQ Klaus Frank,Gempen,Basel/solothurn,CHE,2284159
 Private Call,HB9DIO Urs Keller,Muenchenstein,Basel/solothurn,CHE,2284160
 Private Call,HB9DKQ Christoph Briel,Basel,Basel/solothurn,CHE,2284161
 Private Call,HB9BOQ Thomas Kost,Basel,Basel/solothurn,CHE,2284162
-Private Call,HB9GUB Kurt no_name,Basel,Basel/solothurn,CHE,2284163
+Private Call,HB9GUB Kurt No_name,Basel,Basel/solothurn,CHE,2284163
 Private Call,HB9FRL Ernst Erni,Zofingen,Basel/solothurn,CHE,2284164
 Private Call,HB9GSP Josua Studer,Allschwil,Basel/solothurn,CHE,2284165
-Private Call,HB9FGH Werner no_name,Basel,Basel/solothurn,CHE,2284166
+Private Call,HB9FGH Werner No_name,Basel,Basel/solothurn,CHE,2284166
 Private Call,HB9EHS Raymond Kochli,Frenkendorf,Basel/solothurn,CHE,2284167
 Private Call,HB9EDU Franz Grolimund,Basel,Basel/solothurn,CHE,2284168
 Private Call,HB9DKX Michael Ackermann,Allschwil,Basel/solothurn,CHE,2284169
 Private Call,HB9TPU Udo Allmen,Olten,Basel/solothurn,CHE,2284170
-Private Call,HB3XPM Hans no_name,Basel,Basel/solothurn,CHE,2284171
+Private Call,HB3XPM Hans No_name,Basel,Basel/solothurn,CHE,2284171
 Private Call,HB9GSV Adrian Stauffer,Oensingen,Basel/solothurn,CHE,2284172
-Private Call,HB9TPW Hanspeter no_name,no_city,Basel/solothurn,CHE,2284173
-Private Call,HB9GPK Manuel no_name,Basel,Basel/solothurn,CHE,2284174
+Private Call,HB9TPW Hanspeter No_name,no_city,Basel/solothurn,CHE,2284173
+Private Call,HB9GPK Manuel No_name,Basel,Basel/solothurn,CHE,2284174
 Private Call,HB9CKO Jacques Wehrli,Giswil,Basel/solothurn,CHE,2284175
 Private Call,HB9RMM Marcel Krumm,Basel,Basel/solothurn,CHE,2284176
 Private Call,HB3MAM Christian Brunold,Reinach,Basel/solothurn,CHE,2284177
-Private Call,HB3YBT Luzius Uffer,Allschwil,no_name,CHE,2284178
-Private Call,HB9TQK Daniel Guenin,Allschwil,no_name,CHE,2284179
+Private Call,HB3YBT Luzius Uffer,Allschwil,No_name,CHE,2284178
+Private Call,HB9TQK Daniel Guenin,Allschwil,No_name,CHE,2284179
 Private Call,HB3YUO Esther Thomann,Rheinfelden,Aargau,CHE,2284180
 Private Call,HB9DDI Georges Kohler,Brittnau,Aargau,CHE,2284181
-Private Call,HB9FED Hansruedi Meier,Frenkendorf,no_name,CHE,2284182
-Private Call,HB9DSO Erwin Hagist,Reinach,no_name,CHE,2284183
-Private Call,HB3XPI Tobias R,Basel,no_name,CHE,2284184
-Private Call,HB9EBS Andreas Schuepp,Oberwil,no_name,CHE,2284185
+Private Call,HB9FED Hansruedi Meier,Frenkendorf,No_name,CHE,2284182
+Private Call,HB9DSO Erwin Hagist,Reinach,No_name,CHE,2284183
+Private Call,HB3XPI Tobias R,Basel,No_name,CHE,2284184
+Private Call,HB9EBS Andreas Schuepp,Oberwil,No_name,CHE,2284185
 Private Call,HB9TQP Martin Nikles,Allschwil,Basel/solothurn,CHE,2284186
-Private Call,HB9EBX Angelo Gianola,Himmelried,no_name,CHE,2284187
+Private Call,HB9EBX Angelo Gianola,Himmelried,No_name,CHE,2284187
 Private Call,HB9BLV Viktor Gnos,Binningen,Basel/solothurn,CHE,2284188
-Private Call,HB9SNC Rene no_name,Basel,no_name,CHE,2284189
+Private Call,HB9SNC Rene No_name,Basel,No_name,CHE,2284189
 Private Call,HB9GXA Susanne Studer,Allschwil,Basel/solothurn,CHE,2284190
-Private Call,HB9GXV Adrian no_name,Allschwil,Basel/solothurn,CHE,2284191
-Private Call,HB3YUR Moll Charles,Olten,no_name,CHE,2284192
-Private Call,HB9FRK Andi Fuhr,Basel,no_name,CHE,2284193
-Private Call,HB3YPO Zsolt Tari,Basel,no_name,CHE,2284194
-Private Call,HB9EDW Daniel Schuler,Langenbuhl,no_name,CHE,2284195
-Private Call,HB9CYX Fritz Mueller,Olten,no_name,CHE,2284196
-Private Call,HB9NCZ Roland Duvaud,Allschwil,no_name,CHE,2284197
-Private Call,HB9ECS Charly Saner,Allschwil,no_name,CHE,2284198
-Private Call,HB3YNT Andreas Kaser,Bellach,no_name,CHE,2284199
+Private Call,HB9GXV Adrian No_name,Allschwil,Basel/solothurn,CHE,2284191
+Private Call,HB3YUR Moll Charles,Olten,No_name,CHE,2284192
+Private Call,HB9FRK Andi Fuhr,Basel,No_name,CHE,2284193
+Private Call,HB3YPO Zsolt Tari,Basel,No_name,CHE,2284194
+Private Call,HB9EDW Daniel Schuler,Langenbuhl,No_name,CHE,2284195
+Private Call,HB9CYX Fritz Mueller,Olten,No_name,CHE,2284196
+Private Call,HB9NCZ Roland Duvaud,Allschwil,No_name,CHE,2284197
+Private Call,HB9ECS Charly Saner,Allschwil,No_name,CHE,2284198
+Private Call,HB3YNT Andreas Kaser,Bellach,No_name,CHE,2284199
 Private Call,HB9DIO Urs Keller,Muenchenstein,Basel/solothurn,CHE,2284200
-Private Call,HB3YOS Stefan Hohl,Trimbach,no_name,CHE,2284201
-Private Call,HB9GXV Adrian Kunz,Allschwil,no_name,CHE,2284202
+Private Call,HB3YOS Stefan Hohl,Trimbach,No_name,CHE,2284201
+Private Call,HB9GXV Adrian Kunz,Allschwil,No_name,CHE,2284202
 Private Call,HB9GXW Carlos Garcia,Reinach,Basel,CHE,2284203
 Private Call,HB9GKH Christian Kaiser,Basel,Basel,CHE,2284204
 Private Call,HB9GXA Susanne Studer,Allschwil,Basel,CHE,2284205
-Private Call,HB9GZX Daniel Grola,Liestal,no_name,CHE,2284206
-Private Call,HB9HBC Simon no_name,Basel,no_name,CHE,2284207
-Private Call,HB9HBB Michael Senn,Muttenz,no_name,CHE,2284208
+Private Call,HB9GZX Daniel Grola,Liestal,No_name,CHE,2284206
+Private Call,HB9HBC Simon No_name,Basel,No_name,CHE,2284207
+Private Call,HB9HBB Michael Senn,Muttenz,No_name,CHE,2284208
 Private Call,HB9GSY Philipp Gurtner,Gelterkinden,Basel,CHE,2284209
 Private Call,HB9TXZ Bernhard Acklin,Binningen,Basel,CHE,2284210
-Private Call,HB3XTN Remo no_name,no_city,Basel/solothurn,CHE,2284211
+Private Call,HB3XTN Remo No_name,no_city,Basel/solothurn,CHE,2284211
 Private Call,HB9NCS Leopoldo Schnalzer,Washington,Arkansas,CHE,2284212
 Private Call,HB9FZQ Nicolas Dirac,Itingen,Basel,CHE,2284213
-Private Call,HB3YHG Peter no_name,Rheinfelden,Basel/solothurn,CHE,2284214
-Private Call,HB3XTL Beatrice no_name,Daeniken,Basel/solothurn,CHE,2284215
+Private Call,HB3YHG Peter No_name,Rheinfelden,Basel/solothurn,CHE,2284214
+Private Call,HB3XTL Beatrice No_name,Daeniken,Basel/solothurn,CHE,2284215
 Private Call,HB9OMP Roland Bahler,Biel-Bienne,Basel/solothurn,CHE,2284216
-Private Call,HB9BZG Kurt no_name,Solothurn,Basel/solothurn,CHE,2284217
-Private Call,HB9HCV Raphael no_name,Wiedlisbach,Basel/solothurn,CHE,2284218
-Private Call,HB9SLM Roger no_name,Solothurn,Basel/solothurn,CHE,2284219
-Private Call,HB9HBV Jeanpierre no_name,Muttenz,Basel/solothurn,CHE,2284220
-Private Call,HB9HBU Anita no_name,Muttenz,Basel/solothurn,CHE,2284221
-Private Call,HB9CNX Stephan no_name,Welschenrohr,Basel/solothurn,CHE,2284222
+Private Call,HB9BZG Kurt No_name,Solothurn,Basel/solothurn,CHE,2284217
+Private Call,HB9HCV Raphael No_name,Wiedlisbach,Basel/solothurn,CHE,2284218
+Private Call,HB9SLM Roger No_name,Solothurn,Basel/solothurn,CHE,2284219
+Private Call,HB9HBV Jeanpierre No_name,Muttenz,Basel/solothurn,CHE,2284220
+Private Call,HB9HBU Anita No_name,Muttenz,Basel/solothurn,CHE,2284221
+Private Call,HB9CNX Stephan No_name,Welschenrohr,Basel/solothurn,CHE,2284222
 Private Call,HB9HDH Patrick Hak,Nenzlingen. Baselland,Basel/solothurn,CHE,2284223
 Private Call,HB9HDK Bruno Strub,Daeniken,Basel/solothurn,CHE,2284224
-Private Call,HB9HIM Markus no_name,Rheinfelden,Markus,CHE,2284225
-Private Call,HB9BLA Andreas no_name,Lausen,Andreas,CHE,2284226
+Private Call,HB9HIM Markus No_name,Rheinfelden,Markus,CHE,2284225
+Private Call,HB9BLA Andreas No_name,Lausen,Andreas,CHE,2284226
 Private Call,HB9CEY Gerald Eberle,Ziefen / Bl,Gerald,CHE,2284227
-Private Call,HB3XUW Simon no_name,Rohrbach,Simon,CHE,2284228
-Private Call,HB9HEF Beatrice no_name,Daeniken,no_name,CHE,2284229
+Private Call,HB3XUW Simon No_name,Rohrbach,Simon,CHE,2284228
+Private Call,HB9HEF Beatrice No_name,Daeniken,No_name,CHE,2284229
 Private Call,HB9FFW Daniel Wuester,Niederbipp,Daniel,CHE,2284230
-Private Call,HB3XTY Joerg no_name,Derendingen,no_name,CHE,2284231
-Private Call,HB9BLA Andreas Spiess,Lausen,no_name,CHE,2284232
-Private Call,HB9EAJ Stephan no_name,Basel,no_name,CHE,2284233
-Private Call,HB9TPQ Dieter no_name,Solothurn,no_name,CHE,2284234
-Private Call,HB9PFA Albert no_name,Muenchenstein,no_name,CHE,2284235
-Private Call,HB9GVA Romeo Kienzler,Basel,no_name,CHE,2284236
+Private Call,HB3XTY Joerg No_name,Derendingen,No_name,CHE,2284231
+Private Call,HB9BLA Andreas Spiess,Lausen,No_name,CHE,2284232
+Private Call,HB9EAJ Stephan No_name,Basel,No_name,CHE,2284233
+Private Call,HB9TPQ Dieter No_name,Solothurn,No_name,CHE,2284234
+Private Call,HB9PFA Albert No_name,Muenchenstein,No_name,CHE,2284235
+Private Call,HB9GVA Romeo Kienzler,Basel,No_name,CHE,2284236
 Private Call,HB3XVF Andrea Bertoneri,Basel,.,CHE,2284237
-Private Call,HB9PCH Christian no_name,Allschwil,.,CHE,2284238
+Private Call,HB9PCH Christian No_name,Allschwil,.,CHE,2284238
 Private Call,HB3XVI Pascal Steck,Muttenz,Basel,CHE,2284239
-Private Call,HB9HGH Schindler no_name,Pfeffingen,Basel-Landschaft,CHE,2284240
+Private Call,HB9HGH Schindler No_name,Pfeffingen,Basel-Landschaft,CHE,2284240
 Private Call,HB9HGG Simon Wuethrich,Rohrbach,Oberaargau,CHE,2284241
-Private Call,HB9MKV Rudi no_name,Buesserach,.,CHE,2284242
-Private Call,HB9HEI Dominic no_name,Winznau,.,CHE,2284243
+Private Call,HB9MKV Rudi No_name,Buesserach,.,CHE,2284242
+Private Call,HB9HEI Dominic No_name,Winznau,.,CHE,2284243
 Private Call,HB9GUU Peter Dietschi,Langendorf,.,CHE,2284244
-Private Call,HB9TCZ Rick no_name,Laupersdorf,.,CHE,2284245
-Private Call,HB3XVW Martin no_name,Lohn-Ammannsegg,Solothurn,CHE,2284246
-Private Call,HB3XVM Martin no_name,Basel-Stadt,.,CHE,2284247
-Private Call,HB3XWF Thomas no_name,Riehen,.,CHE,2284248
-Private Call,HB9HHZ Andy no_name,Basel,.,CHE,2284249
-Private Call,HB9ANQ Ruedi no_name,Subingen,.,CHE,2284250
-Private Call,HB9MGI Ernst no_name,Riehen,.,CHE,2284251
+Private Call,HB9TCZ Rick No_name,Laupersdorf,.,CHE,2284245
+Private Call,HB3XVW Martin No_name,Lohn-Ammannsegg,Solothurn,CHE,2284246
+Private Call,HB3XVM Martin No_name,Basel-Stadt,.,CHE,2284247
+Private Call,HB3XWF Thomas No_name,Riehen,.,CHE,2284248
+Private Call,HB9HHZ Andy No_name,Basel,.,CHE,2284249
+Private Call,HB9ANQ Ruedi No_name,Subingen,.,CHE,2284250
+Private Call,HB9MGI Ernst No_name,Riehen,.,CHE,2284251
 Private Call,HB9XBY Toni Thiele,Daeniken 4658,So,CHE,2284252
-Private Call,HB3XWR Eveline no_name,Nenzlingen,.,CHE,2284253
-Private Call,HB3XWL Thomas no_name,Rohrbach,.,CHE,2284254
-Private Call,HB9HIF Florian no_name,Grellingen,.,CHE,2284255
+Private Call,HB3XWR Eveline No_name,Nenzlingen,.,CHE,2284253
+Private Call,HB3XWL Thomas No_name,Rohrbach,.,CHE,2284254
+Private Call,HB9HIF Florian No_name,Grellingen,.,CHE,2284255
 Private Call,HB9CNT Paul Streich,Untersiggenthal,Baden,CHE,2285001
 Private Call,HB9CNT Paul Streich,Untersiggenthal,Baden,CHE,2285002
 Private Call,HB9CNT Paul Streich,Untersiggenthal,Baden,CHE,2285003
 Private Call,HB9CNT Paul Streich,Untersiggenthal,Baden,CHE,2285004
-Private Call,HB9AQB Heinz no_name,Doettingen,Aargau,CHE,2285005
-Private Call,HB9RDD Christian no_name,Holderbank,Aargau,CHE,2285006
-Private Call,HB3YEC Christian no_name,Rupperswil,Aargau,CHE,2285007
-Private Call,HB9FDS Christian no_name,Mellingen,Aargau,CHE,2285008
-Private Call,HB9TUF Andi no_name,Niedergoesgen,Solothurn,CHE,2285009
-Private Call,HB3YLR Sonia no_name,Niedergoesgen,Solothurn,CHE,2285010
-Private Call,HB9TTD Wolfram no_name,Hendschiken,Aargau,CHE,2285011
-Private Call,HB9FGE Sabrina no_name,Mellikon,Aargau,CHE,2285012
+Private Call,HB9AQB Heinz No_name,Doettingen,Aargau,CHE,2285005
+Private Call,HB9RDD Christian No_name,Holderbank,Aargau,CHE,2285006
+Private Call,HB3YEC Christian No_name,Rupperswil,Aargau,CHE,2285007
+Private Call,HB9FDS Christian No_name,Mellingen,Aargau,CHE,2285008
+Private Call,HB9TUF Andi No_name,Niedergoesgen,Solothurn,CHE,2285009
+Private Call,HB3YLR Sonia No_name,Niedergoesgen,Solothurn,CHE,2285010
+Private Call,HB9TTD Wolfram No_name,Hendschiken,Aargau,CHE,2285011
+Private Call,HB9FGE Sabrina No_name,Mellikon,Aargau,CHE,2285012
 Private Call,HB9XCA Yves Frey,Holziken,Aargau,CHE,2285013
 Private Call,HB9DWW Peter Amsler,Rupperswil,Aargau,CHE,2285014
 Private Call,HB9DWS Hansjoerg Baur,Schlossrued,Aargau,CHE,2285015
@@ -872,7 +874,7 @@ Private Call,HB9PWA Markus Frey,Aristau,Aargau,CHE,2285042
 Private Call,HB9TRQ Oliver Schellenberg,Baden,Aargau,CHE,2285043
 Private Call,HB9FPX Fritz Tanner,Oberkulm,Aargau,CHE,2285044
 Private Call,HB9FPW Toni Tanner,Oberkulm,Aargau,CHE,2285045
-Private Call,HB9PDM Mathis no_name,Oberkulm,Aargau,CHE,2285046
+Private Call,HB9PDM Mathis No_name,Oberkulm,Aargau,CHE,2285046
 Private Call,HB9SOI Robert Waldvogel,Brugg,Aargau,CHE,2285047
 Private Call,HB9FSI Vittorio Boccone,Birmenstorf,Aargau,CHE,2285048
 Private Call,HB9FPX Fritz Tanner,Oberkulm,Aargau,CHE,2285049
@@ -881,54 +883,54 @@ Private Call,HB9GSL Leandro Dejoz,Hausen,Aargau,CHE,2285051
 Private Call,HB9FFK Christian Spieler,Rohr,Aargau,CHE,2285052
 Private Call,HB9XBO Robert Walker,Suhr,Aargau,CHE,2285053
 Private Call,HB9DOD Tom Hoedjes,Reinach,Aargau,CHE,2285054
-Private Call,HB3XPK Othmar no_name,no_city,Aargau,CHE,2285055
+Private Call,HB3XPK Othmar No_name,no_city,Aargau,CHE,2285055
 Private Call,HB9GNI Thomas Hartmeier,Baden,Aargau,CHE,2285056
 Private Call,HB9GSN Juerg Frey,Lupfig,Aargau,CHE,2285057
 Private Call,HB9RWF Heinz Menz,Reitnau,Aargau,CHE,2285058
 Private Call,HB3YLY Adrian Bircher,Oberkulm,Aargau,CHE,2285059
 Private Call,HB9HDD Raphael Raphael,Lenzburg,Aargau,CHE,2285060
-Private Call,HB9RTJ Robert no_name,Buttwil,Aargau,CHE,2285061
-Private Call,HB9ROP Juerg no_name,Koelliken,Aargau,CHE,2285062
-Private Call,HB9HBD Thomas no_name,Oberentfelden,Aargau,CHE,2285063
-Private Call,HB9CTU Herbert no_name,Kuettigen,Aargau,CHE,2285064
-Private Call,HB9FEK Gerhard no_name,Gretzenbach,Aargau,CHE,2285065
-Private Call,HB3XUG Dani no_name,Oberkulm,Aargau,CHE,2285066
-Private Call,HB9DDZ Nick no_name,Rheinsulz,Aargau,CHE,2285067
+Private Call,HB9RTJ Robert No_name,Buttwil,Aargau,CHE,2285061
+Private Call,HB9ROP Juerg No_name,Koelliken,Aargau,CHE,2285062
+Private Call,HB9HBD Thomas No_name,Oberentfelden,Aargau,CHE,2285063
+Private Call,HB9CTU Herbert No_name,Kuettigen,Aargau,CHE,2285064
+Private Call,HB9FEK Gerhard No_name,Gretzenbach,Aargau,CHE,2285065
+Private Call,HB3XUG Dani No_name,Oberkulm,Aargau,CHE,2285066
+Private Call,HB9DDZ Nick No_name,Rheinsulz,Aargau,CHE,2285067
 Private Call,HB9HDE Bhp Bhp,Neuenhof,Aargau,CHE,2285068
-Private Call,HB9ERD Udo no_name,Holderbank,Aargau,CHE,2285069
+Private Call,HB9ERD Udo No_name,Holderbank,Aargau,CHE,2285069
 Private Call,HB9XBG Walter Kaegi,Auenstein,.,CHE,2285070
-Private Call,HB9HGQ Tomasini no_name,Villmergen,Aargau,CHE,2285071
-Private Call,HB3YFT Walter no_name,Gontenschwil,.,CHE,2285072
-Private Call,HB9BRH Thomas no_name,Fischbach-Goeslikon,.,CHE,2285073
+Private Call,HB9HGQ Tomasini No_name,Villmergen,Aargau,CHE,2285071
+Private Call,HB3YFT Walter No_name,Gontenschwil,.,CHE,2285072
+Private Call,HB9BRH Thomas No_name,Fischbach-Goeslikon,.,CHE,2285073
 Private Call,HB9HHO Christian Volkmer,Wittnau,Aargau,CHE,2285074
 Private Call,HB9BMC Robert Murer,Steinhausen,Zentralschweiz und T,CHE,2286001
-Private Call,HB9CPY Peter no_name,Altdorf,Uri,CHE,2286002
-Private Call,HB3YVK Luca no_name,Comano,Tessin,CHE,2286003
-Private Call,HB9TUO Denis no_name,Gordevio,Tessin,CHE,2286004
-Private Call,HB9TWC Jiorgio no_name,Locarno,Tessin,CHE,2286005
-Private Call,HB9THJ Beat no_name,Luzern,Zentralschweiz,CHE,2286006
-Private Call,HB9ENY Yvonne no_name,Luzern,Zentralschweiz,CHE,2286007
-Private Call,HB9FLB Benny no_name,Luzern,Zentralschweiz,CHE,2286008
-Private Call,HB9ODP Mattia no_name,Mendrisio,Ticino,CHE,2286009
-Private Call,HB9TLX Walter no_name,Kriens,Luzern,CHE,2286010
-Private Call,HB9TLX Walter no_name,Kriens,Luzern,CHE,2286011
-Private Call,HB3YWW Luca no_name,Corteglia,Ticino,CHE,2286012
-Private Call,HB9OBX Hanspeter no_name,Oggio,Tessin,CHE,2286013
-Private Call,HB3YWB Annamaria no_name,Comano,Tessin,CHE,2286014
-Private Call,HB9EZU Roland no_name,Brunnen,Tessin,CHE,2286015
-Private Call,HB9CNA Stefano no_name,Lugano,Tessin,CHE,2286016
-Private Call,HB3YVK Luca no_name,Comano,Tessin,CHE,2286017
-Private Call,HB3YWC Marco no_name,Lugano,Tessin,CHE,2286018
-Private Call,HB9FFA Mauro no_name,Losone,Tessin,CHE,2286019
+Private Call,HB9CPY Peter No_name,Altdorf,Uri,CHE,2286002
+Private Call,HB3YVK Luca No_name,Comano,Tessin,CHE,2286003
+Private Call,HB9TUO Denis No_name,Gordevio,Tessin,CHE,2286004
+Private Call,HB9TWC Jiorgio No_name,Locarno,Tessin,CHE,2286005
+Private Call,HB9THJ Beat No_name,Luzern,Zentralschweiz,CHE,2286006
+Private Call,HB9ENY Yvonne No_name,Luzern,Zentralschweiz,CHE,2286007
+Private Call,HB9FLB Benny No_name,Luzern,Zentralschweiz,CHE,2286008
+Private Call,HB9ODP Mattia No_name,Mendrisio,Ticino,CHE,2286009
+Private Call,HB9TLX Walter No_name,Kriens,Luzern,CHE,2286010
+Private Call,HB9TLX Walter No_name,Kriens,Luzern,CHE,2286011
+Private Call,HB3YWW Luca No_name,Corteglia,Ticino,CHE,2286012
+Private Call,HB9OBX Hanspeter No_name,Oggio,Tessin,CHE,2286013
+Private Call,HB3YWB Annamaria No_name,Comano,Tessin,CHE,2286014
+Private Call,HB9EZU Roland No_name,Brunnen,Tessin,CHE,2286015
+Private Call,HB9CNA Stefano No_name,Lugano,Tessin,CHE,2286016
+Private Call,HB3YVK Luca No_name,Comano,Tessin,CHE,2286017
+Private Call,HB3YWC Marco No_name,Lugano,Tessin,CHE,2286018
+Private Call,HB9FFA Mauro No_name,Losone,Tessin,CHE,2286019
 Private Call,HB9DSE Kari Kuenzli,Willisau,Zentralschweiz und T,CHE,2286020
-Private Call,HB9FHE Davide no_name,Lugano,Tessin,CHE,2286021
+Private Call,HB9FHE Davide No_name,Lugano,Tessin,CHE,2286021
 Private Call,HB3YWW Luca Parravicini,Corteglia,Zentralschweiz und T,CHE,2286022
-Private Call,HB9ODP Mattia no_name,Mendrisio,Ticino,CHE,2286023
-Private Call,HB3YWW Luca no_name,Corteglia,Ticino,CHE,2286024
+Private Call,HB9ODP Mattia No_name,Mendrisio,Ticino,CHE,2286023
+Private Call,HB3YWW Luca No_name,Corteglia,Ticino,CHE,2286024
 Private Call,HB9BZM Tino Righini,Cadro,Ticino,CHE,2286025
-Private Call,HB9TUZ Massimo no_name,Lugano,Ticino,CHE,2286026
-Private Call,HB9OAU Claudio no_name,Caslano,Ticino,CHE,2286027
-Private Call,HB3YVN Ennio no_name,Gordola,Ticino,CHE,2286028
+Private Call,HB9TUZ Massimo No_name,Lugano,Ticino,CHE,2286026
+Private Call,HB9OAU Claudio No_name,Caslano,Ticino,CHE,2286027
+Private Call,HB3YVN Ennio No_name,Gordola,Ticino,CHE,2286028
 Private Call,HB9EZO Pasquale Arcangelo,Alberswil,Zentralschweiz,CHE,2286029
 Private Call,HB9TRT Reto Meyer,Grosswangen,Zentralschweiz und T,CHE,2286030
 Private Call,HB9TRT Reto Meyer,Grosswangen,Zentralschweiz und T,CHE,2286031
@@ -978,7 +980,7 @@ Private Call,HB9MFY Mellini Giancarlo,Cugnasco,Zentralschweiz und T,CHE,2286074
 Private Call,HB9FPF Emanuele Pero,Bioggio,Zentralschweiz und T,CHE,2286075
 Private Call,HB9JCQ Erich Vogel,Neuenkirch,Zentralschweiz und T,CHE,2286076
 Private Call,HB9FFA Mauro Scolari,Losone,Zentralschweiz und T,CHE,2286077
-Private Call,HB9DD Digitalrc no_name,Lugano,Zentralschweiz und T,CHE,2286078
+Private Call,HB9DD Digitalrc No_name,Lugano,Zentralschweiz und T,CHE,2286078
 Private Call,HB9OAB Franco Borsa,Bellinzona,Zentralschweiz und T,CHE,2286079
 Private Call,HB9OK Radio Tera,Vezia,Zentralschweiz und T,CHE,2286080
 Private Call,HB9WCH Daniel Schwoerer,Eich,Zentralschweiz und T,CHE,2286081
@@ -1037,7 +1039,7 @@ Private Call,HB9ODK Manuel Donati,Pianezzo,Zentralschweiz und T,CHE,2286133
 Private Call,HB9TSI Andre Rieser,Goeschenen,Zentralschweiz und T,CHE,2286134
 Private Call,HB9EWZ Philipp Wilhelm,Luzern,Zentralschweiz und T,CHE,2286135
 Private Call,HB9EHW Gabriele Casa,San Pietro Di Stabio,Zentralschweiz und T,CHE,2286136
-Private Call,HB9FKT Francesco no_name,Bellizona,Zentralschweiz und T,CHE,2286137
+Private Call,HB9FKT Francesco No_name,Bellizona,Zentralschweiz und T,CHE,2286137
 Private Call,HB9JAW Michel Winiger,Neudorf,Zentralschweiz und T,CHE,2286138
 Private Call,HB9FEX Mirko Pagnamenta,Melide,Zentralschweiz und T,CHE,2286139
 Private Call,HB4FG Swiss Station,Bellinzona,Zentralschweiz und T,CHE,2286140
@@ -1052,10 +1054,10 @@ Private Call,HB9TZU Christof Planzer,Schattdorf,Zentralschweiz und T,CHE,2286148
 Private Call,HB9CCU Heinz Homberger,Ibach,Zentralschweiz und T,CHE,2286149
 Private Call,HB9CDH Bruno Ruesch,no_city,Zentralschweiz und T,CHE,2286150
 Private Call,HB9TUO Denis Tasinato,Gordevio,Zentralschweiz und T,CHE,2286151
-Private Call,HB9ENK Gianmaria no_name,no_city,Zentralschweiz und T,CHE,2286152
+Private Call,HB9ENK Gianmaria No_name,no_city,Zentralschweiz und T,CHE,2286152
 Private Call,HB9WDN Markus Geiger,Dierikon,Zentralschweiz und T,CHE,2286153
 Private Call,HB9JBY Alfons Keiser,Hochdorf,Zentralschweiz und T,CHE,2286154
-Private Call,HB9JAY Walter no_name,Luzern,Zentralschweiz und T,CHE,2286155
+Private Call,HB9JAY Walter No_name,Luzern,Zentralschweiz und T,CHE,2286155
 Private Call,HB9CAB Werner Feller,Brunnen,Zentralschweiz und T,CHE,2286156
 Private Call,HB9RE Swiss Rc,Zofingen,Zentralschweiz und T,CHE,2286157
 Private Call,HB9RYY Stephan Schlegel,Seewen,Zentralschweiz und T,CHE,2286158
@@ -1077,13 +1079,13 @@ Private Call,HB9MCF Serge Marti,Gisikon,Zentralschweiz und T,CHE,2286173
 Private Call,HB9JA Amateurfunkverein Hb9ja,Emmenbrucke,Zentralschweiz und T,CHE,2286174
 Private Call,HB9IPHA Uska Call,Nottwil,Zentralschweiz und T,CHE,2286175
 Private Call,HB9DBM Mark Brun,Beromuenster,Zentralschweiz und T,CHE,2286176
-Private Call,HB9GSD Michel no_name,Bellinzona,Zentralschweiz und T,CHE,2286177
+Private Call,HB9GSD Michel No_name,Bellinzona,Zentralschweiz und T,CHE,2286177
 Private Call,HB9GSE Marco Luca,Bioggio,Zentralschweiz und T,CHE,2286178
 Private Call,HB9FLA Jakob Brunner,Luzern,Zentralschweiz und T,CHE,2286179
 Private Call,HB9JAB Stefan Roosli,Eschenbach,Zentralschweiz und T,CHE,2286180
 Private Call,HB9TKZ Wolf Zemp,Goldau,Zentralschweiz und T,CHE,2286181
 Private Call,HB9CVN Ferdinando Bernasconi,no_city,Zentralschweiz und T,CHE,2286182
-Private Call,HB9WCN Rene no_name,Schoetz,Zentralschweiz und Tessin,CHE,2286183
+Private Call,HB9WCN Rene No_name,Schoetz,Zentralschweiz und Tessin,CHE,2286183
 Private Call,HB9FSK Michal Slomczykowski,Lu,Zentralschweiz und Tessin,CHE,2286184
 Private Call,HB9FEV Ferry Sengun,Beromunster,Zentralschweiz und T,CHE,2286185
 Private Call,HB9EGC Casimiro Mombelli,Vacallo,Zentralschweiz und T,CHE,2286186
@@ -1093,82 +1095,82 @@ Private Call,HB3XPT Sergio Dotti,Genestrerio,Zentralschweiz und Tessin,CHE,22861
 Private Call,HB3XPS Nicola Crivelli,Gordola,Zentralschweiz und Tessin,CHE,2286190
 Private Call,HB3XPX Matteo Menca,no_city,Zentralschweiz und Tessin,CHE,2286191
 Private Call,HB9EVZ Karl Zgraggen,Lauerz,Zentralschweiz und Tessin,CHE,2286192
-Private Call,HB3XPZ Sergio no_name,no_city,Zentralschweiz und Tessin,CHE,2286193
+Private Call,HB3XPZ Sergio No_name,no_city,Zentralschweiz und Tessin,CHE,2286193
 Private Call,HB9EKV Thomas Fischer,Oberkirch,Zentralschweiz und Tessin,CHE,2286194
 Private Call,HB9TKZ Wolf Zemp,Goldau,Zentralschweiz und Tessin,CHE,2286195
 Private Call,HB9JCI Matthias Schumacher,Schwyz,Zentralschweiz und Tessin,CHE,2286196
-Private Call,HB9EZC Juergen Heinrich,Beckenried,no_name,CHE,2286197
+Private Call,HB9EZC Juergen Heinrich,Beckenried,No_name,CHE,2286197
 Private Call,HB9EAE Silvio Buchmann,Giswil,Obwalden,CHE,2286198
 Private Call,HB9DNU Karlheinz Dietrich,Gudo,Ticino,CHE,2286199
-Private Call,HB9CXZ Luigi Casari,S. Antonino,no_name,CHE,2286200
+Private Call,HB9CXZ Luigi Casari,S. Antonino,No_name,CHE,2286200
 Private Call,HB9GWS Markus Stocker,Beromuenster,Bern,CHE,2286201
 Private Call,HB9GZI Ivan Mobilia,Giswil,Zentralschweiz und Tessin,CHE,2286202
-Private Call,HB9FPR Ricky Ranzoni,Quartino,no_name,CHE,2286203
+Private Call,HB9FPR Ricky Ranzoni,Quartino,No_name,CHE,2286203
 Private Call,HB3YVG Gaia Panarisi,Rivera,Ticino,CHE,2286204
-Private Call,HB9GWZ Ivan no_name,Gordola,Ticino,CHE,2286205
-Private Call,HB3XPW Danilo Marchi,Massagno,no_name,CHE,2286206
+Private Call,HB9GWZ Ivan No_name,Gordola,Ticino,CHE,2286205
+Private Call,HB3XPW Danilo Marchi,Massagno,No_name,CHE,2286206
 Private Call,HB9DWL Leo Marbach,St. Erhard,Zentralschweiz und Tessin,CHE,2286207
 Private Call,HB9OAB Franco Borsa,Bellinzona,Zentralschweiz und Tessin,CHE,2286208
-Private Call,HB9GVN Dario no_name,Coldrerio,Zentralschweiz und Tessin,CHE,2286209
-Private Call,HB9FBK Flavio Gada-Barenco,Bellinzona,no_name,CHE,2286210
+Private Call,HB9GVN Dario No_name,Coldrerio,Zentralschweiz und Tessin,CHE,2286209
+Private Call,HB9FBK Flavio Gada-Barenco,Bellinzona,No_name,CHE,2286210
 Private Call,HB9DDW Roger Frei,Adligenswil,Luzern,CHE,2286211
 Private Call,HB9PHA Bernardo Brentini,Campello,Zentralschweiz und Tessin,CHE,2286212
 Private Call,HB9OBD Luca Rovelli,Barbengo,Zentralschweiz und Tessin,CHE,2286213
-Private Call,HB9GFW Marco Rima,Claro,no_name,CHE,2286214
+Private Call,HB9GFW Marco Rima,Claro,No_name,CHE,2286214
 Private Call,HB9GNW Urs Werder,Hochdorf,Zentralschweiz und Tessin,CHE,2286215
 Private Call,HB3YGD Daniel Buerkler,Cham,Zentralschweiz und Tessin,CHE,2286216
 Private Call,HB9SYO Fabiano Veronelli,Bironico,Zentralschweiz und Tessin,CHE,2286217
 Private Call,HB9FAL Steve Sartori,Gnosca,Zentralschweiz und Tessin,CHE,2286218
-Private Call,HB9GUD Christoph no_name,Hochdorf,Ticino,CHE,2286219
-Private Call,HB3YVO Beat Fischer,Triengen,no_name,CHE,2286220
-Private Call,HB9DDW Roger Frei,Adligenswil,no_name,CHE,2286221
+Private Call,HB9GUD Christoph No_name,Hochdorf,Ticino,CHE,2286219
+Private Call,HB3YVO Beat Fischer,Triengen,No_name,CHE,2286220
+Private Call,HB9DDW Roger Frei,Adligenswil,No_name,CHE,2286221
 Private Call,HB9HJJ Thomas Marchy,Brunnen,Schwyz,CHE,2286222
-Private Call,HB9TQQ Judith no_name,Emmen Hochdorf,Luzern,CHE,2286223
-Private Call,HB9FEX Mirko Pagnamenta,Melide,no_name,CHE,2286224
+Private Call,HB9TQQ Judith No_name,Emmen Hochdorf,Luzern,CHE,2286223
+Private Call,HB9FEX Mirko Pagnamenta,Melide,No_name,CHE,2286224
 Private Call,HB9AJM Ivo Pedruzzi,Locarno,Ticino,CHE,2286225
-Private Call,HB9JBQ Manuel Christen,Schenkon,no_name,CHE,2286226
-Private Call,HB9GZS Sergio Dotti,Genestrerio,no_name,CHE,2286227
-Private Call,HB9GZI Ivan Mobilia,Mugena,no_name,CHE,2286228
+Private Call,HB9JBQ Manuel Christen,Schenkon,No_name,CHE,2286226
+Private Call,HB9GZS Sergio Dotti,Genestrerio,No_name,CHE,2286227
+Private Call,HB9GZI Ivan Mobilia,Mugena,No_name,CHE,2286228
 Private Call,HB3XSS Samuele Soldini,Comano,Ticino,CHE,2286229
 Private Call,HB9GZN Nicola Crivelli,Gordola,Ticino,CHE,2286230
 Private Call,HB9GWM Martin Ottiger,Schenkon,Ticino,CHE,2286231
-Private Call,HB9GZT Pasinelli Tiziano,Porza,no_name,CHE,2286232
+Private Call,HB9GZT Pasinelli Tiziano,Porza,No_name,CHE,2286232
 Private Call,HB9GZL Gabriele Tos,Lavorgo,Zentralschweiz und Tessin,CHE,2286233
 Private Call,HB9FIF Roger Rodenhaeuser,Baar,Zug,CHE,2286234
-Private Call,HB9HCE Roland no_name,no_city,Ticino,CHE,2286235
+Private Call,HB9HCE Roland No_name,no_city,Ticino,CHE,2286235
 Private Call,HB9PUE Mauro Piffaretti,Pregassona,Ticino,CHE,2286236
 Private Call,HB9FAB Patrick Orso,Camignolo,Ticino,CHE,2286237
 Private Call,HB3XST Jaquier Michel,Casoro,Ticino,CHE,2286238
-Private Call,HB9GZP Patrick no_name,Minusio,Zentralschweiz und Tessin,CHE,2286239
+Private Call,HB9GZP Patrick No_name,Minusio,Zentralschweiz und Tessin,CHE,2286239
 Private Call,HB9TXB Branko Djokic,Luzern. .,Zentralschweiz und Tessin,CHE,2286240
 Private Call,HB9FBD Andrea Weick,Cugnasco,Zentralschweiz und Tessin,CHE,2286241
 Private Call,HB9PLW Peter Bucher,Reiden,Zentralschweiz und Tessin,CHE,2286242
-Private Call,HB9HIR Linus no_name,Gelfingen,.,CHE,2286243
-Private Call,HB9EHU Fabianzihlmann no_name,Ruswil,Zentralschweiz und Tessin,CHE,2286244
-Private Call,HB3XUB Mauro no_name,Gordola,Zentralschweiz und Tessin,CHE,2286245
-Private Call,HB9TTZ Brenno no_name,Bellinzona,Zentralschweiz und Tessin,CHE,2286246
-Private Call,HB9MFY Giancarlo no_name,Cugnasco,Zentralschweiz und Tessin,CHE,2286247
-Private Call,HB9FOM Michi no_name,Eschenbach,Zentralschweiz und Tessin,CHE,2286248
+Private Call,HB9HIR Linus No_name,Gelfingen,.,CHE,2286243
+Private Call,HB9EHU Fabianzihlmann No_name,Ruswil,Zentralschweiz und Tessin,CHE,2286244
+Private Call,HB3XUB Mauro No_name,Gordola,Zentralschweiz und Tessin,CHE,2286245
+Private Call,HB9TTZ Brenno No_name,Bellinzona,Zentralschweiz und Tessin,CHE,2286246
+Private Call,HB9MFY Giancarlo No_name,Cugnasco,Zentralschweiz und Tessin,CHE,2286247
+Private Call,HB9FOM Michi No_name,Eschenbach,Zentralschweiz und Tessin,CHE,2286248
 Private Call,HB9ALH Bernard Wehrli,Meggen /nr Lucerne,Zentralschweiz und Tessin,CHE,2286249
-Private Call,HB3XPX Menca no_name,Collina Doro,Zentralschweiz und Tessin,CHE,2286250
+Private Call,HB3XPX Menca No_name,Collina Doro,Zentralschweiz und Tessin,CHE,2286250
 Private Call,HB9SBL Sergio Gianini,Arzo,Zentralschweiz und Tessin,CHE,2286251
 Private Call,HB9BXE Peter Peter,Adligenswil,Zentralschweiz und Tessin,CHE,2286252
-Private Call,HB9HDO Tom no_name,Steinhausen,Zentralschweiz und Tessin,CHE,2286253
-Private Call,HB9HEC Gabri no_name,Astano,Gabri,CHE,2286254
-Private Call,HB3YTC Roberto no_name,Lumino,no_name,CHE,2286255
-Private Call,HB9TTY Fred no_name,Buttisholz,no_name,CHE,2286256
-Private Call,HB9ERA No_name no_name,no_city,.,CHE,2286257
+Private Call,HB9HDO Tom No_name,Steinhausen,Zentralschweiz und Tessin,CHE,2286253
+Private Call,HB9HEC Gabri No_name,Astano,Gabri,CHE,2286254
+Private Call,HB3YTC Roberto No_name,Lumino,No_name,CHE,2286255
+Private Call,HB9TTY Fred No_name,Buttisholz,No_name,CHE,2286256
+Private Call,HB9ERA No_name No_name,no_city,.,CHE,2286257
 Private Call,HB9GHD Davide Paganoni,Piedmont,Zentralschweiz und T,CHE,2286258
 Private Call,HB3YKK Marcel Kieliger,Brunnen,Zentralschweiz und T,CHE,2286259
 Private Call,HB3XTP Gianpaolo Ferrari,Chiasso,Ticino,CHE,2286260
-Private Call,HB3XVP Philipp no_name,Richenthal,.,CHE,2286261
-Private Call,HB9TIK Fausto no_name,Bidogno,.,CHE,2286262
+Private Call,HB3XVP Philipp No_name,Richenthal,.,CHE,2286261
+Private Call,HB9TIK Fausto No_name,Bidogno,.,CHE,2286262
 Private Call,HB9GZL Da Gabriele,Lavorgo,Zentralschweiz und T,CHE,2286263
-Private Call,HB9GCC Joe no_name,Luzern,.,CHE,2286264
+Private Call,HB9GCC Joe No_name,Luzern,.,CHE,2286264
 Private Call,HB9DHG Fulvio Galli,Origlio,Ticino,CHE,2286265
-Private Call,HB9GCC Joe no_name,Luzern,.,CHE,2286266
-Private Call,HB9HHJ Florian no_name,Luzern,.,CHE,2286267
-Private Call,HB9FPO Stefano no_name,Poschiavo,Graubuenden,CHE,2287001
+Private Call,HB9GCC Joe No_name,Luzern,.,CHE,2286266
+Private Call,HB9HHJ Florian No_name,Luzern,.,CHE,2286267
+Private Call,HB9FPO Stefano No_name,Poschiavo,Graubuenden,CHE,2287001
 Private Call,HB9HAN Roland Peter,Sargans,Graubuenden,CHE,2287002
 Private Call,HB9FPO Stefano Foppoli,Poschiavo,Graubuenden,CHE,2287003
 Private Call,HB9SOA Wilhelm Hug,Vilters,Graubuenden,CHE,2287004
@@ -1197,75 +1199,75 @@ Private Call,HB9GHZ Lorenzo Lardelli,no_city,Graubuenden,CHE,2287026
 Private Call,HB9ASV Peter Schudel,Chur,Graubuenden,CHE,2287027
 Private Call,HB9CAN Marco Leupin,Berne,Graubuenden,CHE,2287028
 Private Call,HB3YYA Andy Muenchbach,Laax,Graubuenden,CHE,2287029
-Private Call,HB3XPV Martha no_name,no_city,Graubuenden,CHE,2287030
-Private Call,HB3XRK Werner no_name,Sankt Gallen,Sankt Gallen,CHE,2287031
+Private Call,HB3XPV Martha No_name,no_city,Graubuenden,CHE,2287030
+Private Call,HB3XRK Werner No_name,Sankt Gallen,Sankt Gallen,CHE,2287031
 Private Call,HB9GKX Tobias Ebner,Zernez,Graubuenden,CHE,2287032
-Private Call,HB9GYA Mauro no_name,Zernez,Bern,CHE,2287033
+Private Call,HB9GYA Mauro No_name,Zernez,Bern,CHE,2287033
 Private Call,HB9GNO Chrigi Hartmann,Malans,Graubuenden,CHE,2287034
 Private Call,HB9GPO Franco Cristini,Bergamo,Italy,CHE,2287035
-Private Call,HB9GZK Mark no_name,Alvaneu Dorf,.,CHE,2287036
+Private Call,HB9GZK Mark No_name,Alvaneu Dorf,.,CHE,2287036
 Private Call,HB9SDB Rolf Tschumi,Waedenswil,Zuerich und Thurgau,CHE,2288000
-Private Call,HB3YEJ Andreas no_name,Schleitheim,Schaffhausen,CHE,2288001
-Private Call,HB9WOF Reto no_name,Winterthur,Winterthur,CHE,2288002
-Private Call,HB9WOF Reto no_name,Winterthur,Winterthur,CHE,2288003
-Private Call,HB9WOF Reto no_name,Winterthur,Winterthur,CHE,2288004
-Private Call,HB9WOF Reto no_name,Winterthur,Winterthur,CHE,2288005
-Private Call,HB9ESL Max no_name,Wetzikon,Hinwil,CHE,2288006
-Private Call,HB9LCQ Dani no_name,Kilchberg,Zuerich,CHE,2288007
-Private Call,HB9TSP Simon no_name,Jona,Zuerich,CHE,2288008
+Private Call,HB3YEJ Andreas No_name,Schleitheim,Schaffhausen,CHE,2288001
+Private Call,HB9WOF Reto No_name,Winterthur,Winterthur,CHE,2288002
+Private Call,HB9WOF Reto No_name,Winterthur,Winterthur,CHE,2288003
+Private Call,HB9WOF Reto No_name,Winterthur,Winterthur,CHE,2288004
+Private Call,HB9WOF Reto No_name,Winterthur,Winterthur,CHE,2288005
+Private Call,HB9ESL Max No_name,Wetzikon,Hinwil,CHE,2288006
+Private Call,HB9LCQ Dani No_name,Kilchberg,Zuerich,CHE,2288007
+Private Call,HB9TSP Simon No_name,Jona,Zuerich,CHE,2288008
 Private Call,HB9ZAZ Ueli Rieser,Zuerich,Zuerich und Thurgau,CHE,2288009
 Private Call,HB9PJT Peter Sidler,Affoltern am Albis,Zuerich und Thurgau,CHE,2288010
 Private Call,HB9ZAZ Ueli Rieser,Zuerich,Zuerich und Thurgau,CHE,2288011
-Private Call,HB3YZE Michi no_name,Kloten,Zuerich,CHE,2288012
+Private Call,HB3YZE Michi No_name,Kloten,Zuerich,CHE,2288012
 Private Call,HB9ZCY Urs Katz,Zuerich,Zuerich und Thurgau,CHE,2288013
-Private Call,HB3YEJ Andreas no_name,Schleitheim,Schaffhausen,CHE,2288014
-Private Call,HB3YZE Michi no_name,Kloten,Zuerich,CHE,2288015
-Private Call,HB9TTQ Stefan no_name,Birmensdorf,Zuerich,CHE,2288016
-Private Call,HB9WNT Roland no_name,Winterthur,Winterthur,CHE,2288017
-Private Call,HB9WNT Roland no_name,Winterthur,Winterthur,CHE,2288018
-Private Call,HB9WNT Roland no_name,Winterthur,Winterthur,CHE,2288019
-Private Call,HB9WNT Roland no_name,Winterthur,Winterthur,CHE,2288020
-Private Call,HB9DRX Nick no_name,Maennedorf,Zuerich,CHE,2288021
+Private Call,HB3YEJ Andreas No_name,Schleitheim,Schaffhausen,CHE,2288014
+Private Call,HB3YZE Michi No_name,Kloten,Zuerich,CHE,2288015
+Private Call,HB9TTQ Stefan No_name,Birmensdorf,Zuerich,CHE,2288016
+Private Call,HB9WNT Roland No_name,Winterthur,Winterthur,CHE,2288017
+Private Call,HB9WNT Roland No_name,Winterthur,Winterthur,CHE,2288018
+Private Call,HB9WNT Roland No_name,Winterthur,Winterthur,CHE,2288019
+Private Call,HB9WNT Roland No_name,Winterthur,Winterthur,CHE,2288020
+Private Call,HB9DRX Nick No_name,Maennedorf,Zuerich,CHE,2288021
 Private Call,HB9DR Club Digitalrc,Waedenswil,Zuerich und Thurgau,CHE,2288022
-Private Call,HB9DRX Nick no_name,Maennedorf,Zuerich,CHE,2288023
-Private Call,HB9DRX Nick no_name,Maennedorf,Zuerich,CHE,2288024
-Private Call,HB9DRX Nick no_name,Maennedorf,Zuerich,CHE,2288025
-Private Call,HB9MNP Ernst no_name,Hinwil,Zuerich,CHE,2288026
-Private Call,HB9MNP Ernst no_name,Hinwil,Zuerich,CHE,2288027
-Private Call,HB9IRM Mario no_name,Richterswil,Zuerich,CHE,2288028
-Private Call,HB9IRM Mario no_name,Richterswil,Zuerich,CHE,2288029
-Private Call,HB9EUK Benjamin no_name,Meilen,Zuerich,CHE,2288030
-Private Call,HB9EUK Benjamin no_name,Meilen,Zuerich,CHE,2288031
-Private Call,HB3YEO Gebi no_name,Richterswil,Zuerich,CHE,2288032
+Private Call,HB9DRX Nick No_name,Maennedorf,Zuerich,CHE,2288023
+Private Call,HB9DRX Nick No_name,Maennedorf,Zuerich,CHE,2288024
+Private Call,HB9DRX Nick No_name,Maennedorf,Zuerich,CHE,2288025
+Private Call,HB9MNP Ernst No_name,Hinwil,Zuerich,CHE,2288026
+Private Call,HB9MNP Ernst No_name,Hinwil,Zuerich,CHE,2288027
+Private Call,HB9IRM Mario No_name,Richterswil,Zuerich,CHE,2288028
+Private Call,HB9IRM Mario No_name,Richterswil,Zuerich,CHE,2288029
+Private Call,HB9EUK Benjamin No_name,Meilen,Zuerich,CHE,2288030
+Private Call,HB9EUK Benjamin No_name,Meilen,Zuerich,CHE,2288031
+Private Call,HB3YEO Gebi No_name,Richterswil,Zuerich,CHE,2288032
 Private Call,HB3YGV Horst Steinhauser,Winterthur,Zuerich,CHE,2288033
 Private Call,HB9BHL Fritz Hohermuth,Hittnau,Zuerich und Thurgau,CHE,2288034
-Private Call,HB9ERT Marc no_name,Winterthur,Zuerich,CHE,2288035
-Private Call,HB9CCQ Franz no_name,Zuerich,Zuerich,CHE,2288036
-Private Call,HB9CCQ Franz no_name,Zuerich,Zuerich,CHE,2288037
-Private Call,HB9JBP Markus no_name,Duebendorf,Zuerich,CHE,2288038
-Private Call,HB9JBP Markus no_name,Duebendorf,Zuerich,CHE,2288039
-Private Call,HB3YLN Fritz no_name,Winterthur,Zuerich,CHE,2288040
-Private Call,HB3YLN Fritz no_name,Winterthur,Zuerich,CHE,2288041
-Private Call,HB3YLN Fritz no_name,Winterthur,Zuerich,CHE,2288042
-Private Call,HB3YLN Fritz no_name,Winterthur,Zuerich,CHE,2288043
-Private Call,HB9TTI Ueli no_name,Wollerau,Schwyz,CHE,2288044
-Private Call,HB9TTI Ueli no_name,Wollerau,Schwyz,CHE,2288045
-Private Call,HB9ZEI Max no_name,Stadel,Zuerich,CHE,2288046
-Private Call,HB9ZEI Max no_name,Stadel,Zuerich,CHE,2288047
-Private Call,HB9ZIC Dany no_name,Neerach,Zuerich,CHE,2288048
-Private Call,HB9FSU Hans-Joerg no_name,Ebmatingen,Zuerich und Thurgau,CHE,2288049
-Private Call,HB9SJO Roland no_name,Regensdorf,Zuerich,CHE,2288050
-Private Call,HB9DSY Frank no_name,Zuerich,Zuerich,CHE,2288051
-Private Call,HB9LEH Juerg no_name,Zuerich,Zuerich,CHE,2288052
-Private Call,HB9EMG Andy no_name,Russikon,Zuerich,CHE,2288053
-Private Call,HB9ZDU Bruno no_name,Rudolfstetten,Aargau,CHE,2288054
-Private Call,HB9LBX Heinz no_name,Fehraltorf,Zuerich,CHE,2288055
-Private Call,HB3YAU Josef no_name,Zuerich,Zuerich,CHE,2288056
-Private Call,HB9RIU Georg no_name,Zuerich,Zuerich,CHE,2288057
-Private Call,HB9MXQ Peter no_name,Uster,Zuerich,CHE,2288058
-Private Call,HB9EPQ Werner no_name,Bauma,Zuerich,CHE,2288059
+Private Call,HB9ERT Marc No_name,Winterthur,Zuerich,CHE,2288035
+Private Call,HB9CCQ Franz No_name,Zuerich,Zuerich,CHE,2288036
+Private Call,HB9CCQ Franz No_name,Zuerich,Zuerich,CHE,2288037
+Private Call,HB9JBP Markus No_name,Duebendorf,Zuerich,CHE,2288038
+Private Call,HB9JBP Markus No_name,Duebendorf,Zuerich,CHE,2288039
+Private Call,HB3YLN Fritz No_name,Winterthur,Zuerich,CHE,2288040
+Private Call,HB3YLN Fritz No_name,Winterthur,Zuerich,CHE,2288041
+Private Call,HB3YLN Fritz No_name,Winterthur,Zuerich,CHE,2288042
+Private Call,HB3YLN Fritz No_name,Winterthur,Zuerich,CHE,2288043
+Private Call,HB9TTI Ueli No_name,Wollerau,Schwyz,CHE,2288044
+Private Call,HB9TTI Ueli No_name,Wollerau,Schwyz,CHE,2288045
+Private Call,HB9ZEI Max No_name,Stadel,Zuerich,CHE,2288046
+Private Call,HB9ZEI Max No_name,Stadel,Zuerich,CHE,2288047
+Private Call,HB9ZIC Dany No_name,Neerach,Zuerich,CHE,2288048
+Private Call,HB9FSU Hans-Joerg No_name,Ebmatingen,Zuerich und Thurgau,CHE,2288049
+Private Call,HB9SJO Roland No_name,Regensdorf,Zuerich,CHE,2288050
+Private Call,HB9DSY Frank No_name,Zuerich,Zuerich,CHE,2288051
+Private Call,HB9LEH Juerg No_name,Zuerich,Zuerich,CHE,2288052
+Private Call,HB9EMG Andy No_name,Russikon,Zuerich,CHE,2288053
+Private Call,HB9ZDU Bruno No_name,Rudolfstetten,Aargau,CHE,2288054
+Private Call,HB9LBX Heinz No_name,Fehraltorf,Zuerich,CHE,2288055
+Private Call,HB3YAU Josef No_name,Zuerich,Zuerich,CHE,2288056
+Private Call,HB9RIU Georg No_name,Zuerich,Zuerich,CHE,2288057
+Private Call,HB9MXQ Peter No_name,Uster,Zuerich,CHE,2288058
+Private Call,HB9EPQ Werner No_name,Bauma,Zuerich,CHE,2288059
 Private Call,HB9DSF Peter Meroni,Horgen,Zuerich,CHE,2288060
-Private Call,HB9EHE Thomas no_name,Hittnau,Zuerich,CHE,2288061
+Private Call,HB9EHE Thomas No_name,Hittnau,Zuerich,CHE,2288061
 Private Call,HB9TPX Reto Voser,Birmensdorf,Zuerich,CHE,2288062
 Private Call,HB9AZT Markus Schleutermann,Tagelswangen,Zuerich,CHE,2288063
 Private Call,HB9SXQ Eduard Baertschi,Kleinandelfingen,Zuerich,CHE,2288064
@@ -1385,29 +1387,29 @@ Private Call,HB3YVB Rolf Zengaffinen,Zurich,Zuerich und Thurgau,CHE,2288177
 Private Call,HB9FIH Rieder Erich,Waedenswil,Zuerich und Thurgau,CHE,2288178
 Private Call,HB3YGH Fabian Sidler,Affoltern am Albis,Zuerich und Thurgau,CHE,2288179
 Private Call,HB9PJT Peter Sidler,Affoltern am Albis,Zuerich und Thurgau,CHE,2288180
-Private Call,HB9IQY Daniel no_name,Biel,Zuerich und Thurgau,CHE,2288181
+Private Call,HB9IQY Daniel No_name,Biel,Zuerich und Thurgau,CHE,2288181
 Private Call,HB9DDS Daniel Schaeffler,Zuerich,Zuerich und Thurgau,CHE,2288182
-Private Call,HB3YBX Roger no_name,no_city,Zuerich und Thurgau,CHE,2288183
-Private Call,HB9PLB Konrad no_name,Truttikon,Zuerich und Thurgau,CHE,2288184
+Private Call,HB3YBX Roger No_name,no_city,Zuerich und Thurgau,CHE,2288183
+Private Call,HB9PLB Konrad No_name,Truttikon,Zuerich und Thurgau,CHE,2288184
 Private Call,HB9DQM Manuel Kasper,Andelfingen,Zuerich und Thurgau,CHE,2288185
 Private Call,HB9BRJ Markus Leggenhager,Schaffhausen,Zuerich und Thurgau,CHE,2288186
 Private Call,HB9UAG Raffaele Sogno,Felben-Wellhausen,Zuerich und Thurgau,CHE,2288187
 Private Call,HB9FVR Silvan Mumenthaler,Romanshorn,Zuerich und Thurgau,CHE,2288188
-Private Call,HB9FF Funkerfreunde no_name,Zurich,Zuerich und Thurgau,CHE,2288189
+Private Call,HB9FF Funkerfreunde No_name,Zurich,Zuerich und Thurgau,CHE,2288189
 Private Call,HB9ZCY Urs Katz,Zurich,Zuerich und Thurgau,CHE,2288190
 Private Call,HB9FU Funkgruppe Untersee,Stein am Rhein,Zuerich und Thurgau,CHE,2288191
 Private Call,HB9TZX Michael Banditt,Zuerich,Zuerich und Thurgau,CHE,2288192
-Private Call,HB3YVH Ivan no_name,no_city,Zuerich und Thurgau,CHE,2288193
-Private Call,HB9CAC Konrad no_name,Thayngen,Zuerich und Thurgau,CHE,2288194
+Private Call,HB3YVH Ivan No_name,no_city,Zuerich und Thurgau,CHE,2288193
+Private Call,HB9CAC Konrad No_name,Thayngen,Zuerich und Thurgau,CHE,2288194
 Private Call,HB9TPT Guido Frohli,Horgen,Ostschweiz,CHE,2288195
 Private Call,HB9LEK Martin Neukomm,Illnau,Zuerich und Thurgau,CHE,2288196
 Private Call,HB9GPG Heinz Wortmann,Schaffhausen,Zuerich und Thurgau,CHE,2288197
 Private Call,HB9STW Thomas Bertolf,Balterswil,Zuerich und Thurgau,CHE,2288198
-Private Call,HB3YZL Heinz no_name,Mesenzana,Zuerich und Thurgau,CHE,2288199
+Private Call,HB3YZL Heinz No_name,Mesenzana,Zuerich und Thurgau,CHE,2288199
 Private Call,HB9XXX Id Blocked,Zurich,Zuerich und Thurgau,CHE,2288200
 Private Call,HB9FFP Peter Schmid,Bottighofen,Zuerich und Thurgau,CHE,2288201
 Private Call,HB3YPI Silvio Aldighieri,Uerikon,Zuerich und Thurgau,CHE,2288202
-Private Call,HB9FGX Lukas no_name,Bellinzona,Zuerich und Thurgau,CHE,2288203
+Private Call,HB9FGX Lukas No_name,Bellinzona,Zuerich und Thurgau,CHE,2288203
 Private Call,HB9EGA Marcin Korona,Zurich,Zuerich und Thurgau,CHE,2288204
 Private Call,HB9GZY Roland Guarlotti,Hemishofen,Zuerich und Thurgau,CHE,2288205
 Private Call,HB9TQD Stefan Nyffenegger,Urdorf,Zuerich und Thurgau,CHE,2288206
@@ -1417,10 +1419,10 @@ Private Call,HB9Z Radio Club,Samstagern,Zuerich und Thurgau,CHE,2288209
 Private Call,HB9BTE Peter Thalmann,Meilen,Zuerich und Thurgau,CHE,2288210
 Private Call,HB9EWB Salvatore Bencivenga,Zurich,Zuerich und Thurgau,CHE,2288211
 Private Call,HB9RMW Leander Gutzwiller,Mettmwenstetten,Zuerich und Thurgau,CHE,2288212
-Private Call,HB9LFK Stefan no_name,no_city,Zuerich und Thurgau,CHE,2288213
+Private Call,HB9LFK Stefan No_name,no_city,Zuerich und Thurgau,CHE,2288213
 Private Call,HB9IQR Emanuel Schadegg,Glarus,Zuerich und Thurgau,CHE,2288214
 Private Call,HB9FVR Silvan Mumenthaler,Romanshorn,Zuerich und Thurgau,CHE,2288215
-Private Call,HB3YZX Michael no_name,Wila,Zuerich und Thurgau,CHE,2288216
+Private Call,HB3YZX Michael No_name,Wila,Zuerich und Thurgau,CHE,2288216
 Private Call,HB9TQH Hans Peter,no_city,Zuerich und Thurgau,CHE,2288217
 Private Call,HB9XJ Hans Buehler,Zuerich,Zuerich und Thurgau,CHE,2288218
 Private Call,HB9THI Alexander Angst,Giswil,Zuerich und Thurgau,CHE,2288219
@@ -1441,21 +1443,21 @@ Private Call,HB9GIY Urs Schudel,Zuerich,Zuerich und Thurgau,CHE,2288233
 Private Call,HB9RPU Felix Telli,Wetzikon,Zuerich und Thurgau,CHE,2288234
 Private Call,HB9ZCF Kurt Steiger,Kloten,Zuerich und Thurgau,CHE,2288235
 Private Call,HB3YVX Fabian Eichmann,Zuerich,Zuerich und Thurgau,CHE,2288236
-Private Call,HB3YRW Philipp no_name,no_city,Zuerich und Thurgau,CHE,2288237
+Private Call,HB3YRW Philipp No_name,no_city,Zuerich und Thurgau,CHE,2288237
 Private Call,HB9TLH Thomas Ruch,Hemishofen,Zuerich und Thurgau,CHE,2288238
-Private Call,HB9GSX Roberto no_name,Zuerich,Zuerich und Thurgau,CHE,2288239
+Private Call,HB9GSX Roberto No_name,Zuerich,Zuerich und Thurgau,CHE,2288239
 Private Call,HB9EZE Bruno Jun,Zuerich,Zuerich und Thurgau,CHE,2288240
-Private Call,HB9GSW Beat no_name,Zuerich,Zuerich und Thurgau,CHE,2288241
+Private Call,HB9GSW Beat No_name,Zuerich,Zuerich und Thurgau,CHE,2288241
 Private Call,HB9EMD Nebojsa Paunovic,Thalwil,Zuerich und Thurgau,CHE,2288242
 Private Call,HB3YLQ Daniel Robin,Zuerich,Zuerich und Thurgau,CHE,2288243
 Private Call,HB3YYU Ingo Kohler,Uster,Zuerich und Thurgau,CHE,2288244
-Private Call,HB9FLY Isabella no_name,no_city,Zuerich und Thurgau,CHE,2288245
+Private Call,HB9FLY Isabella No_name,no_city,Zuerich und Thurgau,CHE,2288245
 Private Call,HB3XPA Florian Gutzwiller,Zuerich,Zuerich und Thurgau,CHE,2288246
-Private Call,HB3YTS Martin no_name,no_city,Zuerich und Thurgau,CHE,2288247
+Private Call,HB3YTS Martin No_name,no_city,Zuerich und Thurgau,CHE,2288247
 Private Call,HB9FSV Martin Schwarz,Schaffhausen,Zuerich und Thurgau,CHE,2288248
 Private Call,HB9SH Uska Sektion,Schaffhausen,Zuerich und Thurgau,CHE,2288249
-Private Call,HB9GIJ Rudolf no_name,no_city,Zuerich und Thurgau,CHE,2288250
-Private Call,HB9GUT Richard no_name,no_city,Zuerich und Thurgau,CHE,2288251
+Private Call,HB9GIJ Rudolf No_name,no_city,Zuerich und Thurgau,CHE,2288250
+Private Call,HB9GUT Richard No_name,no_city,Zuerich und Thurgau,CHE,2288251
 Private Call,HB9OOA Amstad Michael,Tagerwilen,Zuerich und Thurgau,CHE,2288252
 Private Call,HB3YXR Marcel Martel-Reichmuth,Regensdorf,Zuerich und Thurgau,CHE,2288253
 Private Call,HB9GNT Rene Lobsiger,Adlikon,Zuerich und Thurgau,CHE,2288254
@@ -1465,50 +1467,50 @@ Private Call,HB9DLZ Nathalie Lamon,Effretikon,Zuerich und Thurgau,CHE,2288257
 Private Call,HB9GVS Alex Schremmer,Zurich,Zuerich und Thurgau,CHE,2288258
 Private Call,HB9GVR Roberto Munafo,Buerglen,Zuerich und Thurgau,CHE,2288259
 Private Call,HB9DRN Mark Huerlemann,Wallenwil,Zuerich und Thurgau,CHE,2288260
-Private Call,HB9GVM Martin no_name,Private,Zuerich und Thurgau,CHE,2288261
-Private Call,HB3YJY Marco no_name,Sulgen,no_name,CHE,2288262
+Private Call,HB9GVM Martin No_name,Private,Zuerich und Thurgau,CHE,2288261
+Private Call,HB3YJY Marco No_name,Sulgen,No_name,CHE,2288262
 Private Call,HB9ZBV Rino Zanoni,Hochfelden,Zuerich und Thurgau,CHE,2288263
-Private Call,HB9XOF Roman Antink,Winterthur,no_name,CHE,2288264
+Private Call,HB9XOF Roman Antink,Winterthur,No_name,CHE,2288264
 Private Call,HB3XRP Pascal Hammerli,Wetzikon,Zuerich und Thurgau,CHE,2288265
 Private Call,HB9TOI Mike Ehrhardt,Buerglen,Zh-Tg,CHE,2288266
-Private Call,HB9DGZ Rene Konrad,Rafz,no_name,CHE,2288267
-Private Call,HB9SXQ Eduard Bartschi,Zuerich,no_name,CHE,2288268
-Private Call,HB9BDG Rene Kuehne,Zuerich,no_name,CHE,2288269
-Private Call,HB9GWL Dave Squindo,Rheinau,no_name,CHE,2288270
-Private Call,HB9TZX Michael Banditt,Zuerich,no_name,CHE,2288271
-Private Call,HB9ETR Rob Finch,Zuerich,no_name,CHE,2288272
+Private Call,HB9DGZ Rene Konrad,Rafz,No_name,CHE,2288267
+Private Call,HB9SXQ Eduard Bartschi,Zuerich,No_name,CHE,2288268
+Private Call,HB9BDG Rene Kuehne,Zuerich,No_name,CHE,2288269
+Private Call,HB9GWL Dave Squindo,Rheinau,No_name,CHE,2288270
+Private Call,HB9TZX Michael Banditt,Zuerich,No_name,CHE,2288271
+Private Call,HB9ETR Rob Finch,Zuerich,No_name,CHE,2288272
 Private Call,HB9GXD Domenico Antonio,Zuerich,Zuerich und Thurgau,CHE,2288273
 Private Call,HB9MDP Walter Meier,Ebmatingen,Zuerich und Thurgau,CHE,2288274
 Private Call,HB9JNX Thomas Sailer,Ae4wa,Zuerich und Thurgau,CHE,2288275
 Private Call,HB9DSC Franz Goenner,Guemmenen,Zuerich und Thurgau,CHE,2288276
 Private Call,HB3YTX Stefan Zahnd,Benken,Zuerich und Thurgau,CHE,2288277
-Private Call,HB9GVR Roberto Munafo,Buerglen,no_name,CHE,2288278
+Private Call,HB9GVR Roberto Munafo,Buerglen,No_name,CHE,2288278
 Private Call,HB9FIY Christopher Astbury,Zuerich,Zuerich und Thurgau,CHE,2288279
-Private Call,HB9GXQ Manuela no_name,Buerglen,no_name,CHE,2288280
-Private Call,HB3YVB Rolf Zengaffinen,Zuerich,no_name,CHE,2288281
-Private Call,HB9AK Rms Winlink,Neuenegg,no_name,CHE,2288282
-Private Call,HB9GKP Petru Paler,Adliswil,no_name,CHE,2288283
+Private Call,HB9GXQ Manuela No_name,Buerglen,No_name,CHE,2288280
+Private Call,HB3YVB Rolf Zengaffinen,Zuerich,No_name,CHE,2288281
+Private Call,HB9AK Rms Winlink,Neuenegg,No_name,CHE,2288282
+Private Call,HB9GKP Petru Paler,Adliswil,No_name,CHE,2288283
 Private Call,HB9LAE Bruno Francesco,Zuerich,Zh-Tg,CHE,2288284
 Private Call,HB9JNA Giuseppe Barbera,Neuhausen,Zh-Tg,CHE,2288285
-Private Call,HB9FON Milan Lazarevic,Zuerich,no_name,CHE,2288286
+Private Call,HB9FON Milan Lazarevic,Zuerich,No_name,CHE,2288286
 Private Call,HB9ALR Willy Bruetsch,Uster,Zh-Tg,CHE,2288287
 Private Call,HB3XRV Rene Euw,Richterswil,Zh-Tg,CHE,2288288
-Private Call,HB3YHM Marco Lirussi,Pratteln,no_name,CHE,2288289
-Private Call,HB9CUZ Roland Ackermann,Schaffhausen,no_name,CHE,2288290
+Private Call,HB3YHM Marco Lirussi,Pratteln,No_name,CHE,2288289
+Private Call,HB9CUZ Roland Ackermann,Schaffhausen,No_name,CHE,2288290
 Private Call,HB9FLX Felix Toggenburger,Guemmenen,Bern,CHE,2288291
 Private Call,HB9MTN Ed Bosshard,Oberwil,Basel,CHE,2288292
-Private Call,HB9GZA Joe Nemeth,Wilen Bei Wollerau,no_name,CHE,2288293
-Private Call,HB9AHL Willy Ruesch,Aarau,no_name,CHE,2288294
+Private Call,HB9GZA Joe Nemeth,Wilen Bei Wollerau,No_name,CHE,2288293
+Private Call,HB9AHL Willy Ruesch,Aarau,No_name,CHE,2288294
 Private Call,HB9GZA Joe Nemeth,Wilen Bei Wollerau,Schwyz,CHE,2288295
 Private Call,HB9PRQ Urs Lussy,Dielsdorf,Zh-Tg,CHE,2288296
 Private Call,HB9DOK Thomas Tanner,Neuhausen am Rheinfall,Schaffhausen,CHE,2288297
 Private Call,HB3XRV Rene Euw,Richterswil,Zh-Tg,CHE,2288298
 Private Call,HB9WNN Thomas Koeferli,Eschlikon,Zh-Tg,CHE,2288299
 Private Call,HB9THY Hans Halstrick,Egg,Zh-Tg,CHE,2288300
-Private Call,HB9RFU Andreas Mettier,Mattwil,no_name,CHE,2288301
+Private Call,HB9RFU Andreas Mettier,Mattwil,No_name,CHE,2288301
 Private Call,HB9ZGL Bruno Peyer,Pfaeffikon,Zh-Tg,CHE,2288302
-Private Call,HB3XTK Urs Benz,Zuerich,no_name,CHE,2288303
-Private Call,HB9GUF Ernie Wittenschlaeger,Oberterzen,no_name,CHE,2288304
+Private Call,HB3XTK Urs Benz,Zuerich,No_name,CHE,2288303
+Private Call,HB9GUF Ernie Wittenschlaeger,Oberterzen,No_name,CHE,2288304
 Private Call,HB9REY Markus Sommer,Adliswil,Zh-Tg,CHE,2288305
 Private Call,HB9BRW Hans Haechler,Uerikon,Zh-Tg,CHE,2288306
 Private Call,HB3XTQ Marcel Hoenke,Winterthur,Zh-Tg,CHE,2288307
@@ -1516,42 +1518,42 @@ Private Call,HB9GZV Marcus Bitschnau,Zuerich,Zh-Tg,CHE,2288308
 Private Call,HB9GVF Fabian Eichmann,Zuerich,Zuerich und Thurgau,CHE,2288309
 Private Call,HB3XTO Paul Odermatt,Oetwil am See,Zuerich und Thurgau,CHE,2288310
 Private Call,HB9HBI Marco Bolliger,Schindellegi,Zuerich und Thurgau,CHE,2288311
-Private Call,HB3XUC Chris no_name,Amriswil,Zuerich und Thurgau,CHE,2288312
-Private Call,HB9RTV Peter no_name,Reutlingen,Zuerich und Thurgau,CHE,2288313
-Private Call,HB9RRL Rolf no_name,Schwanden,Zuerich und Thurgau,CHE,2288314
-Private Call,HB9NFO Notfunkostschweiz no_name,Romanshorn,Zuerich und Thurgau,CHE,2288315
-Private Call,HB9HDC Maik no_name,Uitikon,Zuerich und Thurgau,CHE,2288316
+Private Call,HB3XUC Chris No_name,Amriswil,Zuerich und Thurgau,CHE,2288312
+Private Call,HB9RTV Peter No_name,Reutlingen,Zuerich und Thurgau,CHE,2288313
+Private Call,HB9RRL Rolf No_name,Schwanden,Zuerich und Thurgau,CHE,2288314
+Private Call,HB9NFO Notfunkostschweiz No_name,Romanshorn,Zuerich und Thurgau,CHE,2288315
+Private Call,HB9HDC Maik No_name,Uitikon,Zuerich und Thurgau,CHE,2288316
 Private Call,HB3XUN Digital Club,Waedenswil,Zuerich und Thurgau,CHE,2288317
 Private Call,HB9LBR Rolf Tschumi,Waedenswil,Zuerich und Thurgau,CHE,2288318
 Private Call,HB9HCQ Marius Matter,Berikon,.,CHE,2288319
-Private Call,HB9WAV Peter no_name,Mettmenstetten,Zuerich und Thurgau,CHE,2288320
+Private Call,HB9WAV Peter No_name,Mettmenstetten,Zuerich und Thurgau,CHE,2288320
 Private Call,HB9GYI Crispin Tschirky,Tagelswangen,Crispin,CHE,2288321
-Private Call,HB9HDZ Hans no_name,Embrach,Zh-Tg,CHE,2288322
-Private Call,HB9HEM Mark no_name,Zurich,Zh-Tg,CHE,2288323
-Private Call,HB9HDM Michi no_name,Zuerich,no_name,CHE,2288324
-Private Call,HB9GSS Stephan no_name,Zurich,Stephan,CHE,2288325
-Private Call,HB9HEX Fabian no_name,Opfikon,no_name,CHE,2288326
-Private Call,HB9CCS Wolfgang no_name,Zuerich,no_name,CHE,2288327
-Private Call,HB9EKO Jens no_name,Buelach,no_name,CHE,2288328
-Private Call,HB3XVE Lothar no_name,Zurich,no_name,CHE,2288329
+Private Call,HB9HDZ Hans No_name,Embrach,Zh-Tg,CHE,2288322
+Private Call,HB9HEM Mark No_name,Zurich,Zh-Tg,CHE,2288323
+Private Call,HB9HDM Michi No_name,Zuerich,No_name,CHE,2288324
+Private Call,HB9GSS Stephan No_name,Zurich,Stephan,CHE,2288325
+Private Call,HB9HEX Fabian No_name,Opfikon,No_name,CHE,2288326
+Private Call,HB9CCS Wolfgang No_name,Zuerich,No_name,CHE,2288327
+Private Call,HB9EKO Jens No_name,Buelach,No_name,CHE,2288328
+Private Call,HB3XVE Lothar No_name,Zurich,No_name,CHE,2288329
 Private Call,HB9HBT Tom Heierle,Duernten,Zh-Tg,CHE,2288330
-Private Call,HB3XUX Andy no_name,Meilen,.,CHE,2288331
-Private Call,HB9HCP Bruno no_name,Oberwil-Lieli,.,CHE,2288332
+Private Call,HB3XUX Andy No_name,Meilen,.,CHE,2288331
+Private Call,HB9HCP Bruno No_name,Oberwil-Lieli,.,CHE,2288332
 Private Call,HB3XUD Walter Bollier,Einsiedeln,Sz,CHE,2288333
-Private Call,HB9HGP Patrick no_name,Birchwil,.,CHE,2288334
-Private Call,HB9HHQ Stefan no_name,Staefa,.,CHE,2288335
+Private Call,HB9HGP Patrick No_name,Birchwil,.,CHE,2288334
+Private Call,HB9HHQ Stefan No_name,Staefa,.,CHE,2288335
 Private Call,HB9CIG Henry Salzmann,Uitikon Waldegg,.,CHE,2288336
 Private Call,HB9AN Amateur 2000,Kilchberg,.,CHE,2288337
-Private Call,HB9BIS Rene no_name,Uitikon Waldegg,.,CHE,2288338
+Private Call,HB9BIS Rene No_name,Uitikon Waldegg,.,CHE,2288338
 Private Call,HB9HJK Akio Kaesermann,Winterthur,Zurich,CHE,2288339
-Private Call,HB3XWY Roman no_name,Schoenholzerswilen,.,CHE,2288340
+Private Call,HB3XWY Roman No_name,Schoenholzerswilen,.,CHE,2288340
 Private Call,HB9EPF Peter Brunner,Embrach,Zuerich und Thurgau,CHE,2288424
 Private Call,HB9ANF Hans-Joerg Spring,Wiesendangen,Zuerich und Thurgau,CHE,2288542
 Private Call,HB9SDB Rolf Tschumi,Waedenswil,Zuerich und Thurgau,CHE,2288822
 Private Call,HB9BXQ Renato Schlittler,Zuerich,Zuerich und Thurgau,CHE,2288867
-Private Call,HB9SG Funkamateure no_name,St.Gallen,Ostschweiz,CHE,2289000
+Private Call,HB9SG Funkamateure No_name,St.Gallen,Ostschweiz,CHE,2289000
 Private Call,HB9SOF Charly Strassmann,Bettwiesen,Zuerich und Thurgau,CHE,2289001
-Private Call,HB9SWR Werner no_name,Trogen,Ostschweiz,CHE,2289002
+Private Call,HB9SWR Werner No_name,Trogen,Ostschweiz,CHE,2289002
 Private Call,HB3YKN Sandro Graf,Arbon,Ostschweiz,CHE,2289003
 Private Call,HB9TIM Andreas Kozma,Goldach,Ostschweiz,CHE,2289004
 Private Call,HB9ASF Franz Sigg,Rheineck,Ostschweiz,CHE,2289005
@@ -1586,10 +1588,10 @@ Private Call,HB9DKG Thomas Mueller,Rheineck,Ostschweiz,CHE,2289033
 Private Call,HB9MTJ Walter Hutter,Kriessern,Ostschweiz,CHE,2289034
 Private Call,HB9FGC Rade Markovic,Niederuzwil,Ostschweiz,CHE,2289035
 Private Call,HB9BEP Michael Reinhold,Grabs,Ostschweiz,CHE,2289036
-Private Call,HB9EKI Franco no_name,Diepoldsau,Ostschweiz,CHE,2289037
+Private Call,HB9EKI Franco No_name,Diepoldsau,Ostschweiz,CHE,2289037
 Private Call,HB9EUQ Leandro Brassel,Altstaetten,Ostschweiz,CHE,2289038
 Private Call,HB9FVF Matthias Sen,Wolfhalden,Ostschweiz,CHE,2289039
-Private Call,HB9DWD Urban no_name,no_city,Ostschweiz,CHE,2289040
+Private Call,HB9DWD Urban No_name,no_city,Ostschweiz,CHE,2289040
 Private Call,HB9DQL Jurg Solenthaler,Wald,Ostschweiz,CHE,2289041
 Private Call,HB9DQK Daniel Venzin,Widnau,Ostschweiz,CHE,2289042
 Private Call,HB9WG Erich Ulmann,St.Gallen,Ostschweiz,CHE,2289043
@@ -1597,26 +1599,26 @@ Private Call,HB9EUJ Claudia Roesli,no_city,Ostschweiz,CHE,2289044
 Private Call,HB9AKC Carl Clauss,Horn,Ostschweiz,CHE,2289045
 Private Call,HB9GNK Erwin Lander,Wil,Ostschweiz,CHE,2289046
 Private Call,HB9KNO Carl Palatini,Untereggen,Ostschweiz,CHE,2289047
-Private Call,HB9DWD Urban no_name,no_city,Ostschweiz,CHE,2289048
+Private Call,HB9DWD Urban No_name,no_city,Ostschweiz,CHE,2289048
 Private Call,HB9KOG Robert Sutter,St.Gallen,Ostschweiz,CHE,2289049
-Private Call,HB9TIP Marinus no_name,Bern,Ostschweiz,CHE,2289050
+Private Call,HB9TIP Marinus No_name,Bern,Ostschweiz,CHE,2289050
 Private Call,HB9EVD Jack Braunwalder,Wilen,Ostschweiz,CHE,2289051
 Private Call,HB9BZC Kurt Hirschi,St.Gallen,Ostschweiz,CHE,2289052
 Private Call,HB9KOO Reto Lareida,Engelburg,Ostschweiz,CHE,2289053
 Private Call,HB9FFY Roman Krapf,Roggwil,Ostschweiz,CHE,2289054
-Private Call,HB3YGP Paul no_name,Ostschweiz,Ostschweiz,CHE,2289055
+Private Call,HB3YGP Paul No_name,Ostschweiz,Ostschweiz,CHE,2289055
 Private Call,HB9TNW Celso Bassanello,St.Gallen,Ostschweiz,CHE,2289056
 Private Call,HB9BFY Peter Aeschlimann,Walzenhausen,Ostschweiz,CHE,2289057
 Private Call,HB9FES Daniel Scheuss,Herisau,Ostschweiz,CHE,2289058
 Private Call,HB9CMP Alex Klingler,Widnau,Ostschweiz,CHE,2289059
-Private Call,HB9DHH Rene no_name,no_city,Ostschweiz,CHE,2289060
-Private Call,HB9TKE Johannes no_name,Bern,Ostschweiz,CHE,2289061
+Private Call,HB9DHH Rene No_name,no_city,Ostschweiz,CHE,2289060
+Private Call,HB9TKE Johannes No_name,Bern,Ostschweiz,CHE,2289061
 Private Call,HB9AJF Ernst Manser,Bern,Ostschweiz,CHE,2289062
 Private Call,HB9EMZ Harry Giger,Bussnang,Ostschweiz,CHE,2289063
 Private Call,HB3YWF Franz Willi,St.Gallen,Ostschweiz,CHE,2289064
 Private Call,HB9FUT Timm Schneider,Muenchwilen,Ostschweiz,CHE,2289065
-Private Call,HB9BIPI Scoutnet no_name,Scoutnet Schweiz,no_name,CHE,2289066
-Private Call,HB3YBV Andreas no_name,no_city,Ostschweiz,CHE,2289067
+Private Call,HB9BIPI Scoutnet No_name,Scoutnet Schweiz,No_name,CHE,2289066
+Private Call,HB3YBV Andreas No_name,no_city,Ostschweiz,CHE,2289067
 Private Call,HB3YDM Martin Waldispuehl,Wilen,Ostschweiz,CHE,2289068
 Private Call,HB9FUE Patrick Oberholzer,Bischofszell,Ostschweiz,CHE,2289069
 Private Call,HB9CMI Peter Altschul,Waengi,Ostschweiz,CHE,2289070
@@ -1626,37 +1628,37 @@ Private Call,HB3YCK Peter Stampfli,Arbon,Ostschweiz,CHE,2289073
 Private Call,HB3YDT Daniel Kaserer,Tagerschen,Ostschweiz,CHE,2289074
 Private Call,HB9GPX David Luber,Lauterach,Ostschweiz,CHE,2289075
 Private Call,HB9EZX Nassos Petrou,Moerschwil,Ostschweiz,CHE,2289076
-Private Call,HB9GPJ Tomislav no_name,no_city,Ostschweiz,CHE,2289077
+Private Call,HB9GPJ Tomislav No_name,no_city,Ostschweiz,CHE,2289077
 Private Call,HB9DGR Reinhold Erdmann,Rebstein,Ostschweiz,CHE,2289078
 Private Call,HB9EIJ Martin Jung,Rossruti,Ostschweiz,CHE,2289079
 Private Call,HB9TMR Hans Rudisuhli,Frumsen,Ostschweiz,CHE,2289080
 Private Call,HB9DPM Ernst Oehninger,Bazenheid,Ostschweiz,CHE,2289081
-Private Call,HB3XPJ Ralf Mader,St.Gallen,no_name,CHE,2289082
-Private Call,HB9TUT Michael no_name,St.Gallen,Sankt Gallen,CHE,2289083
+Private Call,HB3XPJ Ralf Mader,St.Gallen,No_name,CHE,2289082
+Private Call,HB9TUT Michael No_name,St.Gallen,Sankt Gallen,CHE,2289083
 Private Call,HB3YBF Patrick Kern,Gossau,Sankt Gallen,CHE,2289084
-Private Call,HB9DWK Fiorello Epper,Gossau,no_name,CHE,2289085
+Private Call,HB9DWK Fiorello Epper,Gossau,No_name,CHE,2289085
 Private Call,HB9TRO Roland Noll,Schwarzenbach,Ostschweiz,CHE,2289086
 Private Call,HB9CVE Andy Meyer,Niederteufen,Ostschweiz,CHE,2289087
-Private Call,HB9PLK Ueli Burkart,Gerlisberg,no_name,CHE,2289088
-Private Call,HB9ZAP Edwin Schuetz,Teufen,no_name,CHE,2289089
-Private Call,HB9EVD Jack Braunwalder,Wilen,no_name,CHE,2289090
-Private Call,HB9ZGZ Cyrill Schmid,Muenchwilen,no_name,CHE,2289091
+Private Call,HB9PLK Ueli Burkart,Gerlisberg,No_name,CHE,2289088
+Private Call,HB9ZAP Edwin Schuetz,Teufen,No_name,CHE,2289089
+Private Call,HB9EVD Jack Braunwalder,Wilen,No_name,CHE,2289090
+Private Call,HB9ZGZ Cyrill Schmid,Muenchwilen,No_name,CHE,2289091
 Private Call,HB9GYB Patrick Kern,Gossau,Sankt Gallen,CHE,2289092
-Private Call,HB9DKC Rudolf Clausen,Widnau,no_name,CHE,2289093
-Private Call,HB9BEF Wilfried no_name,Tubach,no_name,CHE,2289094
-Private Call,HB3YJZ Markus Ross,Flawil,no_name,CHE,2289095
+Private Call,HB9DKC Rudolf Clausen,Widnau,No_name,CHE,2289093
+Private Call,HB9BEF Wilfried No_name,Tubach,No_name,CHE,2289094
+Private Call,HB3YJZ Markus Ross,Flawil,No_name,CHE,2289095
 Private Call,HB9DXB Sven Wismer,Flawil,Stgalle,CHE,2289096
-Private Call,HB9HBF Beat no_name,Wolfhalden,Ostschweiz,CHE,2289097
-Private Call,HB9DKC Ruedi no_name,Widnau,Ostschweiz,CHE,2289098
-Private Call,HB9ENE Michael no_name,Tobel-Taegerschen,Ostschweiz,CHE,2289099
+Private Call,HB9HBF Beat No_name,Wolfhalden,Ostschweiz,CHE,2289097
+Private Call,HB9DKC Ruedi No_name,Widnau,Ostschweiz,CHE,2289098
+Private Call,HB9ENE Michael No_name,Tobel-Taegerschen,Ostschweiz,CHE,2289099
 Private Call,HB3XUP Florian Florian,Waldkirch,Ostschweiz,CHE,2289100
-Private Call,HB9HEW Michael Mohr,Engelburg,no_name,CHE,2289101
+Private Call,HB9HEW Michael Mohr,Engelburg,No_name,CHE,2289101
 Private Call,HB9DVZ Andre Jalkoczi,Sevelen Sg,.,CHE,2289102
-Private Call,HB9FUG Juerg no_name,Schwellbrunn,Ausserrhoden,CHE,2289103
-Private Call,HB9BZY Jakob no_name,Au/sg,.,CHE,2289104
-Private Call,HB9SRD Jakob no_name,Goldach,Stno_infogallen,CHE,2289105
+Private Call,HB9FUG Juerg No_name,Schwellbrunn,Ausserrhoden,CHE,2289103
+Private Call,HB9BZY Jakob No_name,Au/sg,.,CHE,2289104
+Private Call,HB9SRD Jakob No_name,Goldach,Stno_infogallen,CHE,2289105
 Private Call,HB9HJQ Christian Egger,Moerschwil,Stno_info Gallen,CHE,2289106
-Private Call,HB3XWP Dirk no_name,Ganterschwil,.,CHE,2289107
+Private Call,HB3XWP Dirk No_name,Ganterschwil,.,CHE,2289107
 Private Call,OE1XAR Oevsv Lv Wien,Wien,WIEN,AUT,2320010
 Private Call,OE5XWM Clubstation Wels,Wels,KTN,AUT,2320011
 Private Call,OE8WUK Walter Unterberger,Klagenfurt,KTN,AUT,2320012
@@ -1721,25 +1723,25 @@ Private Call,OE2WHP Holger Weiss,Hallwang,SBG,AUT,2320070
 Private Call,OE1ZZZ Andrey Sparky,Wien,WIEN,AUT,2320071
 Private Call,4U1A Arcdx Club,Wien,WIEN,AUT,2320072
 Private Call,OE7REG Regina Werlberger,Kufstein,TIROL,AUT,2320073
-Private Call,OE9KBV Matthias Koch,Bludenz ()),VBG,AUT,2320074
+Private Call,OE9KBV Matthias Koch,Bludenz ())),VBG,AUT,2320074
 Private Call,OE5SEG Martin Schirghuber,Steyr,OOE,AUT,2320075
-Private Call,OE5EIL Emil Meindl,Steyr ()),OOE,AUT,2320076
-Private Call,OE9XXK Oerk  Lv Feldkirch,Feldkirch ()),VBG,AUT,2320077
-Private Call,OE9XRK Oerk Lv Vorarlberg,Feldkirch ()),VBG,AUT,2320078
+Private Call,OE5EIL Emil Meindl,Steyr ())),OOE,AUT,2320076
+Private Call,OE9XXK Oerk  Lv Feldkirch,Feldkirch ())),VBG,AUT,2320077
+Private Call,OE9XRK Oerk Lv Vorarlberg,Feldkirch ())),VBG,AUT,2320078
 Private Call,OE7MFI Florian Millinger,Sankt Ulrich am Pillersee,TIROL,AUT,2320079
-Private Call,OE4DJN Daniel Jeitler,Neustift An der Lafnitz ()),BGLD,AUT,2320080
+Private Call,OE4DJN Daniel Jeitler,Neustift An der Lafnitz ())),BGLD,AUT,2320080
 Private Call,OE3SMA Sebastian Maderner,Poysbrunn,NOE,AUT,2320081
 Private Call,OE3DWE Dominic Wesseli,Laaben,NOE,AUT,2320082
 Private Call,OE1UHA Kurt Hirsch,Wien,WIEN,AUT,2320083
 Private Call,OE3ANC Andreas Schmidberger,Traisen,NOE,AUT,2320084
-Private Call,OE3KAR Karl Kreutzwiesner,Korneuburg ()),NOE,AUT,2320085
+Private Call,OE3KAR Karl Kreutzwiesner,Korneuburg ())),NOE,AUT,2320085
 Private Call,OE2PDR Peter Berger,Neumarkt am Wallersee,SBG,AUT,2320086
 Private Call,OE6WPR Wolfgang Predikaka,Raaba-Grambach,STMK,AUT,2320087
 Private Call,OE6CPJ Claudia Predikaka,Raaba-Grambach,STMK,AUT,2320088
 Private Call,OE3SHH Helmut Holzer,Strasshof An der Nordbahn,NOE,AUT,2320089
-Private Call,OE1KGR Guenter Koderhold,Wien ()),WIEN,AUT,2320090
+Private Call,OE1KGR Guenter Koderhold,Wien ())),WIEN,AUT,2320090
 Private Call,OE3GUA Gunther Mauerkirchner,Neulengbach,NOE,AUT,2320091
-Private Call,OE1FWU Friedrich Wendl,Wien ()),WIEN,AUT,2320092
+Private Call,OE1FWU Friedrich Wendl,Wien ())),WIEN,AUT,2320092
 Private Call,OE6ELY Manuel Kanitsch,Gratwein,STMK,AUT,2320093
 Private Call,OE1PBR Peter Brader,Wien,WIEN,AUT,2320094
 Private Call,OE5HRP Hans Schneider,Bad Hall ())),OOE,AUT,2320095
@@ -1771,6 +1773,14 @@ Private Call,OE3BIO Stephan Mitterer,Brunn am Gebirge,NOE,AUT,2320120
 Private Call,OE4HUF Andreas Hausenbiegl,Raiding,BGLD,AUT,2320121
 Private Call,OE3RKR Rene Kargl,Enikelberg,NOE,AUT,2320122
 Private Call,OE3HLR Hermann Loibner,Grosrust,NOEH,AUT,2320123
+Private Call,OE3SGQ Gernot Sattler,Traisen,NOE,AUT,2320124
+Private Call,OE7LUP Lukas Possenig,Nussdorf-Debant,TIROL,AUT,2320125
+Private Call,OE2LBC Manuel Starlinger,Dienten,SBG,AUT,2320126
+Private Call,OE6AOD Bernhard Anderle,Sankt Stefan,STMK,AUT,2320127
+Private Call,OE6PAY Udo Payer,Kalsdorf,STMK,AUT,2320128
+Private Call,OE5HOR Gerhard Hoertenhummer,Ohlsdorf,OOE,AUT,2320129
+Private Call,OE6CHD Christof Dallermassl,Graz,.,AUT,2320130
+Private Call,OE5WEO Peter Wessely,Voecklabruck,OOE,AUT,2320131
 Private Call,OE1KBC Kurt Baumann,Wien,WIEN,AUT,2321001
 Private Call,OE1KBC Kurt Baumann,Wien,WIEN,AUT,2321002
 Private Call,OE1KBC Kurt Baumann,Wien,WIEN,AUT,2321003
@@ -1867,7 +1877,7 @@ Private Call,OE1ENS Ernst Salmhofer,Wien,WIEN,AUT,2321093
 Private Call,OE1HAW Georg Alberer Hans,Wien,WIEN,AUT,2321094
 Private Call,OE1ABS Arno Boehler,Wien,WIEN,AUT,2321095
 Private Call,OE1YXS Sylvia Bachschwell,Wien,WIEN,AUT,2321096
-Private Call,OE4DEA Denny no_name,Wien,WIEN,AUT,2321097
+Private Call,OE4DEA Denny No_name,Wien,WIEN,AUT,2321097
 Private Call,OE1PSW No_name no_name,Wien,WIEN,AUT,2321098
 Private Call,OE1AMA No_name no_name,Wien,WIEN,AUT,2321099
 Private Call,OE1ROC Werner Raul,Wien,WIEN,AUT,2321100
@@ -2004,7 +2014,7 @@ Private Call,OE1WWW Walter Waiss,Wien,WIEN,AUT,2321230
 Private Call,OE1WCA Werner Casett,Wien,WIEN,AUT,2321231
 Private Call,OE1SKV Stephan Kleibel,Wien,WIEN,AUT,2321232
 Private Call,OE1EAX Andreas Gahleitner Engelbert,Wien,WIEN,AUT,2321233
-Private Call,OE1VZG No_name no_name,no_city,WIEN,AUT,2321234
+Private Call,OE1VZG No_name No_name,no_city,WIEN,AUT,2321234
 Private Call,OE1MEW Hausermaier Maximilian,Wien,WIEN,AUT,2321235
 Private Call,OE1WEH Weber Heinz,Wien,WIEN,AUT,2321236
 Private Call,OE1SCS Stefan Schultheis,Wien,WIEN,AUT,2321237
@@ -2036,12 +2046,12 @@ Private Call,OE1ZMM Michel Montfort,Wien,WIEN,AUT,2321262
 Private Call,OE1VWA Walter no_name,Wien,WIEN,AUT,2321263
 Private Call,OE1YSI Sabine Schweitzer,Wien,WIEN,AUT,2321264
 Private Call,OE1RQH Roman Hefele,Wien,WIEN,AUT,2321265
-Private Call,OE1BHT Bernd no_name,Wien,WIEN,AUT,2321266
+Private Call,OE1BHT Bernd No_name,Wien,WIEN,AUT,2321266
 Private Call,OE1WAA Alexander Wacek,Wien,WIEN,AUT,2321267
 Private Call,OE1UNS Sascha Ungar,Wien,WIEN,AUT,2321268
 Private Call,OE1MHZ Wolfgang Mahr,Wien,WIEN,AUT,2321269
-Private Call,OE1OEE Arek no_name,Wien,WIEN,AUT,2321270
-Private Call,OE1VEP Peter no_name,Wien,WIEN,AUT,2321271
+Private Call,OE1OEE Arek No_name,Wien,WIEN,AUT,2321270
+Private Call,OE1VEP Peter No_name,Wien,WIEN,AUT,2321271
 Private Call,OE1ITE Peter Scharmueller,Wien,WIEN,AUT,2321272
 Private Call,OE1WDH Walter Dvorak,Wien,WIEN,AUT,2321273
 Private Call,OE1UHU Stefan Hutter,Wien,WIEN,AUT,2321274
@@ -2434,10 +2444,10 @@ Private Call,OE3PWT No_name no_name,no_city,NOE,AUT,2323309
 Private Call,OE3MVM Schnepf Michael,Stockerau,NOE,AUT,2323310
 Private Call,OE3EMC Martin Engel,Bad Grosspertholz,NOE,AUT,2323311
 Private Call,OE3YSC Marion Stouy,Bad Grosspertholz,NOE,AUT,2323312
-Private Call,OE3JAL No_name no_name,Brunn am Gebirge,NOE,AUT,2323313
-Private Call,OE3GKQ No_name no_name,Seifritz,NOE,AUT,2323314
+Private Call,OE3JAL No_name No_name,Brunn am Gebirge,NOE,AUT,2323313
+Private Call,OE3GKQ No_name No_name,Seifritz,NOE,AUT,2323314
 Private Call,OE3BRW Bernhard Wild,Sankt Poelten,NOE,AUT,2323315
-Private Call,OE3TDF No_name no_name,Oberwaltersdorf,NOE,AUT,2323316
+Private Call,OE3TDF No_name No_name,Oberwaltersdorf,NOE,AUT,2323316
 Private Call,OE3MWB Manfred Weis,Amstetten,NOE,AUT,2323317
 Private Call,OE3HLU Hannes Kellner,Mank,NOE,AUT,2323318
 Private Call,OE3PEA Peter Elster,Gaubitsch,NOE,AUT,2323319
@@ -2453,27 +2463,27 @@ Private Call,OE3FTC No_name Rafenstein,no_city,NOE,AUT,2323328
 Private Call,OE3KCC Karl Koczan,Baden,NOE,AUT,2323329
 Private Call,OE3MNU Manuel Reiter,Sankt Poelten,NOE,AUT,2323330
 Private Call,OE3AJS Dieter Hagmann,Krems An der Donau,NOE,AUT,2323331
-Private Call,OE3AKI Andreas no_name,Berndorf,STMK,AUT,2323332
+Private Call,OE3AKI Andreas No_name,Berndorf,STMK,AUT,2323332
 Private Call,OE3TRB Thomas no_name,Berndorf,NOE,AUT,2323333
 Private Call,OE3MTA Max Schaffer,Perchtoldsdorf,NOE,AUT,2323334
 Private Call,OE3PBS Bernhard Ing. Peter Bambas,Scheiblingkirchen,NOE,AUT,2323335
 Private Call,OE3TSH No_name Ing. Peter Bambas,no_city,NOE,AUT,2323336
-Private Call,OE3RFR Robert no_name,Ruprechtshofen,OOE,AUT,2323337
+Private Call,OE3RFR Robert No_name,Ruprechtshofen,OOE,AUT,2323337
 Private Call,OE3EGH Martin Haiderer,Gross Enzersdorf,NOE,AUT,2323338
-Private Call,OE3THX Matthias no_name,Maria Enzersdorf,NOE,AUT,2323339
-Private Call,OE3WWP Willi no_name,Laaben,NOE,AUT,2323340
-Private Call,OE3WEK Martin no_name,Laaben,NOE,AUT,2323341
-Private Call,OE3OMR Roland no_name,Grossrust,NOE,AUT,2323342
-Private Call,OE3RBT Reinhard no_name,Pyhra,NOE,AUT,2323343
-Private Call,OE3WDK Dominik no_name,Hafnerbach,NOE,AUT,2323344
-Private Call,OE3HPT Thomas no_name,Prein An der Rax,NOE,AUT,2323345
-Private Call,OE3OEW Wolfgang no_name,no_city,NOE,AUT,2323346
+Private Call,OE3THX Matthias No_name,Maria Enzersdorf,NOE,AUT,2323339
+Private Call,OE3WWP Willi No_name,Laaben,NOE,AUT,2323340
+Private Call,OE3WEK Martin No_name,Laaben,NOE,AUT,2323341
+Private Call,OE3OMR Roland No_name,Grossrust,NOE,AUT,2323342
+Private Call,OE3RBT Reinhard No_name,Pyhra,NOE,AUT,2323343
+Private Call,OE3WDK Dominik No_name,Hafnerbach,NOE,AUT,2323344
+Private Call,OE3HPT Thomas No_name,Prein An der Rax,NOE,AUT,2323345
+Private Call,OE3OEW Wolfgang No_name,no_city,NOE,AUT,2323346
 Private Call,OE3KMZ Markus Zaruba,Tresdorf,KTN,AUT,2323347
 Private Call,OE3WHS Walter Hahnemann,Amstetten,NOE,AUT,2323348
 Private Call,OE3OEX No_name Hahnemann,no_city,NOE,AUT,2323349
 Private Call,OE3FKN Franz Kleindl,Goestling An der Ybbs,NOE,AUT,2323350
 Private Call,OE3AMA Adolf Roetsch,Sollenau,NOE,AUT,2323351
-Private Call,OE3LIT Tommy no_name,Wilfersdorf,STMK,AUT,2323352
+Private Call,OE3LIT Tommy No_name,Wilfersdorf,STMK,AUT,2323352
 Private Call,OE3MJA Josef Mathae,Seitenstetten,NOE,AUT,2323353
 Private Call,OE3RVA Roman Vymyslicky,Leopoldsdorf/m,NOE,AUT,2323354
 Private Call,OE3YZC Marlene Zehetner,Wolfsbach,NOE,AUT,2323355
@@ -2556,7 +2566,7 @@ Private Call,OE4SMS H Maritsch Siegfried,Pinkafeld,BGLD,AUT,2324038
 Private Call,OE4UFB No_name no_name,no_city,BGLD,AUT,2324039
 Private Call,OE4WUA Walter Zunke,Gattendorf,BGLD,AUT,2324040
 Private Call,OE4AHG Anton Hadl,Oberwart,BGLD,AUT,2324041
-Private Call,OE4EWA Wolfgang no_name,Lackenbach,BGLD,AUT,2324042
+Private Call,OE4EWA Wolfgang No_name,Lackenbach,BGLD,AUT,2324042
 Private Call,OE4KMU Klaus-Michael Musser,Markt Allhau,BGLD,AUT,2324101
 Private Call,OE4RLC Rainer Stangl,Markt Allhau,BGLD,AUT,2324102
 Private Call,OE4MUB Martin Urbauer,Buchschachen,BGLD,AUT,2324103
@@ -2724,7 +2734,7 @@ Private Call,OE5DRO Rene Dorn,Traun,OOE,AUT,2325153
 Private Call,OE5DRO Rene Dorn,Traun,OOE,AUT,2325154
 Private Call,OE5AZG August Zehetner,Haid/ansfelden,OOE,AUT,2325155
 Private Call,OE5AMR Marcel Arnetseder,Wels,OOE,AUT,2325156
-Private Call,OE5BPA No_name no_name,Linz,OOE,AUT,2325157
+Private Call,OE5BPA No_name No_name,Linz,OOE,AUT,2325157
 Private Call,OE5GMO Gerhard Mueller,Sankt Martin im Muehlkreis,OOE,AUT,2325158
 Private Call,OE5NEO Jachs Markus,Roitham,OOE,AUT,2325159
 Private Call,OE5EIR Philipp Doppelhofer,Bad Leonfelden,OOE,AUT,2325160
@@ -2956,14 +2966,14 @@ Private Call,OE6HFF No_name no_name,no_city,STMK,AUT,2326191
 Private Call,OE6FBI Neumeister Michael,Graz,STMK,AUT,2326192
 Private Call,OE6ETF Engelbert Thaller,Eisenerz,STMK,AUT,2326193
 Private Call,OE6BOT Florian Kohl,Zlatten,STMK,AUT,2326194
-Private Call,OE6KLF No_name no_name,no_city,STMK,AUT,2326195
+Private Call,OE6KLF No_name No_name,no_city,STMK,AUT,2326195
 Private Call,OE6PSF Patrick Schuller,Lemberg,STMK,AUT,2326196
 Private Call,OE6RAD Roland Maderbacher,Baernbach,STMK,AUT,2326197
-Private Call,OE6MMR No_name no_name,no_city,STMK,AUT,2326198
+Private Call,OE6MMR No_name No_name,no_city,STMK,AUT,2326198
 Private Call,OE6SSB Schmid Hans,Wien,WIEN,AUT,2326199
 Private Call,OE6TXG Helmut Meitz,Graz-Liebenau,STMK,AUT,2326200
 Private Call,OE6OLD Heimo Muehler,Weinburg am Sassbach,STMK,AUT,2326201
-Private Call,OE6LUI No_name no_name,Graz,STMK,AUT,2326202
+Private Call,OE6LUI No_name No_name,Graz,STMK,AUT,2326202
 Private Call,OE6JUE Juergen Schweizer,Windorf,STMK,AUT,2326203
 Private Call,OE6DUG Edgar Neukirchner,Graz,STMK,AUT,2326204
 Private Call,OE6PWE Wolfgang Puhar,Neuseiersberg,STMK,AUT,2326205
@@ -3179,7 +3189,7 @@ Private Call,OE7WDR Markus Widmann,Ebbs,TIROL,AUT,2327184
 Private Call,OE7MPT Martin Pacher,Ebbs,TIROL,AUT,2327185
 Private Call,OE7GMH Manfred Gardener,Sillian,TIROL,AUT,2327186
 Private Call,OE7WPJ Werner Pesserer,Jenbach,TIROL,AUT,2327187
-Private Call,OE7MOF No_name no_name,Eben am Achensee,TIROL,AUT,2327188
+Private Call,OE7MOF No_name No_name,Eben am Achensee,TIROL,AUT,2327188
 Private Call,OE7NCT Nikolaus Coluccini,Angerberg,TIROL,AUT,2327189
 Private Call,OE7GWT Guenther Wirth,Volders,TIROL,AUT,2327190
 Private Call,OE7LOJ Erik Loll-Nielsen,Kitzbuehel,TIROL,AUT,2327191
@@ -3192,23 +3202,23 @@ Private Call,OE7ENJ Erich Nagel,Langkampfen,TIROL,AUT,2327197
 Private Call,OE7OBD David Oberhofer,Terfens,TIROL,AUT,2327198
 Private Call,OE7WRT Wolfgang Ramoser,Innsbruck,TIROL,AUT,2327199
 Private Call,OE7TDK Thomas Duracher,Ausservillgraten,TIROL,AUT,2327200
-Private Call,OE7EJT Elmar no_name,Fiss,TIROL,AUT,2327201
+Private Call,OE7EJT Elmar No_name,Fiss,TIROL,AUT,2327201
 Private Call,OE7IWT Wilfried Haid,Aldrans,TIROL,AUT,2327202
-Private Call,OE7HDR Harald no_name,Tarrenz,TIROL,AUT,2327203
-Private Call,OE7KJM Mario no_name,Itter,TIROL,AUT,2327204
+Private Call,OE7HDR Harald No_name,Tarrenz,TIROL,AUT,2327203
+Private Call,OE7KJM Mario No_name,Itter,TIROL,AUT,2327204
 Private Call,OE7SIT Stefan Isser,Seefeld,OOE,AUT,2327205
-Private Call,OE7SXG Gidis no_name,Niederndorf,TIROL,AUT,2327206
+Private Call,OE7SXG Gidis No_name,Niederndorf,TIROL,AUT,2327206
 Private Call,OE7MLH Martin Hainz,Reith Bei Seefeld,TIROL,AUT,2327207
-Private Call,OE7KIW Klemens no_name,Innsbruck,TIROL,AUT,2327208
-Private Call,OE7PIP Hannes no_name,Innsbruck,TIROL,AUT,2327209
-Private Call,OE7DAV David no_name,Schwaz,TIROL,AUT,2327210
-Private Call,OE7ETT Peter no_name,Woergl,TIROL,AUT,2327211
+Private Call,OE7KIW Klemens No_name,Innsbruck,TIROL,AUT,2327208
+Private Call,OE7PIP Hannes No_name,Innsbruck,TIROL,AUT,2327209
+Private Call,OE7DAV David No_name,Schwaz,TIROL,AUT,2327210
+Private Call,OE7ETT Peter No_name,Woergl,TIROL,AUT,2327211
 Private Call,OE7DRT Dominic Reich,Laengenfeld,TIROL,AUT,2327212
 Private Call,OE7MET Benedikt Dessl,Waengle,TIROL,AUT,2327213
 Private Call,OE7CHJ Christoph Hitthaler,Fliess,TIROL,AUT,2327214
 Private Call,OE7RMT Marco Rossini,Tarrenz,TIROL,AUT,2327215
 Private Call,OE7PET Egon Pelzer,Kufstein,TIROL,AUT,2327216
-Private Call,OE7CSM Martin no_name,Schwoich,TIROL,AUT,2327217
+Private Call,OE7CSM Martin No_name,Schwoich,TIROL,AUT,2327217
 Private Call,OE7RJU Roland Juen,Pettneu A/a,TIROL,AUT,2327218
 Private Call,OE7MOH Othmar Mair,Innsbruck,TIROL,AUT,2327219
 Private Call,OE7WIP Robert Wuggenig,Innsbruck,TIROL,AUT,2327220
@@ -3301,13 +3311,13 @@ Private Call,OE8MVG Michael Veratschnig,Keutschach,KTN,AUT,2328082
 Private Call,OE8JWK Josef Berger,Poertschach am Woerther See,KTN,AUT,2328083
 Private Call,OE8ACD Stefan Joebstl,Wolfsberg,KTN,AUT,2328084
 Private Call,OE8AEE Helmut Stieger,Klagenfurt,KTN,AUT,2328085
-Private Call,OE8GWQ No_name no_name,Sankt Jakob im Rosental,KTN,AUT,2328086
+Private Call,OE8GWQ No_name No_name,Sankt Jakob im Rosental,KTN,AUT,2328086
 Private Call,OE8IJK Kugi Juergen,Sankt Veit An der Glan,KTN,AUT,2328087
 Private Call,OE8GGE Gradischnig Gerd,Sankt Veit An der Glan,KTN,AUT,2328088
 Private Call,OE8IMK Peter Sternath,Sankt Veit An der Glan,KTN,AUT,2328089
 Private Call,OE8ITG Stromberger Gerhard,Sankt Veit An der Glan,KTN,AUT,2328090
 Private Call,OE8IMR Rauter Michael,Sankt Veit An der Glan,KTN,AUT,2328091
-Private Call,OE8RAT No_name no_name,no_city,KTN,AUT,2328092
+Private Call,OE8RAT No_name No_name,no_city,KTN,AUT,2328092
 Private Call,OE8JAS Sacherer Joshua,Sittersdorf,KTN,AUT,2328093
 Private Call,OE8JSK Juergen Scherzer,Sankt Veit An der Glan,KTN,AUT,2328094
 Private Call,OE8ASK Angelika Scherzer,Sankt Veit An der Glan,KTN,AUT,2328095
@@ -3315,7 +3325,7 @@ Private Call,OE8BSK Albert Sitar,Miklauzhof,KTN,AUT,2328096
 Private Call,OE8KYK Unterkoefler Henryk,Ueberfeld,KTN,AUT,2328097
 Private Call,OE8OGI Wolfram Ogris,Feistritz im Rosental,KTN,AUT,2328098
 Private Call,OE8SFK Franz Schenk,Klagenfurt,KTN,AUT,2328099
-Private Call,OE8ELO No_name no_name,Feldkirchen In Kaernten,KTN,AUT,2328100
+Private Call,OE8ELO No_name No_name,Feldkirchen In Kaernten,KTN,AUT,2328100
 Private Call,OE8TEK Elmar Tusch,Bodensdorf,KTN,AUT,2328101
 Private Call,OE8FOX Juergen Spreitzer,Steindorf,KTN,AUT,2328102
 Private Call,OE8RPK Roland Pobatschnig,Sankt Andrae,KTN,AUT,2328103
@@ -4295,7 +4305,7 @@ Private Call,DL1MJ Harald Ulbrich,Blindheim,BY,DEU,2620807
 Private Call,DD7PJ Joerg Turowski,Roxheim,RP,DEU,2620808
 Private Call,DO8WP Matthias Lenhardt,Landshut,BY,DEU,2620809
 Private Call,DO1LX Ralf Lux,Trier,RP,DEU,2620810
-Private Call,DO1JML Jerome Marot-Lassauzaie,Muenchen,BY,DEU,2620811
+Private Call,DL2JML Jerome Marot-Lassauzaie,Muenchen,BY,DEU,2620811
 Private Call,DO6AU Sascha Zimmermann,Sexau,BW,DEU,2620812
 Private Call,DH3PM Patrick Mueller-Labudde,Regis-Breitingen,SN,DEU,2620813
 Private Call,DO1XJ Robert Keil,Althengstett,BW,DEU,2620814
@@ -5096,7 +5106,7 @@ Private Call,DO9FH Helmut Knaak,Bad Duerkheim,RP,DEU,2621608
 Private Call,DH4PH Bernd Zeimetz,Kastellaun,RP,DEU,2621609
 Private Call,DB1BE Bernd Blumenstein,Kassel,HE,DEU,2621610
 Private Call,DF3MY Gerd Anolleck,Augsburg,BY,DEU,2621611
-Private Call,DO1AKM Nigel Cox,Iserlohn,NW,DEU,2621612
+Private Call,DD5MM Nigel Cox,Iserlohn,NW,DEU,2621612
 Private Call,DG5DBY Christian Oelschlegel,Wetter,NW,DEU,2621613
 Private Call,DH1EE Ernst Eipper,Gaeufelden,BW,DEU,2621614
 Private Call,DO1TTA Momme Maraun,Flensburg,SH,DEU,2621615
@@ -5226,7 +5236,7 @@ Private Call,DO5GD Gustav Schelling,Gauting,BY,DEU,2621738
 Private Call,DL3NDZ Gustav Herderich,Hirschaid,BY,DEU,2621739
 Private Call,DK9ZW Wolfgang Zwicker,Neuhausen Ob Eck,BW,DEU,2621740
 Private Call,DO4SR Sabrina Hoffmann,no_city,NO_NAME,DEU,2621741
-Private Call,DG1YHS Heiner no_name,Duesseldorf,NW,DEU,2621742
+Private Call,DG1YHS Heiner No_name,Duesseldorf,NW,DEU,2621742
 Private Call,DK6OS Olaf Strauch,Celle (RA),NI,DEU,2621743
 Private Call,DD6MS Matthias Seifert,Hainichen,SN,DEU,2621744
 Private Call,DH1PU Friedhelm Bauer,Ahrbrueck,RP,DEU,2621745
@@ -9255,7 +9265,7 @@ Private Call,DJ9DJ Merlin Heer,Ellern (HU),RP,DEU,2625767
 Private Call,DO4DW Daniel Wirz,Neumagen-Dhron,RP,DEU,2625768
 Private Call,DJ5AS Alexander Spies,Voelklingen,SL,DEU,2625769
 Private Call,DG1IAG Gunter Schwambach,Kusel,RP,DEU,2625770
-Private Call,DO1OHB Oliver Helmer-Borsutzki,no_city,RP,DEU,2625771
+Private Call,DL1OT Oliver Helmer-Borsutzki,Siefersheim,RP,DEU,2625771
 Private Call,DM5LF Felix Langer,Neidenstein,BW,DEU,2625772
 Private Call,DC8VD Marco Dhur,Neuerburg,RP,DEU,2625773
 Private Call,DB9RA Andreas Rauscher,Betzenstein,BY,DEU,2625774
@@ -9279,11 +9289,11 @@ Private Call,DO2ABS Paul Atherton,Hilgermissen,NI,DEU,2625791
 Private Call,DJ6PI Josef Grimm,Augsburg,BY,DEU,2625792
 Private Call,DL3LBK Kai-Hendrik Schlenger,Kiel,SH,DEU,2625793
 Private Call,DO1OJB Juergen Boltze,Wietzen,NI,DEU,2625794
-Private Call,DO1ES Stefan Deling,Waldems ()),HE,DEU,2625795
+Private Call,DO1ES Stefan Deling,Waldems ())),HE,DEU,2625795
 Private Call,DO4SV Stefan Voss,Nettetal,NW,DEU,2625796
 Private Call,DO3SKS Stefan Knoess,Staufenberg,HE,DEU,2625797
 Private Call,DL2FDP Toma Gruenfeld,Wiesbaden,HE,DEU,2625798
-Private Call,DO3JST Joerg Staedele,Denkendorf ()),BY,DEU,2625799
+Private Call,DO3JST Joerg Staedele,Denkendorf ())),BY,DEU,2625799
 Private Call,DL1GOA Tobias Mosgart,Kriftel,HE,DEU,2625800
 Private Call,DL3YBD Uwe Nagel,Rheine,NW,DEU,2625801
 Private Call,DL0THL Manfred Helbing,Lauf,BY,DEU,2625802
@@ -9300,8 +9310,8 @@ Private Call,DB4QU Ralf Borkowski,Herten,NW,DEU,2625812
 Private Call,DO5MSN Marcel Steigelmann,Neugersdorf,SN,DEU,2625813
 Private Call,DL7ZI Thomas-Bernd Kimmel,Asslar Werdorf,HE,DEU,2625814
 Private Call,DG8DZ Peter Zeller,Regensburg,BY,DEU,2625815
-Private Call,DO5MP Peter Thiele,Kirchenlamitz ()),BY,DEU,2625816
-Private Call,DO8CA Carsten Wennemer,Rheine ()),NW,DEU,2625817
+Private Call,DO5MP Peter Thiele,Kirchenlamitz ())),BY,DEU,2625816
+Private Call,DO8CA Carsten Wennemer,Rheine ())),NW,DEU,2625817
 Private Call,DH9KF Ferdinand Thuering,Koeln,NW,DEU,2625818
 Private Call,DL8AAE Thomas Kerk,Peine,NI,DEU,2625819
 Private Call,DO5DAB Joerg Grimm,Offenbach,HE,DEU,2625820
@@ -9311,8 +9321,8 @@ Private Call,DG1ACZ Martina Zechmeister,Braunschweig,NI,DEU,2625823
 Private Call,DO1HMR Haritta Richter,Erlangen,BY,DEU,2625824
 Private Call,DH1NB Bernd Nickstat,Potsdam,BB,DEU,2625825
 Private Call,DK3UO Ronny Bennoehr,Ruelzheim,RP,DEU,2625826
-Private Call,DK0ZD Clubstation H50,Wietze ()),NI,DEU,2625827
-Private Call,DL0KSB Club Station,Bad Neuenahr-Ahrweiler ()),RP,DEU,2625828
+Private Call,DK0ZD Clubstation H50,Wietze ())),NI,DEU,2625827
+Private Call,DL0KSB Club Station,Bad Neuenahr-Ahrweiler ())),RP,DEU,2625828
 Private Call,DL3NEY Florian Thienel,Burgebrach,BY,DEU,2625829
 Private Call,DG3IAM Ralf Herold,Rastatt,BW,DEU,2625830
 Private Call,DH5PR Peter Telahr,Rhede,NW,DEU,2625831
@@ -9364,6 +9374,25 @@ Private Call,DL1EHR Rudolf Pakulla,Duesseldorf,NW,DEU,2625876
 Private Call,DL1DAW Achim Wortmann,Bergkamen,NW,DEU,2625877
 Private Call,DO1LUK Lukas Loew,Wunstorf,NI,DEU,2625878
 Private Call,DO2CHN Christian Nagel,Wiggensbach,BY,DEU,2625879
+Private Call,DO8YGX Manuel Hark,Ruethen,NW,DEU,2625880
+Private Call,DO1WPO Werner Pochmann,Oberhausen,BY,DEU,2625881
+Private Call,DG1CKM Katharina Rossen,Lautzenbruecken,RP,DEU,2625882
+Private Call,DO9GOW Oliver Westkaemper,Geseke,NW,DEU,2625883
+Private Call,DM4MT Michael Tietz,Koeln,NW,DEU,2625884
+Private Call,DD9WL Juergen Florenkowski,Nackenheim,RP,DEU,2625885
+Private Call,DK2PC Thomas Michel,Hettenleidelheim,RP,DEU,2625886
+Private Call,DG5AAZ Uwe Klapper,Salzgitter,NI,DEU,2625887
+Private Call,DO5LEM Stefan Huber,Oberhausen,NW,DEU,2625888
+Private Call,DL1RSH Holger Merhout,Potsdam,BB,DEU,2625889
+Private Call,DO1ZYM Martin Zymelka,Bamberg,BY,DEU,2625890
+Private Call,DM5TT Holger Adams,Esslingen,BW,DEU,2625891
+Private Call,DL7DI David Innocente,Bad Liebenzell ()),BW,DEU,2625892
+Private Call,DF8WP Kurt Kohler,St. Augustin,NW,DEU,2625893
+Private Call,DO7IW Ingo Wiebusch,Tostedt ()),NI,DEU,2625894
+Private Call,DL5SBY Franz Hermann,Boehmenkirch,BW,DEU,2625895
+Private Call,DH6LP Peter Luening,Holzkirchen,BY,DEU,2625896
+Private Call,DM1MKF Michael Fenske,Neuseddin,BB,DEU,2625897
+Private Call,DG8DCN Jens Lottes,Dortmund,NW,DEU,2625898
 Private Call,DM0NR Hans-Juergen Barthen,Kruft,RP,DEU,2625998
 Private Call,DB0LJ Hans-Juergen Barthen,Kruft,RP,DEU,2625999
 Private Call,DF6RK Ralf Klingler,Glashuetten,HE,DEU,2626000

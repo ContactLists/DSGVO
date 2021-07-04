@@ -1,24 +1,24 @@
 Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
-2280000,N0CALL,No_name no_name,No_name,no_city,Zuerich und Thurgau - CHE,,DMR
-2280001,4U1ITU,International Arc,International,Geneva,no_name - CHE,,DMR
+2280000,N0CALL,No_name No_name,No_name,no_city,Zuerich und Thurgau - CHE,,DMR
+2280001,4U1ITU,International Arc,International,Geneva,No_name - CHE,,DMR
 2280002,HB3XWO,Kornel Becker,Kornel,Basel,- - CHE,,DMR
 2280003,HB9HIT,Jean Perez,Jean,Le Mont-Sur-Lausanne,Westschweiz-Sud - CHE,,DMR
 2280004,HB3XWK,Aldo Surder,Aldo,La Chaux-De-Fonds,Westschweiz-Nord - CHE,,DMR
 2280005,HB9HIK,Frederic Miremad,Frederic,2000 Neuchatel,Westschweiz-Nord - CHE,,DMR
 2280006,HB9HGE,Ruedi Egger,Ruedi,Moerschwil,Ostschweiz - CHE,,DMR
 2280007,HB9HEW,Michael Mohr,Michael,Engelburg,Ostschweiz - CHE,,DMR
-2280008,HB9RHP,no_name Linder,no_name,Lohn-Ammannsegg,Basel/solothurn - CHE,,DMR
+2280008,HB9RHP,No_name Linder,No_name,Lohn-Ammannsegg,Basel/solothurn - CHE,,DMR
 2280009,HB9TWP,Bolzani Lorenzo,Bolzani,Arlate,- - CHE,,DMR
 2280010,HB9FSN,Bruno Kurt,Bruno,Bretzwil,Basel/solothurn - CHE,,DMR
 2280011,HB9OBB,Daniele Guazzoni,Daniele,Zurich,Zuerich und Thurgau - CHE,,DMR
 2280012,HB9HGO,Carlos Laya,Carlos,no_city,Basel/solothurn - CHE,,DMR
 2280013,HB3XWW,Roland Juen,Roland,8526 Oberneunforn,- - CHE,,DMR
 2280014,HB9GYV,Paul Junod,Paul,Bienne,- - CHE,,DMR
-2280015,HB3XVS,Stefan no_name,Stefan,Moosseedorf,Bern - CHE,,DMR
+2280015,HB3XVS,Stefan No_name,Stefan,Moosseedorf,Bern - CHE,,DMR
 2280016,HB3XWN,Umberto Nerone,Umberto,Auw,Aargau - CHE,,DMR
 2280017,HB9CTJ,Urs Jenzer,Urs,Biel,Bern - CHE,,DMR
 2280018,HB9HJS,Stefan Affentranger,Stefan,Altishofen,Lucerne - CHE,,DMR
-2280019,HB3XXA,no_name no_name,no_name,Baar,Zug - CHE,,DMR
+2280019,HB3XXA,No_name No_name,No_name,Baar,Zug - CHE,,DMR
 2280020,HB9SNW,Armin Merz,Armin,Ch-4528 Zuchwil So,Solothurn - CHE,,DMR
 2280021,HB9OMI,Pierre-Yves Jaquenoud,Pierre-Yves,Yverdon-Les-Bains,Vaud - CHE,,DMR
 2280022,HB3XWT,Jean Schult,Jean,Rickenbach Sulz,Zurich - CHE,,DMR
@@ -42,7 +42,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2280040,HB9MKE,Fritz Hagen,Fritz,St  Pantaleon,Solothurn - CHE,,DMR
 2280041,HB9TTU,Ruedi Walther,Ruedi,Ch 8332 Russikon,Zurich - CHE,,DMR
 2280042,HB9MQB,Meier Beat,Meier,Immensee,Schwyz - CHE,,DMR
-2280043,HB9HJH,Mitko no_name,Mitko,Basel,Basel-City - CHE,,DMR
+2280043,HB9HJH,Mitko No_name,Mitko,Basel,Basel-City - CHE,,DMR
 2280044,HB9COQ,Jaime Nogues,Jaime,Basilea,Basel-City - CHE,,DMR
 2280045,HB9FNN,Matthias Erhardt,Matthias,Lyss,Bern - CHE,,DMR
 2280046,HB9FZF,Matthias Pobig,Matthias,Weiach,Zurich - CHE,,DMR
@@ -71,46 +71,48 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2280069,HB9HJU,Luis Santiago,Luis,Kloten,Zurich - CHE,,DMR
 2280070,HB3XXY,Roger Steiner,Roger,Glattfelden,Zurich - CHE,,DMR
 2280071,HB3XXI,Roman Baechli,Roman,Rickenbach Zh,Zurich - CHE,,DMR
-2281001,HB3YNV,Cedric no_name,Cedric,Saint-Cergue,Waadt - CHE,,DMR
-2281002,HB3YNV,Cedric no_name,Cedric,Saint-Cergue,Waadt - CHE,,DMR
-2281003,HB3YNV,Cedric no_name,Cedric,Saint-Cergue,Waadt - CHE,,DMR
-2281004,HB9IBG,Hippolyte no_name,Hippolyte,Geneva-Ville,Genf - CHE,,DMR
-2281005,HB9IBG,Hippolyte no_name,Hippolyte,Geneva-Ville,Genf - CHE,,DMR
-2281006,HB9IBG,Hippolyte no_name,Hippolyte,Geneva-Ville,Genf - CHE,,DMR
-2281007,HB9VAF,Marco no_name,Marco,Gingins,Genf - CHE,,DMR
-2281008,HB9DNG,Raymond no_name,Raymond,Genve,Genf - CHE,,DMR
-2281009,HB9DBB,Jean-Michel no_name,Jean-Michel,Lutry,Vd - CHE,,DMR
-2281010,HB9VJS,Charles no_name,Charles,Lutry,Vd - CHE,,DMR
-2281011,HB9IIF,Jean-Louis no_name,Jean-Louis,Lutry,Vd - CHE,,DMR
-2281012,HB9VJS,Charles no_name,Charles,Lutry,Vd - CHE,,DMR
-2281013,HB9TJU,Nicolas no_name,Nicolas,Vevey,Vd - CHE,,DMR
-2281014,HB9TPL,Daniel no_name,Daniel,St. Sulpice,Lausanne - CHE,,DMR
-2281015,HB3YKO,Philippe no_name,Philippe,Meyrin,Genf - CHE,,DMR
-2281016,HB9TYR,Renato no_name,Renato,Versoix,Genf - CHE,,DMR
-2281017,HB9DNG,Raymond no_name,Raymond,Genf,Genf - CHE,,DMR
-2281018,HB9AXG,Antoine no_name,Antoine,Onex,Genf - CHE,,DMR
-2281019,HB9DBB,Jean-Michel no_name,Jean-Michel,Lutry,Genf - CHE,,DMR
-2281020,HB9DBB,Jean-Michel no_name,Jean-Michel,Lutry,Genf - CHE,,DMR
-2281021,HB9DBB,Jean-Michel no_name,Jean-Michel,Lutry,Genf - CHE,,DMR
-2281022,HB9HFF,Stephen no_name,Stephen,Morlon,Freiburg - CHE,,DMR
-2281023,HB9HFF,Stephen no_name,Stephen,Morlon,Freiburg - CHE,,DMR
+2280072,HB9HJZ,Vincent Pesti,Vincent,Luzern,Lucerne - CHE,,DMR
+2280073,HB3XYE,Vladimir Hrusca,Vladimir,8152 Opfikon,Zurich - CHE,,DMR
+2281001,HB3YNV,Cedric No_name,Cedric,Saint-Cergue,Waadt - CHE,,DMR
+2281002,HB3YNV,Cedric No_name,Cedric,Saint-Cergue,Waadt - CHE,,DMR
+2281003,HB3YNV,Cedric No_name,Cedric,Saint-Cergue,Waadt - CHE,,DMR
+2281004,HB9IBG,Hippolyte No_name,Hippolyte,Geneva-Ville,Genf - CHE,,DMR
+2281005,HB9IBG,Hippolyte No_name,Hippolyte,Geneva-Ville,Genf - CHE,,DMR
+2281006,HB9IBG,Hippolyte No_name,Hippolyte,Geneva-Ville,Genf - CHE,,DMR
+2281007,HB9VAF,Marco No_name,Marco,Gingins,Genf - CHE,,DMR
+2281008,HB9DNG,Raymond No_name,Raymond,Genve,Genf - CHE,,DMR
+2281009,HB9DBB,Jean-Michel No_name,Jean-Michel,Lutry,Vd - CHE,,DMR
+2281010,HB9VJS,Charles No_name,Charles,Lutry,Vd - CHE,,DMR
+2281011,HB9IIF,Jean-Louis No_name,Jean-Louis,Lutry,Vd - CHE,,DMR
+2281012,HB9VJS,Charles No_name,Charles,Lutry,Vd - CHE,,DMR
+2281013,HB9TJU,Nicolas No_name,Nicolas,Vevey,Vd - CHE,,DMR
+2281014,HB9TPL,Daniel No_name,Daniel,St. Sulpice,Lausanne - CHE,,DMR
+2281015,HB3YKO,Philippe No_name,Philippe,Meyrin,Genf - CHE,,DMR
+2281016,HB9TYR,Renato No_name,Renato,Versoix,Genf - CHE,,DMR
+2281017,HB9DNG,Raymond No_name,Raymond,Genf,Genf - CHE,,DMR
+2281018,HB9AXG,Antoine No_name,Antoine,Onex,Genf - CHE,,DMR
+2281019,HB9DBB,Jean-Michel No_name,Jean-Michel,Lutry,Genf - CHE,,DMR
+2281020,HB9DBB,Jean-Michel No_name,Jean-Michel,Lutry,Genf - CHE,,DMR
+2281021,HB9DBB,Jean-Michel No_name,Jean-Michel,Lutry,Genf - CHE,,DMR
+2281022,HB9HFF,Stephen No_name,Stephen,Morlon,Freiburg - CHE,,DMR
+2281023,HB9HFF,Stephen No_name,Stephen,Morlon,Freiburg - CHE,,DMR
 2281024,HB9FOX,Patrice Guberan,Patrice,Biere,Westschweiz-Sud - CHE,,DMR
 2281025,HB9FOX,Patrice Guberan,Patrice,Biere,Westschweiz-Sud - CHE,,DMR
-2281026,HB9IJE,Dominique no_name,Dominique,Saint-Livres,Waadt - CHE,,DMR
-2281027,HB9IJE,Dominique no_name,Dominique,Saint-Livres,Waadt - CHE,,DMR
-2281028,HB9DUG,Michel no_name,Michel,Vich,Waadt - CHE,,DMR
-2281029,HB9DUG,Michel no_name,Michel,Vich,Waadt - CHE,,DMR
-2281030,HB9RHI,Enio no_name,Enio,Saint-Cergues,Waadt - CHE,,DMR
-2281031,HB9RHI,Enio no_name,Enio,Saint-Cergues,Waadt - CHE,,DMR
-2281032,HB9FMF,Didier no_name,Didier,Rougemont,Waadt - CHE,,DMR
-2281033,HB9FMF,Didier no_name,Didier,Rougemont,Waadt - CHE,,DMR
-2281034,HB9PCF,Olaf no_name,Olaf,Chatonnaye,Freiburg - CHE,,DMR
-2281035,HB9PCF,Olaf no_name,Olaf,Chatonnaye,Freiburg - CHE,,DMR
+2281026,HB9IJE,Dominique No_name,Dominique,Saint-Livres,Waadt - CHE,,DMR
+2281027,HB9IJE,Dominique No_name,Dominique,Saint-Livres,Waadt - CHE,,DMR
+2281028,HB9DUG,Michel No_name,Michel,Vich,Waadt - CHE,,DMR
+2281029,HB9DUG,Michel No_name,Michel,Vich,Waadt - CHE,,DMR
+2281030,HB9RHI,Enio No_name,Enio,Saint-Cergues,Waadt - CHE,,DMR
+2281031,HB9RHI,Enio No_name,Enio,Saint-Cergues,Waadt - CHE,,DMR
+2281032,HB9FMF,Didier No_name,Didier,Rougemont,Waadt - CHE,,DMR
+2281033,HB9FMF,Didier No_name,Didier,Rougemont,Waadt - CHE,,DMR
+2281034,HB9PCF,Olaf No_name,Olaf,Chatonnaye,Freiburg - CHE,,DMR
+2281035,HB9PCF,Olaf No_name,Olaf,Chatonnaye,Freiburg - CHE,,DMR
 2281036,HB3YRB,Alex Jullier,Alex,Verbier,Wallis - CHE,,DMR
-2281037,HB9EUF,Oliver no_name,Oliver,Avenches,Waadt - CHE,,DMR
-2281038,HB9VAB,Rodolphe no_name,Rodolphe,Confignon,Genf - CHE,,DMR
-2281039,HB9FLL,Jeremie no_name,Jeremie,Genf-Stadt,Genf - CHE,,DMR
-2281040,HB9AKP,Pierre-Andre no_name,Pierre-Andre,Bremblens,Waadt - CHE,,DMR
+2281037,HB9EUF,Oliver No_name,Oliver,Avenches,Waadt - CHE,,DMR
+2281038,HB9VAB,Rodolphe No_name,Rodolphe,Confignon,Genf - CHE,,DMR
+2281039,HB9FLL,Jeremie No_name,Jeremie,Genf-Stadt,Genf - CHE,,DMR
+2281040,HB9AKP,Pierre-Andre No_name,Pierre-Andre,Bremblens,Waadt - CHE,,DMR
 2281041,HB9ULG,Privet Martial,Privet,Denges,Waadt - CHE,,DMR
 2281042,HB3YRB,Alex Jullier,Alex,Verbier,Bern und Oberwallis - CHE,,DMR
 2281043,HB9MMC,Alain Minard,Alain,Genf,Westschweiz-Sud - CHE,,DMR
@@ -215,7 +217,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2281142,HB3YTB,Christian Sudan,Christian,Villeneuve,Westschweiz-Sud - CHE,,DMR
 2281143,HB3YYR,Roberto Scheidegger,Roberto,Versoix,Westschweiz-Sud - CHE,,DMR
 2281144,HB9SAT,Freddy Haldemann,Freddy,Sugiez,Westschweiz-Sud - CHE,,DMR
-2281145,HB3YSK,Bernard no_name,Bernard,no_city,Westschweiz-Sud - CHE,,DMR
+2281145,HB3YSK,Bernard No_name,Bernard,no_city,Westschweiz-Sud - CHE,,DMR
 2281146,HB9TUI,Nicolas Tille,Nicolas,Lausanne,Westschweiz-Sud - CHE,,DMR
 2281147,HB9FMK,Mario Girardin,Mario,Laconnex,Westschweiz-Sud - CHE,,DMR
 2281148,HB3YDE,Dominique Raider,Dominique,no_city,Westschweiz-Sud - CHE,,DMR
@@ -236,7 +238,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2281163,HB3GYR,Jose-Antonio Baza,Jose-Antonio,Geneva,Westschweiz-Sud - CHE,,DMR
 2281164,HB3YBO,Nathanael Mermoud,Nathanael,Carouge,Westschweiz-Sud - CHE,,DMR
 2281165,HB9S,World Bureau,World,Geneva,Westschweiz-Sud - CHE,,DMR
-2281166,HB9DUW,Agatino no_name,Agatino,no_city,Westschweiz-Sud - CHE,,DMR
+2281166,HB9DUW,Agatino No_name,Agatino,no_city,Westschweiz-Sud - CHE,,DMR
 2281167,HB3YKB,Patrick Baud,Patrick,Giswil,Westschweiz-Sud - CHE,,DMR
 2281168,HB3YOE,Massimiliano Fantuzzi,Massimiliano,Bellevue,Westschweiz-Sud - CHE,,DMR
 2281169,HB3YAP,Pascal Trosset,Pascal,Epautheyres,Westschweiz-Sud - CHE,,DMR
@@ -249,7 +251,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2281176,HB3YFI,Tom Nielsen,Tom,Gd-Saconnex,Westschweiz-Sud - CHE,,DMR
 2281177,HB9FXE,Gerard Porchet,Gerard,Geneva,Westschweiz-Sud - CHE,,DMR
 2281178,HB9AFO,Michel Vonlanthen,Michel,Bussigny,Westschweiz-Sud - CHE,,DMR
-2281179,HB9RXW,Walter no_name,Walter,no_city,Westschweiz-Sud - CHE,,DMR
+2281179,HB9RXW,Walter No_name,Walter,no_city,Westschweiz-Sud - CHE,,DMR
 2281180,HB9UQL,Cyril Rey,Cyril,Ardon,Westschweiz-Sud - CHE,,DMR
 2281181,HB9RYJ,Jean-Marie Delvecchio,Jean-Marie,Saint-Aubin,Westschweiz-Sud - CHE,,DMR
 2281182,HB3XPF,Remy Wenger,Remy,Geneva,Westschweiz-Sud - CHE,,DMR
@@ -267,55 +269,55 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2281194,HB9TUI,Nicolas Tille,Nicolas,Lausanne,Westschweiz-Sud - CHE,,DMR
 2281195,HB9IIU,Daniel Staempfli,Daniel,Saint-Legier-La Chiesaz,Westschweiz-Sud - CHE,,DMR
 2281196,HB3XPR,Olivier Tymkiw,Olivier,Givrins,Westschweiz-Sud - CHE,,DMR
-2281197,HB3XRH,Franoise no_name,Franoise,St.Gallen,Westschweiz-Sud - CHE,,DMR
+2281197,HB3XRH,Franoise No_name,Franoise,St.Gallen,Westschweiz-Sud - CHE,,DMR
 2281198,HB9GVJ,Remy Wenger,Remy,Geneva,Westschweiz-Sud - CHE,,DMR
 2281199,HB9IAM,Pierre Binggeli,Pierre,Geneva,Westschweiz-Sud - CHE,,DMR
-2281200,HB3XRN,Samuel no_name,Samuel,Geneva,Geneva - CHE,,DMR
+2281200,HB3XRN,Samuel No_name,Samuel,Geneva,Geneva - CHE,,DMR
 2281201,HB9G,Uska Geneva,Uska,Geneva,Geneva - CHE,,DMR
-2281202,HB9GIC,Alexandre no_name,Alexandre,Mies,Westschweiz-Sud - CHE,,DMR
-2281203,HB9GUR,Philippe Haake,Philippe,Geneva,no_name - CHE,,DMR
-2281204,HB9GVX,Patrick Beney,Patrick,Prangins,no_name - CHE,,DMR
-2281205,HB9GKZ,Myriam no_name,Myriam,Vouvry,no_name - CHE,,DMR
+2281202,HB9GIC,Alexandre No_name,Alexandre,Mies,Westschweiz-Sud - CHE,,DMR
+2281203,HB9GUR,Philippe Haake,Philippe,Geneva,No_name - CHE,,DMR
+2281204,HB9GVX,Patrick Beney,Patrick,Prangins,No_name - CHE,,DMR
+2281205,HB9GKZ,Myriam No_name,Myriam,Vouvry,No_name - CHE,,DMR
 2281206,HB9RAR,Ass Romand,Ass,Morlon,Westschweiz-Sud - CHE,,DMR
-2281207,HB3MAS,Stephane Sciulli,Stephane,Lausanne,no_name - CHE,,DMR
-2281208,HB9GXP,Marc Battaglia,Marc,Verossaz,no_name - CHE,,DMR
-2281209,HB9VCM,Ali-Reza no_name,Ali-Reza,Geneve,no_name - CHE,,DMR
+2281207,HB3MAS,Stephane Sciulli,Stephane,Lausanne,No_name - CHE,,DMR
+2281208,HB9GXP,Marc Battaglia,Marc,Verossaz,No_name - CHE,,DMR
+2281209,HB9VCM,Ali-Reza No_name,Ali-Reza,Geneve,No_name - CHE,,DMR
 2281210,HB3YCB,Yves Messerli,Yves,Bulle,Fribourg - CHE,,DMR
 2281211,HB9GYR,Jose-Antonio Baza,Jose-Antonio,Geneva,Geneva - CHE,,DMR
-2281212,HB9GYM,Jean-Pierre Keops,Jean-Pierre,Geneva,no_name - CHE,,DMR
-2281213,HB9HBY,Loick Cosandier,Loick,Gland,no_name - CHE,,DMR
-2281214,HB9HBZ,Alexandre no_name,Alexandre,Geneva,Geneva - CHE,,DMR
+2281212,HB9GYM,Jean-Pierre Keops,Jean-Pierre,Geneva,No_name - CHE,,DMR
+2281213,HB9HBY,Loick Cosandier,Loick,Gland,No_name - CHE,,DMR
+2281214,HB9HBZ,Alexandre No_name,Alexandre,Geneva,Geneva - CHE,,DMR
 2281215,HB9GYR,Jose-Antonio Baza,Jose-Antonio,Geneva,Geneva - CHE,,DMR
 2281216,HB9HBE,Emilie Baza,Emilie,Geneva,Geneva - CHE,,DMR
 2281217,HB9TWU,Gregoire Sauty,Gregoire,Gingins,Westschweiz-Sud - CHE,,DMR
 2281218,HB9DSB,Adolphe Werder,Adolphe,Martigny,Westschweiz-Sud - CHE,,DMR
 2281219,HB9TIX,Christophe Morsa,Christophe,Chamoson,Westschweiz-Sud - CHE,,DMR
-2281220,HB9HCY,Yves no_name,Yves,Bulle,Westschweiz-Sud - CHE,,DMR
-2281221,HB9VIV,Stphane no_name,Stphane,Servion,Westschweiz-Sud - CHE,,DMR
-2281222,HB9AE,Lutry no_name,Lutry,Lutry,Westschweiz-Sud - CHE,,DMR
-2281223,HB3XUH,Floriane no_name,Floriane,Montreux,Westschweiz-Sud - CHE,,DMR
-2281224,HB3XUI,Laurent no_name,Laurent,Montreux,Westschweiz-Sud - CHE,,DMR
-2281225,HB9TCT,Leo no_name,Leo,Bruenisried,Westschweiz-Sud - CHE,,DMR
-2281226,HB9TCT,Leo no_name,Leo,Bruenisried,Westschweiz-Sud - CHE,,DMR
-2281227,HB3XUL,Xb3xul no_name,Xb3xul,Geneva,Westschweiz-Sud - CHE,,DMR
-2281228,HB3XUL,Czar no_name,Czar,Geneva,Westschweiz-Sud - CHE,,DMR
-2281229,HB3YEG,Jeanluc no_name,Jeanluc,Vuisternens-Devant-Romont,Westschweiz-Sud - CHE,,DMR
-2281230,HB9HER,Dede no_name,Dede,Bullet,no_name - CHE,,DMR
-2281231,HB9HBP,Christian no_name,Christian,Ravoire,no_name - CHE,,DMR
-2281232,HB9GXO,Alain no_name,Alain,Missy,no_name - CHE,,DMR
-2281233,HB9GUP,Cedric no_name,Cedric,Euseigne,no_name - CHE,,DMR
-2281234,HB9GFV,Greg no_name,Greg,Villarimboud,. - CHE,,DMR
+2281220,HB9HCY,Yves No_name,Yves,Bulle,Westschweiz-Sud - CHE,,DMR
+2281221,HB9VIV,Stphane No_name,Stphane,Servion,Westschweiz-Sud - CHE,,DMR
+2281222,HB9AE,Lutry No_name,Lutry,Lutry,Westschweiz-Sud - CHE,,DMR
+2281223,HB3XUH,Floriane No_name,Floriane,Montreux,Westschweiz-Sud - CHE,,DMR
+2281224,HB3XUI,Laurent No_name,Laurent,Montreux,Westschweiz-Sud - CHE,,DMR
+2281225,HB9TCT,Leo No_name,Leo,Bruenisried,Westschweiz-Sud - CHE,,DMR
+2281226,HB9TCT,Leo No_name,Leo,Bruenisried,Westschweiz-Sud - CHE,,DMR
+2281227,HB3XUL,Xb3xul No_name,Xb3xul,Geneva,Westschweiz-Sud - CHE,,DMR
+2281228,HB3XUL,Czar No_name,Czar,Geneva,Westschweiz-Sud - CHE,,DMR
+2281229,HB3YEG,Jeanluc No_name,Jeanluc,Vuisternens-Devant-Romont,Westschweiz-Sud - CHE,,DMR
+2281230,HB9HER,Dede No_name,Dede,Bullet,No_name - CHE,,DMR
+2281231,HB9HBP,Christian No_name,Christian,Ravoire,No_name - CHE,,DMR
+2281232,HB9GXO,Alain No_name,Alain,Missy,No_name - CHE,,DMR
+2281233,HB9GUP,Cedric No_name,Cedric,Euseigne,No_name - CHE,,DMR
+2281234,HB9GFV,Greg No_name,Greg,Villarimboud,. - CHE,,DMR
 2281235,HB9EVJ,Vincent Jeanrenaud,Vincent,Paudex,Westschweiz-Sud - CHE,,DMR
 2281236,HB9HCT,Bernard Vouilloz,Bernard,Meyrin,. - CHE,,DMR
 2281237,HB3XVJ,Anthony Schaer,Anthony,Etoy,Vaud - CHE,,DMR
 2281238,HB3XVN,Pascal Honger,Pascal,Ecublens,Vaud - CHE,,DMR
-2281239,HB9GUO,Francesco no_name,Francesco,Verbier,Vs - CHE,,DMR
-2281240,HB9CCE,Roger no_name,Roger,Aigle,. - CHE,,DMR
-2281241,HB9MIG,Michel no_name,Michel,Froideville,Vaud - CHE,,DMR
+2281239,HB9GUO,Francesco No_name,Francesco,Verbier,Vs - CHE,,DMR
+2281240,HB9CCE,Roger No_name,Roger,Aigle,. - CHE,,DMR
+2281241,HB9MIG,Michel No_name,Michel,Froideville,Vaud - CHE,,DMR
 2281242,HB9GFV,Gregory Magnin,Gregory,Villarimboud,Fribourg - CHE,,DMR
-2281243,HB9HHG,Luismo70 no_name,Luismo70,Petit-Lancy,Geneva - CHE,,DMR
-2281244,HB3XWC,Chris no_name,Chris,Lucens,. - CHE,,DMR
-2281245,HB9GZD,Herve no_name,Herve,Nyon,. - CHE,,DMR
+2281243,HB9HHG,Luismo70 No_name,Luismo70,Petit-Lancy,Geneva - CHE,,DMR
+2281244,HB3XWC,Chris No_name,Chris,Lucens,. - CHE,,DMR
+2281245,HB9GZD,Herve No_name,Herve,Nyon,. - CHE,,DMR
 2282001,HB9OOI,Stephan Hofstetter,Stephan,Grenchen,Solothurn - CHE,,DMR
 2282002,HB9BEI,Bruno Knuchel,Bruno,Taeuffelen,Bern - CHE,,DMR
 2282003,HB9EZV,Michel Perrenoud,Michel,La Neuveville,Westschweiz-Nord - CHE,,DMR
@@ -334,7 +336,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2282016,HB3YPD,Serdal Oeztuerk,Serdal,Pieterln,Westschweiz-Nord - CHE,,DMR
 2282017,HB9FSL,Marius Lehenne,Marius,Le Locle,Westschweiz-Nord - CHE,,DMR
 2282018,HB9SMU,Boldt Pedro,Boldt,Fretereules,Westschweiz-Nord - CHE,,DMR
-2282019,HB9GWC,Andre no_name,Andre,Grenchen,Westschweiz-Nord - CHE,,DMR
+2282019,HB9GWC,Andre No_name,Andre,Grenchen,Westschweiz-Nord - CHE,,DMR
 2282020,HB3YRY,Patrick Thiebaud,Patrick,La Chaux-De-Fonds,Westschweiz-Nord - CHE,,DMR
 2282021,HB9FMC,Pascal Droux,Pascal,Corgemont,Westschweiz-Nord - CHE,,DMR
 2282022,HB9EPM,Philippe Metthez,Philippe,La Chaux-De-Fonds,Westschweiz-Nord - CHE,,DMR
@@ -346,55 +348,55 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2282028,HB9EHB,Carlo Maria,Carlo,no_city,Westschweiz-Nord - CHE,,DMR
 2282029,HB9GPP,Jerome Nikles,Jerome,Cormondreche,Westschweiz-Nord - CHE,,DMR
 2282030,HB9EPC,Christian Dubuis,Christian,Coffrane,Westschweiz-Nord - CHE,,DMR
-2282031,HB9GSK,Daniel no_name,Daniel,no_city,Westschweiz-Nord - CHE,,DMR
+2282031,HB9GSK,Daniel No_name,Daniel,no_city,Westschweiz-Nord - CHE,,DMR
 2282032,HB3XRF,Ferdi Demir,Ferdi,Bienne,Westschweiz-Nord - CHE,,DMR
 2282033,HB9COS,Urs Joos,Urs,Biel/bienne,Westschweiz-Nord - CHE,,DMR
 2282034,HB3YMM,Christophe Aubin,Christophe,Les Geneveys-Sur-Coffrane,Westschweiz-Nord - CHE,,DMR
-2282035,HB9FML,Matthias Illgen,Matthias,Orpund,no_name - CHE,,DMR
+2282035,HB9FML,Matthias Illgen,Matthias,Orpund,No_name - CHE,,DMR
 2282036,HB3YNP,Phil Morend,Phil,Le Noirmont,Jura - CHE,,DMR
-2282037,HB9FXW,Francois Wisard,Francois,La Chaux-De-Fonds,no_name - CHE,,DMR
+2282037,HB9FXW,Francois Wisard,Francois,La Chaux-De-Fonds,No_name - CHE,,DMR
 2282038,HB9GSO,Roland Urbanyik,Roland,Grenchen So,Westschweiz-Nord - CHE,,DMR
-2282039,HB9EVI,Pascal no_name,Pascal,Boncourt,. - CHE,,DMR
-2282040,HB9ARD,Lorenz no_name,Lorenz,Cressier Ne,. - CHE,,DMR
-2282041,HB9HLM,Andre no_name,Andre,Boudry,. - CHE,,DMR
+2282039,HB9EVI,Pascal No_name,Pascal,Boncourt,. - CHE,,DMR
+2282040,HB9ARD,Lorenz No_name,Lorenz,Cressier Ne,. - CHE,,DMR
+2282041,HB9HLM,Andre No_name,Andre,Boudry,. - CHE,,DMR
 2282042,HB9FMC,Pascal Droux,Pascal,Corgemont,Bern - CHE,,DMR
-2282043,HB9BEI,Bruno no_name,Bruno,Taeuffelen,Bern - CHE,,DMR
+2282043,HB9BEI,Bruno No_name,Bruno,Taeuffelen,Bern - CHE,,DMR
 2283000,HB9DUU,Christian Christian,Christian,Ringgenberg,Interlaken - CHE,,DMR
-2283001,HB9DUU,Christian no_name,Christian,Ringgenberg,Interlaken - CHE,,DMR
-2283002,HB9DUU,Christian no_name,Christian,Ringgenberg,Interlaken - CHE,,DMR
-2283003,HB9DUU,Christian no_name,Christian,Ringgenberg,Interlaken - CHE,,DMR
-2283004,HB9DUU,Christian no_name,Christian,Ringgenberg,Bern und Oberwallis - CHE,,DMR
+2283001,HB9DUU,Christian No_name,Christian,Ringgenberg,Interlaken - CHE,,DMR
+2283002,HB9DUU,Christian No_name,Christian,Ringgenberg,Interlaken - CHE,,DMR
+2283003,HB9DUU,Christian No_name,Christian,Ringgenberg,Interlaken - CHE,,DMR
+2283004,HB9DUU,Christian No_name,Christian,Ringgenberg,Bern und Oberwallis - CHE,,DMR
 2283005,HB9MHS,Roland Moser,Roland,Bern,Bern und Oberwallis - CHE,,DMR
 2283006,HB9BSP,Hansueli Zwahlen,Hansueli,Detligen,Bern und Oberwallis - CHE,,DMR
 2283007,HB9BO,Christian Schmocker,Christian,Ringgenberg,Bern und Oberwallis - CHE,,DMR
 2283008,HB9HVS,Heinz Hofstetter,Heinz,Wynigen,Bern und Oberwallis - CHE,,DMR
 2283009,HB9MCY,Max Thomi,Max,Bremgarten,Bern und Oberwallis - CHE,,DMR
 2283010,HB9CJQ,Urs Thomi,Urs,Ittigen,Bern und Oberwallis - CHE,,DMR
-2283011,HB9BEN,Ruedi no_name,Ruedi,Brienzwiler,Haslital - CHE,,DMR
-2283012,HB9BEN,Ruedi no_name,Ruedi,Brienzwiler,Haslital - CHE,,DMR
-2283013,HB3YAM,Vreni no_name,Vreni,Brienzwiler,Haslital - CHE,,DMR
-2283014,HB9MHS,Roland no_name,Roland,Bern,Bern und Umgebung - CHE,,DMR
-2283015,HB3YEI,Martin no_name,Martin,Unterseen,Interlaken - CHE,,DMR
-2283016,HB9SNU,Peter no_name,Peter,Brienzwiler,Haslital - CHE,,DMR
-2283017,HB9MOA,Heinz no_name,Heinz,Interlaken,Interlaken - CHE,,DMR
+2283011,HB9BEN,Ruedi No_name,Ruedi,Brienzwiler,Haslital - CHE,,DMR
+2283012,HB9BEN,Ruedi No_name,Ruedi,Brienzwiler,Haslital - CHE,,DMR
+2283013,HB3YAM,Vreni No_name,Vreni,Brienzwiler,Haslital - CHE,,DMR
+2283014,HB9MHS,Roland No_name,Roland,Bern,Bern und Umgebung - CHE,,DMR
+2283015,HB3YEI,Martin No_name,Martin,Unterseen,Interlaken - CHE,,DMR
+2283016,HB9SNU,Peter No_name,Peter,Brienzwiler,Haslital - CHE,,DMR
+2283017,HB9MOA,Heinz No_name,Heinz,Interlaken,Interlaken - CHE,,DMR
 2283018,HB9HVS,Heinz Hofstetter,Heinz,Wynigen,Bern und Oberwallis - CHE,,DMR
-2283019,HB9HVE,Ueli no_name,Ueli,Interlaken,Interlaken - CHE,,DMR
-2283020,HB9CIU,Res no_name,Res,Unterseen,Interlaken - CHE,,DMR
-2283021,HB9EVL,Heinz no_name,Heinz,Frutigen,Frutigland - CHE,,DMR
-2283022,HB9EVL,Heinz no_name,Heinz,Frutigen,Frutigland - CHE,,DMR
-2283023,HB9EVK,Barbara no_name,Barbara,Frutigen,Frutigland - CHE,,DMR
-2283024,HB3YUK,Oli no_name,Oli,Bern,Bern und Umgebung - CHE,,DMR
-2283025,HB9DTN,Lorenz no_name,Lorenz,Bern,Bern und Umgebung - CHE,,DMR
-2283026,HB9BEN,Ruedi no_name,Ruedi,Brienzwiler,Haslital - CHE,,DMR
-2283027,HB9FGW,Urs no_name,Urs,Helgisried,Seftigen - CHE,,DMR
-2283028,HB9FGW,Urs no_name,Urs,Helgisried,Seftigen - CHE,,DMR
-2283029,HB3YEH,Jan no_name,Jan,Matten,Interlaken - CHE,,DMR
-2283030,HB9FVW,Peter Wyss,Peter,Brienzwiler,no_name - CHE,,DMR
-2283031,HB9STJ,Cyrill no_name,Cyrill,Belp,Bern-Mittelland - CHE,,DMR
-2283032,HB9STJ,Cyrill no_name,Cyrill,Belp,Bern-Mittelland - CHE,,DMR
-2283033,HB3YIR,Alex no_name,Alex,Meiringen,Haslital - CHE,,DMR
-2283034,HB9CUF,Paul-Adrien no_name,Paul-Adrien,Bern,Bern und Umgebung - CHE,,DMR
-2283035,HB9ESW,Christoph no_name,Christoph,Burgdorf,Bern - CHE,,DMR
+2283019,HB9HVE,Ueli No_name,Ueli,Interlaken,Interlaken - CHE,,DMR
+2283020,HB9CIU,Res No_name,Res,Unterseen,Interlaken - CHE,,DMR
+2283021,HB9EVL,Heinz No_name,Heinz,Frutigen,Frutigland - CHE,,DMR
+2283022,HB9EVL,Heinz No_name,Heinz,Frutigen,Frutigland - CHE,,DMR
+2283023,HB9EVK,Barbara No_name,Barbara,Frutigen,Frutigland - CHE,,DMR
+2283024,HB3YUK,Oli No_name,Oli,Bern,Bern und Umgebung - CHE,,DMR
+2283025,HB9DTN,Lorenz No_name,Lorenz,Bern,Bern und Umgebung - CHE,,DMR
+2283026,HB9BEN,Ruedi No_name,Ruedi,Brienzwiler,Haslital - CHE,,DMR
+2283027,HB9FGW,Urs No_name,Urs,Helgisried,Seftigen - CHE,,DMR
+2283028,HB9FGW,Urs No_name,Urs,Helgisried,Seftigen - CHE,,DMR
+2283029,HB3YEH,Jan No_name,Jan,Matten,Interlaken - CHE,,DMR
+2283030,HB9FVW,Peter Wyss,Peter,Brienzwiler,No_name - CHE,,DMR
+2283031,HB9STJ,Cyrill No_name,Cyrill,Belp,Bern-Mittelland - CHE,,DMR
+2283032,HB9STJ,Cyrill No_name,Cyrill,Belp,Bern-Mittelland - CHE,,DMR
+2283033,HB3YIR,Alex No_name,Alex,Meiringen,Haslital - CHE,,DMR
+2283034,HB9CUF,Paul-Adrien No_name,Paul-Adrien,Bern,Bern und Umgebung - CHE,,DMR
+2283035,HB9ESW,Christoph No_name,Christoph,Burgdorf,Bern - CHE,,DMR
 2283036,HB9ERS,Reto Buetzberger,Reto,Kehrsatz,Bern - CHE,,DMR
 2283037,HB9FIL,Marcel Staehli,Marcel,Walkringen,Bern - CHE,,DMR
 2283038,HB9PFV,Peter Studer,Peter,Spiez,Bern und Oberwallis - CHE,,DMR
@@ -490,41 +492,41 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2283128,HB9PKP,Hans Hort,Hans,Liebistorf,Bern und Oberwallis - CHE,,DMR
 2283129,HB3YIW,Benjamin Grogg,Benjamin,Bern,Bern und Oberwallis - CHE,,DMR
 2283130,HB9DNX,Massimo Greco,Massimo,Krailigen,Bern und Oberwallis - CHE,,DMR
-2283131,HB3YVR,Rudolf no_name,Rudolf,Bern,Bern und Oberwallis - CHE,,DMR
-2283132,HB9DLB,Matthias no_name,Matthias,no_city,Bern und Oberwallis - CHE,,DMR
+2283131,HB3YVR,Rudolf No_name,Rudolf,Bern,Bern und Oberwallis - CHE,,DMR
+2283132,HB9DLB,Matthias No_name,Matthias,no_city,Bern und Oberwallis - CHE,,DMR
 2283133,HB9GNB,Thomas Baehler,Thomas,Zauggenried,Bern und Oberwallis - CHE,,DMR
 2283134,HB9HQX,Beat Oehrli,Beat,Brig,Bern und Oberwallis - CHE,,DMR
-2283135,HB3YSZ,Daniel no_name,Daniel,no_city,Bern und Oberwallis - CHE,,DMR
+2283135,HB3YSZ,Daniel No_name,Daniel,no_city,Bern und Oberwallis - CHE,,DMR
 2283136,HB9GSZ,Patrick Bruegger,Patrick,Frutigen,Bern und Oberwallis - CHE,,DMR
 2283137,HB3YYI,Martin Schoenholzer,Martin,Thun,Bern und Oberwallis - CHE,,DMR
 2283138,HB3YDX,Markus Waelchli,Markus,Bern,Bern und Oberwallis - CHE,,DMR
-2283139,HB9BRS,Walter no_name,Walter,Bern,Bern und Oberwallis - CHE,,DMR
+2283139,HB9BRS,Walter No_name,Walter,Bern,Bern und Oberwallis - CHE,,DMR
 2283140,HB9GPC,Christoph Glanzmann,Christoph,Bern,Bern und Oberwallis - CHE,,DMR
-2283141,HB3YIP,Adrian no_name,Adrian,no_city,Bern und Oberwallis - CHE,,DMR
+2283141,HB3YIP,Adrian No_name,Adrian,no_city,Bern und Oberwallis - CHE,,DMR
 2283142,HB9GAA,Roland Elmiger,Roland,Konolfingen,Bern und Oberwallis - CHE,,DMR
 2283143,HB9BFC,Juerg Ruefli,Juerg,Frutigen,Bern und Oberwallis - CHE,,DMR
 2283144,HB9BWR,Kurt Kobel,Kurt,Zollikofen,Bern und Oberwallis - CHE,,DMR
 2283145,HB9FLW,Tobias Wurzbacher,Tobias,Spiez,Bern und Oberwallis - CHE,,DMR
 2283146,HB3YYW,Gottfried Bach,Gottfried,Heimenschwand,Bern und Oberwallis - CHE,,DMR
 2283147,HB9UVM,Rudolf Wenger,Rudolf,no_city,Bern und Oberwallis - CHE,,DMR
-2283148,HB3YBC,Christian no_name,Christian,no_city,Bern und Oberwallis - CHE,,DMR
-2283149,HB9EIS,Florian no_name,Florian,no_city,Bern und Oberwallis - CHE,,DMR
+2283148,HB3YBC,Christian No_name,Christian,no_city,Bern und Oberwallis - CHE,,DMR
+2283149,HB9EIS,Florian No_name,Florian,no_city,Bern und Oberwallis - CHE,,DMR
 2283150,HB9GIK,Kevin Streit,Kevin,Walliswil,Bern und Oberwallis - CHE,,DMR
-2283151,HB9FMG,Adrian no_name,Adrian,no_city,Bern und Oberwallis - CHE,,DMR
+2283151,HB9FMG,Adrian No_name,Adrian,no_city,Bern und Oberwallis - CHE,,DMR
 2283152,HB9DNM,Felix Kunz,Felix,Schofflisdorf,Bern und Oberwallis - CHE,,DMR
-2283153,HB9FUR,Rodjo no_name,Rodjo,Moosseedorf,Bern und Oberwallis - CHE,,DMR
+2283153,HB9FUR,Rodjo No_name,Rodjo,Moosseedorf,Bern und Oberwallis - CHE,,DMR
 2283154,HB9FXH,Thomas Eichenberger,Thomas,Aeschau,Bern und Oberwallis - CHE,,DMR
 2283155,HB9FRN,Patrick Bach,Patrick,Seftigen,Bern und Oberwallis - CHE,,DMR
 2283156,HB9GSZ,Patrick Bruegger,Patrick,no_city,Bern und Oberwallis - CHE,,DMR
-2283157,HB9BPJ,Hans-Rudolf no_name,Hans-Rudolf,Frutigen,Bern und Oberwallis - CHE,,DMR
+2283157,HB9BPJ,Hans-Rudolf No_name,Hans-Rudolf,Frutigen,Bern und Oberwallis - CHE,,DMR
 2283158,HB3YHU,Daniel Schupbach,Daniel,Muwensingen,Bern und Oberwallis - CHE,,DMR
 2283159,HB9BWA,Walter Buehler,Walter,Belp,Bern und Oberwallis - CHE,,DMR
-2283160,HB9XBK,Roman no_name,Roman,no_city,Bern und Oberwallis - CHE,,DMR
+2283160,HB9XBK,Roman No_name,Roman,no_city,Bern und Oberwallis - CHE,,DMR
 2283161,HB3YYH,Peter Schneider,Peter,Interlaken,Bern und Oberwallis - CHE,,DMR
 2283162,HB9GNB,Thomas Bahler,Thomas,Zauggenried,Bern und Oberwallis - CHE,,DMR
-2283163,HB3YHJ,Simon no_name,Simon,Liechtenstein,Bern und Oberwallis - CHE,,DMR
+2283163,HB3YHJ,Simon No_name,Simon,Liechtenstein,Bern und Oberwallis - CHE,,DMR
 2283164,HB3YWJ,Bruno Bergmann,Bruno,Gwatt,Bern und Oberwallis - CHE,,DMR
-2283165,HB9GUN,Andreas no_name,Andreas,no_city,Bern und Oberwallis - CHE,,DMR
+2283165,HB9GUN,Andreas No_name,Andreas,no_city,Bern und Oberwallis - CHE,,DMR
 2283166,HB9GUV,Martin Schoenholzer,Martin,Thun,Bern und Oberwallis - CHE,,DMR
 2283167,HB9GAS,Andre Buerki,Andre,Ostermundigen,Bern und Oberwallis - CHE,,DMR
 2283168,HB9GAA,Roland Elmiger,Roland,Konolfingen,Bern und Oberwallis - CHE,,DMR
@@ -535,40 +537,40 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2283173,HB9FIW,Regina Gasser,Regina,Hettiswil,Bern und Oberwallis - CHE,,DMR
 2283174,HB9GPR,Simon Neuhaus,Simon,Oberhofen,Bern und Oberwallis - CHE,,DMR
 2283175,HB9GWD,Peter Schneider,Peter,Interlaken,Bern und Oberwallis - CHE,,DMR
-2283176,HB9PRH,Heinz Rohrer,Heinz,Schliern,no_name - CHE,,DMR
+2283176,HB9PRH,Heinz Rohrer,Heinz,Schliern,No_name - CHE,,DMR
 2283177,HB9TTE,Samuel Mann,Samuel,Thun,Bern - CHE,,DMR
-2283178,HB9FZD,Arnold Grossmann,Arnold,Bern,no_name - CHE,,DMR
+2283178,HB9FZD,Arnold Grossmann,Arnold,Bern,No_name - CHE,,DMR
 2283179,HB9GXK,Gottfried Bach,Gottfried,Heimenschwand,Bern und Oberwallis - CHE,,DMR
 2283180,HB3YRX,Matthias Nyfeler,Matthias,Aarberg,Bern - CHE,,DMR
 2283181,HB3YBS,Monty Schebesta,Monty,Javea,Valencia - CHE,,DMR
-2283182,HB9GHC,Bruno Maire,Bruno,Oberburg,no_name - CHE,,DMR
+2283182,HB9GHC,Bruno Maire,Bruno,Oberburg,No_name - CHE,,DMR
 2283183,HB3YRU,Mark Gress,Mark,Zollikofen,Bern - CHE,,DMR
 2283184,HB3YZD,Pascal Marti,Pascal,Grosshoechstetten,Bern - CHE,,DMR
 2283185,HB9GZQ,Peter Baumann,Peter,Bern,Bern und Oberwallis - CHE,,DMR
-2283186,HB3XRE,Peter no_name,Peter,St.Gallen,no_name - CHE,,DMR
-2283187,HB9OAD,Gianpaolo no_name,Gianpaolo,Bellinzona,Ticino - CHE,,DMR
-2283188,HB9BJL,Christian Eugster,Christian,Messen,no_name - CHE,,DMR
-2283189,HB9HDW,Christoph no_name,Christoph,Worben,Bern und Oberwallis - CHE,,DMR
-2283190,HB9CZV,Werner Buechli,Werner,Spiez,no_name - CHE,,DMR
+2283186,HB3XRE,Peter No_name,Peter,St.Gallen,No_name - CHE,,DMR
+2283187,HB9OAD,Gianpaolo No_name,Gianpaolo,Bellinzona,Ticino - CHE,,DMR
+2283188,HB9BJL,Christian Eugster,Christian,Messen,No_name - CHE,,DMR
+2283189,HB9HDW,Christoph No_name,Christoph,Worben,Bern und Oberwallis - CHE,,DMR
+2283190,HB9CZV,Werner Buechli,Werner,Spiez,No_name - CHE,,DMR
 2283191,HB3XSX,Martin Bader,Martin,Steg im Tosstal,Bern - CHE,,DMR
 2283192,HB3YWL,Michael Niederhausern,Michael,Heimberg,Bern - CHE,,DMR
 2283193,HB9EWH,Hansjoerg Wittwer,Hansjoerg,Muensingen,Bern - CHE,,DMR
 2283194,HB9RNP,Peter Kraft,Peter,Huenibach,Bern - CHE,,DMR
-2283195,HB9HBH,Simon no_name,Simon,Schliern,Bern und Oberwallis - CHE,,DMR
+2283195,HB9HBH,Simon No_name,Simon,Schliern,Bern und Oberwallis - CHE,,DMR
 2283196,HB9FEA,Joaquim Dias,Joaquim,Brienz Be,Bern und Oberwallis - CHE,,DMR
 2283197,HB9CWK,Hans Pfister,Hans,Heimiswil,Bern und Oberwallis - CHE,,DMR
-2283198,HB3XUE,Elisabeth no_name,Elisabeth,Thun,Bern und Oberwallis - CHE,,DMR
-2283199,HB3XTM,Mario no_name,Mario,Muehlethurnen,Bern und Oberwallis - CHE,,DMR
-2283200,HB9RWR,Urs Fluekiger,Urs,Ersigen,no_name - CHE,,DMR
-2283201,HB9SHB,Marc no_name,Marc,Zollikofen,no_name - CHE,,DMR
-2283202,HB9RVH,No_name no_name,No_name,no_city,. - CHE,,DMR
-2283203,HB9RVG,Roli no_name,Roli,Graechen,no_name - CHE,,DMR
-2283204,HB9TBI,Francesco no_name,Francesco,Bern,no_name - CHE,,DMR
-2283205,HB9EVN,Remo no_name,Remo,Bern,no_name - CHE,,DMR
-2283206,HB9HGK,Kevin no_name,Kevin,Zollikofen,Bern und Oberwallis - CHE,,DMR
+2283198,HB3XUE,Elisabeth No_name,Elisabeth,Thun,Bern und Oberwallis - CHE,,DMR
+2283199,HB3XTM,Mario No_name,Mario,Muehlethurnen,Bern und Oberwallis - CHE,,DMR
+2283200,HB9RWR,Urs Fluekiger,Urs,Ersigen,No_name - CHE,,DMR
+2283201,HB9SHB,Marc No_name,Marc,Zollikofen,No_name - CHE,,DMR
+2283202,HB9RVH,No_name No_name,No_name,no_city,. - CHE,,DMR
+2283203,HB9RVG,Roli No_name,Roli,Graechen,No_name - CHE,,DMR
+2283204,HB9TBI,Francesco No_name,Francesco,Bern,No_name - CHE,,DMR
+2283205,HB9EVN,Remo No_name,Remo,Bern,No_name - CHE,,DMR
+2283206,HB9HGK,Kevin No_name,Kevin,Zollikofen,Bern und Oberwallis - CHE,,DMR
 2283207,HB9GUX,Hawe Grotemeyer,Hawe,Muensingen / Bern,Bern - CHE,,DMR
 2283208,HB9TKB,Reto Trachsel,Reto,Steffisburg,Bern - CHE,,DMR
-2283209,HB9BMR,Lorenz no_name,Lorenz,Gurmels,. - CHE,,DMR
+2283209,HB9BMR,Lorenz No_name,Lorenz,Gurmels,. - CHE,,DMR
 2283210,HB9HGU,David Gertsch,David,Innertkirchen,Be - CHE,,DMR
 2283211,HB9AOO,Kurt Von Escher,Kurt,Ch-3267 Seedorf,. - CHE,,DMR
 2283212,HB9HID,Meno Schnapauff,Meno,Spiegel Be,. - CHE,,DMR
@@ -576,44 +578,44 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2284002,HB9EMQ,Andy Wetzikon,Andy,Oberbuchsitten,Olten - CHE,,DMR
 2284003,HB9EMQ,Andy Wetzikon,Andy,Oberbuchsitten,Olten - CHE,,DMR
 2284004,HB9EMQ,Andy Wetzikon,Andy,Oberbuchsitten,Olten - CHE,,DMR
-2284005,HB9MFL,Armin no_name,Armin,Deitingen,Solothurn - CHE,,DMR
-2284006,HB3YKD,Tata no_name,Tata,Oberbuchsitten,Olten - CHE,,DMR
+2284005,HB9MFL,Armin No_name,Armin,Deitingen,Solothurn - CHE,,DMR
+2284006,HB3YKD,Tata No_name,Tata,Oberbuchsitten,Olten - CHE,,DMR
 2284007,HB9EBZ,Lukas Mundwiler,Lukas,Hafelfingen,Basel Land - CHE,,DMR
 2284008,HB9EBZ,Lukas Mundwiler,Lukas,Hafelfingen,Basel Land - CHE,,DMR
-2284009,HB9FGF,Beat no_name,Beat,Zofingen,Aargau - CHE,,DMR
-2284010,HB9ROH,Erich no_name,Erich,Farnern,Solothurn - CHE,,DMR
-2284011,HB9ROH,Erich no_name,Erich,Farnern,Solothurn - CHE,,DMR
-2284012,HB9MNX,Christoph no_name,Christoph,Langendorf,Solothurn - CHE,,DMR
-2284013,HB9MNX,Christoph no_name,Christoph,Langendorf,Solothurn - CHE,,DMR
-2284014,HB9TWT,Max no_name,Max,Langenbruck,Basel Land - CHE,,DMR
-2284015,HB9TWT,Max no_name,Max,Langenbruck,Basel Land - CHE,,DMR
-2284016,HB9TWT,Max no_name,Max,Langenbruck,Basel Land - CHE,,DMR
-2284017,HB9TVW,Gabriele no_name,Gabriele,Basel,Basel - CHE,,DMR
-2284018,HB9FEF,Beni no_name,Beni,Basel,Basel Stadt - CHE,,DMR
+2284009,HB9FGF,Beat No_name,Beat,Zofingen,Aargau - CHE,,DMR
+2284010,HB9ROH,Erich No_name,Erich,Farnern,Solothurn - CHE,,DMR
+2284011,HB9ROH,Erich No_name,Erich,Farnern,Solothurn - CHE,,DMR
+2284012,HB9MNX,Christoph No_name,Christoph,Langendorf,Solothurn - CHE,,DMR
+2284013,HB9MNX,Christoph No_name,Christoph,Langendorf,Solothurn - CHE,,DMR
+2284014,HB9TWT,Max No_name,Max,Langenbruck,Basel Land - CHE,,DMR
+2284015,HB9TWT,Max No_name,Max,Langenbruck,Basel Land - CHE,,DMR
+2284016,HB9TWT,Max No_name,Max,Langenbruck,Basel Land - CHE,,DMR
+2284017,HB9TVW,Gabriele No_name,Gabriele,Basel,Basel - CHE,,DMR
+2284018,HB9FEF,Beni No_name,Beni,Basel,Basel Stadt - CHE,,DMR
 2284019,HB9FEF,Beni Gelzer,Beni,Basel,Basel/solothurn - CHE,,DMR
 2284020,HB9FEG,Jakob Grieder,Jakob,Aurigeno,Basel Stadt - CHE,,DMR
 2284021,HB9FEG,Jakob Grieder,Jakob,Aurigeno,Basel Stadt - CHE,,DMR
-2284022,HB3YDW,Samuel no_name,Samuel,Oberamsern,Solothurn - CHE,,DMR
-2284023,HB9RNX,Hansruedi no_name,Hansruedi,Bellach,Solothurn - CHE,,DMR
-2284024,HB9EXT,Lukas no_name,Lukas,Riehen,Basel Stadt - CHE,,DMR
-2284025,HB9EXT,Lukas no_name,Lukas,Riehen,Basel Stadt - CHE,,DMR
-2284026,HB9TQJ,Philipp no_name,Philipp,Dornach,Solothurn - CHE,,DMR
-2284027,HB9TQJ,Philipp no_name,Philipp,Dornach,Solothurn - CHE,,DMR
-2284028,HB9FND,Alex no_name,Alex,Steinhof,Solothurn - CHE,,DMR
-2284029,HB9FND,Alex no_name,Alex,Steinhof,Solothurn - CHE,,DMR
-2284030,HB9NMT,Matthias no_name,Matthias,Muttenz,Basel Land - CHE,,DMR
-2284031,HB9NMT,Matthias no_name,Matthias,Muttenz,Basel Land - CHE,,DMR
-2284032,HB9FIA,Philipp no_name,Philipp,Basel,Basel Stadt - CHE,,DMR
-2284033,HB9FIA,Philipp no_name,Philipp,Basel,Basel Stadt - CHE,,DMR
-2284034,HB9EYW,Philipp no_name,Philipp,Allschwil,Basel Land - CHE,,DMR
-2284035,HB9EYW,Philipp no_name,Philipp,Allschwil,Basel Land - CHE,,DMR
-2284036,HB9FMJ,Kurt no_name,Kurt,Lohn,Solothurn - CHE,,DMR
-2284037,HB9FEH,Sergio no_name,Sergio,Basel,Basel Stadt - CHE,,DMR
-2284038,HB9RCJ,Martin no_name,Martin,Arlesheim,Basel Land - CHE,,DMR
-2284039,HB9RCJ,Martin no_name,Martin,Arlesheim,Basel Land - CHE,,DMR
-2284040,HB9AUV,Ruedi no_name,Ruedi,Olten,Olten - CHE,,DMR
+2284022,HB3YDW,Samuel No_name,Samuel,Oberamsern,Solothurn - CHE,,DMR
+2284023,HB9RNX,Hansruedi No_name,Hansruedi,Bellach,Solothurn - CHE,,DMR
+2284024,HB9EXT,Lukas No_name,Lukas,Riehen,Basel Stadt - CHE,,DMR
+2284025,HB9EXT,Lukas No_name,Lukas,Riehen,Basel Stadt - CHE,,DMR
+2284026,HB9TQJ,Philipp No_name,Philipp,Dornach,Solothurn - CHE,,DMR
+2284027,HB9TQJ,Philipp No_name,Philipp,Dornach,Solothurn - CHE,,DMR
+2284028,HB9FND,Alex No_name,Alex,Steinhof,Solothurn - CHE,,DMR
+2284029,HB9FND,Alex No_name,Alex,Steinhof,Solothurn - CHE,,DMR
+2284030,HB9NMT,Matthias No_name,Matthias,Muttenz,Basel Land - CHE,,DMR
+2284031,HB9NMT,Matthias No_name,Matthias,Muttenz,Basel Land - CHE,,DMR
+2284032,HB9FIA,Philipp No_name,Philipp,Basel,Basel Stadt - CHE,,DMR
+2284033,HB9FIA,Philipp No_name,Philipp,Basel,Basel Stadt - CHE,,DMR
+2284034,HB9EYW,Philipp No_name,Philipp,Allschwil,Basel Land - CHE,,DMR
+2284035,HB9EYW,Philipp No_name,Philipp,Allschwil,Basel Land - CHE,,DMR
+2284036,HB9FMJ,Kurt No_name,Kurt,Lohn,Solothurn - CHE,,DMR
+2284037,HB9FEH,Sergio No_name,Sergio,Basel,Basel Stadt - CHE,,DMR
+2284038,HB9RCJ,Martin No_name,Martin,Arlesheim,Basel Land - CHE,,DMR
+2284039,HB9RCJ,Martin No_name,Martin,Arlesheim,Basel Land - CHE,,DMR
+2284040,HB9AUV,Ruedi No_name,Ruedi,Olten,Olten - CHE,,DMR
 2284041,HB9DBQ,Benj Tschumi,Benj,Zuchwil,Basel/solothurn - CHE,,DMR
-2284042,HB9FGU,Michael no_name,Michael,Basel,Basel - CHE,,DMR
+2284042,HB9FGU,Michael No_name,Michael,Basel,Basel - CHE,,DMR
 2284043,HB9DDE,Urs Haechler,Urs,Rothrist,Aargau - CHE,,DMR
 2284044,HB9SQV,Ralph Vonlaufen,Ralph,Langendorf,Basel - CHE,,DMR
 2284045,HB9FKF,Thomas Egloff,Thomas,Basel,Basel Stadt - CHE,,DMR
@@ -706,10 +708,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2284132,HB9DOL,Stefan Pauli,Stefan,Biberist,Basel/solothurn - CHE,,DMR
 2284133,HB3YMZ,Michel Meili,Michel,Laeufelfingen,Basel/solothurn - CHE,,DMR
 2284134,HB9FZX,Christian Koelliker,Christian,Wynau,Basel/solothurn - CHE,,DMR
-2284135,HB9GFI,Daniel no_name,Daniel,no_city,Basel/solothurn - CHE,,DMR
+2284135,HB9GFI,Daniel No_name,Daniel,no_city,Basel/solothurn - CHE,,DMR
 2284136,HB9BSL,Funkamateur Club,Funkamateur,Basel,Basel/solothurn - CHE,,DMR
 2284137,HB9KIDS,Funk-Amateur Club,Funk-Amateur,Basel,Basel/solothurn - CHE,,DMR
-2284138,HB9CWI,Budi no_name,Budi,no_city,Basel/solothurn - CHE,,DMR
+2284138,HB9CWI,Budi No_name,Budi,no_city,Basel/solothurn - CHE,,DMR
 2284139,HB9FZX,Christian Koelliker,Christian,Wynau,Basel/solothurn - CHE,,DMR
 2284140,HB9TUL,Mimmo Labriola,Mimmo,Gerlafingen,Westschweiz-Nord - CHE,,DMR
 2284141,HB9DHR,Heinz Ruef,Heinz,Vordemwald,Basel/solothurn - CHE,,DMR
@@ -718,127 +720,127 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2284144,HB9BVB,Helmut Scharrer,Helmut,Rheinfelden,Basel/solothurn - CHE,,DMR
 2284145,HB9FVK,Ruedi Kneubuehler,Ruedi,Strengelbach,Basel/solothurn - CHE,,DMR
 2284146,HB9EOR,Rolf Schulthess,Rolf,Melchnau,Basel/solothurn - CHE,,DMR
-2284147,HB9FMZ,Walter no_name,Walter,Basel,Basel/solothurn - CHE,,DMR
-2284148,HB9GIQ,Andreas no_name,Andreas,Basel,Basel/solothurn - CHE,,DMR
-2284149,HB9FSG,Toni no_name,Toni,Basel,Basel/solothurn - CHE,,DMR
-2284150,HB9GNZ,Michel no_name,Michel,Basel,Basel/solothurn - CHE,,DMR
+2284147,HB9FMZ,Walter No_name,Walter,Basel,Basel/solothurn - CHE,,DMR
+2284148,HB9GIQ,Andreas No_name,Andreas,Basel,Basel/solothurn - CHE,,DMR
+2284149,HB9FSG,Toni No_name,Toni,Basel,Basel/solothurn - CHE,,DMR
+2284150,HB9GNZ,Michel No_name,Michel,Basel,Basel/solothurn - CHE,,DMR
 2284151,HB3YST,Bruno Strub,Bruno,Daniken,Basel/solothurn - CHE,,DMR
 2284152,HB9DSG,Paul Schar,Paul,Basel,Basel/solothurn - CHE,,DMR
-2284153,HB9EAS,No_name no_name,No_name,Amateurfunkgruppe Hb9eas,Basel/solothurn - CHE,,DMR
-2284154,HB3YDB,Daniel no_name,Daniel,Basel,Basel/solothurn - CHE,,DMR
-2284155,HB9GSQ,Mathias no_name,Mathias,Basel,Basel/solothurn - CHE,,DMR
-2284156,HB9GSI,Pascal no_name,Pascal,Basel,Basel/solothurn - CHE,,DMR
+2284153,HB9EAS,No_name No_name,No_name,Amateurfunkgruppe Hb9eas,Basel/solothurn - CHE,,DMR
+2284154,HB3YDB,Daniel No_name,Daniel,Basel,Basel/solothurn - CHE,,DMR
+2284155,HB9GSQ,Mathias No_name,Mathias,Basel,Basel/solothurn - CHE,,DMR
+2284156,HB9GSI,Pascal No_name,Pascal,Basel,Basel/solothurn - CHE,,DMR
 2284157,HB3YOY,Hansruedi Thomann,Hansruedi,Rheinfelden,Basel/solothurn - CHE,,DMR
 2284158,HB9GSP,Josua Studer,Josua,Allschwil,Basel/solothurn - CHE,,DMR
 2284159,HB9EDQ,Klaus Frank,Klaus,Gempen,Basel/solothurn - CHE,,DMR
 2284160,HB9DIO,Urs Keller,Urs,Muenchenstein,Basel/solothurn - CHE,,DMR
 2284161,HB9DKQ,Christoph Briel,Christoph,Basel,Basel/solothurn - CHE,,DMR
 2284162,HB9BOQ,Thomas Kost,Thomas,Basel,Basel/solothurn - CHE,,DMR
-2284163,HB9GUB,Kurt no_name,Kurt,Basel,Basel/solothurn - CHE,,DMR
+2284163,HB9GUB,Kurt No_name,Kurt,Basel,Basel/solothurn - CHE,,DMR
 2284164,HB9FRL,Ernst Erni,Ernst,Zofingen,Basel/solothurn - CHE,,DMR
 2284165,HB9GSP,Josua Studer,Josua,Allschwil,Basel/solothurn - CHE,,DMR
-2284166,HB9FGH,Werner no_name,Werner,Basel,Basel/solothurn - CHE,,DMR
+2284166,HB9FGH,Werner No_name,Werner,Basel,Basel/solothurn - CHE,,DMR
 2284167,HB9EHS,Raymond Kochli,Raymond,Frenkendorf,Basel/solothurn - CHE,,DMR
 2284168,HB9EDU,Franz Grolimund,Franz,Basel,Basel/solothurn - CHE,,DMR
 2284169,HB9DKX,Michael Ackermann,Michael,Allschwil,Basel/solothurn - CHE,,DMR
 2284170,HB9TPU,Udo Allmen,Udo,Olten,Basel/solothurn - CHE,,DMR
-2284171,HB3XPM,Hans no_name,Hans,Basel,Basel/solothurn - CHE,,DMR
+2284171,HB3XPM,Hans No_name,Hans,Basel,Basel/solothurn - CHE,,DMR
 2284172,HB9GSV,Adrian Stauffer,Adrian,Oensingen,Basel/solothurn - CHE,,DMR
-2284173,HB9TPW,Hanspeter no_name,Hanspeter,no_city,Basel/solothurn - CHE,,DMR
-2284174,HB9GPK,Manuel no_name,Manuel,Basel,Basel/solothurn - CHE,,DMR
+2284173,HB9TPW,Hanspeter No_name,Hanspeter,no_city,Basel/solothurn - CHE,,DMR
+2284174,HB9GPK,Manuel No_name,Manuel,Basel,Basel/solothurn - CHE,,DMR
 2284175,HB9CKO,Jacques Wehrli,Jacques,Giswil,Basel/solothurn - CHE,,DMR
 2284176,HB9RMM,Marcel Krumm,Marcel,Basel,Basel/solothurn - CHE,,DMR
 2284177,HB3MAM,Christian Brunold,Christian,Reinach,Basel/solothurn - CHE,,DMR
-2284178,HB3YBT,Luzius Uffer,Luzius,Allschwil,no_name - CHE,,DMR
-2284179,HB9TQK,Daniel Guenin,Daniel,Allschwil,no_name - CHE,,DMR
+2284178,HB3YBT,Luzius Uffer,Luzius,Allschwil,No_name - CHE,,DMR
+2284179,HB9TQK,Daniel Guenin,Daniel,Allschwil,No_name - CHE,,DMR
 2284180,HB3YUO,Esther Thomann,Esther,Rheinfelden,Aargau - CHE,,DMR
 2284181,HB9DDI,Georges Kohler,Georges,Brittnau,Aargau - CHE,,DMR
-2284182,HB9FED,Hansruedi Meier,Hansruedi,Frenkendorf,no_name - CHE,,DMR
-2284183,HB9DSO,Erwin Hagist,Erwin,Reinach,no_name - CHE,,DMR
-2284184,HB3XPI,Tobias R,Tobias,Basel,no_name - CHE,,DMR
-2284185,HB9EBS,Andreas Schuepp,Andreas,Oberwil,no_name - CHE,,DMR
+2284182,HB9FED,Hansruedi Meier,Hansruedi,Frenkendorf,No_name - CHE,,DMR
+2284183,HB9DSO,Erwin Hagist,Erwin,Reinach,No_name - CHE,,DMR
+2284184,HB3XPI,Tobias R,Tobias,Basel,No_name - CHE,,DMR
+2284185,HB9EBS,Andreas Schuepp,Andreas,Oberwil,No_name - CHE,,DMR
 2284186,HB9TQP,Martin Nikles,Martin,Allschwil,Basel/solothurn - CHE,,DMR
-2284187,HB9EBX,Angelo Gianola,Angelo,Himmelried,no_name - CHE,,DMR
+2284187,HB9EBX,Angelo Gianola,Angelo,Himmelried,No_name - CHE,,DMR
 2284188,HB9BLV,Viktor Gnos,Viktor,Binningen,Basel/solothurn - CHE,,DMR
-2284189,HB9SNC,Rene no_name,Rene,Basel,no_name - CHE,,DMR
+2284189,HB9SNC,Rene No_name,Rene,Basel,No_name - CHE,,DMR
 2284190,HB9GXA,Susanne Studer,Susanne,Allschwil,Basel/solothurn - CHE,,DMR
-2284191,HB9GXV,Adrian no_name,Adrian,Allschwil,Basel/solothurn - CHE,,DMR
-2284192,HB3YUR,Moll Charles,Moll,Olten,no_name - CHE,,DMR
-2284193,HB9FRK,Andi Fuhr,Andi,Basel,no_name - CHE,,DMR
-2284194,HB3YPO,Zsolt Tari,Zsolt,Basel,no_name - CHE,,DMR
-2284195,HB9EDW,Daniel Schuler,Daniel,Langenbuhl,no_name - CHE,,DMR
-2284196,HB9CYX,Fritz Mueller,Fritz,Olten,no_name - CHE,,DMR
-2284197,HB9NCZ,Roland Duvaud,Roland,Allschwil,no_name - CHE,,DMR
-2284198,HB9ECS,Charly Saner,Charly,Allschwil,no_name - CHE,,DMR
-2284199,HB3YNT,Andreas Kaser,Andreas,Bellach,no_name - CHE,,DMR
+2284191,HB9GXV,Adrian No_name,Adrian,Allschwil,Basel/solothurn - CHE,,DMR
+2284192,HB3YUR,Moll Charles,Moll,Olten,No_name - CHE,,DMR
+2284193,HB9FRK,Andi Fuhr,Andi,Basel,No_name - CHE,,DMR
+2284194,HB3YPO,Zsolt Tari,Zsolt,Basel,No_name - CHE,,DMR
+2284195,HB9EDW,Daniel Schuler,Daniel,Langenbuhl,No_name - CHE,,DMR
+2284196,HB9CYX,Fritz Mueller,Fritz,Olten,No_name - CHE,,DMR
+2284197,HB9NCZ,Roland Duvaud,Roland,Allschwil,No_name - CHE,,DMR
+2284198,HB9ECS,Charly Saner,Charly,Allschwil,No_name - CHE,,DMR
+2284199,HB3YNT,Andreas Kaser,Andreas,Bellach,No_name - CHE,,DMR
 2284200,HB9DIO,Urs Keller,Urs,Muenchenstein,Basel/solothurn - CHE,,DMR
-2284201,HB3YOS,Stefan Hohl,Stefan,Trimbach,no_name - CHE,,DMR
-2284202,HB9GXV,Adrian Kunz,Adrian,Allschwil,no_name - CHE,,DMR
+2284201,HB3YOS,Stefan Hohl,Stefan,Trimbach,No_name - CHE,,DMR
+2284202,HB9GXV,Adrian Kunz,Adrian,Allschwil,No_name - CHE,,DMR
 2284203,HB9GXW,Carlos Garcia,Carlos,Reinach,Basel - CHE,,DMR
 2284204,HB9GKH,Christian Kaiser,Christian,Basel,Basel - CHE,,DMR
 2284205,HB9GXA,Susanne Studer,Susanne,Allschwil,Basel - CHE,,DMR
-2284206,HB9GZX,Daniel Grola,Daniel,Liestal,no_name - CHE,,DMR
-2284207,HB9HBC,Simon no_name,Simon,Basel,no_name - CHE,,DMR
-2284208,HB9HBB,Michael Senn,Michael,Muttenz,no_name - CHE,,DMR
+2284206,HB9GZX,Daniel Grola,Daniel,Liestal,No_name - CHE,,DMR
+2284207,HB9HBC,Simon No_name,Simon,Basel,No_name - CHE,,DMR
+2284208,HB9HBB,Michael Senn,Michael,Muttenz,No_name - CHE,,DMR
 2284209,HB9GSY,Philipp Gurtner,Philipp,Gelterkinden,Basel - CHE,,DMR
 2284210,HB9TXZ,Bernhard Acklin,Bernhard,Binningen,Basel - CHE,,DMR
-2284211,HB3XTN,Remo no_name,Remo,no_city,Basel/solothurn - CHE,,DMR
+2284211,HB3XTN,Remo No_name,Remo,no_city,Basel/solothurn - CHE,,DMR
 2284212,HB9NCS,Leopoldo Schnalzer,Leopoldo,Washington,Arkansas - CHE,,DMR
 2284213,HB9FZQ,Nicolas Dirac,Nicolas,Itingen,Basel - CHE,,DMR
-2284214,HB3YHG,Peter no_name,Peter,Rheinfelden,Basel/solothurn - CHE,,DMR
-2284215,HB3XTL,Beatrice no_name,Beatrice,Daeniken,Basel/solothurn - CHE,,DMR
+2284214,HB3YHG,Peter No_name,Peter,Rheinfelden,Basel/solothurn - CHE,,DMR
+2284215,HB3XTL,Beatrice No_name,Beatrice,Daeniken,Basel/solothurn - CHE,,DMR
 2284216,HB9OMP,Roland Bahler,Roland,Biel-Bienne,Basel/solothurn - CHE,,DMR
-2284217,HB9BZG,Kurt no_name,Kurt,Solothurn,Basel/solothurn - CHE,,DMR
-2284218,HB9HCV,Raphael no_name,Raphael,Wiedlisbach,Basel/solothurn - CHE,,DMR
-2284219,HB9SLM,Roger no_name,Roger,Solothurn,Basel/solothurn - CHE,,DMR
-2284220,HB9HBV,Jeanpierre no_name,Jeanpierre,Muttenz,Basel/solothurn - CHE,,DMR
-2284221,HB9HBU,Anita no_name,Anita,Muttenz,Basel/solothurn - CHE,,DMR
-2284222,HB9CNX,Stephan no_name,Stephan,Welschenrohr,Basel/solothurn - CHE,,DMR
+2284217,HB9BZG,Kurt No_name,Kurt,Solothurn,Basel/solothurn - CHE,,DMR
+2284218,HB9HCV,Raphael No_name,Raphael,Wiedlisbach,Basel/solothurn - CHE,,DMR
+2284219,HB9SLM,Roger No_name,Roger,Solothurn,Basel/solothurn - CHE,,DMR
+2284220,HB9HBV,Jeanpierre No_name,Jeanpierre,Muttenz,Basel/solothurn - CHE,,DMR
+2284221,HB9HBU,Anita No_name,Anita,Muttenz,Basel/solothurn - CHE,,DMR
+2284222,HB9CNX,Stephan No_name,Stephan,Welschenrohr,Basel/solothurn - CHE,,DMR
 2284223,HB9HDH,Patrick Hak,Patrick,Nenzlingen. Baselland,Basel/solothurn - CHE,,DMR
 2284224,HB9HDK,Bruno Strub,Bruno,Daeniken,Basel/solothurn - CHE,,DMR
-2284225,HB9HIM,Markus no_name,Markus,Rheinfelden,Markus - CHE,,DMR
-2284226,HB9BLA,Andreas no_name,Andreas,Lausen,Andreas - CHE,,DMR
+2284225,HB9HIM,Markus No_name,Markus,Rheinfelden,Markus - CHE,,DMR
+2284226,HB9BLA,Andreas No_name,Andreas,Lausen,Andreas - CHE,,DMR
 2284227,HB9CEY,Gerald Eberle,Gerald,Ziefen / Bl,Gerald - CHE,,DMR
-2284228,HB3XUW,Simon no_name,Simon,Rohrbach,Simon - CHE,,DMR
-2284229,HB9HEF,Beatrice no_name,Beatrice,Daeniken,no_name - CHE,,DMR
+2284228,HB3XUW,Simon No_name,Simon,Rohrbach,Simon - CHE,,DMR
+2284229,HB9HEF,Beatrice No_name,Beatrice,Daeniken,No_name - CHE,,DMR
 2284230,HB9FFW,Daniel Wuester,Daniel,Niederbipp,Daniel - CHE,,DMR
-2284231,HB3XTY,Joerg no_name,Joerg,Derendingen,no_name - CHE,,DMR
-2284232,HB9BLA,Andreas Spiess,Andreas,Lausen,no_name - CHE,,DMR
-2284233,HB9EAJ,Stephan no_name,Stephan,Basel,no_name - CHE,,DMR
-2284234,HB9TPQ,Dieter no_name,Dieter,Solothurn,no_name - CHE,,DMR
-2284235,HB9PFA,Albert no_name,Albert,Muenchenstein,no_name - CHE,,DMR
-2284236,HB9GVA,Romeo Kienzler,Romeo,Basel,no_name - CHE,,DMR
+2284231,HB3XTY,Joerg No_name,Joerg,Derendingen,No_name - CHE,,DMR
+2284232,HB9BLA,Andreas Spiess,Andreas,Lausen,No_name - CHE,,DMR
+2284233,HB9EAJ,Stephan No_name,Stephan,Basel,No_name - CHE,,DMR
+2284234,HB9TPQ,Dieter No_name,Dieter,Solothurn,No_name - CHE,,DMR
+2284235,HB9PFA,Albert No_name,Albert,Muenchenstein,No_name - CHE,,DMR
+2284236,HB9GVA,Romeo Kienzler,Romeo,Basel,No_name - CHE,,DMR
 2284237,HB3XVF,Andrea Bertoneri,Andrea,Basel,. - CHE,,DMR
-2284238,HB9PCH,Christian no_name,Christian,Allschwil,. - CHE,,DMR
+2284238,HB9PCH,Christian No_name,Christian,Allschwil,. - CHE,,DMR
 2284239,HB3XVI,Pascal Steck,Pascal,Muttenz,Basel - CHE,,DMR
-2284240,HB9HGH,Schindler no_name,Schindler,Pfeffingen,Basel-Landschaft - CHE,,DMR
+2284240,HB9HGH,Schindler No_name,Schindler,Pfeffingen,Basel-Landschaft - CHE,,DMR
 2284241,HB9HGG,Simon Wuethrich,Simon,Rohrbach,Oberaargau - CHE,,DMR
-2284242,HB9MKV,Rudi no_name,Rudi,Buesserach,. - CHE,,DMR
-2284243,HB9HEI,Dominic no_name,Dominic,Winznau,. - CHE,,DMR
+2284242,HB9MKV,Rudi No_name,Rudi,Buesserach,. - CHE,,DMR
+2284243,HB9HEI,Dominic No_name,Dominic,Winznau,. - CHE,,DMR
 2284244,HB9GUU,Peter Dietschi,Peter,Langendorf,. - CHE,,DMR
-2284245,HB9TCZ,Rick no_name,Rick,Laupersdorf,. - CHE,,DMR
-2284246,HB3XVW,Martin no_name,Martin,Lohn-Ammannsegg,Solothurn - CHE,,DMR
-2284247,HB3XVM,Martin no_name,Martin,Basel-Stadt,. - CHE,,DMR
-2284248,HB3XWF,Thomas no_name,Thomas,Riehen,. - CHE,,DMR
-2284249,HB9HHZ,Andy no_name,Andy,Basel,. - CHE,,DMR
-2284250,HB9ANQ,Ruedi no_name,Ruedi,Subingen,. - CHE,,DMR
-2284251,HB9MGI,Ernst no_name,Ernst,Riehen,. - CHE,,DMR
+2284245,HB9TCZ,Rick No_name,Rick,Laupersdorf,. - CHE,,DMR
+2284246,HB3XVW,Martin No_name,Martin,Lohn-Ammannsegg,Solothurn - CHE,,DMR
+2284247,HB3XVM,Martin No_name,Martin,Basel-Stadt,. - CHE,,DMR
+2284248,HB3XWF,Thomas No_name,Thomas,Riehen,. - CHE,,DMR
+2284249,HB9HHZ,Andy No_name,Andy,Basel,. - CHE,,DMR
+2284250,HB9ANQ,Ruedi No_name,Ruedi,Subingen,. - CHE,,DMR
+2284251,HB9MGI,Ernst No_name,Ernst,Riehen,. - CHE,,DMR
 2284252,HB9XBY,Toni Thiele,Toni,Daeniken 4658,So - CHE,,DMR
-2284253,HB3XWR,Eveline no_name,Eveline,Nenzlingen,. - CHE,,DMR
-2284254,HB3XWL,Thomas no_name,Thomas,Rohrbach,. - CHE,,DMR
-2284255,HB9HIF,Florian no_name,Florian,Grellingen,. - CHE,,DMR
+2284253,HB3XWR,Eveline No_name,Eveline,Nenzlingen,. - CHE,,DMR
+2284254,HB3XWL,Thomas No_name,Thomas,Rohrbach,. - CHE,,DMR
+2284255,HB9HIF,Florian No_name,Florian,Grellingen,. - CHE,,DMR
 2285001,HB9CNT,Paul Streich,Paul,Untersiggenthal,Baden - CHE,,DMR
 2285002,HB9CNT,Paul Streich,Paul,Untersiggenthal,Baden - CHE,,DMR
 2285003,HB9CNT,Paul Streich,Paul,Untersiggenthal,Baden - CHE,,DMR
 2285004,HB9CNT,Paul Streich,Paul,Untersiggenthal,Baden - CHE,,DMR
-2285005,HB9AQB,Heinz no_name,Heinz,Doettingen,Aargau - CHE,,DMR
-2285006,HB9RDD,Christian no_name,Christian,Holderbank,Aargau - CHE,,DMR
-2285007,HB3YEC,Christian no_name,Christian,Rupperswil,Aargau - CHE,,DMR
-2285008,HB9FDS,Christian no_name,Christian,Mellingen,Aargau - CHE,,DMR
-2285009,HB9TUF,Andi no_name,Andi,Niedergoesgen,Solothurn - CHE,,DMR
-2285010,HB3YLR,Sonia no_name,Sonia,Niedergoesgen,Solothurn - CHE,,DMR
-2285011,HB9TTD,Wolfram no_name,Wolfram,Hendschiken,Aargau - CHE,,DMR
-2285012,HB9FGE,Sabrina no_name,Sabrina,Mellikon,Aargau - CHE,,DMR
+2285005,HB9AQB,Heinz No_name,Heinz,Doettingen,Aargau - CHE,,DMR
+2285006,HB9RDD,Christian No_name,Christian,Holderbank,Aargau - CHE,,DMR
+2285007,HB3YEC,Christian No_name,Christian,Rupperswil,Aargau - CHE,,DMR
+2285008,HB9FDS,Christian No_name,Christian,Mellingen,Aargau - CHE,,DMR
+2285009,HB9TUF,Andi No_name,Andi,Niedergoesgen,Solothurn - CHE,,DMR
+2285010,HB3YLR,Sonia No_name,Sonia,Niedergoesgen,Solothurn - CHE,,DMR
+2285011,HB9TTD,Wolfram No_name,Wolfram,Hendschiken,Aargau - CHE,,DMR
+2285012,HB9FGE,Sabrina No_name,Sabrina,Mellikon,Aargau - CHE,,DMR
 2285013,HB9XCA,Yves Frey,Yves,Holziken,Aargau - CHE,,DMR
 2285014,HB9DWW,Peter Amsler,Peter,Rupperswil,Aargau - CHE,,DMR
 2285015,HB9DWS,Hansjoerg Baur,Hansjoerg,Schlossrued,Aargau - CHE,,DMR
@@ -872,7 +874,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2285043,HB9TRQ,Oliver Schellenberg,Oliver,Baden,Aargau - CHE,,DMR
 2285044,HB9FPX,Fritz Tanner,Fritz,Oberkulm,Aargau - CHE,,DMR
 2285045,HB9FPW,Toni Tanner,Toni,Oberkulm,Aargau - CHE,,DMR
-2285046,HB9PDM,Mathis no_name,Mathis,Oberkulm,Aargau - CHE,,DMR
+2285046,HB9PDM,Mathis No_name,Mathis,Oberkulm,Aargau - CHE,,DMR
 2285047,HB9SOI,Robert Waldvogel,Robert,Brugg,Aargau - CHE,,DMR
 2285048,HB9FSI,Vittorio Boccone,Vittorio,Birmenstorf,Aargau - CHE,,DMR
 2285049,HB9FPX,Fritz Tanner,Fritz,Oberkulm,Aargau - CHE,,DMR
@@ -881,54 +883,54 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2285052,HB9FFK,Christian Spieler,Christian,Rohr,Aargau - CHE,,DMR
 2285053,HB9XBO,Robert Walker,Robert,Suhr,Aargau - CHE,,DMR
 2285054,HB9DOD,Tom Hoedjes,Tom,Reinach,Aargau - CHE,,DMR
-2285055,HB3XPK,Othmar no_name,Othmar,no_city,Aargau - CHE,,DMR
+2285055,HB3XPK,Othmar No_name,Othmar,no_city,Aargau - CHE,,DMR
 2285056,HB9GNI,Thomas Hartmeier,Thomas,Baden,Aargau - CHE,,DMR
 2285057,HB9GSN,Juerg Frey,Juerg,Lupfig,Aargau - CHE,,DMR
 2285058,HB9RWF,Heinz Menz,Heinz,Reitnau,Aargau - CHE,,DMR
 2285059,HB3YLY,Adrian Bircher,Adrian,Oberkulm,Aargau - CHE,,DMR
 2285060,HB9HDD,Raphael Raphael,Raphael,Lenzburg,Aargau - CHE,,DMR
-2285061,HB9RTJ,Robert no_name,Robert,Buttwil,Aargau - CHE,,DMR
-2285062,HB9ROP,Juerg no_name,Juerg,Koelliken,Aargau - CHE,,DMR
-2285063,HB9HBD,Thomas no_name,Thomas,Oberentfelden,Aargau - CHE,,DMR
-2285064,HB9CTU,Herbert no_name,Herbert,Kuettigen,Aargau - CHE,,DMR
-2285065,HB9FEK,Gerhard no_name,Gerhard,Gretzenbach,Aargau - CHE,,DMR
-2285066,HB3XUG,Dani no_name,Dani,Oberkulm,Aargau - CHE,,DMR
-2285067,HB9DDZ,Nick no_name,Nick,Rheinsulz,Aargau - CHE,,DMR
+2285061,HB9RTJ,Robert No_name,Robert,Buttwil,Aargau - CHE,,DMR
+2285062,HB9ROP,Juerg No_name,Juerg,Koelliken,Aargau - CHE,,DMR
+2285063,HB9HBD,Thomas No_name,Thomas,Oberentfelden,Aargau - CHE,,DMR
+2285064,HB9CTU,Herbert No_name,Herbert,Kuettigen,Aargau - CHE,,DMR
+2285065,HB9FEK,Gerhard No_name,Gerhard,Gretzenbach,Aargau - CHE,,DMR
+2285066,HB3XUG,Dani No_name,Dani,Oberkulm,Aargau - CHE,,DMR
+2285067,HB9DDZ,Nick No_name,Nick,Rheinsulz,Aargau - CHE,,DMR
 2285068,HB9HDE,Bhp Bhp,Bhp,Neuenhof,Aargau - CHE,,DMR
-2285069,HB9ERD,Udo no_name,Udo,Holderbank,Aargau - CHE,,DMR
+2285069,HB9ERD,Udo No_name,Udo,Holderbank,Aargau - CHE,,DMR
 2285070,HB9XBG,Walter Kaegi,Walter,Auenstein,. - CHE,,DMR
-2285071,HB9HGQ,Tomasini no_name,Tomasini,Villmergen,Aargau - CHE,,DMR
-2285072,HB3YFT,Walter no_name,Walter,Gontenschwil,. - CHE,,DMR
-2285073,HB9BRH,Thomas no_name,Thomas,Fischbach-Goeslikon,. - CHE,,DMR
+2285071,HB9HGQ,Tomasini No_name,Tomasini,Villmergen,Aargau - CHE,,DMR
+2285072,HB3YFT,Walter No_name,Walter,Gontenschwil,. - CHE,,DMR
+2285073,HB9BRH,Thomas No_name,Thomas,Fischbach-Goeslikon,. - CHE,,DMR
 2285074,HB9HHO,Christian Volkmer,Christian,Wittnau,Aargau - CHE,,DMR
 2286001,HB9BMC,Robert Murer,Robert,Steinhausen,Zentralschweiz und T - CHE,,DMR
-2286002,HB9CPY,Peter no_name,Peter,Altdorf,Uri - CHE,,DMR
-2286003,HB3YVK,Luca no_name,Luca,Comano,Tessin - CHE,,DMR
-2286004,HB9TUO,Denis no_name,Denis,Gordevio,Tessin - CHE,,DMR
-2286005,HB9TWC,Jiorgio no_name,Jiorgio,Locarno,Tessin - CHE,,DMR
-2286006,HB9THJ,Beat no_name,Beat,Luzern,Zentralschweiz - CHE,,DMR
-2286007,HB9ENY,Yvonne no_name,Yvonne,Luzern,Zentralschweiz - CHE,,DMR
-2286008,HB9FLB,Benny no_name,Benny,Luzern,Zentralschweiz - CHE,,DMR
-2286009,HB9ODP,Mattia no_name,Mattia,Mendrisio,Ticino - CHE,,DMR
-2286010,HB9TLX,Walter no_name,Walter,Kriens,Luzern - CHE,,DMR
-2286011,HB9TLX,Walter no_name,Walter,Kriens,Luzern - CHE,,DMR
-2286012,HB3YWW,Luca no_name,Luca,Corteglia,Ticino - CHE,,DMR
-2286013,HB9OBX,Hanspeter no_name,Hanspeter,Oggio,Tessin - CHE,,DMR
-2286014,HB3YWB,Annamaria no_name,Annamaria,Comano,Tessin - CHE,,DMR
-2286015,HB9EZU,Roland no_name,Roland,Brunnen,Tessin - CHE,,DMR
-2286016,HB9CNA,Stefano no_name,Stefano,Lugano,Tessin - CHE,,DMR
-2286017,HB3YVK,Luca no_name,Luca,Comano,Tessin - CHE,,DMR
-2286018,HB3YWC,Marco no_name,Marco,Lugano,Tessin - CHE,,DMR
-2286019,HB9FFA,Mauro no_name,Mauro,Losone,Tessin - CHE,,DMR
+2286002,HB9CPY,Peter No_name,Peter,Altdorf,Uri - CHE,,DMR
+2286003,HB3YVK,Luca No_name,Luca,Comano,Tessin - CHE,,DMR
+2286004,HB9TUO,Denis No_name,Denis,Gordevio,Tessin - CHE,,DMR
+2286005,HB9TWC,Jiorgio No_name,Jiorgio,Locarno,Tessin - CHE,,DMR
+2286006,HB9THJ,Beat No_name,Beat,Luzern,Zentralschweiz - CHE,,DMR
+2286007,HB9ENY,Yvonne No_name,Yvonne,Luzern,Zentralschweiz - CHE,,DMR
+2286008,HB9FLB,Benny No_name,Benny,Luzern,Zentralschweiz - CHE,,DMR
+2286009,HB9ODP,Mattia No_name,Mattia,Mendrisio,Ticino - CHE,,DMR
+2286010,HB9TLX,Walter No_name,Walter,Kriens,Luzern - CHE,,DMR
+2286011,HB9TLX,Walter No_name,Walter,Kriens,Luzern - CHE,,DMR
+2286012,HB3YWW,Luca No_name,Luca,Corteglia,Ticino - CHE,,DMR
+2286013,HB9OBX,Hanspeter No_name,Hanspeter,Oggio,Tessin - CHE,,DMR
+2286014,HB3YWB,Annamaria No_name,Annamaria,Comano,Tessin - CHE,,DMR
+2286015,HB9EZU,Roland No_name,Roland,Brunnen,Tessin - CHE,,DMR
+2286016,HB9CNA,Stefano No_name,Stefano,Lugano,Tessin - CHE,,DMR
+2286017,HB3YVK,Luca No_name,Luca,Comano,Tessin - CHE,,DMR
+2286018,HB3YWC,Marco No_name,Marco,Lugano,Tessin - CHE,,DMR
+2286019,HB9FFA,Mauro No_name,Mauro,Losone,Tessin - CHE,,DMR
 2286020,HB9DSE,Kari Kuenzli,Kari,Willisau,Zentralschweiz und T - CHE,,DMR
-2286021,HB9FHE,Davide no_name,Davide,Lugano,Tessin - CHE,,DMR
+2286021,HB9FHE,Davide No_name,Davide,Lugano,Tessin - CHE,,DMR
 2286022,HB3YWW,Luca Parravicini,Luca,Corteglia,Zentralschweiz und T - CHE,,DMR
-2286023,HB9ODP,Mattia no_name,Mattia,Mendrisio,Ticino - CHE,,DMR
-2286024,HB3YWW,Luca no_name,Luca,Corteglia,Ticino - CHE,,DMR
+2286023,HB9ODP,Mattia No_name,Mattia,Mendrisio,Ticino - CHE,,DMR
+2286024,HB3YWW,Luca No_name,Luca,Corteglia,Ticino - CHE,,DMR
 2286025,HB9BZM,Tino Righini,Tino,Cadro,Ticino - CHE,,DMR
-2286026,HB9TUZ,Massimo no_name,Massimo,Lugano,Ticino - CHE,,DMR
-2286027,HB9OAU,Claudio no_name,Claudio,Caslano,Ticino - CHE,,DMR
-2286028,HB3YVN,Ennio no_name,Ennio,Gordola,Ticino - CHE,,DMR
+2286026,HB9TUZ,Massimo No_name,Massimo,Lugano,Ticino - CHE,,DMR
+2286027,HB9OAU,Claudio No_name,Claudio,Caslano,Ticino - CHE,,DMR
+2286028,HB3YVN,Ennio No_name,Ennio,Gordola,Ticino - CHE,,DMR
 2286029,HB9EZO,Pasquale Arcangelo,Pasquale,Alberswil,Zentralschweiz - CHE,,DMR
 2286030,HB9TRT,Reto Meyer,Reto,Grosswangen,Zentralschweiz und T - CHE,,DMR
 2286031,HB9TRT,Reto Meyer,Reto,Grosswangen,Zentralschweiz und T - CHE,,DMR
@@ -978,7 +980,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2286075,HB9FPF,Emanuele Pero,Emanuele,Bioggio,Zentralschweiz und T - CHE,,DMR
 2286076,HB9JCQ,Erich Vogel,Erich,Neuenkirch,Zentralschweiz und T - CHE,,DMR
 2286077,HB9FFA,Mauro Scolari,Mauro,Losone,Zentralschweiz und T - CHE,,DMR
-2286078,HB9DD,Digitalrc no_name,Digitalrc,Lugano,Zentralschweiz und T - CHE,,DMR
+2286078,HB9DD,Digitalrc No_name,Digitalrc,Lugano,Zentralschweiz und T - CHE,,DMR
 2286079,HB9OAB,Franco Borsa,Franco,Bellinzona,Zentralschweiz und T - CHE,,DMR
 2286080,HB9OK,Radio Tera,Radio,Vezia,Zentralschweiz und T - CHE,,DMR
 2286081,HB9WCH,Daniel Schwoerer,Daniel,Eich,Zentralschweiz und T - CHE,,DMR
@@ -1037,7 +1039,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2286134,HB9TSI,Andre Rieser,Andre,Goeschenen,Zentralschweiz und T - CHE,,DMR
 2286135,HB9EWZ,Philipp Wilhelm,Philipp,Luzern,Zentralschweiz und T - CHE,,DMR
 2286136,HB9EHW,Gabriele Casa,Gabriele,San Pietro Di Stabio,Zentralschweiz und T - CHE,,DMR
-2286137,HB9FKT,Francesco no_name,Francesco,Bellizona,Zentralschweiz und T - CHE,,DMR
+2286137,HB9FKT,Francesco No_name,Francesco,Bellizona,Zentralschweiz und T - CHE,,DMR
 2286138,HB9JAW,Michel Winiger,Michel,Neudorf,Zentralschweiz und T - CHE,,DMR
 2286139,HB9FEX,Mirko Pagnamenta,Mirko,Melide,Zentralschweiz und T - CHE,,DMR
 2286140,HB4FG,Swiss Station,Swiss,Bellinzona,Zentralschweiz und T - CHE,,DMR
@@ -1052,10 +1054,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2286149,HB9CCU,Heinz Homberger,Heinz,Ibach,Zentralschweiz und T - CHE,,DMR
 2286150,HB9CDH,Bruno Ruesch,Bruno,no_city,Zentralschweiz und T - CHE,,DMR
 2286151,HB9TUO,Denis Tasinato,Denis,Gordevio,Zentralschweiz und T - CHE,,DMR
-2286152,HB9ENK,Gianmaria no_name,Gianmaria,no_city,Zentralschweiz und T - CHE,,DMR
+2286152,HB9ENK,Gianmaria No_name,Gianmaria,no_city,Zentralschweiz und T - CHE,,DMR
 2286153,HB9WDN,Markus Geiger,Markus,Dierikon,Zentralschweiz und T - CHE,,DMR
 2286154,HB9JBY,Alfons Keiser,Alfons,Hochdorf,Zentralschweiz und T - CHE,,DMR
-2286155,HB9JAY,Walter no_name,Walter,Luzern,Zentralschweiz und T - CHE,,DMR
+2286155,HB9JAY,Walter No_name,Walter,Luzern,Zentralschweiz und T - CHE,,DMR
 2286156,HB9CAB,Werner Feller,Werner,Brunnen,Zentralschweiz und T - CHE,,DMR
 2286157,HB9RE,Swiss Rc,Swiss,Zofingen,Zentralschweiz und T - CHE,,DMR
 2286158,HB9RYY,Stephan Schlegel,Stephan,Seewen,Zentralschweiz und T - CHE,,DMR
@@ -1077,13 +1079,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2286174,HB9JA,Amateurfunkverein Hb9ja,Amateurfunkverein,Emmenbrucke,Zentralschweiz und T - CHE,,DMR
 2286175,HB9IPHA,Uska Call,Uska,Nottwil,Zentralschweiz und T - CHE,,DMR
 2286176,HB9DBM,Mark Brun,Mark,Beromuenster,Zentralschweiz und T - CHE,,DMR
-2286177,HB9GSD,Michel no_name,Michel,Bellinzona,Zentralschweiz und T - CHE,,DMR
+2286177,HB9GSD,Michel No_name,Michel,Bellinzona,Zentralschweiz und T - CHE,,DMR
 2286178,HB9GSE,Marco Luca,Marco,Bioggio,Zentralschweiz und T - CHE,,DMR
 2286179,HB9FLA,Jakob Brunner,Jakob,Luzern,Zentralschweiz und T - CHE,,DMR
 2286180,HB9JAB,Stefan Roosli,Stefan,Eschenbach,Zentralschweiz und T - CHE,,DMR
 2286181,HB9TKZ,Wolf Zemp,Wolf,Goldau,Zentralschweiz und T - CHE,,DMR
 2286182,HB9CVN,Ferdinando Bernasconi,Ferdinando,no_city,Zentralschweiz und T - CHE,,DMR
-2286183,HB9WCN,Rene no_name,Rene,Schoetz,Zentralschweiz und Tessin - CHE,,DMR
+2286183,HB9WCN,Rene No_name,Rene,Schoetz,Zentralschweiz und Tessin - CHE,,DMR
 2286184,HB9FSK,Michal Slomczykowski,Michal,Lu,Zentralschweiz und Tessin - CHE,,DMR
 2286185,HB9FEV,Ferry Sengun,Ferry,Beromunster,Zentralschweiz und T - CHE,,DMR
 2286186,HB9EGC,Casimiro Mombelli,Casimiro,Vacallo,Zentralschweiz und T - CHE,,DMR
@@ -1093,82 +1095,82 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2286190,HB3XPS,Nicola Crivelli,Nicola,Gordola,Zentralschweiz und Tessin - CHE,,DMR
 2286191,HB3XPX,Matteo Menca,Matteo,no_city,Zentralschweiz und Tessin - CHE,,DMR
 2286192,HB9EVZ,Karl Zgraggen,Karl,Lauerz,Zentralschweiz und Tessin - CHE,,DMR
-2286193,HB3XPZ,Sergio no_name,Sergio,no_city,Zentralschweiz und Tessin - CHE,,DMR
+2286193,HB3XPZ,Sergio No_name,Sergio,no_city,Zentralschweiz und Tessin - CHE,,DMR
 2286194,HB9EKV,Thomas Fischer,Thomas,Oberkirch,Zentralschweiz und Tessin - CHE,,DMR
 2286195,HB9TKZ,Wolf Zemp,Wolf,Goldau,Zentralschweiz und Tessin - CHE,,DMR
 2286196,HB9JCI,Matthias Schumacher,Matthias,Schwyz,Zentralschweiz und Tessin - CHE,,DMR
-2286197,HB9EZC,Juergen Heinrich,Juergen,Beckenried,no_name - CHE,,DMR
+2286197,HB9EZC,Juergen Heinrich,Juergen,Beckenried,No_name - CHE,,DMR
 2286198,HB9EAE,Silvio Buchmann,Silvio,Giswil,Obwalden - CHE,,DMR
 2286199,HB9DNU,Karlheinz Dietrich,Karlheinz,Gudo,Ticino - CHE,,DMR
-2286200,HB9CXZ,Luigi Casari,Luigi,S. Antonino,no_name - CHE,,DMR
+2286200,HB9CXZ,Luigi Casari,Luigi,S. Antonino,No_name - CHE,,DMR
 2286201,HB9GWS,Markus Stocker,Markus,Beromuenster,Bern - CHE,,DMR
 2286202,HB9GZI,Ivan Mobilia,Ivan,Giswil,Zentralschweiz und Tessin - CHE,,DMR
-2286203,HB9FPR,Ricky Ranzoni,Ricky,Quartino,no_name - CHE,,DMR
+2286203,HB9FPR,Ricky Ranzoni,Ricky,Quartino,No_name - CHE,,DMR
 2286204,HB3YVG,Gaia Panarisi,Gaia,Rivera,Ticino - CHE,,DMR
-2286205,HB9GWZ,Ivan no_name,Ivan,Gordola,Ticino - CHE,,DMR
-2286206,HB3XPW,Danilo Marchi,Danilo,Massagno,no_name - CHE,,DMR
+2286205,HB9GWZ,Ivan No_name,Ivan,Gordola,Ticino - CHE,,DMR
+2286206,HB3XPW,Danilo Marchi,Danilo,Massagno,No_name - CHE,,DMR
 2286207,HB9DWL,Leo Marbach,Leo,St. Erhard,Zentralschweiz und Tessin - CHE,,DMR
 2286208,HB9OAB,Franco Borsa,Franco,Bellinzona,Zentralschweiz und Tessin - CHE,,DMR
-2286209,HB9GVN,Dario no_name,Dario,Coldrerio,Zentralschweiz und Tessin - CHE,,DMR
-2286210,HB9FBK,Flavio Gada-Barenco,Flavio,Bellinzona,no_name - CHE,,DMR
+2286209,HB9GVN,Dario No_name,Dario,Coldrerio,Zentralschweiz und Tessin - CHE,,DMR
+2286210,HB9FBK,Flavio Gada-Barenco,Flavio,Bellinzona,No_name - CHE,,DMR
 2286211,HB9DDW,Roger Frei,Roger,Adligenswil,Luzern - CHE,,DMR
 2286212,HB9PHA,Bernardo Brentini,Bernardo,Campello,Zentralschweiz und Tessin - CHE,,DMR
 2286213,HB9OBD,Luca Rovelli,Luca,Barbengo,Zentralschweiz und Tessin - CHE,,DMR
-2286214,HB9GFW,Marco Rima,Marco,Claro,no_name - CHE,,DMR
+2286214,HB9GFW,Marco Rima,Marco,Claro,No_name - CHE,,DMR
 2286215,HB9GNW,Urs Werder,Urs,Hochdorf,Zentralschweiz und Tessin - CHE,,DMR
 2286216,HB3YGD,Daniel Buerkler,Daniel,Cham,Zentralschweiz und Tessin - CHE,,DMR
 2286217,HB9SYO,Fabiano Veronelli,Fabiano,Bironico,Zentralschweiz und Tessin - CHE,,DMR
 2286218,HB9FAL,Steve Sartori,Steve,Gnosca,Zentralschweiz und Tessin - CHE,,DMR
-2286219,HB9GUD,Christoph no_name,Christoph,Hochdorf,Ticino - CHE,,DMR
-2286220,HB3YVO,Beat Fischer,Beat,Triengen,no_name - CHE,,DMR
-2286221,HB9DDW,Roger Frei,Roger,Adligenswil,no_name - CHE,,DMR
+2286219,HB9GUD,Christoph No_name,Christoph,Hochdorf,Ticino - CHE,,DMR
+2286220,HB3YVO,Beat Fischer,Beat,Triengen,No_name - CHE,,DMR
+2286221,HB9DDW,Roger Frei,Roger,Adligenswil,No_name - CHE,,DMR
 2286222,HB9HJJ,Thomas Marchy,Thomas,Brunnen,Schwyz - CHE,,DMR
-2286223,HB9TQQ,Judith no_name,Judith,Emmen Hochdorf,Luzern - CHE,,DMR
-2286224,HB9FEX,Mirko Pagnamenta,Mirko,Melide,no_name - CHE,,DMR
+2286223,HB9TQQ,Judith No_name,Judith,Emmen Hochdorf,Luzern - CHE,,DMR
+2286224,HB9FEX,Mirko Pagnamenta,Mirko,Melide,No_name - CHE,,DMR
 2286225,HB9AJM,Ivo Pedruzzi,Ivo,Locarno,Ticino - CHE,,DMR
-2286226,HB9JBQ,Manuel Christen,Manuel,Schenkon,no_name - CHE,,DMR
-2286227,HB9GZS,Sergio Dotti,Sergio,Genestrerio,no_name - CHE,,DMR
-2286228,HB9GZI,Ivan Mobilia,Ivan,Mugena,no_name - CHE,,DMR
+2286226,HB9JBQ,Manuel Christen,Manuel,Schenkon,No_name - CHE,,DMR
+2286227,HB9GZS,Sergio Dotti,Sergio,Genestrerio,No_name - CHE,,DMR
+2286228,HB9GZI,Ivan Mobilia,Ivan,Mugena,No_name - CHE,,DMR
 2286229,HB3XSS,Samuele Soldini,Samuele,Comano,Ticino - CHE,,DMR
 2286230,HB9GZN,Nicola Crivelli,Nicola,Gordola,Ticino - CHE,,DMR
 2286231,HB9GWM,Martin Ottiger,Martin,Schenkon,Ticino - CHE,,DMR
-2286232,HB9GZT,Pasinelli Tiziano,Pasinelli,Porza,no_name - CHE,,DMR
+2286232,HB9GZT,Pasinelli Tiziano,Pasinelli,Porza,No_name - CHE,,DMR
 2286233,HB9GZL,Gabriele Tos,Gabriele,Lavorgo,Zentralschweiz und Tessin - CHE,,DMR
 2286234,HB9FIF,Roger Rodenhaeuser,Roger,Baar,Zug - CHE,,DMR
-2286235,HB9HCE,Roland no_name,Roland,no_city,Ticino - CHE,,DMR
+2286235,HB9HCE,Roland No_name,Roland,no_city,Ticino - CHE,,DMR
 2286236,HB9PUE,Mauro Piffaretti,Mauro,Pregassona,Ticino - CHE,,DMR
 2286237,HB9FAB,Patrick Orso,Patrick,Camignolo,Ticino - CHE,,DMR
 2286238,HB3XST,Jaquier Michel,Jaquier,Casoro,Ticino - CHE,,DMR
-2286239,HB9GZP,Patrick no_name,Patrick,Minusio,Zentralschweiz und Tessin - CHE,,DMR
+2286239,HB9GZP,Patrick No_name,Patrick,Minusio,Zentralschweiz und Tessin - CHE,,DMR
 2286240,HB9TXB,Branko Djokic,Branko,Luzern. .,Zentralschweiz und Tessin - CHE,,DMR
 2286241,HB9FBD,Andrea Weick,Andrea,Cugnasco,Zentralschweiz und Tessin - CHE,,DMR
 2286242,HB9PLW,Peter Bucher,Peter,Reiden,Zentralschweiz und Tessin - CHE,,DMR
-2286243,HB9HIR,Linus no_name,Linus,Gelfingen,. - CHE,,DMR
-2286244,HB9EHU,Fabianzihlmann no_name,Fabianzihlmann,Ruswil,Zentralschweiz und Tessin - CHE,,DMR
-2286245,HB3XUB,Mauro no_name,Mauro,Gordola,Zentralschweiz und Tessin - CHE,,DMR
-2286246,HB9TTZ,Brenno no_name,Brenno,Bellinzona,Zentralschweiz und Tessin - CHE,,DMR
-2286247,HB9MFY,Giancarlo no_name,Giancarlo,Cugnasco,Zentralschweiz und Tessin - CHE,,DMR
-2286248,HB9FOM,Michi no_name,Michi,Eschenbach,Zentralschweiz und Tessin - CHE,,DMR
+2286243,HB9HIR,Linus No_name,Linus,Gelfingen,. - CHE,,DMR
+2286244,HB9EHU,Fabianzihlmann No_name,Fabianzihlmann,Ruswil,Zentralschweiz und Tessin - CHE,,DMR
+2286245,HB3XUB,Mauro No_name,Mauro,Gordola,Zentralschweiz und Tessin - CHE,,DMR
+2286246,HB9TTZ,Brenno No_name,Brenno,Bellinzona,Zentralschweiz und Tessin - CHE,,DMR
+2286247,HB9MFY,Giancarlo No_name,Giancarlo,Cugnasco,Zentralschweiz und Tessin - CHE,,DMR
+2286248,HB9FOM,Michi No_name,Michi,Eschenbach,Zentralschweiz und Tessin - CHE,,DMR
 2286249,HB9ALH,Bernard Wehrli,Bernard,Meggen /nr Lucerne,Zentralschweiz und Tessin - CHE,,DMR
-2286250,HB3XPX,Menca no_name,Menca,Collina Doro,Zentralschweiz und Tessin - CHE,,DMR
+2286250,HB3XPX,Menca No_name,Menca,Collina Doro,Zentralschweiz und Tessin - CHE,,DMR
 2286251,HB9SBL,Sergio Gianini,Sergio,Arzo,Zentralschweiz und Tessin - CHE,,DMR
 2286252,HB9BXE,Peter Peter,Peter,Adligenswil,Zentralschweiz und Tessin - CHE,,DMR
-2286253,HB9HDO,Tom no_name,Tom,Steinhausen,Zentralschweiz und Tessin - CHE,,DMR
-2286254,HB9HEC,Gabri no_name,Gabri,Astano,Gabri - CHE,,DMR
-2286255,HB3YTC,Roberto no_name,Roberto,Lumino,no_name - CHE,,DMR
-2286256,HB9TTY,Fred no_name,Fred,Buttisholz,no_name - CHE,,DMR
-2286257,HB9ERA,No_name no_name,No_name,no_city,. - CHE,,DMR
+2286253,HB9HDO,Tom No_name,Tom,Steinhausen,Zentralschweiz und Tessin - CHE,,DMR
+2286254,HB9HEC,Gabri No_name,Gabri,Astano,Gabri - CHE,,DMR
+2286255,HB3YTC,Roberto No_name,Roberto,Lumino,No_name - CHE,,DMR
+2286256,HB9TTY,Fred No_name,Fred,Buttisholz,No_name - CHE,,DMR
+2286257,HB9ERA,No_name No_name,No_name,no_city,. - CHE,,DMR
 2286258,HB9GHD,Davide Paganoni,Davide,Piedmont,Zentralschweiz und T - CHE,,DMR
 2286259,HB3YKK,Marcel Kieliger,Marcel,Brunnen,Zentralschweiz und T - CHE,,DMR
 2286260,HB3XTP,Gianpaolo Ferrari,Gianpaolo,Chiasso,Ticino - CHE,,DMR
-2286261,HB3XVP,Philipp no_name,Philipp,Richenthal,. - CHE,,DMR
-2286262,HB9TIK,Fausto no_name,Fausto,Bidogno,. - CHE,,DMR
+2286261,HB3XVP,Philipp No_name,Philipp,Richenthal,. - CHE,,DMR
+2286262,HB9TIK,Fausto No_name,Fausto,Bidogno,. - CHE,,DMR
 2286263,HB9GZL,Da Gabriele,Da,Lavorgo,Zentralschweiz und T - CHE,,DMR
-2286264,HB9GCC,Joe no_name,Joe,Luzern,. - CHE,,DMR
+2286264,HB9GCC,Joe No_name,Joe,Luzern,. - CHE,,DMR
 2286265,HB9DHG,Fulvio Galli,Fulvio,Origlio,Ticino - CHE,,DMR
-2286266,HB9GCC,Joe no_name,Joe,Luzern,. - CHE,,DMR
-2286267,HB9HHJ,Florian no_name,Florian,Luzern,. - CHE,,DMR
-2287001,HB9FPO,Stefano no_name,Stefano,Poschiavo,Graubuenden - CHE,,DMR
+2286266,HB9GCC,Joe No_name,Joe,Luzern,. - CHE,,DMR
+2286267,HB9HHJ,Florian No_name,Florian,Luzern,. - CHE,,DMR
+2287001,HB9FPO,Stefano No_name,Stefano,Poschiavo,Graubuenden - CHE,,DMR
 2287002,HB9HAN,Roland Peter,Roland,Sargans,Graubuenden - CHE,,DMR
 2287003,HB9FPO,Stefano Foppoli,Stefano,Poschiavo,Graubuenden - CHE,,DMR
 2287004,HB9SOA,Wilhelm Hug,Wilhelm,Vilters,Graubuenden - CHE,,DMR
@@ -1197,75 +1199,75 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2287027,HB9ASV,Peter Schudel,Peter,Chur,Graubuenden - CHE,,DMR
 2287028,HB9CAN,Marco Leupin,Marco,Berne,Graubuenden - CHE,,DMR
 2287029,HB3YYA,Andy Muenchbach,Andy,Laax,Graubuenden - CHE,,DMR
-2287030,HB3XPV,Martha no_name,Martha,no_city,Graubuenden - CHE,,DMR
-2287031,HB3XRK,Werner no_name,Werner,Sankt Gallen,Sankt Gallen - CHE,,DMR
+2287030,HB3XPV,Martha No_name,Martha,no_city,Graubuenden - CHE,,DMR
+2287031,HB3XRK,Werner No_name,Werner,Sankt Gallen,Sankt Gallen - CHE,,DMR
 2287032,HB9GKX,Tobias Ebner,Tobias,Zernez,Graubuenden - CHE,,DMR
-2287033,HB9GYA,Mauro no_name,Mauro,Zernez,Bern - CHE,,DMR
+2287033,HB9GYA,Mauro No_name,Mauro,Zernez,Bern - CHE,,DMR
 2287034,HB9GNO,Chrigi Hartmann,Chrigi,Malans,Graubuenden - CHE,,DMR
 2287035,HB9GPO,Franco Cristini,Franco,Bergamo,Italy - CHE,,DMR
-2287036,HB9GZK,Mark no_name,Mark,Alvaneu Dorf,. - CHE,,DMR
+2287036,HB9GZK,Mark No_name,Mark,Alvaneu Dorf,. - CHE,,DMR
 2288000,HB9SDB,Rolf Tschumi,Rolf,Waedenswil,Zuerich und Thurgau - CHE,,DMR
-2288001,HB3YEJ,Andreas no_name,Andreas,Schleitheim,Schaffhausen - CHE,,DMR
-2288002,HB9WOF,Reto no_name,Reto,Winterthur,Winterthur - CHE,,DMR
-2288003,HB9WOF,Reto no_name,Reto,Winterthur,Winterthur - CHE,,DMR
-2288004,HB9WOF,Reto no_name,Reto,Winterthur,Winterthur - CHE,,DMR
-2288005,HB9WOF,Reto no_name,Reto,Winterthur,Winterthur - CHE,,DMR
-2288006,HB9ESL,Max no_name,Max,Wetzikon,Hinwil - CHE,,DMR
-2288007,HB9LCQ,Dani no_name,Dani,Kilchberg,Zuerich - CHE,,DMR
-2288008,HB9TSP,Simon no_name,Simon,Jona,Zuerich - CHE,,DMR
+2288001,HB3YEJ,Andreas No_name,Andreas,Schleitheim,Schaffhausen - CHE,,DMR
+2288002,HB9WOF,Reto No_name,Reto,Winterthur,Winterthur - CHE,,DMR
+2288003,HB9WOF,Reto No_name,Reto,Winterthur,Winterthur - CHE,,DMR
+2288004,HB9WOF,Reto No_name,Reto,Winterthur,Winterthur - CHE,,DMR
+2288005,HB9WOF,Reto No_name,Reto,Winterthur,Winterthur - CHE,,DMR
+2288006,HB9ESL,Max No_name,Max,Wetzikon,Hinwil - CHE,,DMR
+2288007,HB9LCQ,Dani No_name,Dani,Kilchberg,Zuerich - CHE,,DMR
+2288008,HB9TSP,Simon No_name,Simon,Jona,Zuerich - CHE,,DMR
 2288009,HB9ZAZ,Ueli Rieser,Ueli,Zuerich,Zuerich und Thurgau - CHE,,DMR
 2288010,HB9PJT,Peter Sidler,Peter,Affoltern am Albis,Zuerich und Thurgau - CHE,,DMR
 2288011,HB9ZAZ,Ueli Rieser,Ueli,Zuerich,Zuerich und Thurgau - CHE,,DMR
-2288012,HB3YZE,Michi no_name,Michi,Kloten,Zuerich - CHE,,DMR
+2288012,HB3YZE,Michi No_name,Michi,Kloten,Zuerich - CHE,,DMR
 2288013,HB9ZCY,Urs Katz,Urs,Zuerich,Zuerich und Thurgau - CHE,,DMR
-2288014,HB3YEJ,Andreas no_name,Andreas,Schleitheim,Schaffhausen - CHE,,DMR
-2288015,HB3YZE,Michi no_name,Michi,Kloten,Zuerich - CHE,,DMR
-2288016,HB9TTQ,Stefan no_name,Stefan,Birmensdorf,Zuerich - CHE,,DMR
-2288017,HB9WNT,Roland no_name,Roland,Winterthur,Winterthur - CHE,,DMR
-2288018,HB9WNT,Roland no_name,Roland,Winterthur,Winterthur - CHE,,DMR
-2288019,HB9WNT,Roland no_name,Roland,Winterthur,Winterthur - CHE,,DMR
-2288020,HB9WNT,Roland no_name,Roland,Winterthur,Winterthur - CHE,,DMR
-2288021,HB9DRX,Nick no_name,Nick,Maennedorf,Zuerich - CHE,,DMR
+2288014,HB3YEJ,Andreas No_name,Andreas,Schleitheim,Schaffhausen - CHE,,DMR
+2288015,HB3YZE,Michi No_name,Michi,Kloten,Zuerich - CHE,,DMR
+2288016,HB9TTQ,Stefan No_name,Stefan,Birmensdorf,Zuerich - CHE,,DMR
+2288017,HB9WNT,Roland No_name,Roland,Winterthur,Winterthur - CHE,,DMR
+2288018,HB9WNT,Roland No_name,Roland,Winterthur,Winterthur - CHE,,DMR
+2288019,HB9WNT,Roland No_name,Roland,Winterthur,Winterthur - CHE,,DMR
+2288020,HB9WNT,Roland No_name,Roland,Winterthur,Winterthur - CHE,,DMR
+2288021,HB9DRX,Nick No_name,Nick,Maennedorf,Zuerich - CHE,,DMR
 2288022,HB9DR,Club Digitalrc,Club,Waedenswil,Zuerich und Thurgau - CHE,,DMR
-2288023,HB9DRX,Nick no_name,Nick,Maennedorf,Zuerich - CHE,,DMR
-2288024,HB9DRX,Nick no_name,Nick,Maennedorf,Zuerich - CHE,,DMR
-2288025,HB9DRX,Nick no_name,Nick,Maennedorf,Zuerich - CHE,,DMR
-2288026,HB9MNP,Ernst no_name,Ernst,Hinwil,Zuerich - CHE,,DMR
-2288027,HB9MNP,Ernst no_name,Ernst,Hinwil,Zuerich - CHE,,DMR
-2288028,HB9IRM,Mario no_name,Mario,Richterswil,Zuerich - CHE,,DMR
-2288029,HB9IRM,Mario no_name,Mario,Richterswil,Zuerich - CHE,,DMR
-2288030,HB9EUK,Benjamin no_name,Benjamin,Meilen,Zuerich - CHE,,DMR
-2288031,HB9EUK,Benjamin no_name,Benjamin,Meilen,Zuerich - CHE,,DMR
-2288032,HB3YEO,Gebi no_name,Gebi,Richterswil,Zuerich - CHE,,DMR
+2288023,HB9DRX,Nick No_name,Nick,Maennedorf,Zuerich - CHE,,DMR
+2288024,HB9DRX,Nick No_name,Nick,Maennedorf,Zuerich - CHE,,DMR
+2288025,HB9DRX,Nick No_name,Nick,Maennedorf,Zuerich - CHE,,DMR
+2288026,HB9MNP,Ernst No_name,Ernst,Hinwil,Zuerich - CHE,,DMR
+2288027,HB9MNP,Ernst No_name,Ernst,Hinwil,Zuerich - CHE,,DMR
+2288028,HB9IRM,Mario No_name,Mario,Richterswil,Zuerich - CHE,,DMR
+2288029,HB9IRM,Mario No_name,Mario,Richterswil,Zuerich - CHE,,DMR
+2288030,HB9EUK,Benjamin No_name,Benjamin,Meilen,Zuerich - CHE,,DMR
+2288031,HB9EUK,Benjamin No_name,Benjamin,Meilen,Zuerich - CHE,,DMR
+2288032,HB3YEO,Gebi No_name,Gebi,Richterswil,Zuerich - CHE,,DMR
 2288033,HB3YGV,Horst Steinhauser,Horst,Winterthur,Zuerich - CHE,,DMR
 2288034,HB9BHL,Fritz Hohermuth,Fritz,Hittnau,Zuerich und Thurgau - CHE,,DMR
-2288035,HB9ERT,Marc no_name,Marc,Winterthur,Zuerich - CHE,,DMR
-2288036,HB9CCQ,Franz no_name,Franz,Zuerich,Zuerich - CHE,,DMR
-2288037,HB9CCQ,Franz no_name,Franz,Zuerich,Zuerich - CHE,,DMR
-2288038,HB9JBP,Markus no_name,Markus,Duebendorf,Zuerich - CHE,,DMR
-2288039,HB9JBP,Markus no_name,Markus,Duebendorf,Zuerich - CHE,,DMR
-2288040,HB3YLN,Fritz no_name,Fritz,Winterthur,Zuerich - CHE,,DMR
-2288041,HB3YLN,Fritz no_name,Fritz,Winterthur,Zuerich - CHE,,DMR
-2288042,HB3YLN,Fritz no_name,Fritz,Winterthur,Zuerich - CHE,,DMR
-2288043,HB3YLN,Fritz no_name,Fritz,Winterthur,Zuerich - CHE,,DMR
-2288044,HB9TTI,Ueli no_name,Ueli,Wollerau,Schwyz - CHE,,DMR
-2288045,HB9TTI,Ueli no_name,Ueli,Wollerau,Schwyz - CHE,,DMR
-2288046,HB9ZEI,Max no_name,Max,Stadel,Zuerich - CHE,,DMR
-2288047,HB9ZEI,Max no_name,Max,Stadel,Zuerich - CHE,,DMR
-2288048,HB9ZIC,Dany no_name,Dany,Neerach,Zuerich - CHE,,DMR
-2288049,HB9FSU,Hans-Joerg no_name,Hans-Joerg,Ebmatingen,Zuerich und Thurgau - CHE,,DMR
-2288050,HB9SJO,Roland no_name,Roland,Regensdorf,Zuerich - CHE,,DMR
-2288051,HB9DSY,Frank no_name,Frank,Zuerich,Zuerich - CHE,,DMR
-2288052,HB9LEH,Juerg no_name,Juerg,Zuerich,Zuerich - CHE,,DMR
-2288053,HB9EMG,Andy no_name,Andy,Russikon,Zuerich - CHE,,DMR
-2288054,HB9ZDU,Bruno no_name,Bruno,Rudolfstetten,Aargau - CHE,,DMR
-2288055,HB9LBX,Heinz no_name,Heinz,Fehraltorf,Zuerich - CHE,,DMR
-2288056,HB3YAU,Josef no_name,Josef,Zuerich,Zuerich - CHE,,DMR
-2288057,HB9RIU,Georg no_name,Georg,Zuerich,Zuerich - CHE,,DMR
-2288058,HB9MXQ,Peter no_name,Peter,Uster,Zuerich - CHE,,DMR
-2288059,HB9EPQ,Werner no_name,Werner,Bauma,Zuerich - CHE,,DMR
+2288035,HB9ERT,Marc No_name,Marc,Winterthur,Zuerich - CHE,,DMR
+2288036,HB9CCQ,Franz No_name,Franz,Zuerich,Zuerich - CHE,,DMR
+2288037,HB9CCQ,Franz No_name,Franz,Zuerich,Zuerich - CHE,,DMR
+2288038,HB9JBP,Markus No_name,Markus,Duebendorf,Zuerich - CHE,,DMR
+2288039,HB9JBP,Markus No_name,Markus,Duebendorf,Zuerich - CHE,,DMR
+2288040,HB3YLN,Fritz No_name,Fritz,Winterthur,Zuerich - CHE,,DMR
+2288041,HB3YLN,Fritz No_name,Fritz,Winterthur,Zuerich - CHE,,DMR
+2288042,HB3YLN,Fritz No_name,Fritz,Winterthur,Zuerich - CHE,,DMR
+2288043,HB3YLN,Fritz No_name,Fritz,Winterthur,Zuerich - CHE,,DMR
+2288044,HB9TTI,Ueli No_name,Ueli,Wollerau,Schwyz - CHE,,DMR
+2288045,HB9TTI,Ueli No_name,Ueli,Wollerau,Schwyz - CHE,,DMR
+2288046,HB9ZEI,Max No_name,Max,Stadel,Zuerich - CHE,,DMR
+2288047,HB9ZEI,Max No_name,Max,Stadel,Zuerich - CHE,,DMR
+2288048,HB9ZIC,Dany No_name,Dany,Neerach,Zuerich - CHE,,DMR
+2288049,HB9FSU,Hans-Joerg No_name,Hans-Joerg,Ebmatingen,Zuerich und Thurgau - CHE,,DMR
+2288050,HB9SJO,Roland No_name,Roland,Regensdorf,Zuerich - CHE,,DMR
+2288051,HB9DSY,Frank No_name,Frank,Zuerich,Zuerich - CHE,,DMR
+2288052,HB9LEH,Juerg No_name,Juerg,Zuerich,Zuerich - CHE,,DMR
+2288053,HB9EMG,Andy No_name,Andy,Russikon,Zuerich - CHE,,DMR
+2288054,HB9ZDU,Bruno No_name,Bruno,Rudolfstetten,Aargau - CHE,,DMR
+2288055,HB9LBX,Heinz No_name,Heinz,Fehraltorf,Zuerich - CHE,,DMR
+2288056,HB3YAU,Josef No_name,Josef,Zuerich,Zuerich - CHE,,DMR
+2288057,HB9RIU,Georg No_name,Georg,Zuerich,Zuerich - CHE,,DMR
+2288058,HB9MXQ,Peter No_name,Peter,Uster,Zuerich - CHE,,DMR
+2288059,HB9EPQ,Werner No_name,Werner,Bauma,Zuerich - CHE,,DMR
 2288060,HB9DSF,Peter Meroni,Peter,Horgen,Zuerich - CHE,,DMR
-2288061,HB9EHE,Thomas no_name,Thomas,Hittnau,Zuerich - CHE,,DMR
+2288061,HB9EHE,Thomas No_name,Thomas,Hittnau,Zuerich - CHE,,DMR
 2288062,HB9TPX,Reto Voser,Reto,Birmensdorf,Zuerich - CHE,,DMR
 2288063,HB9AZT,Markus Schleutermann,Markus,Tagelswangen,Zuerich - CHE,,DMR
 2288064,HB9SXQ,Eduard Baertschi,Eduard,Kleinandelfingen,Zuerich - CHE,,DMR
@@ -1385,29 +1387,29 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2288178,HB9FIH,Rieder Erich,Rieder,Waedenswil,Zuerich und Thurgau - CHE,,DMR
 2288179,HB3YGH,Fabian Sidler,Fabian,Affoltern am Albis,Zuerich und Thurgau - CHE,,DMR
 2288180,HB9PJT,Peter Sidler,Peter,Affoltern am Albis,Zuerich und Thurgau - CHE,,DMR
-2288181,HB9IQY,Daniel no_name,Daniel,Biel,Zuerich und Thurgau - CHE,,DMR
+2288181,HB9IQY,Daniel No_name,Daniel,Biel,Zuerich und Thurgau - CHE,,DMR
 2288182,HB9DDS,Daniel Schaeffler,Daniel,Zuerich,Zuerich und Thurgau - CHE,,DMR
-2288183,HB3YBX,Roger no_name,Roger,no_city,Zuerich und Thurgau - CHE,,DMR
-2288184,HB9PLB,Konrad no_name,Konrad,Truttikon,Zuerich und Thurgau - CHE,,DMR
+2288183,HB3YBX,Roger No_name,Roger,no_city,Zuerich und Thurgau - CHE,,DMR
+2288184,HB9PLB,Konrad No_name,Konrad,Truttikon,Zuerich und Thurgau - CHE,,DMR
 2288185,HB9DQM,Manuel Kasper,Manuel,Andelfingen,Zuerich und Thurgau - CHE,,DMR
 2288186,HB9BRJ,Markus Leggenhager,Markus,Schaffhausen,Zuerich und Thurgau - CHE,,DMR
 2288187,HB9UAG,Raffaele Sogno,Raffaele,Felben-Wellhausen,Zuerich und Thurgau - CHE,,DMR
 2288188,HB9FVR,Silvan Mumenthaler,Silvan,Romanshorn,Zuerich und Thurgau - CHE,,DMR
-2288189,HB9FF,Funkerfreunde no_name,Funkerfreunde,Zurich,Zuerich und Thurgau - CHE,,DMR
+2288189,HB9FF,Funkerfreunde No_name,Funkerfreunde,Zurich,Zuerich und Thurgau - CHE,,DMR
 2288190,HB9ZCY,Urs Katz,Urs,Zurich,Zuerich und Thurgau - CHE,,DMR
 2288191,HB9FU,Funkgruppe Untersee,Funkgruppe,Stein am Rhein,Zuerich und Thurgau - CHE,,DMR
 2288192,HB9TZX,Michael Banditt,Michael,Zuerich,Zuerich und Thurgau - CHE,,DMR
-2288193,HB3YVH,Ivan no_name,Ivan,no_city,Zuerich und Thurgau - CHE,,DMR
-2288194,HB9CAC,Konrad no_name,Konrad,Thayngen,Zuerich und Thurgau - CHE,,DMR
+2288193,HB3YVH,Ivan No_name,Ivan,no_city,Zuerich und Thurgau - CHE,,DMR
+2288194,HB9CAC,Konrad No_name,Konrad,Thayngen,Zuerich und Thurgau - CHE,,DMR
 2288195,HB9TPT,Guido Frohli,Guido,Horgen,Ostschweiz - CHE,,DMR
 2288196,HB9LEK,Martin Neukomm,Martin,Illnau,Zuerich und Thurgau - CHE,,DMR
 2288197,HB9GPG,Heinz Wortmann,Heinz,Schaffhausen,Zuerich und Thurgau - CHE,,DMR
 2288198,HB9STW,Thomas Bertolf,Thomas,Balterswil,Zuerich und Thurgau - CHE,,DMR
-2288199,HB3YZL,Heinz no_name,Heinz,Mesenzana,Zuerich und Thurgau - CHE,,DMR
+2288199,HB3YZL,Heinz No_name,Heinz,Mesenzana,Zuerich und Thurgau - CHE,,DMR
 2288200,HB9XXX,Id Blocked,Id,Zurich,Zuerich und Thurgau - CHE,,DMR
 2288201,HB9FFP,Peter Schmid,Peter,Bottighofen,Zuerich und Thurgau - CHE,,DMR
 2288202,HB3YPI,Silvio Aldighieri,Silvio,Uerikon,Zuerich und Thurgau - CHE,,DMR
-2288203,HB9FGX,Lukas no_name,Lukas,Bellinzona,Zuerich und Thurgau - CHE,,DMR
+2288203,HB9FGX,Lukas No_name,Lukas,Bellinzona,Zuerich und Thurgau - CHE,,DMR
 2288204,HB9EGA,Marcin Korona,Marcin,Zurich,Zuerich und Thurgau - CHE,,DMR
 2288205,HB9GZY,Roland Guarlotti,Roland,Hemishofen,Zuerich und Thurgau - CHE,,DMR
 2288206,HB9TQD,Stefan Nyffenegger,Stefan,Urdorf,Zuerich und Thurgau - CHE,,DMR
@@ -1417,10 +1419,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2288210,HB9BTE,Peter Thalmann,Peter,Meilen,Zuerich und Thurgau - CHE,,DMR
 2288211,HB9EWB,Salvatore Bencivenga,Salvatore,Zurich,Zuerich und Thurgau - CHE,,DMR
 2288212,HB9RMW,Leander Gutzwiller,Leander,Mettmwenstetten,Zuerich und Thurgau - CHE,,DMR
-2288213,HB9LFK,Stefan no_name,Stefan,no_city,Zuerich und Thurgau - CHE,,DMR
+2288213,HB9LFK,Stefan No_name,Stefan,no_city,Zuerich und Thurgau - CHE,,DMR
 2288214,HB9IQR,Emanuel Schadegg,Emanuel,Glarus,Zuerich und Thurgau - CHE,,DMR
 2288215,HB9FVR,Silvan Mumenthaler,Silvan,Romanshorn,Zuerich und Thurgau - CHE,,DMR
-2288216,HB3YZX,Michael no_name,Michael,Wila,Zuerich und Thurgau - CHE,,DMR
+2288216,HB3YZX,Michael No_name,Michael,Wila,Zuerich und Thurgau - CHE,,DMR
 2288217,HB9TQH,Hans Peter,Hans,no_city,Zuerich und Thurgau - CHE,,DMR
 2288218,HB9XJ,Hans Buehler,Hans,Zuerich,Zuerich und Thurgau - CHE,,DMR
 2288219,HB9THI,Alexander Angst,Alexander,Giswil,Zuerich und Thurgau - CHE,,DMR
@@ -1441,21 +1443,21 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2288234,HB9RPU,Felix Telli,Felix,Wetzikon,Zuerich und Thurgau - CHE,,DMR
 2288235,HB9ZCF,Kurt Steiger,Kurt,Kloten,Zuerich und Thurgau - CHE,,DMR
 2288236,HB3YVX,Fabian Eichmann,Fabian,Zuerich,Zuerich und Thurgau - CHE,,DMR
-2288237,HB3YRW,Philipp no_name,Philipp,no_city,Zuerich und Thurgau - CHE,,DMR
+2288237,HB3YRW,Philipp No_name,Philipp,no_city,Zuerich und Thurgau - CHE,,DMR
 2288238,HB9TLH,Thomas Ruch,Thomas,Hemishofen,Zuerich und Thurgau - CHE,,DMR
-2288239,HB9GSX,Roberto no_name,Roberto,Zuerich,Zuerich und Thurgau - CHE,,DMR
+2288239,HB9GSX,Roberto No_name,Roberto,Zuerich,Zuerich und Thurgau - CHE,,DMR
 2288240,HB9EZE,Bruno Jun,Bruno,Zuerich,Zuerich und Thurgau - CHE,,DMR
-2288241,HB9GSW,Beat no_name,Beat,Zuerich,Zuerich und Thurgau - CHE,,DMR
+2288241,HB9GSW,Beat No_name,Beat,Zuerich,Zuerich und Thurgau - CHE,,DMR
 2288242,HB9EMD,Nebojsa Paunovic,Nebojsa,Thalwil,Zuerich und Thurgau - CHE,,DMR
 2288243,HB3YLQ,Daniel Robin,Daniel,Zuerich,Zuerich und Thurgau - CHE,,DMR
 2288244,HB3YYU,Ingo Kohler,Ingo,Uster,Zuerich und Thurgau - CHE,,DMR
-2288245,HB9FLY,Isabella no_name,Isabella,no_city,Zuerich und Thurgau - CHE,,DMR
+2288245,HB9FLY,Isabella No_name,Isabella,no_city,Zuerich und Thurgau - CHE,,DMR
 2288246,HB3XPA,Florian Gutzwiller,Florian,Zuerich,Zuerich und Thurgau - CHE,,DMR
-2288247,HB3YTS,Martin no_name,Martin,no_city,Zuerich und Thurgau - CHE,,DMR
+2288247,HB3YTS,Martin No_name,Martin,no_city,Zuerich und Thurgau - CHE,,DMR
 2288248,HB9FSV,Martin Schwarz,Martin,Schaffhausen,Zuerich und Thurgau - CHE,,DMR
 2288249,HB9SH,Uska Sektion,Uska,Schaffhausen,Zuerich und Thurgau - CHE,,DMR
-2288250,HB9GIJ,Rudolf no_name,Rudolf,no_city,Zuerich und Thurgau - CHE,,DMR
-2288251,HB9GUT,Richard no_name,Richard,no_city,Zuerich und Thurgau - CHE,,DMR
+2288250,HB9GIJ,Rudolf No_name,Rudolf,no_city,Zuerich und Thurgau - CHE,,DMR
+2288251,HB9GUT,Richard No_name,Richard,no_city,Zuerich und Thurgau - CHE,,DMR
 2288252,HB9OOA,Amstad Michael,Amstad,Tagerwilen,Zuerich und Thurgau - CHE,,DMR
 2288253,HB3YXR,Marcel Martel-Reichmuth,Marcel,Regensdorf,Zuerich und Thurgau - CHE,,DMR
 2288254,HB9GNT,Rene Lobsiger,Rene,Adlikon,Zuerich und Thurgau - CHE,,DMR
@@ -1465,50 +1467,50 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2288258,HB9GVS,Alex Schremmer,Alex,Zurich,Zuerich und Thurgau - CHE,,DMR
 2288259,HB9GVR,Roberto Munafo,Roberto,Buerglen,Zuerich und Thurgau - CHE,,DMR
 2288260,HB9DRN,Mark Huerlemann,Mark,Wallenwil,Zuerich und Thurgau - CHE,,DMR
-2288261,HB9GVM,Martin no_name,Martin,Private,Zuerich und Thurgau - CHE,,DMR
-2288262,HB3YJY,Marco no_name,Marco,Sulgen,no_name - CHE,,DMR
+2288261,HB9GVM,Martin No_name,Martin,Private,Zuerich und Thurgau - CHE,,DMR
+2288262,HB3YJY,Marco No_name,Marco,Sulgen,No_name - CHE,,DMR
 2288263,HB9ZBV,Rino Zanoni,Rino,Hochfelden,Zuerich und Thurgau - CHE,,DMR
-2288264,HB9XOF,Roman Antink,Roman,Winterthur,no_name - CHE,,DMR
+2288264,HB9XOF,Roman Antink,Roman,Winterthur,No_name - CHE,,DMR
 2288265,HB3XRP,Pascal Hammerli,Pascal,Wetzikon,Zuerich und Thurgau - CHE,,DMR
 2288266,HB9TOI,Mike Ehrhardt,Mike,Buerglen,Zh-Tg - CHE,,DMR
-2288267,HB9DGZ,Rene Konrad,Rene,Rafz,no_name - CHE,,DMR
-2288268,HB9SXQ,Eduard Bartschi,Eduard,Zuerich,no_name - CHE,,DMR
-2288269,HB9BDG,Rene Kuehne,Rene,Zuerich,no_name - CHE,,DMR
-2288270,HB9GWL,Dave Squindo,Dave,Rheinau,no_name - CHE,,DMR
-2288271,HB9TZX,Michael Banditt,Michael,Zuerich,no_name - CHE,,DMR
-2288272,HB9ETR,Rob Finch,Rob,Zuerich,no_name - CHE,,DMR
+2288267,HB9DGZ,Rene Konrad,Rene,Rafz,No_name - CHE,,DMR
+2288268,HB9SXQ,Eduard Bartschi,Eduard,Zuerich,No_name - CHE,,DMR
+2288269,HB9BDG,Rene Kuehne,Rene,Zuerich,No_name - CHE,,DMR
+2288270,HB9GWL,Dave Squindo,Dave,Rheinau,No_name - CHE,,DMR
+2288271,HB9TZX,Michael Banditt,Michael,Zuerich,No_name - CHE,,DMR
+2288272,HB9ETR,Rob Finch,Rob,Zuerich,No_name - CHE,,DMR
 2288273,HB9GXD,Domenico Antonio,Domenico,Zuerich,Zuerich und Thurgau - CHE,,DMR
 2288274,HB9MDP,Walter Meier,Walter,Ebmatingen,Zuerich und Thurgau - CHE,,DMR
 2288275,HB9JNX,Thomas Sailer,Thomas,Ae4wa,Zuerich und Thurgau - CHE,,DMR
 2288276,HB9DSC,Franz Goenner,Franz,Guemmenen,Zuerich und Thurgau - CHE,,DMR
 2288277,HB3YTX,Stefan Zahnd,Stefan,Benken,Zuerich und Thurgau - CHE,,DMR
-2288278,HB9GVR,Roberto Munafo,Roberto,Buerglen,no_name - CHE,,DMR
+2288278,HB9GVR,Roberto Munafo,Roberto,Buerglen,No_name - CHE,,DMR
 2288279,HB9FIY,Christopher Astbury,Christopher,Zuerich,Zuerich und Thurgau - CHE,,DMR
-2288280,HB9GXQ,Manuela no_name,Manuela,Buerglen,no_name - CHE,,DMR
-2288281,HB3YVB,Rolf Zengaffinen,Rolf,Zuerich,no_name - CHE,,DMR
-2288282,HB9AK,Rms Winlink,Rms,Neuenegg,no_name - CHE,,DMR
-2288283,HB9GKP,Petru Paler,Petru,Adliswil,no_name - CHE,,DMR
+2288280,HB9GXQ,Manuela No_name,Manuela,Buerglen,No_name - CHE,,DMR
+2288281,HB3YVB,Rolf Zengaffinen,Rolf,Zuerich,No_name - CHE,,DMR
+2288282,HB9AK,Rms Winlink,Rms,Neuenegg,No_name - CHE,,DMR
+2288283,HB9GKP,Petru Paler,Petru,Adliswil,No_name - CHE,,DMR
 2288284,HB9LAE,Bruno Francesco,Bruno,Zuerich,Zh-Tg - CHE,,DMR
 2288285,HB9JNA,Giuseppe Barbera,Giuseppe,Neuhausen,Zh-Tg - CHE,,DMR
-2288286,HB9FON,Milan Lazarevic,Milan,Zuerich,no_name - CHE,,DMR
+2288286,HB9FON,Milan Lazarevic,Milan,Zuerich,No_name - CHE,,DMR
 2288287,HB9ALR,Willy Bruetsch,Willy,Uster,Zh-Tg - CHE,,DMR
 2288288,HB3XRV,Rene Euw,Rene,Richterswil,Zh-Tg - CHE,,DMR
-2288289,HB3YHM,Marco Lirussi,Marco,Pratteln,no_name - CHE,,DMR
-2288290,HB9CUZ,Roland Ackermann,Roland,Schaffhausen,no_name - CHE,,DMR
+2288289,HB3YHM,Marco Lirussi,Marco,Pratteln,No_name - CHE,,DMR
+2288290,HB9CUZ,Roland Ackermann,Roland,Schaffhausen,No_name - CHE,,DMR
 2288291,HB9FLX,Felix Toggenburger,Felix,Guemmenen,Bern - CHE,,DMR
 2288292,HB9MTN,Ed Bosshard,Ed,Oberwil,Basel - CHE,,DMR
-2288293,HB9GZA,Joe Nemeth,Joe,Wilen Bei Wollerau,no_name - CHE,,DMR
-2288294,HB9AHL,Willy Ruesch,Willy,Aarau,no_name - CHE,,DMR
+2288293,HB9GZA,Joe Nemeth,Joe,Wilen Bei Wollerau,No_name - CHE,,DMR
+2288294,HB9AHL,Willy Ruesch,Willy,Aarau,No_name - CHE,,DMR
 2288295,HB9GZA,Joe Nemeth,Joe,Wilen Bei Wollerau,Schwyz - CHE,,DMR
 2288296,HB9PRQ,Urs Lussy,Urs,Dielsdorf,Zh-Tg - CHE,,DMR
 2288297,HB9DOK,Thomas Tanner,Thomas,Neuhausen am Rheinfall,Schaffhausen - CHE,,DMR
 2288298,HB3XRV,Rene Euw,Rene,Richterswil,Zh-Tg - CHE,,DMR
 2288299,HB9WNN,Thomas Koeferli,Thomas,Eschlikon,Zh-Tg - CHE,,DMR
 2288300,HB9THY,Hans Halstrick,Hans,Egg,Zh-Tg - CHE,,DMR
-2288301,HB9RFU,Andreas Mettier,Andreas,Mattwil,no_name - CHE,,DMR
+2288301,HB9RFU,Andreas Mettier,Andreas,Mattwil,No_name - CHE,,DMR
 2288302,HB9ZGL,Bruno Peyer,Bruno,Pfaeffikon,Zh-Tg - CHE,,DMR
-2288303,HB3XTK,Urs Benz,Urs,Zuerich,no_name - CHE,,DMR
-2288304,HB9GUF,Ernie Wittenschlaeger,Ernie,Oberterzen,no_name - CHE,,DMR
+2288303,HB3XTK,Urs Benz,Urs,Zuerich,No_name - CHE,,DMR
+2288304,HB9GUF,Ernie Wittenschlaeger,Ernie,Oberterzen,No_name - CHE,,DMR
 2288305,HB9REY,Markus Sommer,Markus,Adliswil,Zh-Tg - CHE,,DMR
 2288306,HB9BRW,Hans Haechler,Hans,Uerikon,Zh-Tg - CHE,,DMR
 2288307,HB3XTQ,Marcel Hoenke,Marcel,Winterthur,Zh-Tg - CHE,,DMR
@@ -1516,42 +1518,42 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2288309,HB9GVF,Fabian Eichmann,Fabian,Zuerich,Zuerich und Thurgau - CHE,,DMR
 2288310,HB3XTO,Paul Odermatt,Paul,Oetwil am See,Zuerich und Thurgau - CHE,,DMR
 2288311,HB9HBI,Marco Bolliger,Marco,Schindellegi,Zuerich und Thurgau - CHE,,DMR
-2288312,HB3XUC,Chris no_name,Chris,Amriswil,Zuerich und Thurgau - CHE,,DMR
-2288313,HB9RTV,Peter no_name,Peter,Reutlingen,Zuerich und Thurgau - CHE,,DMR
-2288314,HB9RRL,Rolf no_name,Rolf,Schwanden,Zuerich und Thurgau - CHE,,DMR
-2288315,HB9NFO,Notfunkostschweiz no_name,Notfunkostschweiz,Romanshorn,Zuerich und Thurgau - CHE,,DMR
-2288316,HB9HDC,Maik no_name,Maik,Uitikon,Zuerich und Thurgau - CHE,,DMR
+2288312,HB3XUC,Chris No_name,Chris,Amriswil,Zuerich und Thurgau - CHE,,DMR
+2288313,HB9RTV,Peter No_name,Peter,Reutlingen,Zuerich und Thurgau - CHE,,DMR
+2288314,HB9RRL,Rolf No_name,Rolf,Schwanden,Zuerich und Thurgau - CHE,,DMR
+2288315,HB9NFO,Notfunkostschweiz No_name,Notfunkostschweiz,Romanshorn,Zuerich und Thurgau - CHE,,DMR
+2288316,HB9HDC,Maik No_name,Maik,Uitikon,Zuerich und Thurgau - CHE,,DMR
 2288317,HB3XUN,Digital Club,Digital,Waedenswil,Zuerich und Thurgau - CHE,,DMR
 2288318,HB9LBR,Rolf Tschumi,Rolf,Waedenswil,Zuerich und Thurgau - CHE,,DMR
 2288319,HB9HCQ,Marius Matter,Marius,Berikon,. - CHE,,DMR
-2288320,HB9WAV,Peter no_name,Peter,Mettmenstetten,Zuerich und Thurgau - CHE,,DMR
+2288320,HB9WAV,Peter No_name,Peter,Mettmenstetten,Zuerich und Thurgau - CHE,,DMR
 2288321,HB9GYI,Crispin Tschirky,Crispin,Tagelswangen,Crispin - CHE,,DMR
-2288322,HB9HDZ,Hans no_name,Hans,Embrach,Zh-Tg - CHE,,DMR
-2288323,HB9HEM,Mark no_name,Mark,Zurich,Zh-Tg - CHE,,DMR
-2288324,HB9HDM,Michi no_name,Michi,Zuerich,no_name - CHE,,DMR
-2288325,HB9GSS,Stephan no_name,Stephan,Zurich,Stephan - CHE,,DMR
-2288326,HB9HEX,Fabian no_name,Fabian,Opfikon,no_name - CHE,,DMR
-2288327,HB9CCS,Wolfgang no_name,Wolfgang,Zuerich,no_name - CHE,,DMR
-2288328,HB9EKO,Jens no_name,Jens,Buelach,no_name - CHE,,DMR
-2288329,HB3XVE,Lothar no_name,Lothar,Zurich,no_name - CHE,,DMR
+2288322,HB9HDZ,Hans No_name,Hans,Embrach,Zh-Tg - CHE,,DMR
+2288323,HB9HEM,Mark No_name,Mark,Zurich,Zh-Tg - CHE,,DMR
+2288324,HB9HDM,Michi No_name,Michi,Zuerich,No_name - CHE,,DMR
+2288325,HB9GSS,Stephan No_name,Stephan,Zurich,Stephan - CHE,,DMR
+2288326,HB9HEX,Fabian No_name,Fabian,Opfikon,No_name - CHE,,DMR
+2288327,HB9CCS,Wolfgang No_name,Wolfgang,Zuerich,No_name - CHE,,DMR
+2288328,HB9EKO,Jens No_name,Jens,Buelach,No_name - CHE,,DMR
+2288329,HB3XVE,Lothar No_name,Lothar,Zurich,No_name - CHE,,DMR
 2288330,HB9HBT,Tom Heierle,Tom,Duernten,Zh-Tg - CHE,,DMR
-2288331,HB3XUX,Andy no_name,Andy,Meilen,. - CHE,,DMR
-2288332,HB9HCP,Bruno no_name,Bruno,Oberwil-Lieli,. - CHE,,DMR
+2288331,HB3XUX,Andy No_name,Andy,Meilen,. - CHE,,DMR
+2288332,HB9HCP,Bruno No_name,Bruno,Oberwil-Lieli,. - CHE,,DMR
 2288333,HB3XUD,Walter Bollier,Walter,Einsiedeln,Sz - CHE,,DMR
-2288334,HB9HGP,Patrick no_name,Patrick,Birchwil,. - CHE,,DMR
-2288335,HB9HHQ,Stefan no_name,Stefan,Staefa,. - CHE,,DMR
+2288334,HB9HGP,Patrick No_name,Patrick,Birchwil,. - CHE,,DMR
+2288335,HB9HHQ,Stefan No_name,Stefan,Staefa,. - CHE,,DMR
 2288336,HB9CIG,Henry Salzmann,Henry,Uitikon Waldegg,. - CHE,,DMR
 2288337,HB9AN,Amateur 2000,Amateur,Kilchberg,. - CHE,,DMR
-2288338,HB9BIS,Rene no_name,Rene,Uitikon Waldegg,. - CHE,,DMR
+2288338,HB9BIS,Rene No_name,Rene,Uitikon Waldegg,. - CHE,,DMR
 2288339,HB9HJK,Akio Kaesermann,Akio,Winterthur,Zurich - CHE,,DMR
-2288340,HB3XWY,Roman no_name,Roman,Schoenholzerswilen,. - CHE,,DMR
+2288340,HB3XWY,Roman No_name,Roman,Schoenholzerswilen,. - CHE,,DMR
 2288424,HB9EPF,Peter Brunner,Peter,Embrach,Zuerich und Thurgau - CHE,,DMR
 2288542,HB9ANF,Hans-Joerg Spring,Hans-Joerg,Wiesendangen,Zuerich und Thurgau - CHE,,DMR
 2288822,HB9SDB,Rolf Tschumi,Rolf,Waedenswil,Zuerich und Thurgau - CHE,,DMR
 2288867,HB9BXQ,Renato Schlittler,Renato,Zuerich,Zuerich und Thurgau - CHE,,DMR
-2289000,HB9SG,Funkamateure no_name,Funkamateure,St.Gallen,Ostschweiz - CHE,,DMR
+2289000,HB9SG,Funkamateure No_name,Funkamateure,St.Gallen,Ostschweiz - CHE,,DMR
 2289001,HB9SOF,Charly Strassmann,Charly,Bettwiesen,Zuerich und Thurgau - CHE,,DMR
-2289002,HB9SWR,Werner no_name,Werner,Trogen,Ostschweiz - CHE,,DMR
+2289002,HB9SWR,Werner No_name,Werner,Trogen,Ostschweiz - CHE,,DMR
 2289003,HB3YKN,Sandro Graf,Sandro,Arbon,Ostschweiz - CHE,,DMR
 2289004,HB9TIM,Andreas Kozma,Andreas,Goldach,Ostschweiz - CHE,,DMR
 2289005,HB9ASF,Franz Sigg,Franz,Rheineck,Ostschweiz - CHE,,DMR
@@ -1586,10 +1588,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2289034,HB9MTJ,Walter Hutter,Walter,Kriessern,Ostschweiz - CHE,,DMR
 2289035,HB9FGC,Rade Markovic,Rade,Niederuzwil,Ostschweiz - CHE,,DMR
 2289036,HB9BEP,Michael Reinhold,Michael,Grabs,Ostschweiz - CHE,,DMR
-2289037,HB9EKI,Franco no_name,Franco,Diepoldsau,Ostschweiz - CHE,,DMR
+2289037,HB9EKI,Franco No_name,Franco,Diepoldsau,Ostschweiz - CHE,,DMR
 2289038,HB9EUQ,Leandro Brassel,Leandro,Altstaetten,Ostschweiz - CHE,,DMR
 2289039,HB9FVF,Matthias Sen,Matthias,Wolfhalden,Ostschweiz - CHE,,DMR
-2289040,HB9DWD,Urban no_name,Urban,no_city,Ostschweiz - CHE,,DMR
+2289040,HB9DWD,Urban No_name,Urban,no_city,Ostschweiz - CHE,,DMR
 2289041,HB9DQL,Jurg Solenthaler,Jurg,Wald,Ostschweiz - CHE,,DMR
 2289042,HB9DQK,Daniel Venzin,Daniel,Widnau,Ostschweiz - CHE,,DMR
 2289043,HB9WG,Erich Ulmann,Erich,St.Gallen,Ostschweiz - CHE,,DMR
@@ -1597,26 +1599,26 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2289045,HB9AKC,Carl Clauss,Carl,Horn,Ostschweiz - CHE,,DMR
 2289046,HB9GNK,Erwin Lander,Erwin,Wil,Ostschweiz - CHE,,DMR
 2289047,HB9KNO,Carl Palatini,Carl,Untereggen,Ostschweiz - CHE,,DMR
-2289048,HB9DWD,Urban no_name,Urban,no_city,Ostschweiz - CHE,,DMR
+2289048,HB9DWD,Urban No_name,Urban,no_city,Ostschweiz - CHE,,DMR
 2289049,HB9KOG,Robert Sutter,Robert,St.Gallen,Ostschweiz - CHE,,DMR
-2289050,HB9TIP,Marinus no_name,Marinus,Bern,Ostschweiz - CHE,,DMR
+2289050,HB9TIP,Marinus No_name,Marinus,Bern,Ostschweiz - CHE,,DMR
 2289051,HB9EVD,Jack Braunwalder,Jack,Wilen,Ostschweiz - CHE,,DMR
 2289052,HB9BZC,Kurt Hirschi,Kurt,St.Gallen,Ostschweiz - CHE,,DMR
 2289053,HB9KOO,Reto Lareida,Reto,Engelburg,Ostschweiz - CHE,,DMR
 2289054,HB9FFY,Roman Krapf,Roman,Roggwil,Ostschweiz - CHE,,DMR
-2289055,HB3YGP,Paul no_name,Paul,Ostschweiz,Ostschweiz - CHE,,DMR
+2289055,HB3YGP,Paul No_name,Paul,Ostschweiz,Ostschweiz - CHE,,DMR
 2289056,HB9TNW,Celso Bassanello,Celso,St.Gallen,Ostschweiz - CHE,,DMR
 2289057,HB9BFY,Peter Aeschlimann,Peter,Walzenhausen,Ostschweiz - CHE,,DMR
 2289058,HB9FES,Daniel Scheuss,Daniel,Herisau,Ostschweiz - CHE,,DMR
 2289059,HB9CMP,Alex Klingler,Alex,Widnau,Ostschweiz - CHE,,DMR
-2289060,HB9DHH,Rene no_name,Rene,no_city,Ostschweiz - CHE,,DMR
-2289061,HB9TKE,Johannes no_name,Johannes,Bern,Ostschweiz - CHE,,DMR
+2289060,HB9DHH,Rene No_name,Rene,no_city,Ostschweiz - CHE,,DMR
+2289061,HB9TKE,Johannes No_name,Johannes,Bern,Ostschweiz - CHE,,DMR
 2289062,HB9AJF,Ernst Manser,Ernst,Bern,Ostschweiz - CHE,,DMR
 2289063,HB9EMZ,Harry Giger,Harry,Bussnang,Ostschweiz - CHE,,DMR
 2289064,HB3YWF,Franz Willi,Franz,St.Gallen,Ostschweiz - CHE,,DMR
 2289065,HB9FUT,Timm Schneider,Timm,Muenchwilen,Ostschweiz - CHE,,DMR
-2289066,HB9BIPI,Scoutnet no_name,Scoutnet,Scoutnet Schweiz,no_name - CHE,,DMR
-2289067,HB3YBV,Andreas no_name,Andreas,no_city,Ostschweiz - CHE,,DMR
+2289066,HB9BIPI,Scoutnet No_name,Scoutnet,Scoutnet Schweiz,No_name - CHE,,DMR
+2289067,HB3YBV,Andreas No_name,Andreas,no_city,Ostschweiz - CHE,,DMR
 2289068,HB3YDM,Martin Waldispuehl,Martin,Wilen,Ostschweiz - CHE,,DMR
 2289069,HB9FUE,Patrick Oberholzer,Patrick,Bischofszell,Ostschweiz - CHE,,DMR
 2289070,HB9CMI,Peter Altschul,Peter,Waengi,Ostschweiz - CHE,,DMR
@@ -1626,37 +1628,37 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2289074,HB3YDT,Daniel Kaserer,Daniel,Tagerschen,Ostschweiz - CHE,,DMR
 2289075,HB9GPX,David Luber,David,Lauterach,Ostschweiz - CHE,,DMR
 2289076,HB9EZX,Nassos Petrou,Nassos,Moerschwil,Ostschweiz - CHE,,DMR
-2289077,HB9GPJ,Tomislav no_name,Tomislav,no_city,Ostschweiz - CHE,,DMR
+2289077,HB9GPJ,Tomislav No_name,Tomislav,no_city,Ostschweiz - CHE,,DMR
 2289078,HB9DGR,Reinhold Erdmann,Reinhold,Rebstein,Ostschweiz - CHE,,DMR
 2289079,HB9EIJ,Martin Jung,Martin,Rossruti,Ostschweiz - CHE,,DMR
 2289080,HB9TMR,Hans Rudisuhli,Hans,Frumsen,Ostschweiz - CHE,,DMR
 2289081,HB9DPM,Ernst Oehninger,Ernst,Bazenheid,Ostschweiz - CHE,,DMR
-2289082,HB3XPJ,Ralf Mader,Ralf,St.Gallen,no_name - CHE,,DMR
-2289083,HB9TUT,Michael no_name,Michael,St.Gallen,Sankt Gallen - CHE,,DMR
+2289082,HB3XPJ,Ralf Mader,Ralf,St.Gallen,No_name - CHE,,DMR
+2289083,HB9TUT,Michael No_name,Michael,St.Gallen,Sankt Gallen - CHE,,DMR
 2289084,HB3YBF,Patrick Kern,Patrick,Gossau,Sankt Gallen - CHE,,DMR
-2289085,HB9DWK,Fiorello Epper,Fiorello,Gossau,no_name - CHE,,DMR
+2289085,HB9DWK,Fiorello Epper,Fiorello,Gossau,No_name - CHE,,DMR
 2289086,HB9TRO,Roland Noll,Roland,Schwarzenbach,Ostschweiz - CHE,,DMR
 2289087,HB9CVE,Andy Meyer,Andy,Niederteufen,Ostschweiz - CHE,,DMR
-2289088,HB9PLK,Ueli Burkart,Ueli,Gerlisberg,no_name - CHE,,DMR
-2289089,HB9ZAP,Edwin Schuetz,Edwin,Teufen,no_name - CHE,,DMR
-2289090,HB9EVD,Jack Braunwalder,Jack,Wilen,no_name - CHE,,DMR
-2289091,HB9ZGZ,Cyrill Schmid,Cyrill,Muenchwilen,no_name - CHE,,DMR
+2289088,HB9PLK,Ueli Burkart,Ueli,Gerlisberg,No_name - CHE,,DMR
+2289089,HB9ZAP,Edwin Schuetz,Edwin,Teufen,No_name - CHE,,DMR
+2289090,HB9EVD,Jack Braunwalder,Jack,Wilen,No_name - CHE,,DMR
+2289091,HB9ZGZ,Cyrill Schmid,Cyrill,Muenchwilen,No_name - CHE,,DMR
 2289092,HB9GYB,Patrick Kern,Patrick,Gossau,Sankt Gallen - CHE,,DMR
-2289093,HB9DKC,Rudolf Clausen,Rudolf,Widnau,no_name - CHE,,DMR
-2289094,HB9BEF,Wilfried no_name,Wilfried,Tubach,no_name - CHE,,DMR
-2289095,HB3YJZ,Markus Ross,Markus,Flawil,no_name - CHE,,DMR
+2289093,HB9DKC,Rudolf Clausen,Rudolf,Widnau,No_name - CHE,,DMR
+2289094,HB9BEF,Wilfried No_name,Wilfried,Tubach,No_name - CHE,,DMR
+2289095,HB3YJZ,Markus Ross,Markus,Flawil,No_name - CHE,,DMR
 2289096,HB9DXB,Sven Wismer,Sven,Flawil,Stgalle - CHE,,DMR
-2289097,HB9HBF,Beat no_name,Beat,Wolfhalden,Ostschweiz - CHE,,DMR
-2289098,HB9DKC,Ruedi no_name,Ruedi,Widnau,Ostschweiz - CHE,,DMR
-2289099,HB9ENE,Michael no_name,Michael,Tobel-Taegerschen,Ostschweiz - CHE,,DMR
+2289097,HB9HBF,Beat No_name,Beat,Wolfhalden,Ostschweiz - CHE,,DMR
+2289098,HB9DKC,Ruedi No_name,Ruedi,Widnau,Ostschweiz - CHE,,DMR
+2289099,HB9ENE,Michael No_name,Michael,Tobel-Taegerschen,Ostschweiz - CHE,,DMR
 2289100,HB3XUP,Florian Florian,Florian,Waldkirch,Ostschweiz - CHE,,DMR
-2289101,HB9HEW,Michael Mohr,Michael,Engelburg,no_name - CHE,,DMR
+2289101,HB9HEW,Michael Mohr,Michael,Engelburg,No_name - CHE,,DMR
 2289102,HB9DVZ,Andre Jalkoczi,Andre,Sevelen Sg,. - CHE,,DMR
-2289103,HB9FUG,Juerg no_name,Juerg,Schwellbrunn,Ausserrhoden - CHE,,DMR
-2289104,HB9BZY,Jakob no_name,Jakob,Au/sg,. - CHE,,DMR
-2289105,HB9SRD,Jakob no_name,Jakob,Goldach,Stno_infogallen - CHE,,DMR
+2289103,HB9FUG,Juerg No_name,Juerg,Schwellbrunn,Ausserrhoden - CHE,,DMR
+2289104,HB9BZY,Jakob No_name,Jakob,Au/sg,. - CHE,,DMR
+2289105,HB9SRD,Jakob No_name,Jakob,Goldach,Stno_infogallen - CHE,,DMR
 2289106,HB9HJQ,Christian Egger,Christian,Moerschwil,Stno_info Gallen - CHE,,DMR
-2289107,HB3XWP,Dirk no_name,Dirk,Ganterschwil,. - CHE,,DMR
+2289107,HB3XWP,Dirk No_name,Dirk,Ganterschwil,. - CHE,,DMR
 2320010,OE1XAR,Oevsv Lv Wien,Oevsv,Wien,WIEN - AUT,,DMR
 2320011,OE5XWM,Clubstation Wels,Clubstation,Wels,KTN - AUT,,DMR
 2320012,OE8WUK,Walter Unterberger,Walter,Klagenfurt,KTN - AUT,,DMR
@@ -1721,25 +1723,25 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2320071,OE1ZZZ,Andrey Sparky,Andrey,Wien,WIEN - AUT,,DMR
 2320072,4U1A,Arcdx Club,Arcdx,Wien,WIEN - AUT,,DMR
 2320073,OE7REG,Regina Werlberger,Regina,Kufstein,TIROL - AUT,,DMR
-2320074,OE9KBV,Matthias Koch,Matthias,Bludenz ()),VBG - AUT,,DMR
+2320074,OE9KBV,Matthias Koch,Matthias,Bludenz ())),VBG - AUT,,DMR
 2320075,OE5SEG,Martin Schirghuber,Martin,Steyr,OOE - AUT,,DMR
-2320076,OE5EIL,Emil Meindl,Emil,Steyr ()),OOE - AUT,,DMR
-2320077,OE9XXK,Oerk  Lv Feldkirch,Oerk  Lv,Feldkirch ()),VBG - AUT,,DMR
-2320078,OE9XRK,Oerk Lv Vorarlberg,Oerk Lv,Feldkirch ()),VBG - AUT,,DMR
+2320076,OE5EIL,Emil Meindl,Emil,Steyr ())),OOE - AUT,,DMR
+2320077,OE9XXK,Oerk  Lv Feldkirch,Oerk  Lv,Feldkirch ())),VBG - AUT,,DMR
+2320078,OE9XRK,Oerk Lv Vorarlberg,Oerk Lv,Feldkirch ())),VBG - AUT,,DMR
 2320079,OE7MFI,Florian Millinger,Florian,Sankt Ulrich am Pillersee,TIROL - AUT,,DMR
-2320080,OE4DJN,Daniel Jeitler,Daniel,Neustift An der Lafnitz ()),BGLD - AUT,,DMR
+2320080,OE4DJN,Daniel Jeitler,Daniel,Neustift An der Lafnitz ())),BGLD - AUT,,DMR
 2320081,OE3SMA,Sebastian Maderner,Sebastian,Poysbrunn,NOE - AUT,,DMR
 2320082,OE3DWE,Dominic Wesseli,Dominic,Laaben,NOE - AUT,,DMR
 2320083,OE1UHA,Kurt Hirsch,Kurt,Wien,WIEN - AUT,,DMR
 2320084,OE3ANC,Andreas Schmidberger,Andreas,Traisen,NOE - AUT,,DMR
-2320085,OE3KAR,Karl Kreutzwiesner,Karl,Korneuburg ()),NOE - AUT,,DMR
+2320085,OE3KAR,Karl Kreutzwiesner,Karl,Korneuburg ())),NOE - AUT,,DMR
 2320086,OE2PDR,Peter Berger,Peter,Neumarkt am Wallersee,SBG - AUT,,DMR
 2320087,OE6WPR,Wolfgang Predikaka,Wolfgang,Raaba-Grambach,STMK - AUT,,DMR
 2320088,OE6CPJ,Claudia Predikaka,Claudia,Raaba-Grambach,STMK - AUT,,DMR
 2320089,OE3SHH,Helmut Holzer,Helmut,Strasshof An der Nordbahn,NOE - AUT,,DMR
-2320090,OE1KGR,Guenter Koderhold,Guenter,Wien ()),WIEN - AUT,,DMR
+2320090,OE1KGR,Guenter Koderhold,Guenter,Wien ())),WIEN - AUT,,DMR
 2320091,OE3GUA,Gunther Mauerkirchner,Gunther,Neulengbach,NOE - AUT,,DMR
-2320092,OE1FWU,Friedrich Wendl,Friedrich,Wien ()),WIEN - AUT,,DMR
+2320092,OE1FWU,Friedrich Wendl,Friedrich,Wien ())),WIEN - AUT,,DMR
 2320093,OE6ELY,Manuel Kanitsch,Manuel,Gratwein,STMK - AUT,,DMR
 2320094,OE1PBR,Peter Brader,Peter,Wien,WIEN - AUT,,DMR
 2320095,OE5HRP,Hans Schneider,Hans,Bad Hall ())),OOE - AUT,,DMR
@@ -1771,6 +1773,14 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2320121,OE4HUF,Andreas Hausenbiegl,Andreas,Raiding,BGLD - AUT,,DMR
 2320122,OE3RKR,Rene Kargl,Rene,Enikelberg,NOE - AUT,,DMR
 2320123,OE3HLR,Hermann Loibner,Hermann,Grosrust,NOEH - AUT,,DMR
+2320124,OE3SGQ,Gernot Sattler,Gernot,Traisen,NOE - AUT,,DMR
+2320125,OE7LUP,Lukas Possenig,Lukas,Nussdorf-Debant,TIROL - AUT,,DMR
+2320126,OE2LBC,Manuel Starlinger,Manuel,Dienten,SBG - AUT,,DMR
+2320127,OE6AOD,Bernhard Anderle,Bernhard,Sankt Stefan,STMK - AUT,,DMR
+2320128,OE6PAY,Udo Payer,Udo,Kalsdorf,STMK - AUT,,DMR
+2320129,OE5HOR,Gerhard Hoertenhummer,Gerhard,Ohlsdorf,OOE - AUT,,DMR
+2320130,OE6CHD,Christof Dallermassl,Christof,Graz,. - AUT,,DMR
+2320131,OE5WEO,Peter Wessely,Peter,Voecklabruck,OOE - AUT,,DMR
 2321001,OE1KBC,Kurt Baumann,Kurt,Wien,WIEN - AUT,,DMR
 2321002,OE1KBC,Kurt Baumann,Kurt,Wien,WIEN - AUT,,DMR
 2321003,OE1KBC,Kurt Baumann,Kurt,Wien,WIEN - AUT,,DMR
@@ -1867,7 +1877,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2321094,OE1HAW,Georg Alberer Hans,Georg,Wien,WIEN - AUT,,DMR
 2321095,OE1ABS,Arno Boehler,Arno,Wien,WIEN - AUT,,DMR
 2321096,OE1YXS,Sylvia Bachschwell,Sylvia,Wien,WIEN - AUT,,DMR
-2321097,OE4DEA,Denny no_name,Denny,Wien,WIEN - AUT,,DMR
+2321097,OE4DEA,Denny No_name,Denny,Wien,WIEN - AUT,,DMR
 2321098,OE1PSW,No_name no_name,No_name,Wien,WIEN - AUT,,DMR
 2321099,OE1AMA,No_name no_name,No_name,Wien,WIEN - AUT,,DMR
 2321100,OE1ROC,Werner Raul,Werner,Wien,WIEN - AUT,,DMR
@@ -2004,7 +2014,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2321231,OE1WCA,Werner Casett,Werner,Wien,WIEN - AUT,,DMR
 2321232,OE1SKV,Stephan Kleibel,Stephan,Wien,WIEN - AUT,,DMR
 2321233,OE1EAX,Andreas Gahleitner Engelbert,Andreas,Wien,WIEN - AUT,,DMR
-2321234,OE1VZG,No_name no_name,No_name,no_city,WIEN - AUT,,DMR
+2321234,OE1VZG,No_name No_name,No_name,no_city,WIEN - AUT,,DMR
 2321235,OE1MEW,Hausermaier Maximilian,Hausermaier,Wien,WIEN - AUT,,DMR
 2321236,OE1WEH,Weber Heinz,Weber,Wien,WIEN - AUT,,DMR
 2321237,OE1SCS,Stefan Schultheis,Stefan,Wien,WIEN - AUT,,DMR
@@ -2036,12 +2046,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2321263,OE1VWA,Walter no_name,Walter,Wien,WIEN - AUT,,DMR
 2321264,OE1YSI,Sabine Schweitzer,Sabine,Wien,WIEN - AUT,,DMR
 2321265,OE1RQH,Roman Hefele,Roman,Wien,WIEN - AUT,,DMR
-2321266,OE1BHT,Bernd no_name,Bernd,Wien,WIEN - AUT,,DMR
+2321266,OE1BHT,Bernd No_name,Bernd,Wien,WIEN - AUT,,DMR
 2321267,OE1WAA,Alexander Wacek,Alexander,Wien,WIEN - AUT,,DMR
 2321268,OE1UNS,Sascha Ungar,Sascha,Wien,WIEN - AUT,,DMR
 2321269,OE1MHZ,Wolfgang Mahr,Wolfgang,Wien,WIEN - AUT,,DMR
-2321270,OE1OEE,Arek no_name,Arek,Wien,WIEN - AUT,,DMR
-2321271,OE1VEP,Peter no_name,Peter,Wien,WIEN - AUT,,DMR
+2321270,OE1OEE,Arek No_name,Arek,Wien,WIEN - AUT,,DMR
+2321271,OE1VEP,Peter No_name,Peter,Wien,WIEN - AUT,,DMR
 2321272,OE1ITE,Peter Scharmueller,Peter,Wien,WIEN - AUT,,DMR
 2321273,OE1WDH,Walter Dvorak,Walter,Wien,WIEN - AUT,,DMR
 2321274,OE1UHU,Stefan Hutter,Stefan,Wien,WIEN - AUT,,DMR
@@ -2434,10 +2444,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2323310,OE3MVM,Schnepf Michael,Schnepf,Stockerau,NOE - AUT,,DMR
 2323311,OE3EMC,Martin Engel,Martin,Bad Grosspertholz,NOE - AUT,,DMR
 2323312,OE3YSC,Marion Stouy,Marion,Bad Grosspertholz,NOE - AUT,,DMR
-2323313,OE3JAL,No_name no_name,No_name,Brunn am Gebirge,NOE - AUT,,DMR
-2323314,OE3GKQ,No_name no_name,No_name,Seifritz,NOE - AUT,,DMR
+2323313,OE3JAL,No_name No_name,No_name,Brunn am Gebirge,NOE - AUT,,DMR
+2323314,OE3GKQ,No_name No_name,No_name,Seifritz,NOE - AUT,,DMR
 2323315,OE3BRW,Bernhard Wild,Bernhard,Sankt Poelten,NOE - AUT,,DMR
-2323316,OE3TDF,No_name no_name,No_name,Oberwaltersdorf,NOE - AUT,,DMR
+2323316,OE3TDF,No_name No_name,No_name,Oberwaltersdorf,NOE - AUT,,DMR
 2323317,OE3MWB,Manfred Weis,Manfred,Amstetten,NOE - AUT,,DMR
 2323318,OE3HLU,Hannes Kellner,Hannes,Mank,NOE - AUT,,DMR
 2323319,OE3PEA,Peter Elster,Peter,Gaubitsch,NOE - AUT,,DMR
@@ -2453,27 +2463,27 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2323329,OE3KCC,Karl Koczan,Karl,Baden,NOE - AUT,,DMR
 2323330,OE3MNU,Manuel Reiter,Manuel,Sankt Poelten,NOE - AUT,,DMR
 2323331,OE3AJS,Dieter Hagmann,Dieter,Krems An der Donau,NOE - AUT,,DMR
-2323332,OE3AKI,Andreas no_name,Andreas,Berndorf,STMK - AUT,,DMR
+2323332,OE3AKI,Andreas No_name,Andreas,Berndorf,STMK - AUT,,DMR
 2323333,OE3TRB,Thomas no_name,Thomas,Berndorf,NOE - AUT,,DMR
 2323334,OE3MTA,Max Schaffer,Max,Perchtoldsdorf,NOE - AUT,,DMR
 2323335,OE3PBS,Bernhard Ing. Peter Bambas,Bernhard,Scheiblingkirchen,NOE - AUT,,DMR
 2323336,OE3TSH,No_name Ing. Peter Bambas,No_name,no_city,NOE - AUT,,DMR
-2323337,OE3RFR,Robert no_name,Robert,Ruprechtshofen,OOE - AUT,,DMR
+2323337,OE3RFR,Robert No_name,Robert,Ruprechtshofen,OOE - AUT,,DMR
 2323338,OE3EGH,Martin Haiderer,Martin,Gross Enzersdorf,NOE - AUT,,DMR
-2323339,OE3THX,Matthias no_name,Matthias,Maria Enzersdorf,NOE - AUT,,DMR
-2323340,OE3WWP,Willi no_name,Willi,Laaben,NOE - AUT,,DMR
-2323341,OE3WEK,Martin no_name,Martin,Laaben,NOE - AUT,,DMR
-2323342,OE3OMR,Roland no_name,Roland,Grossrust,NOE - AUT,,DMR
-2323343,OE3RBT,Reinhard no_name,Reinhard,Pyhra,NOE - AUT,,DMR
-2323344,OE3WDK,Dominik no_name,Dominik,Hafnerbach,NOE - AUT,,DMR
-2323345,OE3HPT,Thomas no_name,Thomas,Prein An der Rax,NOE - AUT,,DMR
-2323346,OE3OEW,Wolfgang no_name,Wolfgang,no_city,NOE - AUT,,DMR
+2323339,OE3THX,Matthias No_name,Matthias,Maria Enzersdorf,NOE - AUT,,DMR
+2323340,OE3WWP,Willi No_name,Willi,Laaben,NOE - AUT,,DMR
+2323341,OE3WEK,Martin No_name,Martin,Laaben,NOE - AUT,,DMR
+2323342,OE3OMR,Roland No_name,Roland,Grossrust,NOE - AUT,,DMR
+2323343,OE3RBT,Reinhard No_name,Reinhard,Pyhra,NOE - AUT,,DMR
+2323344,OE3WDK,Dominik No_name,Dominik,Hafnerbach,NOE - AUT,,DMR
+2323345,OE3HPT,Thomas No_name,Thomas,Prein An der Rax,NOE - AUT,,DMR
+2323346,OE3OEW,Wolfgang No_name,Wolfgang,no_city,NOE - AUT,,DMR
 2323347,OE3KMZ,Markus Zaruba,Markus,Tresdorf,KTN - AUT,,DMR
 2323348,OE3WHS,Walter Hahnemann,Walter,Amstetten,NOE - AUT,,DMR
 2323349,OE3OEX,No_name Hahnemann,No_name,no_city,NOE - AUT,,DMR
 2323350,OE3FKN,Franz Kleindl,Franz,Goestling An der Ybbs,NOE - AUT,,DMR
 2323351,OE3AMA,Adolf Roetsch,Adolf,Sollenau,NOE - AUT,,DMR
-2323352,OE3LIT,Tommy no_name,Tommy,Wilfersdorf,STMK - AUT,,DMR
+2323352,OE3LIT,Tommy No_name,Tommy,Wilfersdorf,STMK - AUT,,DMR
 2323353,OE3MJA,Josef Mathae,Josef,Seitenstetten,NOE - AUT,,DMR
 2323354,OE3RVA,Roman Vymyslicky,Roman,Leopoldsdorf/m,NOE - AUT,,DMR
 2323355,OE3YZC,Marlene Zehetner,Marlene,Wolfsbach,NOE - AUT,,DMR
@@ -2556,7 +2566,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2324039,OE4UFB,No_name no_name,No_name,no_city,BGLD - AUT,,DMR
 2324040,OE4WUA,Walter Zunke,Walter,Gattendorf,BGLD - AUT,,DMR
 2324041,OE4AHG,Anton Hadl,Anton,Oberwart,BGLD - AUT,,DMR
-2324042,OE4EWA,Wolfgang no_name,Wolfgang,Lackenbach,BGLD - AUT,,DMR
+2324042,OE4EWA,Wolfgang No_name,Wolfgang,Lackenbach,BGLD - AUT,,DMR
 2324101,OE4KMU,Klaus-Michael Musser,Klaus-Michael,Markt Allhau,BGLD - AUT,,DMR
 2324102,OE4RLC,Rainer Stangl,Rainer,Markt Allhau,BGLD - AUT,,DMR
 2324103,OE4MUB,Martin Urbauer,Martin,Buchschachen,BGLD - AUT,,DMR
@@ -2724,7 +2734,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2325154,OE5DRO,Rene Dorn,Rene,Traun,OOE - AUT,,DMR
 2325155,OE5AZG,August Zehetner,August,Haid/ansfelden,OOE - AUT,,DMR
 2325156,OE5AMR,Marcel Arnetseder,Marcel,Wels,OOE - AUT,,DMR
-2325157,OE5BPA,No_name no_name,No_name,Linz,OOE - AUT,,DMR
+2325157,OE5BPA,No_name No_name,No_name,Linz,OOE - AUT,,DMR
 2325158,OE5GMO,Gerhard Mueller,Gerhard,Sankt Martin im Muehlkreis,OOE - AUT,,DMR
 2325159,OE5NEO,Jachs Markus,Jachs,Roitham,OOE - AUT,,DMR
 2325160,OE5EIR,Philipp Doppelhofer,Philipp,Bad Leonfelden,OOE - AUT,,DMR
@@ -2956,14 +2966,14 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2326192,OE6FBI,Neumeister Michael,Neumeister,Graz,STMK - AUT,,DMR
 2326193,OE6ETF,Engelbert Thaller,Engelbert,Eisenerz,STMK - AUT,,DMR
 2326194,OE6BOT,Florian Kohl,Florian,Zlatten,STMK - AUT,,DMR
-2326195,OE6KLF,No_name no_name,No_name,no_city,STMK - AUT,,DMR
+2326195,OE6KLF,No_name No_name,No_name,no_city,STMK - AUT,,DMR
 2326196,OE6PSF,Patrick Schuller,Patrick,Lemberg,STMK - AUT,,DMR
 2326197,OE6RAD,Roland Maderbacher,Roland,Baernbach,STMK - AUT,,DMR
-2326198,OE6MMR,No_name no_name,No_name,no_city,STMK - AUT,,DMR
+2326198,OE6MMR,No_name No_name,No_name,no_city,STMK - AUT,,DMR
 2326199,OE6SSB,Schmid Hans,Schmid,Wien,WIEN - AUT,,DMR
 2326200,OE6TXG,Helmut Meitz,Helmut,Graz-Liebenau,STMK - AUT,,DMR
 2326201,OE6OLD,Heimo Muehler,Heimo,Weinburg am Sassbach,STMK - AUT,,DMR
-2326202,OE6LUI,No_name no_name,No_name,Graz,STMK - AUT,,DMR
+2326202,OE6LUI,No_name No_name,No_name,Graz,STMK - AUT,,DMR
 2326203,OE6JUE,Juergen Schweizer,Juergen,Windorf,STMK - AUT,,DMR
 2326204,OE6DUG,Edgar Neukirchner,Edgar,Graz,STMK - AUT,,DMR
 2326205,OE6PWE,Wolfgang Puhar,Wolfgang,Neuseiersberg,STMK - AUT,,DMR
@@ -3179,7 +3189,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2327185,OE7MPT,Martin Pacher,Martin,Ebbs,TIROL - AUT,,DMR
 2327186,OE7GMH,Manfred Gardener,Manfred,Sillian,TIROL - AUT,,DMR
 2327187,OE7WPJ,Werner Pesserer,Werner,Jenbach,TIROL - AUT,,DMR
-2327188,OE7MOF,No_name no_name,No_name,Eben am Achensee,TIROL - AUT,,DMR
+2327188,OE7MOF,No_name No_name,No_name,Eben am Achensee,TIROL - AUT,,DMR
 2327189,OE7NCT,Nikolaus Coluccini,Nikolaus,Angerberg,TIROL - AUT,,DMR
 2327190,OE7GWT,Guenther Wirth,Guenther,Volders,TIROL - AUT,,DMR
 2327191,OE7LOJ,Erik Loll-Nielsen,Erik,Kitzbuehel,TIROL - AUT,,DMR
@@ -3192,23 +3202,23 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2327198,OE7OBD,David Oberhofer,David,Terfens,TIROL - AUT,,DMR
 2327199,OE7WRT,Wolfgang Ramoser,Wolfgang,Innsbruck,TIROL - AUT,,DMR
 2327200,OE7TDK,Thomas Duracher,Thomas,Ausservillgraten,TIROL - AUT,,DMR
-2327201,OE7EJT,Elmar no_name,Elmar,Fiss,TIROL - AUT,,DMR
+2327201,OE7EJT,Elmar No_name,Elmar,Fiss,TIROL - AUT,,DMR
 2327202,OE7IWT,Wilfried Haid,Wilfried,Aldrans,TIROL - AUT,,DMR
-2327203,OE7HDR,Harald no_name,Harald,Tarrenz,TIROL - AUT,,DMR
-2327204,OE7KJM,Mario no_name,Mario,Itter,TIROL - AUT,,DMR
+2327203,OE7HDR,Harald No_name,Harald,Tarrenz,TIROL - AUT,,DMR
+2327204,OE7KJM,Mario No_name,Mario,Itter,TIROL - AUT,,DMR
 2327205,OE7SIT,Stefan Isser,Stefan,Seefeld,OOE - AUT,,DMR
-2327206,OE7SXG,Gidis no_name,Gidis,Niederndorf,TIROL - AUT,,DMR
+2327206,OE7SXG,Gidis No_name,Gidis,Niederndorf,TIROL - AUT,,DMR
 2327207,OE7MLH,Martin Hainz,Martin,Reith Bei Seefeld,TIROL - AUT,,DMR
-2327208,OE7KIW,Klemens no_name,Klemens,Innsbruck,TIROL - AUT,,DMR
-2327209,OE7PIP,Hannes no_name,Hannes,Innsbruck,TIROL - AUT,,DMR
-2327210,OE7DAV,David no_name,David,Schwaz,TIROL - AUT,,DMR
-2327211,OE7ETT,Peter no_name,Peter,Woergl,TIROL - AUT,,DMR
+2327208,OE7KIW,Klemens No_name,Klemens,Innsbruck,TIROL - AUT,,DMR
+2327209,OE7PIP,Hannes No_name,Hannes,Innsbruck,TIROL - AUT,,DMR
+2327210,OE7DAV,David No_name,David,Schwaz,TIROL - AUT,,DMR
+2327211,OE7ETT,Peter No_name,Peter,Woergl,TIROL - AUT,,DMR
 2327212,OE7DRT,Dominic Reich,Dominic,Laengenfeld,TIROL - AUT,,DMR
 2327213,OE7MET,Benedikt Dessl,Benedikt,Waengle,TIROL - AUT,,DMR
 2327214,OE7CHJ,Christoph Hitthaler,Christoph,Fliess,TIROL - AUT,,DMR
 2327215,OE7RMT,Marco Rossini,Marco,Tarrenz,TIROL - AUT,,DMR
 2327216,OE7PET,Egon Pelzer,Egon,Kufstein,TIROL - AUT,,DMR
-2327217,OE7CSM,Martin no_name,Martin,Schwoich,TIROL - AUT,,DMR
+2327217,OE7CSM,Martin No_name,Martin,Schwoich,TIROL - AUT,,DMR
 2327218,OE7RJU,Roland Juen,Roland,Pettneu A/a,TIROL - AUT,,DMR
 2327219,OE7MOH,Othmar Mair,Othmar,Innsbruck,TIROL - AUT,,DMR
 2327220,OE7WIP,Robert Wuggenig,Robert,Innsbruck,TIROL - AUT,,DMR
@@ -3301,13 +3311,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2328083,OE8JWK,Josef Berger,Josef,Poertschach am Woerther See,KTN - AUT,,DMR
 2328084,OE8ACD,Stefan Joebstl,Stefan,Wolfsberg,KTN - AUT,,DMR
 2328085,OE8AEE,Helmut Stieger,Helmut,Klagenfurt,KTN - AUT,,DMR
-2328086,OE8GWQ,No_name no_name,No_name,Sankt Jakob im Rosental,KTN - AUT,,DMR
+2328086,OE8GWQ,No_name No_name,No_name,Sankt Jakob im Rosental,KTN - AUT,,DMR
 2328087,OE8IJK,Kugi Juergen,Kugi,Sankt Veit An der Glan,KTN - AUT,,DMR
 2328088,OE8GGE,Gradischnig Gerd,Gradischnig,Sankt Veit An der Glan,KTN - AUT,,DMR
 2328089,OE8IMK,Peter Sternath,Peter,Sankt Veit An der Glan,KTN - AUT,,DMR
 2328090,OE8ITG,Stromberger Gerhard,Stromberger,Sankt Veit An der Glan,KTN - AUT,,DMR
 2328091,OE8IMR,Rauter Michael,Rauter,Sankt Veit An der Glan,KTN - AUT,,DMR
-2328092,OE8RAT,No_name no_name,No_name,no_city,KTN - AUT,,DMR
+2328092,OE8RAT,No_name No_name,No_name,no_city,KTN - AUT,,DMR
 2328093,OE8JAS,Sacherer Joshua,Sacherer,Sittersdorf,KTN - AUT,,DMR
 2328094,OE8JSK,Juergen Scherzer,Juergen,Sankt Veit An der Glan,KTN - AUT,,DMR
 2328095,OE8ASK,Angelika Scherzer,Angelika,Sankt Veit An der Glan,KTN - AUT,,DMR
@@ -3315,7 +3325,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2328097,OE8KYK,Unterkoefler Henryk,Unterkoefler,Ueberfeld,KTN - AUT,,DMR
 2328098,OE8OGI,Wolfram Ogris,Wolfram,Feistritz im Rosental,KTN - AUT,,DMR
 2328099,OE8SFK,Franz Schenk,Franz,Klagenfurt,KTN - AUT,,DMR
-2328100,OE8ELO,No_name no_name,No_name,Feldkirchen In Kaernten,KTN - AUT,,DMR
+2328100,OE8ELO,No_name No_name,No_name,Feldkirchen In Kaernten,KTN - AUT,,DMR
 2328101,OE8TEK,Elmar Tusch,Elmar,Bodensdorf,KTN - AUT,,DMR
 2328102,OE8FOX,Juergen Spreitzer,Juergen,Steindorf,KTN - AUT,,DMR
 2328103,OE8RPK,Roland Pobatschnig,Roland,Sankt Andrae,KTN - AUT,,DMR
@@ -4295,7 +4305,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2620808,DD7PJ,Joerg Turowski,Joerg,Roxheim,RP - DEU,,DMR
 2620809,DO8WP,Matthias Lenhardt,Matthias,Landshut,BY - DEU,,DMR
 2620810,DO1LX,Ralf Lux,Ralf,Trier,RP - DEU,,DMR
-2620811,DO1JML,Jerome Marot-Lassauzaie,Jerome,Muenchen,BY - DEU,,DMR
+2620811,DL2JML,Jerome Marot-Lassauzaie,Jerome,Muenchen,BY - DEU,,DMR
 2620812,DO6AU,Sascha Zimmermann,Sascha,Sexau,BW - DEU,,DMR
 2620813,DH3PM,Patrick Mueller-Labudde,Patrick,Regis-Breitingen,SN - DEU,,DMR
 2620814,DO1XJ,Robert Keil,Robert,Althengstett,BW - DEU,,DMR
@@ -5096,7 +5106,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2621609,DH4PH,Bernd Zeimetz,Bernd,Kastellaun,RP - DEU,,DMR
 2621610,DB1BE,Bernd Blumenstein,Bernd,Kassel,HE - DEU,,DMR
 2621611,DF3MY,Gerd Anolleck,Gerd,Augsburg,BY - DEU,,DMR
-2621612,DO1AKM,Nigel Cox,Nigel,Iserlohn,NW - DEU,,DMR
+2621612,DD5MM,Nigel Cox,Nigel,Iserlohn,NW - DEU,,DMR
 2621613,DG5DBY,Christian Oelschlegel,Christian,Wetter,NW - DEU,,DMR
 2621614,DH1EE,Ernst Eipper,Ernst,Gaeufelden,BW - DEU,,DMR
 2621615,DO1TTA,Momme Maraun,Momme,Flensburg,SH - DEU,,DMR
@@ -5226,7 +5236,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2621739,DL3NDZ,Gustav Herderich,Gustav,Hirschaid,BY - DEU,,DMR
 2621740,DK9ZW,Wolfgang Zwicker,Wolfgang,Neuhausen Ob Eck,BW - DEU,,DMR
 2621741,DO4SR,Sabrina Hoffmann,Sabrina,no_city,NO_NAME - DEU,,DMR
-2621742,DG1YHS,Heiner no_name,Heiner,Duesseldorf,NW - DEU,,DMR
+2621742,DG1YHS,Heiner No_name,Heiner,Duesseldorf,NW - DEU,,DMR
 2621743,DK6OS,Olaf Strauch,Olaf,Celle (RA),NI - DEU,,DMR
 2621744,DD6MS,Matthias Seifert,Matthias,Hainichen,SN - DEU,,DMR
 2621745,DH1PU,Friedhelm Bauer,Friedhelm,Ahrbrueck,RP - DEU,,DMR
@@ -9255,7 +9265,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2625768,DO4DW,Daniel Wirz,Daniel,Neumagen-Dhron,RP - DEU,,DMR
 2625769,DJ5AS,Alexander Spies,Alexander,Voelklingen,SL - DEU,,DMR
 2625770,DG1IAG,Gunter Schwambach,Gunter,Kusel,RP - DEU,,DMR
-2625771,DO1OHB,Oliver Helmer-Borsutzki,Oliver,no_city,RP - DEU,,DMR
+2625771,DL1OT,Oliver Helmer-Borsutzki,Oliver,Siefersheim,RP - DEU,,DMR
 2625772,DM5LF,Felix Langer,Felix,Neidenstein,BW - DEU,,DMR
 2625773,DC8VD,Marco Dhur,Marco,Neuerburg,RP - DEU,,DMR
 2625774,DB9RA,Andreas Rauscher,Andreas,Betzenstein,BY - DEU,,DMR
@@ -9279,11 +9289,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2625792,DJ6PI,Josef Grimm,Josef,Augsburg,BY - DEU,,DMR
 2625793,DL3LBK,Kai-Hendrik Schlenger,Kai-Hendrik,Kiel,SH - DEU,,DMR
 2625794,DO1OJB,Juergen Boltze,Juergen,Wietzen,NI - DEU,,DMR
-2625795,DO1ES,Stefan Deling,Stefan,Waldems ()),HE - DEU,,DMR
+2625795,DO1ES,Stefan Deling,Stefan,Waldems ())),HE - DEU,,DMR
 2625796,DO4SV,Stefan Voss,Stefan,Nettetal,NW - DEU,,DMR
 2625797,DO3SKS,Stefan Knoess,Stefan,Staufenberg,HE - DEU,,DMR
 2625798,DL2FDP,Toma Gruenfeld,Toma,Wiesbaden,HE - DEU,,DMR
-2625799,DO3JST,Joerg Staedele,Joerg,Denkendorf ()),BY - DEU,,DMR
+2625799,DO3JST,Joerg Staedele,Joerg,Denkendorf ())),BY - DEU,,DMR
 2625800,DL1GOA,Tobias Mosgart,Tobias,Kriftel,HE - DEU,,DMR
 2625801,DL3YBD,Uwe Nagel,Uwe,Rheine,NW - DEU,,DMR
 2625802,DL0THL,Manfred Helbing,Manfred,Lauf,BY - DEU,,DMR
@@ -9300,8 +9310,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2625813,DO5MSN,Marcel Steigelmann,Marcel,Neugersdorf,SN - DEU,,DMR
 2625814,DL7ZI,Thomas-Bernd Kimmel,Thomas-Bernd,Asslar Werdorf,HE - DEU,,DMR
 2625815,DG8DZ,Peter Zeller,Peter,Regensburg,BY - DEU,,DMR
-2625816,DO5MP,Peter Thiele,Peter,Kirchenlamitz ()),BY - DEU,,DMR
-2625817,DO8CA,Carsten Wennemer,Carsten,Rheine ()),NW - DEU,,DMR
+2625816,DO5MP,Peter Thiele,Peter,Kirchenlamitz ())),BY - DEU,,DMR
+2625817,DO8CA,Carsten Wennemer,Carsten,Rheine ())),NW - DEU,,DMR
 2625818,DH9KF,Ferdinand Thuering,Ferdinand,Koeln,NW - DEU,,DMR
 2625819,DL8AAE,Thomas Kerk,Thomas,Peine,NI - DEU,,DMR
 2625820,DO5DAB,Joerg Grimm,Joerg,Offenbach,HE - DEU,,DMR
@@ -9311,8 +9321,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2625824,DO1HMR,Haritta Richter,Haritta,Erlangen,BY - DEU,,DMR
 2625825,DH1NB,Bernd Nickstat,Bernd,Potsdam,BB - DEU,,DMR
 2625826,DK3UO,Ronny Bennoehr,Ronny,Ruelzheim,RP - DEU,,DMR
-2625827,DK0ZD,Clubstation H50,Clubstation,Wietze ()),NI - DEU,,DMR
-2625828,DL0KSB,Club Station,Club,Bad Neuenahr-Ahrweiler ()),RP - DEU,,DMR
+2625827,DK0ZD,Clubstation H50,Clubstation,Wietze ())),NI - DEU,,DMR
+2625828,DL0KSB,Club Station,Club,Bad Neuenahr-Ahrweiler ())),RP - DEU,,DMR
 2625829,DL3NEY,Florian Thienel,Florian,Burgebrach,BY - DEU,,DMR
 2625830,DG3IAM,Ralf Herold,Ralf,Rastatt,BW - DEU,,DMR
 2625831,DH5PR,Peter Telahr,Peter,Rhede,NW - DEU,,DMR
@@ -9364,6 +9374,25 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2625877,DL1DAW,Achim Wortmann,Achim,Bergkamen,NW - DEU,,DMR
 2625878,DO1LUK,Lukas Loew,Lukas,Wunstorf,NI - DEU,,DMR
 2625879,DO2CHN,Christian Nagel,Christian,Wiggensbach,BY - DEU,,DMR
+2625880,DO8YGX,Manuel Hark,Manuel,Ruethen,NW - DEU,,DMR
+2625881,DO1WPO,Werner Pochmann,Werner,Oberhausen,BY - DEU,,DMR
+2625882,DG1CKM,Katharina Rossen,Katharina,Lautzenbruecken,RP - DEU,,DMR
+2625883,DO9GOW,Oliver Westkaemper,Oliver,Geseke,NW - DEU,,DMR
+2625884,DM4MT,Michael Tietz,Michael,Koeln,NW - DEU,,DMR
+2625885,DD9WL,Juergen Florenkowski,Juergen,Nackenheim,RP - DEU,,DMR
+2625886,DK2PC,Thomas Michel,Thomas,Hettenleidelheim,RP - DEU,,DMR
+2625887,DG5AAZ,Uwe Klapper,Uwe,Salzgitter,NI - DEU,,DMR
+2625888,DO5LEM,Stefan Huber,Stefan,Oberhausen,NW - DEU,,DMR
+2625889,DL1RSH,Holger Merhout,Holger,Potsdam,BB - DEU,,DMR
+2625890,DO1ZYM,Martin Zymelka,Martin,Bamberg,BY - DEU,,DMR
+2625891,DM5TT,Holger Adams,Holger,Esslingen,BW - DEU,,DMR
+2625892,DL7DI,David Innocente,David,Bad Liebenzell ()),BW - DEU,,DMR
+2625893,DF8WP,Kurt Kohler,Kurt,St. Augustin,NW - DEU,,DMR
+2625894,DO7IW,Ingo Wiebusch,Ingo,Tostedt ()),NI - DEU,,DMR
+2625895,DL5SBY,Franz Hermann,Franz,Boehmenkirch,BW - DEU,,DMR
+2625896,DH6LP,Peter Luening,Peter,Holzkirchen,BY - DEU,,DMR
+2625897,DM1MKF,Michael Fenske,Michael,Neuseddin,BB - DEU,,DMR
+2625898,DG8DCN,Jens Lottes,Jens,Dortmund,NW - DEU,,DMR
 2625998,DM0NR,Hans-Juergen Barthen,Hans-Juergen,Kruft,RP - DEU,,DMR
 2625999,DB0LJ,Hans-Juergen Barthen,Hans-Juergen,Kruft,RP - DEU,,DMR
 2626000,DF6RK,Ralf Klingler,Ralf,Glashuetten,HE - DEU,,DMR

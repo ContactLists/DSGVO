@@ -809,7 +809,7 @@
 2620808,DD7PJ Joerg    ,Joerg Turowski           Roxheim                 RP                      DEU
 2620809,DO8WP Matthias ,Matthias Lenhardt        Landshut                BY                      DEU
 2620810,DO1LX Ralf     ,Ralf Lux                 Trier                   RP                      DEU
-2620811,DO1JML Jerome  ,Jerome Marot-Lassauzaie  Muenchen                BY                      DEU
+2620811,DL2JML Jerome  ,Jerome Marot-Lassauzaie  Muenchen                BY                      DEU
 2620812,DO6AU Sascha   ,Sascha Zimmermann        Sexau                   BW                      DEU
 2620813,DH3PM Patrick  ,Patrick Mueller-Labudde  Regis-Breitingen        SN                      DEU
 2620814,DO1XJ Robert   ,Robert Keil              Althengstett            BW                      DEU
@@ -1610,7 +1610,7 @@
 2621609,DH4PH Bernd    ,Bernd Zeimetz            Kastellaun              RP                      DEU
 2621610,DB1BE Bernd    ,Bernd Blumenstein        Kassel                  HE                      DEU
 2621611,DF3MY Gerd     ,Gerd Anolleck            Augsburg                BY                      DEU
-2621612,DO1AKM Nigel   ,Nigel Cox                Iserlohn                NW                      DEU
+2621612,DD5MM Nigel    ,Nigel Cox                Iserlohn                NW                      DEU
 2621613,DG5DBY Christia,Christian Oelschlegel    Wetter                  NW                      DEU
 2621614,DH1EE Ernst    ,Ernst Eipper             Gaeufelden              BW                      DEU
 2621615,DO1TTA Momme   ,Momme Maraun             Flensburg               SH                      DEU
@@ -1740,7 +1740,7 @@
 2621739,DL3NDZ Gustav  ,Gustav Herderich         Hirschaid               BY                      DEU
 2621740,DK9ZW Wolfgang ,Wolfgang Zwicker         Neuhausen Ob Eck        BW                      DEU
 2621741,DO4SR Sabrina  ,Sabrina Hoffmann         no_city                 NO_NAME                 DEU
-2621742,DG1YHS Heiner  ,Heiner no_name           Duesseldorf             NW                      DEU
+2621742,DG1YHS Heiner  ,Heiner No_name           Duesseldorf             NW                      DEU
 2621743,DK6OS Olaf     ,Olaf Strauch             Celle (RA)              NI                      DEU
 2621744,DD6MS Matthias ,Matthias Seifert         Hainichen               SN                      DEU
 2621745,DH1PU Friedhelm,Friedhelm Bauer          Ahrbrueck               RP                      DEU
@@ -5769,7 +5769,7 @@
 2625768,DO4DW Daniel   ,Daniel Wirz              Neumagen-Dhron          RP                      DEU
 2625769,DJ5AS Alexander,Alexander Spies          Voelklingen             SL                      DEU
 2625770,DG1IAG Gunter  ,Gunter Schwambach        Kusel                   RP                      DEU
-2625771,DO1OHB Oliver  ,Oliver Helmer-Borsutzki  no_city                 RP                      DEU
+2625771,DL1OT Oliver   ,Oliver Helmer-Borsutzki  Siefersheim             RP                      DEU
 2625772,DM5LF Felix    ,Felix Langer             Neidenstein             BW                      DEU
 2625773,DC8VD Marco    ,Marco Dhur               Neuerburg               RP                      DEU
 2625774,DB9RA Andreas  ,Andreas Rauscher         Betzenstein             BY                      DEU
@@ -5793,11 +5793,11 @@
 2625792,DJ6PI Josef    ,Josef Grimm              Augsburg                BY                      DEU
 2625793,DL3LBK Kai-Hend,Kai-Hendrik Schlenger    Kiel                    SH                      DEU
 2625794,DO1OJB Juergen ,Juergen Boltze           Wietzen                 NI                      DEU
-2625795,DO1ES Stefan   ,Stefan Deling            Waldems ())             HE                      DEU
+2625795,DO1ES Stefan   ,Stefan Deling            Waldems ()))            HE                      DEU
 2625796,DO4SV Stefan   ,Stefan Voss              Nettetal                NW                      DEU
 2625797,DO3SKS Stefan  ,Stefan Knoess            Staufenberg             HE                      DEU
 2625798,DL2FDP Toma    ,Toma Gruenfeld           Wiesbaden               HE                      DEU
-2625799,DO3JST Joerg   ,Joerg Staedele           Denkendorf ())          BY                      DEU
+2625799,DO3JST Joerg   ,Joerg Staedele           Denkendorf ()))         BY                      DEU
 2625800,DL1GOA Tobias  ,Tobias Mosgart           Kriftel                 HE                      DEU
 2625801,DL3YBD Uwe     ,Uwe Nagel                Rheine                  NW                      DEU
 2625802,DL0THL Manfred ,Manfred Helbing          Lauf                    BY                      DEU
@@ -5814,8 +5814,8 @@
 2625813,DO5MSN Marcel  ,Marcel Steigelmann       Neugersdorf             SN                      DEU
 2625814,DL7ZI Thomas-Be,Thomas-Bernd Kimmel      Asslar Werdorf          HE                      DEU
 2625815,DG8DZ Peter    ,Peter Zeller             Regensburg              BY                      DEU
-2625816,DO5MP Peter    ,Peter Thiele             Kirchenlamitz ())       BY                      DEU
-2625817,DO8CA Carsten  ,Carsten Wennemer         Rheine ())              NW                      DEU
+2625816,DO5MP Peter    ,Peter Thiele             Kirchenlamitz ()))      BY                      DEU
+2625817,DO8CA Carsten  ,Carsten Wennemer         Rheine ()))             NW                      DEU
 2625818,DH9KF Ferdinand,Ferdinand Thuering       Koeln                   NW                      DEU
 2625819,DL8AAE Thomas  ,Thomas Kerk              Peine                   NI                      DEU
 2625820,DO5DAB Joerg   ,Joerg Grimm              Offenbach               HE                      DEU
@@ -5825,7 +5825,7 @@
 2625824,DO1HMR Haritta ,Haritta Richter          Erlangen                BY                      DEU
 2625825,DH1NB Bernd    ,Bernd Nickstat           Potsdam                 BB                      DEU
 2625826,DK3UO Ronny    ,Ronny Bennoehr           Ruelzheim               RP                      DEU
-2625827,DK0ZD Clubstati,Clubstation H50          Wietze ())              NI                      DEU
+2625827,DK0ZD Clubstati,Clubstation H50          Wietze ()))             NI                      DEU
 2625828,DL0KSB Club    ,Club Station             Bad Neuenahr-Ahrweiler  RP                      DEU
 2625829,DL3NEY Florian ,Florian Thienel          Burgebrach              BY                      DEU
 2625830,DG3IAM Ralf    ,Ralf Herold              Rastatt                 BW                      DEU
@@ -5878,6 +5878,25 @@
 2625877,DL1DAW Achim   ,Achim Wortmann           Bergkamen               NW                      DEU
 2625878,DO1LUK Lukas   ,Lukas Loew               Wunstorf                NI                      DEU
 2625879,DO2CHN Christia,Christian Nagel          Wiggensbach             BY                      DEU
+2625880,DO8YGX Manuel  ,Manuel Hark              Ruethen                 NW                      DEU
+2625881,DO1WPO Werner  ,Werner Pochmann          Oberhausen              BY                      DEU
+2625882,DG1CKM Katharin,Katharina Rossen         Lautzenbruecken         RP                      DEU
+2625883,DO9GOW Oliver  ,Oliver Westkaemper       Geseke                  NW                      DEU
+2625884,DM4MT Michael  ,Michael Tietz            Koeln                   NW                      DEU
+2625885,DD9WL Juergen  ,Juergen Florenkowski     Nackenheim              RP                      DEU
+2625886,DK2PC Thomas   ,Thomas Michel            Hettenleidelheim        RP                      DEU
+2625887,DG5AAZ Uwe     ,Uwe Klapper              Salzgitter              NI                      DEU
+2625888,DO5LEM Stefan  ,Stefan Huber             Oberhausen              NW                      DEU
+2625889,DL1RSH Holger  ,Holger Merhout           Potsdam                 BB                      DEU
+2625890,DO1ZYM Martin  ,Martin Zymelka           Bamberg                 BY                      DEU
+2625891,DM5TT Holger   ,Holger Adams             Esslingen               BW                      DEU
+2625892,DL7DI David    ,David Innocente          Bad Liebenzell ())      BW                      DEU
+2625893,DF8WP Kurt     ,Kurt Kohler              St. Augustin            NW                      DEU
+2625894,DO7IW Ingo     ,Ingo Wiebusch            Tostedt ())             NI                      DEU
+2625895,DL5SBY Franz   ,Franz Hermann            Boehmenkirch            BW                      DEU
+2625896,DH6LP Peter    ,Peter Luening            Holzkirchen             BY                      DEU
+2625897,DM1MKF Michael ,Michael Fenske           Neuseddin               BB                      DEU
+2625898,DG8DCN Jens    ,Jens Lottes              Dortmund                NW                      DEU
 2625998,DM0NR Hans-Juer,Hans-Juergen Barthen     Kruft                   RP                      DEU
 2625999,DB0LJ Hans-Juer,Hans-Juergen Barthen     Kruft                   RP                      DEU
 2626000,DF6RK Ralf     ,Ralf Klingler            Glashuetten             HE                      DEU

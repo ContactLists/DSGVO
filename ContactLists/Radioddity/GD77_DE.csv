@@ -810,7 +810,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2620808,DD7PJ,Joerg Turowski,Joerg,Roxheim,RP - DEU,,DMR
 2620809,DO8WP,Matthias Lenhardt,Matthias,Landshut,BY - DEU,,DMR
 2620810,DO1LX,Ralf Lux,Ralf,Trier,RP - DEU,,DMR
-2620811,DO1JML,Jerome Marot-Lassauzaie,Jerome,Muenchen,BY - DEU,,DMR
+2620811,DL2JML,Jerome Marot-Lassauzaie,Jerome,Muenchen,BY - DEU,,DMR
 2620812,DO6AU,Sascha Zimmermann,Sascha,Sexau,BW - DEU,,DMR
 2620813,DH3PM,Patrick Mueller-Labudde,Patrick,Regis-Breitingen,SN - DEU,,DMR
 2620814,DO1XJ,Robert Keil,Robert,Althengstett,BW - DEU,,DMR
@@ -1611,7 +1611,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2621609,DH4PH,Bernd Zeimetz,Bernd,Kastellaun,RP - DEU,,DMR
 2621610,DB1BE,Bernd Blumenstein,Bernd,Kassel,HE - DEU,,DMR
 2621611,DF3MY,Gerd Anolleck,Gerd,Augsburg,BY - DEU,,DMR
-2621612,DO1AKM,Nigel Cox,Nigel,Iserlohn,NW - DEU,,DMR
+2621612,DD5MM,Nigel Cox,Nigel,Iserlohn,NW - DEU,,DMR
 2621613,DG5DBY,Christian Oelschlegel,Christian,Wetter,NW - DEU,,DMR
 2621614,DH1EE,Ernst Eipper,Ernst,Gaeufelden,BW - DEU,,DMR
 2621615,DO1TTA,Momme Maraun,Momme,Flensburg,SH - DEU,,DMR
@@ -1741,7 +1741,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2621739,DL3NDZ,Gustav Herderich,Gustav,Hirschaid,BY - DEU,,DMR
 2621740,DK9ZW,Wolfgang Zwicker,Wolfgang,Neuhausen Ob Eck,BW - DEU,,DMR
 2621741,DO4SR,Sabrina Hoffmann,Sabrina,no_city,NO_NAME - DEU,,DMR
-2621742,DG1YHS,Heiner no_name,Heiner,Duesseldorf,NW - DEU,,DMR
+2621742,DG1YHS,Heiner No_name,Heiner,Duesseldorf,NW - DEU,,DMR
 2621743,DK6OS,Olaf Strauch,Olaf,Celle (RA),NI - DEU,,DMR
 2621744,DD6MS,Matthias Seifert,Matthias,Hainichen,SN - DEU,,DMR
 2621745,DH1PU,Friedhelm Bauer,Friedhelm,Ahrbrueck,RP - DEU,,DMR
@@ -5770,7 +5770,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2625768,DO4DW,Daniel Wirz,Daniel,Neumagen-Dhron,RP - DEU,,DMR
 2625769,DJ5AS,Alexander Spies,Alexander,Voelklingen,SL - DEU,,DMR
 2625770,DG1IAG,Gunter Schwambach,Gunter,Kusel,RP - DEU,,DMR
-2625771,DO1OHB,Oliver Helmer-Borsutzki,Oliver,no_city,RP - DEU,,DMR
+2625771,DL1OT,Oliver Helmer-Borsutzki,Oliver,Siefersheim,RP - DEU,,DMR
 2625772,DM5LF,Felix Langer,Felix,Neidenstein,BW - DEU,,DMR
 2625773,DC8VD,Marco Dhur,Marco,Neuerburg,RP - DEU,,DMR
 2625774,DB9RA,Andreas Rauscher,Andreas,Betzenstein,BY - DEU,,DMR
@@ -5794,11 +5794,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2625792,DJ6PI,Josef Grimm,Josef,Augsburg,BY - DEU,,DMR
 2625793,DL3LBK,Kai-Hendrik Schlenger,Kai-Hendrik,Kiel,SH - DEU,,DMR
 2625794,DO1OJB,Juergen Boltze,Juergen,Wietzen,NI - DEU,,DMR
-2625795,DO1ES,Stefan Deling,Stefan,Waldems ()),HE - DEU,,DMR
+2625795,DO1ES,Stefan Deling,Stefan,Waldems ())),HE - DEU,,DMR
 2625796,DO4SV,Stefan Voss,Stefan,Nettetal,NW - DEU,,DMR
 2625797,DO3SKS,Stefan Knoess,Stefan,Staufenberg,HE - DEU,,DMR
 2625798,DL2FDP,Toma Gruenfeld,Toma,Wiesbaden,HE - DEU,,DMR
-2625799,DO3JST,Joerg Staedele,Joerg,Denkendorf ()),BY - DEU,,DMR
+2625799,DO3JST,Joerg Staedele,Joerg,Denkendorf ())),BY - DEU,,DMR
 2625800,DL1GOA,Tobias Mosgart,Tobias,Kriftel,HE - DEU,,DMR
 2625801,DL3YBD,Uwe Nagel,Uwe,Rheine,NW - DEU,,DMR
 2625802,DL0THL,Manfred Helbing,Manfred,Lauf,BY - DEU,,DMR
@@ -5815,8 +5815,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2625813,DO5MSN,Marcel Steigelmann,Marcel,Neugersdorf,SN - DEU,,DMR
 2625814,DL7ZI,Thomas-Bernd Kimmel,Thomas-Bernd,Asslar Werdorf,HE - DEU,,DMR
 2625815,DG8DZ,Peter Zeller,Peter,Regensburg,BY - DEU,,DMR
-2625816,DO5MP,Peter Thiele,Peter,Kirchenlamitz ()),BY - DEU,,DMR
-2625817,DO8CA,Carsten Wennemer,Carsten,Rheine ()),NW - DEU,,DMR
+2625816,DO5MP,Peter Thiele,Peter,Kirchenlamitz ())),BY - DEU,,DMR
+2625817,DO8CA,Carsten Wennemer,Carsten,Rheine ())),NW - DEU,,DMR
 2625818,DH9KF,Ferdinand Thuering,Ferdinand,Koeln,NW - DEU,,DMR
 2625819,DL8AAE,Thomas Kerk,Thomas,Peine,NI - DEU,,DMR
 2625820,DO5DAB,Joerg Grimm,Joerg,Offenbach,HE - DEU,,DMR
@@ -5826,8 +5826,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2625824,DO1HMR,Haritta Richter,Haritta,Erlangen,BY - DEU,,DMR
 2625825,DH1NB,Bernd Nickstat,Bernd,Potsdam,BB - DEU,,DMR
 2625826,DK3UO,Ronny Bennoehr,Ronny,Ruelzheim,RP - DEU,,DMR
-2625827,DK0ZD,Clubstation H50,Clubstation,Wietze ()),NI - DEU,,DMR
-2625828,DL0KSB,Club Station,Club,Bad Neuenahr-Ahrweiler ()),RP - DEU,,DMR
+2625827,DK0ZD,Clubstation H50,Clubstation,Wietze ())),NI - DEU,,DMR
+2625828,DL0KSB,Club Station,Club,Bad Neuenahr-Ahrweiler ())),RP - DEU,,DMR
 2625829,DL3NEY,Florian Thienel,Florian,Burgebrach,BY - DEU,,DMR
 2625830,DG3IAM,Ralf Herold,Ralf,Rastatt,BW - DEU,,DMR
 2625831,DH5PR,Peter Telahr,Peter,Rhede,NW - DEU,,DMR
@@ -5879,6 +5879,25 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2625877,DL1DAW,Achim Wortmann,Achim,Bergkamen,NW - DEU,,DMR
 2625878,DO1LUK,Lukas Loew,Lukas,Wunstorf,NI - DEU,,DMR
 2625879,DO2CHN,Christian Nagel,Christian,Wiggensbach,BY - DEU,,DMR
+2625880,DO8YGX,Manuel Hark,Manuel,Ruethen,NW - DEU,,DMR
+2625881,DO1WPO,Werner Pochmann,Werner,Oberhausen,BY - DEU,,DMR
+2625882,DG1CKM,Katharina Rossen,Katharina,Lautzenbruecken,RP - DEU,,DMR
+2625883,DO9GOW,Oliver Westkaemper,Oliver,Geseke,NW - DEU,,DMR
+2625884,DM4MT,Michael Tietz,Michael,Koeln,NW - DEU,,DMR
+2625885,DD9WL,Juergen Florenkowski,Juergen,Nackenheim,RP - DEU,,DMR
+2625886,DK2PC,Thomas Michel,Thomas,Hettenleidelheim,RP - DEU,,DMR
+2625887,DG5AAZ,Uwe Klapper,Uwe,Salzgitter,NI - DEU,,DMR
+2625888,DO5LEM,Stefan Huber,Stefan,Oberhausen,NW - DEU,,DMR
+2625889,DL1RSH,Holger Merhout,Holger,Potsdam,BB - DEU,,DMR
+2625890,DO1ZYM,Martin Zymelka,Martin,Bamberg,BY - DEU,,DMR
+2625891,DM5TT,Holger Adams,Holger,Esslingen,BW - DEU,,DMR
+2625892,DL7DI,David Innocente,David,Bad Liebenzell ()),BW - DEU,,DMR
+2625893,DF8WP,Kurt Kohler,Kurt,St. Augustin,NW - DEU,,DMR
+2625894,DO7IW,Ingo Wiebusch,Ingo,Tostedt ()),NI - DEU,,DMR
+2625895,DL5SBY,Franz Hermann,Franz,Boehmenkirch,BW - DEU,,DMR
+2625896,DH6LP,Peter Luening,Peter,Holzkirchen,BY - DEU,,DMR
+2625897,DM1MKF,Michael Fenske,Michael,Neuseddin,BB - DEU,,DMR
+2625898,DG8DCN,Jens Lottes,Jens,Dortmund,NW - DEU,,DMR
 2625998,DM0NR,Hans-Juergen Barthen,Hans-Juergen,Kruft,RP - DEU,,DMR
 2625999,DB0LJ,Hans-Juergen Barthen,Hans-Juergen,Kruft,RP - DEU,,DMR
 2626000,DF6RK,Ralf Klingler,Ralf,Glashuetten,HE - DEU,,DMR

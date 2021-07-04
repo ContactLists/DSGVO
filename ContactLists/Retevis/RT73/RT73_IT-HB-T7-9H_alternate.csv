@@ -603,7 +603,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2220602,IU0JGB,Davide,Cassino (FR),Lazio,ITA
 2220603,IU0IBR,Franco,Mentana (RM),Lazio,ITA
 2220604,I0ZWK,Fabio,Roma (RM),Lazio,ITA
-2220605,IU0FDC,Lucio,no_city,no_name,ITA
+2220605,IU0FDC,Lucio,no_city,No_name,ITA
 2220606,IS0GOZ,Gian,Ittiri (SS),Sardegna,ITA
 2220607,IU0CLS,Giovanni,Roma (RM),Lazio,ITA
 2220608,IZ0ORT,Fabrizio,Gallicano Nel Lazio (RM),Lazio,ITA
@@ -1922,7 +1922,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2221921,IU0MZG,Daniele,Terni (TR),Umbria,ITA
 2221922,IU0HIR,Vincenzo,Roma (RM),Lazio,ITA
 2221923,IU0IBY,Roberto,Roma (RM),Lazio,ITA
-2221924,IU1MUM,Filippo,no_city,no_name,ITA
+2221924,IU1MUM,Filippo,no_city,No_name,ITA
 2221925,IK1APW,Emanuele,Tassarolo (AL),Piemonte,ITA
 2221926,IU1MWG,Giorgio,Borgo S.Dalmazzo (CN),Piemonte,ITA
 2221927,IZ0MEA,Pierpaolo,Spoleto (PG),Umbria,ITA
@@ -1972,13 +1972,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2221971,IU1NEV,Matteo,Vignole Borbera (AL),Piemonte,ITA
 2221972,IK1WGT,Ezio,Volvera (TO),Piemonte,ITA
 2221973,I1GIK,Antonio,Savigliano (CN),Piemonte,ITA
-2221974,IZ1TMN,No_name,no_city,no_name,ITA
+2221974,IZ1TMN,No_name,no_city,No_name,ITA
 2221975,IZ1RGS,Simone,Agli,Piemonte,ITA
 2221976,IU0NDT,Mauro,Roma (RM),Lazio,ITA
-2221977,IU1NEA,Giuseppe,no_city,no_name,ITA
+2221977,IU1NEA,Giuseppe,no_city,No_name,ITA
 2221978,IW1DGI,Diego,Arquata Scrivia (AL),Piemonte,ITA
 2221979,IZ1PJC,Mauro,Revigliasco D Asti (AT),Piemonte,ITA
-2221980,IW1CWY,No_name,no_city,no_name,ITA
+2221980,IW1CWY,No_name,no_city,No_name,ITA
 2221981,IU1NDA,Pietro,Imperia (IM),Liguria,ITA
 2221982,IK0SWN,Paolo,Gavignano (RM),Lazio,ITA
 2221983,IW1PNW,Gianluigi,Genova Quarto (GE),Liguria,ITA
@@ -1995,7 +1995,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2221994,IK0SMD,Raffaele,Civitavecchia (RM),Lazio,ITA
 2221995,IU1LAY,Riccardo,Cogoleto (GE),Liguria,ITA
 2221996,IS0HYQ,Raffaele,Oristano (OR),Sardegna,ITA
-2221997,IW0HKX,No_name,no_city,no_name,ITA
+2221997,IW0HKX,No_name,no_city,No_name,ITA
 2221998,IQ1YY,A.I.R.S.,Nole (TO),Piemonte,ITA
 2221999,IZ1HVD,Danilo,Nole (TO),Piemonte,ITA
 2222000,IK1SPR,Flavio,Savigliano (CN),Piemonte,ITA
@@ -4986,7 +4986,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2224985,IW3GLJ,Ermanno,Loreggia (PD),Veneto,ITA
 2224986,IW1BND,Fabio,Casale Monferrato (TO),Piemonte,ITA
 2224987,IV3OTE,Andrea,Muggia (TS),Friuli Vg,ITA
-2224988,IW1EZT,Riccardo,no_city,no_name,ITA
+2224988,IW1EZT,Riccardo,no_city,No_name,ITA
 2224989,IZ1DMA,Antonio,Genova (GE),Liguria,ITA
 2224990,IZ3ZVM,Massimo,Albaredo D Adige (VR),Veneto,ITA
 2224991,IK2BSJ,Stefano,Cassinetta Di Lugagnano (MI),Lombardia,ITA
@@ -5497,7 +5497,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2225496,IK1ZOE,Giuseppe,Chialamberto (TO),Piemonte,ITA
 2225497,IU2KWO,Silvano,Sesto San Giovanni (MI),Lombardia,ITA
 2225498,IU0MUR,Roberto,Roma (RM),Lazio,ITA
-2225499,IU8NIY,No_name,no_city,no_name,ITA
+2225499,IU8NIY,No_name,no_city,No_name,ITA
 2225500,IK2GAU,Antonio,Villasanta (MB),Lombardia,ITA
 2225501,IS0ANZ,Alessandro,Quartu S.Elena (CA),Sardegna,ITA
 2225502,IZ5MJL,Mauro,Fucecchio (FI),Toscana,ITA
@@ -5574,7 +5574,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2225573,IU1NOD,Corrado,Airasca (TO),Piemonte,ITA
 2225574,IK1TTD,Gianpaolo,Arma Di Taggia (IM),Liguria,ITA
 2225575,IU2NPX,Giacomo,Milano (MI),Lombardia,ITA
-2225576,IW2OBA,Alberto,no_city,no_name,ITA
+2225576,IW2OBA,Alberto,no_city,No_name,ITA
 2225577,IT9GOT,Giuseppe,Paterno  (CT),Sicilia,ITA
 2225578,IU3NOC,Enrico,Treviso (TV),Veneto,ITA
 2225579,IU5MOY,Lorenzo,Tavarnelle Val Di Pesa (FI),Toscana,ITA
@@ -5589,7 +5589,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2225588,IT9IVT,Antonino,Leonforte (EN),Sicilia,ITA
 2225589,IW1QPQ,Mauro,Genova (GE),Liguria,ITA
 2225590,IU1NSW,Marco,Valdellatorre (TO),Piemonte,ITA
-2225591,IW0HDF,Alessandro,no_city,no_name,ITA
+2225591,IW0HDF,Alessandro,no_city,No_name,ITA
 2225592,IW0DYD,Pasquale,Fonte Nuova (RM),Lazio,ITA
 2225593,IK3CLT,Andrea,Ponte S.Nicolo  (PD),Veneto,ITA
 2225594,IU7NMM,Paolo,Alessano (LE),Puglia,ITA
@@ -5597,7 +5597,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2225596,IZ0YQH,Angelo,Terracina (LT),Lazio,ITA
 2225597,IW2CMK,Michele,Cinisello Balsamo (MI),Lombardia,ITA
 2225598,IK7IZM,Massimo,Taranto (TA),Puglia,ITA
-2225599,IU3NQR,No_name,no_city,no_name,ITA
+2225599,IU3NQR,No_name,no_city,No_name,ITA
 2225600,IU5CJP,Massimiliano,Cortona (AR),Toscana,ITA
 2225601,IK4MGG,Massimo,Modena (MO),Emilia-Rom.,ITA
 2225602,IZ2LUR,Mirko,Alzano Lombardo (BG),Lombardia,ITA
@@ -5614,7 +5614,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2225613,IZ7PDF,Davide,Taranto (TA),Puglia,ITA
 2225614,IZ2TEQ,Giorgio,Cassolnovo (PV),Lombardia,ITA
 2225615,IW2KVY,Mauro,Milano (MI),Lombardia,ITA
-2225616,IU3NOS,Luigi,no_city,no_name,ITA
+2225616,IU3NOS,Luigi,no_city,No_name,ITA
 2225617,IK7WOR,Giuseppe,Manduria (TA),Puglia,ITA
 2225618,IK1PYL,Paolo,Finale Ligure (SV),Liguria,ITA
 2225619,IV3BGW,Roberto,Pasian Di Prato (UD),Friuli Vg,ITA
@@ -5667,7 +5667,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2225666,IZ2SXZ,Nicol,Grosotto (SO),Lombardia,ITA
 2225667,IW5BUD,Sergio,Scandicci (FI),Toscana,ITA
 2225668,IK4MEC,Paolo,Menaggio (CO),Lombardia,ITA
-2225669,IU1BGW,Michele,no_city,no_name,ITA
+2225669,IU1BGW,Michele,no_city,No_name,ITA
 2225670,IU8CDS,Raffaele,Pontecagnano (SA),Campania,ITA
 2225671,IZ1MMM,Sergio,Cuneo (CN),Piemonte,ITA
 2225672,IW2LPC,Alessandro,Botticino (BS),Lombardia,ITA
@@ -8643,7 +8643,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2228642,IU8JPG,Ciro,Mariglianella (NA),Campania,ITA
 2228643,IU8FXZ,Antonio,Castellammare Di Stabia (NA),Campania,ITA
 2228644,IQ8WA,Era,Locri (RC),Toscana,ITA
-2228645,IZ8TFB,Gennaro,no_city,no_name,ITA
+2228645,IZ8TFB,Gennaro,no_city,No_name,ITA
 2228646,IU8LTP,Cosimo,no_city,Campania,ITA
 2228647,IK8YSW,Errico,Castellammare Di Stabia (NA),Campania,ITA
 2228648,IU8HPE,Andrea,Reggio Calabria (RC),Calabria,ITA
@@ -8651,7 +8651,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2228650,IZ8EWB,Gianluigi,Nocera Inferiore (SA),Campania,ITA
 2228651,IZ8SZY,Danilo,Reggio Calabria (RC),Campania,ITA
 2228652,IW8EHK,Alessandro,Castellammare Di Stabia (NA),Campania,ITA
-2228653,IU8FWT,Toty,no_city,no_name,ITA
+2228653,IU8FWT,Toty,no_city,No_name,ITA
 2228654,IW8RSW,Giuseppe,Reggio Calabria (RC),Campania,ITA
 2228655,IZ8GEX,Angelo,Castel San Giorgio (SA),Campania,ITA
 2228656,IU8AQN,Salvatore,Campobasso (CB),Campania,ITA
@@ -8767,6 +8767,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2228766,IZ6TGS,Adrio,San Benedetto Del Tronto (AP),Marche,ITA
 2228767,IU8NBQ,Teodosio,Pietragalla (PZ),Basilicata,ITA
 2228768,IU1OOY,Angelo,Montiglio (AT),Piemonte,ITA
+2228769,IU2PKQ,Simone,Milano (MI),Lombardia,ITA
+2228770,IU2EZO,Umberto,Milano (MI),Lombardia,ITA
+2228771,IZ8DLM,Alfonso,Napoli (NA),Campania,ITA
+2228772,IU6PMY,Giuseppe,Pescara (PE),Abruzzo,ITA
+2228773,IT9JCA,Antonio,Palermo (PA),Sicilia,ITA
+2228774,IU2IMF,Mantovan,Garlasco (PV),Lombardia,ITA
 2229001,IT9YFO,Andrea,Catania (CT),Sicilia,ITA
 2229002,IT9ZON,Francesco,Catania (CT),Sicilia,ITA
 2229003,IT9UUT,Salvo,Ispica (RG),Sicilia,ITA
@@ -9261,14 +9267,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2229492,IT9HTB,Giuseppe,Castronovo (PA),Sicilia,ITA
 2229493,IT9JMR,Gianpiero,Nicosia (EN),Sicilia,ITA
 2280000,N0CALL,No_name,no_city,Zuerich und Thurgau,CHE
-2280001,4U1ITU,International,Geneva,no_name,CHE
+2280001,4U1ITU,International,Geneva,No_name,CHE
 2280002,HB3XWO,Kornel,Basel,-,CHE
 2280003,HB9HIT,Jean,Le Mont-Sur-Lausanne,Westschweiz-Sud,CHE
 2280004,HB3XWK,Aldo,La Chaux-De-Fonds,Westschweiz-Nord,CHE
 2280005,HB9HIK,Frederic,2000 Neuchatel,Westschweiz-Nord,CHE
 2280006,HB9HGE,Ruedi,Moerschwil,Ostschweiz,CHE
 2280007,HB9HEW,Michael,Engelburg,Ostschweiz,CHE
-2280008,HB9RHP,no_name,Lohn-Ammannsegg,Basel/solothurn,CHE
+2280008,HB9RHP,No_name,Lohn-Ammannsegg,Basel/solothurn,CHE
 2280009,HB9TWP,Bolzani,Arlate,-,CHE
 2280010,HB9FSN,Bruno,Bretzwil,Basel/solothurn,CHE
 2280011,HB9OBB,Daniele,Zurich,Zuerich und Thurgau,CHE
@@ -9279,7 +9285,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280016,HB3XWN,Umberto,Auw,Aargau,CHE
 2280017,HB9CTJ,Urs,Biel,Bern,CHE
 2280018,HB9HJS,Stefan,Altishofen,Lucerne,CHE
-2280019,HB3XXA,no_name,Baar,Zug,CHE
+2280019,HB3XXA,No_name,Baar,Zug,CHE
 2280020,HB9SNW,Armin,Ch-4528 Zuchwil So,Solothurn,CHE
 2280021,HB9OMI,Pierre-Yves,Yverdon-Les-Bains,Vaud,CHE
 2280022,HB3XWT,Jean,Rickenbach Sulz,Zurich,CHE
@@ -9332,6 +9338,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280069,HB9HJU,Luis,Kloten,Zurich,CHE
 2280070,HB3XXY,Roger,Glattfelden,Zurich,CHE
 2280071,HB3XXI,Roman,Rickenbach Zh,Zurich,CHE
+2280072,HB9HJZ,Vincent,Luzern,Lucerne,CHE
+2280073,HB3XYE,Vladimir,8152 Opfikon,Zurich,CHE
 2281001,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
@@ -9534,17 +9542,17 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2281200,HB3XRN,Samuel,Geneva,Geneva,CHE
 2281201,HB9G,Uska,Geneva,Geneva,CHE
 2281202,HB9GIC,Alexandre,Mies,Westschweiz-Sud,CHE
-2281203,HB9GUR,Philippe,Geneva,no_name,CHE
-2281204,HB9GVX,Patrick,Prangins,no_name,CHE
-2281205,HB9GKZ,Myriam,Vouvry,no_name,CHE
+2281203,HB9GUR,Philippe,Geneva,No_name,CHE
+2281204,HB9GVX,Patrick,Prangins,No_name,CHE
+2281205,HB9GKZ,Myriam,Vouvry,No_name,CHE
 2281206,HB9RAR,Ass,Morlon,Westschweiz-Sud,CHE
-2281207,HB3MAS,Stephane,Lausanne,no_name,CHE
-2281208,HB9GXP,Marc,Verossaz,no_name,CHE
-2281209,HB9VCM,Ali-Reza,Geneve,no_name,CHE
+2281207,HB3MAS,Stephane,Lausanne,No_name,CHE
+2281208,HB9GXP,Marc,Verossaz,No_name,CHE
+2281209,HB9VCM,Ali-Reza,Geneve,No_name,CHE
 2281210,HB3YCB,Yves,Bulle,Fribourg,CHE
 2281211,HB9GYR,Jose-Antonio,Geneva,Geneva,CHE
-2281212,HB9GYM,Jean-Pierre,Geneva,no_name,CHE
-2281213,HB9HBY,Loick,Gland,no_name,CHE
+2281212,HB9GYM,Jean-Pierre,Geneva,No_name,CHE
+2281213,HB9HBY,Loick,Gland,No_name,CHE
 2281214,HB9HBZ,Alexandre,Geneva,Geneva,CHE
 2281215,HB9GYR,Jose-Antonio,Geneva,Geneva,CHE
 2281216,HB9HBE,Emilie,Geneva,Geneva,CHE
@@ -9561,10 +9569,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2281227,HB3XUL,Xb3xul,Geneva,Westschweiz-Sud,CHE
 2281228,HB3XUL,Czar,Geneva,Westschweiz-Sud,CHE
 2281229,HB3YEG,Jeanluc,Vuisternens-Devant-Romont,Westschweiz-Sud,CHE
-2281230,HB9HER,Dede,Bullet,no_name,CHE
-2281231,HB9HBP,Christian,Ravoire,no_name,CHE
-2281232,HB9GXO,Alain,Missy,no_name,CHE
-2281233,HB9GUP,Cedric,Euseigne,no_name,CHE
+2281230,HB9HER,Dede,Bullet,No_name,CHE
+2281231,HB9HBP,Christian,Ravoire,No_name,CHE
+2281232,HB9GXO,Alain,Missy,No_name,CHE
+2281233,HB9GUP,Cedric,Euseigne,No_name,CHE
 2281234,HB9GFV,Greg,Villarimboud,.,CHE
 2281235,HB9EVJ,Vincent,Paudex,Westschweiz-Sud,CHE
 2281236,HB9HCT,Bernard,Meyrin,.,CHE
@@ -9611,9 +9619,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2282032,HB3XRF,Ferdi,Bienne,Westschweiz-Nord,CHE
 2282033,HB9COS,Urs,Biel/bienne,Westschweiz-Nord,CHE
 2282034,HB3YMM,Christophe,Les Geneveys-Sur-Coffrane,Westschweiz-Nord,CHE
-2282035,HB9FML,Matthias,Orpund,no_name,CHE
+2282035,HB9FML,Matthias,Orpund,No_name,CHE
 2282036,HB3YNP,Phil,Le Noirmont,Jura,CHE
-2282037,HB9FXW,Francois,La Chaux-De-Fonds,no_name,CHE
+2282037,HB9FXW,Francois,La Chaux-De-Fonds,No_name,CHE
 2282038,HB9GSO,Roland,Grenchen So,Westschweiz-Nord,CHE
 2282039,HB9EVI,Pascal,Boncourt,.,CHE
 2282040,HB9ARD,Lorenz,Cressier Ne,.,CHE
@@ -9650,7 +9658,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2283027,HB9FGW,Urs,Helgisried,Seftigen,CHE
 2283028,HB9FGW,Urs,Helgisried,Seftigen,CHE
 2283029,HB3YEH,Jan,Matten,Interlaken,CHE
-2283030,HB9FVW,Peter,Brienzwiler,no_name,CHE
+2283030,HB9FVW,Peter,Brienzwiler,No_name,CHE
 2283031,HB9STJ,Cyrill,Belp,Bern-Mittelland,CHE
 2283032,HB9STJ,Cyrill,Belp,Bern-Mittelland,CHE
 2283033,HB3YIR,Alex,Meiringen,Haslital,CHE
@@ -9796,21 +9804,21 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2283173,HB9FIW,Regina,Hettiswil,Bern und Oberwallis,CHE
 2283174,HB9GPR,Simon,Oberhofen,Bern und Oberwallis,CHE
 2283175,HB9GWD,Peter,Interlaken,Bern und Oberwallis,CHE
-2283176,HB9PRH,Heinz,Schliern,no_name,CHE
+2283176,HB9PRH,Heinz,Schliern,No_name,CHE
 2283177,HB9TTE,Samuel,Thun,Bern,CHE
-2283178,HB9FZD,Arnold,Bern,no_name,CHE
+2283178,HB9FZD,Arnold,Bern,No_name,CHE
 2283179,HB9GXK,Gottfried,Heimenschwand,Bern und Oberwallis,CHE
 2283180,HB3YRX,Matthias,Aarberg,Bern,CHE
 2283181,HB3YBS,Monty,Javea,Valencia,CHE
-2283182,HB9GHC,Bruno,Oberburg,no_name,CHE
+2283182,HB9GHC,Bruno,Oberburg,No_name,CHE
 2283183,HB3YRU,Mark,Zollikofen,Bern,CHE
 2283184,HB3YZD,Pascal,Grosshoechstetten,Bern,CHE
 2283185,HB9GZQ,Peter,Bern,Bern und Oberwallis,CHE
-2283186,HB3XRE,Peter,St.Gallen,no_name,CHE
+2283186,HB3XRE,Peter,St.Gallen,No_name,CHE
 2283187,HB9OAD,Gianpaolo,Bellinzona,Ticino,CHE
-2283188,HB9BJL,Christian,Messen,no_name,CHE
+2283188,HB9BJL,Christian,Messen,No_name,CHE
 2283189,HB9HDW,Christoph,Worben,Bern und Oberwallis,CHE
-2283190,HB9CZV,Werner,Spiez,no_name,CHE
+2283190,HB9CZV,Werner,Spiez,No_name,CHE
 2283191,HB3XSX,Martin,Steg im Tosstal,Bern,CHE
 2283192,HB3YWL,Michael,Heimberg,Bern,CHE
 2283193,HB9EWH,Hansjoerg,Muensingen,Bern,CHE
@@ -9820,12 +9828,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2283197,HB9CWK,Hans,Heimiswil,Bern und Oberwallis,CHE
 2283198,HB3XUE,Elisabeth,Thun,Bern und Oberwallis,CHE
 2283199,HB3XTM,Mario,Muehlethurnen,Bern und Oberwallis,CHE
-2283200,HB9RWR,Urs,Ersigen,no_name,CHE
-2283201,HB9SHB,Marc,Zollikofen,no_name,CHE
+2283200,HB9RWR,Urs,Ersigen,No_name,CHE
+2283201,HB9SHB,Marc,Zollikofen,No_name,CHE
 2283202,HB9RVH,No_name,no_city,.,CHE
-2283203,HB9RVG,Roli,Graechen,no_name,CHE
-2283204,HB9TBI,Francesco,Bern,no_name,CHE
-2283205,HB9EVN,Remo,Bern,no_name,CHE
+2283203,HB9RVG,Roli,Graechen,No_name,CHE
+2283204,HB9TBI,Francesco,Bern,No_name,CHE
+2283205,HB9EVN,Remo,Bern,No_name,CHE
 2283206,HB9HGK,Kevin,Zollikofen,Bern und Oberwallis,CHE
 2283207,HB9GUX,Hawe,Muensingen / Bern,Bern,CHE
 2283208,HB9TKB,Reto,Steffisburg,Bern,CHE
@@ -10010,37 +10018,37 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2284175,HB9CKO,Jacques,Giswil,Basel/solothurn,CHE
 2284176,HB9RMM,Marcel,Basel,Basel/solothurn,CHE
 2284177,HB3MAM,Christian,Reinach,Basel/solothurn,CHE
-2284178,HB3YBT,Luzius,Allschwil,no_name,CHE
-2284179,HB9TQK,Daniel,Allschwil,no_name,CHE
+2284178,HB3YBT,Luzius,Allschwil,No_name,CHE
+2284179,HB9TQK,Daniel,Allschwil,No_name,CHE
 2284180,HB3YUO,Esther,Rheinfelden,Aargau,CHE
 2284181,HB9DDI,Georges,Brittnau,Aargau,CHE
-2284182,HB9FED,Hansruedi,Frenkendorf,no_name,CHE
-2284183,HB9DSO,Erwin,Reinach,no_name,CHE
-2284184,HB3XPI,Tobias,Basel,no_name,CHE
-2284185,HB9EBS,Andreas,Oberwil,no_name,CHE
+2284182,HB9FED,Hansruedi,Frenkendorf,No_name,CHE
+2284183,HB9DSO,Erwin,Reinach,No_name,CHE
+2284184,HB3XPI,Tobias,Basel,No_name,CHE
+2284185,HB9EBS,Andreas,Oberwil,No_name,CHE
 2284186,HB9TQP,Martin,Allschwil,Basel/solothurn,CHE
-2284187,HB9EBX,Angelo,Himmelried,no_name,CHE
+2284187,HB9EBX,Angelo,Himmelried,No_name,CHE
 2284188,HB9BLV,Viktor,Binningen,Basel/solothurn,CHE
-2284189,HB9SNC,Rene,Basel,no_name,CHE
+2284189,HB9SNC,Rene,Basel,No_name,CHE
 2284190,HB9GXA,Susanne,Allschwil,Basel/solothurn,CHE
 2284191,HB9GXV,Adrian,Allschwil,Basel/solothurn,CHE
-2284192,HB3YUR,Moll,Olten,no_name,CHE
-2284193,HB9FRK,Andi,Basel,no_name,CHE
-2284194,HB3YPO,Zsolt,Basel,no_name,CHE
-2284195,HB9EDW,Daniel,Langenbuhl,no_name,CHE
-2284196,HB9CYX,Fritz,Olten,no_name,CHE
-2284197,HB9NCZ,Roland,Allschwil,no_name,CHE
-2284198,HB9ECS,Charly,Allschwil,no_name,CHE
-2284199,HB3YNT,Andreas,Bellach,no_name,CHE
+2284192,HB3YUR,Moll,Olten,No_name,CHE
+2284193,HB9FRK,Andi,Basel,No_name,CHE
+2284194,HB3YPO,Zsolt,Basel,No_name,CHE
+2284195,HB9EDW,Daniel,Langenbuhl,No_name,CHE
+2284196,HB9CYX,Fritz,Olten,No_name,CHE
+2284197,HB9NCZ,Roland,Allschwil,No_name,CHE
+2284198,HB9ECS,Charly,Allschwil,No_name,CHE
+2284199,HB3YNT,Andreas,Bellach,No_name,CHE
 2284200,HB9DIO,Urs,Muenchenstein,Basel/solothurn,CHE
-2284201,HB3YOS,Stefan,Trimbach,no_name,CHE
-2284202,HB9GXV,Adrian,Allschwil,no_name,CHE
+2284201,HB3YOS,Stefan,Trimbach,No_name,CHE
+2284202,HB9GXV,Adrian,Allschwil,No_name,CHE
 2284203,HB9GXW,Carlos,Reinach,Basel,CHE
 2284204,HB9GKH,Christian,Basel,Basel,CHE
 2284205,HB9GXA,Susanne,Allschwil,Basel,CHE
-2284206,HB9GZX,Daniel,Liestal,no_name,CHE
-2284207,HB9HBC,Simon,Basel,no_name,CHE
-2284208,HB9HBB,Michael,Muttenz,no_name,CHE
+2284206,HB9GZX,Daniel,Liestal,No_name,CHE
+2284207,HB9HBC,Simon,Basel,No_name,CHE
+2284208,HB9HBB,Michael,Muttenz,No_name,CHE
 2284209,HB9GSY,Philipp,Gelterkinden,Basel,CHE
 2284210,HB9TXZ,Bernhard,Binningen,Basel,CHE
 2284211,HB3XTN,Remo,no_city,Basel/solothurn,CHE
@@ -10061,14 +10069,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2284226,HB9BLA,Andreas,Lausen,Andreas,CHE
 2284227,HB9CEY,Gerald,Ziefen / Bl,Gerald,CHE
 2284228,HB3XUW,Simon,Rohrbach,Simon,CHE
-2284229,HB9HEF,Beatrice,Daeniken,no_name,CHE
+2284229,HB9HEF,Beatrice,Daeniken,No_name,CHE
 2284230,HB9FFW,Daniel,Niederbipp,Daniel,CHE
-2284231,HB3XTY,Joerg,Derendingen,no_name,CHE
-2284232,HB9BLA,Andreas,Lausen,no_name,CHE
-2284233,HB9EAJ,Stephan,Basel,no_name,CHE
-2284234,HB9TPQ,Dieter,Solothurn,no_name,CHE
-2284235,HB9PFA,Albert,Muenchenstein,no_name,CHE
-2284236,HB9GVA,Romeo,Basel,no_name,CHE
+2284231,HB3XTY,Joerg,Derendingen,No_name,CHE
+2284232,HB9BLA,Andreas,Lausen,No_name,CHE
+2284233,HB9EAJ,Stephan,Basel,No_name,CHE
+2284234,HB9TPQ,Dieter,Solothurn,No_name,CHE
+2284235,HB9PFA,Albert,Muenchenstein,No_name,CHE
+2284236,HB9GVA,Romeo,Basel,No_name,CHE
 2284237,HB3XVF,Andrea,Basel,.,CHE
 2284238,HB9PCH,Christian,Allschwil,.,CHE
 2284239,HB3XVI,Pascal,Muttenz,Basel,CHE
@@ -10358,42 +10366,42 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2286194,HB9EKV,Thomas,Oberkirch,Zentralschweiz und Tessin,CHE
 2286195,HB9TKZ,Wolf,Goldau,Zentralschweiz und Tessin,CHE
 2286196,HB9JCI,Matthias,Schwyz,Zentralschweiz und Tessin,CHE
-2286197,HB9EZC,Juergen,Beckenried,no_name,CHE
+2286197,HB9EZC,Juergen,Beckenried,No_name,CHE
 2286198,HB9EAE,Silvio,Giswil,Obwalden,CHE
 2286199,HB9DNU,Karlheinz,Gudo,Ticino,CHE
-2286200,HB9CXZ,Luigi,S. Antonino,no_name,CHE
+2286200,HB9CXZ,Luigi,S. Antonino,No_name,CHE
 2286201,HB9GWS,Markus,Beromuenster,Bern,CHE
 2286202,HB9GZI,Ivan,Giswil,Zentralschweiz und Tessin,CHE
-2286203,HB9FPR,Ricky,Quartino,no_name,CHE
+2286203,HB9FPR,Ricky,Quartino,No_name,CHE
 2286204,HB3YVG,Gaia,Rivera,Ticino,CHE
 2286205,HB9GWZ,Ivan,Gordola,Ticino,CHE
-2286206,HB3XPW,Danilo,Massagno,no_name,CHE
+2286206,HB3XPW,Danilo,Massagno,No_name,CHE
 2286207,HB9DWL,Leo,St. Erhard,Zentralschweiz und Tessin,CHE
 2286208,HB9OAB,Franco,Bellinzona,Zentralschweiz und Tessin,CHE
 2286209,HB9GVN,Dario,Coldrerio,Zentralschweiz und Tessin,CHE
-2286210,HB9FBK,Flavio,Bellinzona,no_name,CHE
+2286210,HB9FBK,Flavio,Bellinzona,No_name,CHE
 2286211,HB9DDW,Roger,Adligenswil,Luzern,CHE
 2286212,HB9PHA,Bernardo,Campello,Zentralschweiz und Tessin,CHE
 2286213,HB9OBD,Luca,Barbengo,Zentralschweiz und Tessin,CHE
-2286214,HB9GFW,Marco,Claro,no_name,CHE
+2286214,HB9GFW,Marco,Claro,No_name,CHE
 2286215,HB9GNW,Urs,Hochdorf,Zentralschweiz und Tessin,CHE
 2286216,HB3YGD,Daniel,Cham,Zentralschweiz und Tessin,CHE
 2286217,HB9SYO,Fabiano,Bironico,Zentralschweiz und Tessin,CHE
 2286218,HB9FAL,Steve,Gnosca,Zentralschweiz und Tessin,CHE
 2286219,HB9GUD,Christoph,Hochdorf,Ticino,CHE
-2286220,HB3YVO,Beat,Triengen,no_name,CHE
-2286221,HB9DDW,Roger,Adligenswil,no_name,CHE
+2286220,HB3YVO,Beat,Triengen,No_name,CHE
+2286221,HB9DDW,Roger,Adligenswil,No_name,CHE
 2286222,HB9HJJ,Thomas,Brunnen,Schwyz,CHE
 2286223,HB9TQQ,Judith,Emmen Hochdorf,Luzern,CHE
-2286224,HB9FEX,Mirko,Melide,no_name,CHE
+2286224,HB9FEX,Mirko,Melide,No_name,CHE
 2286225,HB9AJM,Ivo,Locarno,Ticino,CHE
-2286226,HB9JBQ,Manuel,Schenkon,no_name,CHE
-2286227,HB9GZS,Sergio,Genestrerio,no_name,CHE
-2286228,HB9GZI,Ivan,Mugena,no_name,CHE
+2286226,HB9JBQ,Manuel,Schenkon,No_name,CHE
+2286227,HB9GZS,Sergio,Genestrerio,No_name,CHE
+2286228,HB9GZI,Ivan,Mugena,No_name,CHE
 2286229,HB3XSS,Samuele,Comano,Ticino,CHE
 2286230,HB9GZN,Nicola,Gordola,Ticino,CHE
 2286231,HB9GWM,Martin,Schenkon,Ticino,CHE
-2286232,HB9GZT,Pasinelli,Porza,no_name,CHE
+2286232,HB9GZT,Pasinelli,Porza,No_name,CHE
 2286233,HB9GZL,Gabriele,Lavorgo,Zentralschweiz und Tessin,CHE
 2286234,HB9FIF,Roger,Baar,Zug,CHE
 2286235,HB9HCE,Roland,no_city,Ticino,CHE
@@ -10416,8 +10424,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2286252,HB9BXE,Peter,Adligenswil,Zentralschweiz und Tessin,CHE
 2286253,HB9HDO,Tom,Steinhausen,Zentralschweiz und Tessin,CHE
 2286254,HB9HEC,Gabri,Astano,Gabri,CHE
-2286255,HB3YTC,Roberto,Lumino,no_name,CHE
-2286256,HB9TTY,Fred,Buttisholz,no_name,CHE
+2286255,HB3YTC,Roberto,Lumino,No_name,CHE
+2286256,HB9TTY,Fred,Buttisholz,No_name,CHE
 2286257,HB9ERA,No_name,no_city,.,CHE
 2286258,HB9GHD,Davide,Piedmont,Zentralschweiz und T,CHE
 2286259,HB3YKK,Marcel,Brunnen,Zentralschweiz und T,CHE
@@ -10727,49 +10735,49 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2288259,HB9GVR,Roberto,Buerglen,Zuerich und Thurgau,CHE
 2288260,HB9DRN,Mark,Wallenwil,Zuerich und Thurgau,CHE
 2288261,HB9GVM,Martin,Private,Zuerich und Thurgau,CHE
-2288262,HB3YJY,Marco,Sulgen,no_name,CHE
+2288262,HB3YJY,Marco,Sulgen,No_name,CHE
 2288263,HB9ZBV,Rino,Hochfelden,Zuerich und Thurgau,CHE
-2288264,HB9XOF,Roman,Winterthur,no_name,CHE
+2288264,HB9XOF,Roman,Winterthur,No_name,CHE
 2288265,HB3XRP,Pascal,Wetzikon,Zuerich und Thurgau,CHE
 2288266,HB9TOI,Mike,Buerglen,Zh-Tg,CHE
-2288267,HB9DGZ,Rene,Rafz,no_name,CHE
-2288268,HB9SXQ,Eduard,Zuerich,no_name,CHE
-2288269,HB9BDG,Rene,Zuerich,no_name,CHE
-2288270,HB9GWL,Dave,Rheinau,no_name,CHE
-2288271,HB9TZX,Michael,Zuerich,no_name,CHE
-2288272,HB9ETR,Rob,Zuerich,no_name,CHE
+2288267,HB9DGZ,Rene,Rafz,No_name,CHE
+2288268,HB9SXQ,Eduard,Zuerich,No_name,CHE
+2288269,HB9BDG,Rene,Zuerich,No_name,CHE
+2288270,HB9GWL,Dave,Rheinau,No_name,CHE
+2288271,HB9TZX,Michael,Zuerich,No_name,CHE
+2288272,HB9ETR,Rob,Zuerich,No_name,CHE
 2288273,HB9GXD,Domenico,Zuerich,Zuerich und Thurgau,CHE
 2288274,HB9MDP,Walter,Ebmatingen,Zuerich und Thurgau,CHE
 2288275,HB9JNX,Thomas,Ae4wa,Zuerich und Thurgau,CHE
 2288276,HB9DSC,Franz,Guemmenen,Zuerich und Thurgau,CHE
 2288277,HB3YTX,Stefan,Benken,Zuerich und Thurgau,CHE
-2288278,HB9GVR,Roberto,Buerglen,no_name,CHE
+2288278,HB9GVR,Roberto,Buerglen,No_name,CHE
 2288279,HB9FIY,Christopher,Zuerich,Zuerich und Thurgau,CHE
-2288280,HB9GXQ,Manuela,Buerglen,no_name,CHE
-2288281,HB3YVB,Rolf,Zuerich,no_name,CHE
-2288282,HB9AK,Rms,Neuenegg,no_name,CHE
-2288283,HB9GKP,Petru,Adliswil,no_name,CHE
+2288280,HB9GXQ,Manuela,Buerglen,No_name,CHE
+2288281,HB3YVB,Rolf,Zuerich,No_name,CHE
+2288282,HB9AK,Rms,Neuenegg,No_name,CHE
+2288283,HB9GKP,Petru,Adliswil,No_name,CHE
 2288284,HB9LAE,Bruno,Zuerich,Zh-Tg,CHE
 2288285,HB9JNA,Giuseppe,Neuhausen,Zh-Tg,CHE
-2288286,HB9FON,Milan,Zuerich,no_name,CHE
+2288286,HB9FON,Milan,Zuerich,No_name,CHE
 2288287,HB9ALR,Willy,Uster,Zh-Tg,CHE
 2288288,HB3XRV,Rene,Richterswil,Zh-Tg,CHE
-2288289,HB3YHM,Marco,Pratteln,no_name,CHE
-2288290,HB9CUZ,Roland,Schaffhausen,no_name,CHE
+2288289,HB3YHM,Marco,Pratteln,No_name,CHE
+2288290,HB9CUZ,Roland,Schaffhausen,No_name,CHE
 2288291,HB9FLX,Felix,Guemmenen,Bern,CHE
 2288292,HB9MTN,Ed,Oberwil,Basel,CHE
-2288293,HB9GZA,Joe,Wilen Bei Wollerau,no_name,CHE
-2288294,HB9AHL,Willy,Aarau,no_name,CHE
+2288293,HB9GZA,Joe,Wilen Bei Wollerau,No_name,CHE
+2288294,HB9AHL,Willy,Aarau,No_name,CHE
 2288295,HB9GZA,Joe,Wilen Bei Wollerau,Schwyz,CHE
 2288296,HB9PRQ,Urs,Dielsdorf,Zh-Tg,CHE
 2288297,HB9DOK,Thomas,Neuhausen am Rheinfall,Schaffhausen,CHE
 2288298,HB3XRV,Rene,Richterswil,Zh-Tg,CHE
 2288299,HB9WNN,Thomas,Eschlikon,Zh-Tg,CHE
 2288300,HB9THY,Hans,Egg,Zh-Tg,CHE
-2288301,HB9RFU,Andreas,Mattwil,no_name,CHE
+2288301,HB9RFU,Andreas,Mattwil,No_name,CHE
 2288302,HB9ZGL,Bruno,Pfaeffikon,Zh-Tg,CHE
-2288303,HB3XTK,Urs,Zuerich,no_name,CHE
-2288304,HB9GUF,Ernie,Oberterzen,no_name,CHE
+2288303,HB3XTK,Urs,Zuerich,No_name,CHE
+2288304,HB9GUF,Ernie,Oberterzen,No_name,CHE
 2288305,HB9REY,Markus,Adliswil,Zh-Tg,CHE
 2288306,HB9BRW,Hans,Uerikon,Zh-Tg,CHE
 2288307,HB3XTQ,Marcel,Winterthur,Zh-Tg,CHE
@@ -10789,12 +10797,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2288321,HB9GYI,Crispin,Tagelswangen,Crispin,CHE
 2288322,HB9HDZ,Hans,Embrach,Zh-Tg,CHE
 2288323,HB9HEM,Mark,Zurich,Zh-Tg,CHE
-2288324,HB9HDM,Michi,Zuerich,no_name,CHE
+2288324,HB9HDM,Michi,Zuerich,No_name,CHE
 2288325,HB9GSS,Stephan,Zurich,Stephan,CHE
-2288326,HB9HEX,Fabian,Opfikon,no_name,CHE
-2288327,HB9CCS,Wolfgang,Zuerich,no_name,CHE
-2288328,HB9EKO,Jens,Buelach,no_name,CHE
-2288329,HB3XVE,Lothar,Zurich,no_name,CHE
+2288326,HB9HEX,Fabian,Opfikon,No_name,CHE
+2288327,HB9CCS,Wolfgang,Zuerich,No_name,CHE
+2288328,HB9EKO,Jens,Buelach,No_name,CHE
+2288329,HB3XVE,Lothar,Zurich,No_name,CHE
 2288330,HB9HBT,Tom,Duernten,Zh-Tg,CHE
 2288331,HB3XUX,Andy,Meilen,.,CHE
 2288332,HB9HCP,Bruno,Oberwil-Lieli,.,CHE
@@ -10876,7 +10884,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2289063,HB9EMZ,Harry,Bussnang,Ostschweiz,CHE
 2289064,HB3YWF,Franz,St.Gallen,Ostschweiz,CHE
 2289065,HB9FUT,Timm,Muenchwilen,Ostschweiz,CHE
-2289066,HB9BIPI,Scoutnet,Scoutnet Schweiz,no_name,CHE
+2289066,HB9BIPI,Scoutnet,Scoutnet Schweiz,No_name,CHE
 2289067,HB3YBV,Andreas,no_city,Ostschweiz,CHE
 2289068,HB3YDM,Martin,Wilen,Ostschweiz,CHE
 2289069,HB9FUE,Patrick,Bischofszell,Ostschweiz,CHE
@@ -10892,69 +10900,69 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2289079,HB9EIJ,Martin,Rossruti,Ostschweiz,CHE
 2289080,HB9TMR,Hans,Frumsen,Ostschweiz,CHE
 2289081,HB9DPM,Ernst,Bazenheid,Ostschweiz,CHE
-2289082,HB3XPJ,Ralf,St.Gallen,no_name,CHE
+2289082,HB3XPJ,Ralf,St.Gallen,No_name,CHE
 2289083,HB9TUT,Michael,St.Gallen,Sankt Gallen,CHE
 2289084,HB3YBF,Patrick,Gossau,Sankt Gallen,CHE
-2289085,HB9DWK,Fiorello,Gossau,no_name,CHE
+2289085,HB9DWK,Fiorello,Gossau,No_name,CHE
 2289086,HB9TRO,Roland,Schwarzenbach,Ostschweiz,CHE
 2289087,HB9CVE,Andy,Niederteufen,Ostschweiz,CHE
-2289088,HB9PLK,Ueli,Gerlisberg,no_name,CHE
-2289089,HB9ZAP,Edwin,Teufen,no_name,CHE
-2289090,HB9EVD,Jack,Wilen,no_name,CHE
-2289091,HB9ZGZ,Cyrill,Muenchwilen,no_name,CHE
+2289088,HB9PLK,Ueli,Gerlisberg,No_name,CHE
+2289089,HB9ZAP,Edwin,Teufen,No_name,CHE
+2289090,HB9EVD,Jack,Wilen,No_name,CHE
+2289091,HB9ZGZ,Cyrill,Muenchwilen,No_name,CHE
 2289092,HB9GYB,Patrick,Gossau,Sankt Gallen,CHE
-2289093,HB9DKC,Rudolf,Widnau,no_name,CHE
-2289094,HB9BEF,Wilfried,Tubach,no_name,CHE
-2289095,HB3YJZ,Markus,Flawil,no_name,CHE
+2289093,HB9DKC,Rudolf,Widnau,No_name,CHE
+2289094,HB9BEF,Wilfried,Tubach,No_name,CHE
+2289095,HB3YJZ,Markus,Flawil,No_name,CHE
 2289096,HB9DXB,Sven,Flawil,Stgalle,CHE
 2289097,HB9HBF,Beat,Wolfhalden,Ostschweiz,CHE
 2289098,HB9DKC,Ruedi,Widnau,Ostschweiz,CHE
 2289099,HB9ENE,Michael,Tobel-Taegerschen,Ostschweiz,CHE
 2289100,HB3XUP,Florian,Waldkirch,Ostschweiz,CHE
-2289101,HB9HEW,Michael,Engelburg,no_name,CHE
+2289101,HB9HEW,Michael,Engelburg,No_name,CHE
 2289102,HB9DVZ,Andre,Sevelen Sg,.,CHE
 2289103,HB9FUG,Juerg,Schwellbrunn,Ausserrhoden,CHE
 2289104,HB9BZY,Jakob,Au/sg,.,CHE
 2289105,HB9SRD,Jakob,Goldach,Stno_infogallen,CHE
 2289106,HB9HJQ,Christian,Moerschwil,Stno_info Gallen,CHE
 2289107,HB3XWP,Dirk,Ganterschwil,.,CHE
-2780001,9H1US,Antoine,Birkirkara,no_name,MLT
-2780002,9H1DH,Herbert,Gwardamangia,no_name,MLT
-2780003,9H1DH,Herbert,Gwardamangia,no_name,MLT
-2780004,9H1IA,William,Mosta,no_name,MLT
-2780005,9H1IA,William,Mosta,no_name,MLT
-2780006,9H4CM,Charles,Victoria,no_name,MLT
-2780007,9H3MM,Michael,Bugibba,no_name,MLT
-2780008,9H1GP,Mark,Mosta,no_name,MLT
-2780009,9H1BX,Bill,Mosta,no_name,MLT
-2780010,9H5CC,Carmelo,Marsascala,no_name,MLT
-2780011,9H5BZ,Dione,Zebbug Gozo,no_name,MLT
-2780012,9H5YV,Glenn,Attard,no_name,MLT
-2780013,9H1SF,Steven,Mellieha,no_name,MLT
-2780014,9H1GY,Joseph,Birkirkara,no_name,MLT
-2780015,9H5SN,Marco,Mosta,no_name,MLT
-2780016,9H5HP,Philip,Mellieha,no_name,MLT
-2780017,9H1AZ,Gaetano,Mellieha,no_name,MLT
-2780018,9H1KE,Kenneth,Ghadira,no_name,MLT
-2780019,9H1ZX,Francis,Birkirkara,no_name,MLT
-2780020,9H1IF,Charles,Mosta,no_name,MLT
+2780001,9H1US,Antoine,Birkirkara,No_name,MLT
+2780002,9H1DH,Herbert,Gwardamangia,No_name,MLT
+2780003,9H1DH,Herbert,Gwardamangia,No_name,MLT
+2780004,9H1IA,William,Mosta,No_name,MLT
+2780005,9H1IA,William,Mosta,No_name,MLT
+2780006,9H4CM,Charles,Victoria,No_name,MLT
+2780007,9H3MM,Michael,Bugibba,No_name,MLT
+2780008,9H1GP,Mark,Mosta,No_name,MLT
+2780009,9H1BX,Bill,Mosta,No_name,MLT
+2780010,9H5CC,Carmelo,Marsascala,No_name,MLT
+2780011,9H5BZ,Dione,Zebbug Gozo,No_name,MLT
+2780012,9H5YV,Glenn,Attard,No_name,MLT
+2780013,9H1SF,Steven,Mellieha,No_name,MLT
+2780014,9H1GY,Joseph,Birkirkara,No_name,MLT
+2780015,9H5SN,Marco,Mosta,No_name,MLT
+2780016,9H5HP,Philip,Mellieha,No_name,MLT
+2780017,9H1AZ,Gaetano,Mellieha,No_name,MLT
+2780018,9H1KE,Kenneth,Ghadira,No_name,MLT
+2780019,9H1ZX,Francis,Birkirkara,No_name,MLT
+2780020,9H1IF,Charles,Mosta,No_name,MLT
 2780021,9H5FA,Anthony,Birkirkara,Birkirkara,MLT
-2780022,9H5US,Charles,Birkirkara,no_name,MLT
-2780023,9H1VW,Joseph,Gzira,no_name,MLT
-2780024,9H1MF,Walter,Hamrun,no_name,MLT
-2780025,9H3GC,Geoff,Camberley,no_name,MLT
-2780026,9H1JL,Joseph,Mosta,no_name,MLT
+2780022,9H5US,Charles,Birkirkara,No_name,MLT
+2780023,9H1VW,Joseph,Gzira,No_name,MLT
+2780024,9H1MF,Walter,Hamrun,No_name,MLT
+2780025,9H3GC,Geoff,Camberley,No_name,MLT
+2780026,9H1JL,Joseph,Mosta,No_name,MLT
 2780027,9H9SGM,Scout,Mosta,Mosta,MLT
-2780028,9H1J,Johanna,Mosta,no_name,MLT
-2780029,9H1SM,Steve,Naxxar,no_name,MLT
+2780028,9H1J,Johanna,Mosta,No_name,MLT
+2780029,9H1SM,Steve,Naxxar,No_name,MLT
 2780030,9H1UG,Roger,Msida,Msida,MLT
-2780031,9H1YP,Joseph,St.Pauls Bay,no_name,MLT
+2780031,9H1YP,Joseph,St.Pauls Bay,No_name,MLT
 2780032,9H1SR,Salvatore,Malta,Malta,MLT
 2780033,9H1MD,Mario,Sliema,Malta,MLT
 2780034,9H1XE,Robm0ora,Wirral,England,MLT
-2780035,9H3EN,Nik,Zabbar,no_name,MLT
-2780036,9H5TB,Raymond,Naxxar,no_name,MLT
-2780037,9H1LE,Jason,Zabbar,no_name,MLT
+2780035,9H3EN,Nik,Zabbar,No_name,MLT
+2780036,9H5TB,Raymond,Naxxar,No_name,MLT
+2780037,9H1LE,Jason,Zabbar,No_name,MLT
 2780038,9H1FBS,Charles,Sliema.,.,MLT
 2780039,9H1FF,Fred,Mosta,.,MLT
 2780040,9H5MT,Martin,Imqabba,.,MLT
@@ -10965,25 +10973,25 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2780045,9H1LC,Paul,Zejtun,-,MLT
 2780046,9H1CL,John,Marsaskala.,All Regions,MLT
 2780047,9H5SB,Frans,Attard  Bzn 12,.,MLT
-2780048,9H5JW,John,Paola Pla,,MLT
-2920001,T77GR,Renato,Borgo Maggiore,no_name,SMR
-2920002,T77NC,Nazzareno,Acquaviva,no_name,SMR
+2780048,9H5JW,John,Paola Pla,no_name,MLT
+2920001,T77GR,Renato,Borgo Maggiore,No_name,SMR
+2920002,T77NC,Nazzareno,Acquaviva,No_name,SMR
 2920003,T77DB,Danilo,Borgo Maggiore,San Marino,SMR
 2920004,T77NC,Nazzareno,Acquaviva (SM),San Marino,SMR
 2920005,T77SM,Marco,Faetano,Faetano,SMR
 2920006,T77NM,Matteo,Serravalle,Dogana,SMR
 2920007,T77AG,Matteo,Murata,San Marino,SMR
 2920008,T77DB,Danilo,Borgo Maggiore,San Marino,SMR
-2920009,T77CE,Claudio,Domagnano,no_name,SMR
-2920010,T77WI,Giancarlo,Borgo Maggiore,no_name,SMR
-2920011,T77CV,Vincenzo,Borgo Maggiore,no_name,SMR
-2920012,T77BV,Bruno,Falciano,no_name,SMR
-2920013,T77GO,T70a,Rep.San Marino,no_name,SMR
+2920009,T77CE,Claudio,Domagnano,No_name,SMR
+2920010,T77WI,Giancarlo,Borgo Maggiore,No_name,SMR
+2920011,T77CV,Vincenzo,Borgo Maggiore,No_name,SMR
+2920012,T77BV,Bruno,Falciano,No_name,SMR
+2920013,T77GO,T70a,Rep.San Marino,No_name,SMR
 2920014,T77CI,Arrsm,San Marino,San Marino,SMR
 2920015,T77FB,Arrsm,San Marino,San Marino,SMR
 2920016,T77CD,Giovanni,Domagnano,San Marino,SMR
 2920017,T77Y,Maurizio,Falciano,San Marino,SMR
-2920018,T77GZ,Gianluca,San Marino,no_name,SMR
+2920018,T77GZ,Gianluca,San Marino,No_name,SMR
 2920019,T77TF,Tullio,San Marino,San Marino,SMR
 2920020,T77IC,Roberto,San Marino,San Marino,SMR
 2920021,T77WL,Massimo,San Marino,San Marino,SMR

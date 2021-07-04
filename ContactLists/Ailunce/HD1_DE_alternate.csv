@@ -810,7 +810,7 @@ Private Call,DL1MJ Harald,Ulbrich,Blindheim,BY - DEU,2620807
 Private Call,DD7PJ Joerg,Turowski,Roxheim,RP - DEU,2620808
 Private Call,DO8WP Matthias,Lenhardt,Landshut,BY - DEU,2620809
 Private Call,DO1LX Ralf,Lux,Trier,RP - DEU,2620810
-Private Call,DO1JML Jerome,Marot-Lassauzaie,Muenchen,BY - DEU,2620811
+Private Call,DL2JML Jerome,Marot-Lassauzaie,Muenchen,BY - DEU,2620811
 Private Call,DO6AU Sascha,Zimmermann,Sexau,BW - DEU,2620812
 Private Call,DH3PM Patrick,Mueller-Labudde,Regis-Breitingen,SN - DEU,2620813
 Private Call,DO1XJ Robert,Keil,Althengstett,BW - DEU,2620814
@@ -1611,7 +1611,7 @@ Private Call,DO9FH Helmut,Knaak,Bad Duerkheim,RP - DEU,2621608
 Private Call,DH4PH Bernd,Zeimetz,Kastellaun,RP - DEU,2621609
 Private Call,DB1BE Bernd,Blumenstein,Kassel,HE - DEU,2621610
 Private Call,DF3MY Gerd,Anolleck,Augsburg,BY - DEU,2621611
-Private Call,DO1AKM Nigel,Cox,Iserlohn,NW - DEU,2621612
+Private Call,DD5MM Nigel,Cox,Iserlohn,NW - DEU,2621612
 Private Call,DG5DBY Christian,Oelschlegel,Wetter,NW - DEU,2621613
 Private Call,DH1EE Ernst,Eipper,Gaeufelden,BW - DEU,2621614
 Private Call,DO1TTA Momme,Maraun,Flensburg,SH - DEU,2621615
@@ -1741,7 +1741,7 @@ Private Call,DO5GD Gustav,Schelling,Gauting,BY - DEU,2621738
 Private Call,DL3NDZ Gustav,Herderich,Hirschaid,BY - DEU,2621739
 Private Call,DK9ZW Wolfgang,Zwicker,Neuhausen Ob Eck,BW - DEU,2621740
 Private Call,DO4SR Sabrina,Hoffmann,no_city,NO_NAME - DEU,2621741
-Private Call,DG1YHS Heiner,no_name,Duesseldorf,NW - DEU,2621742
+Private Call,DG1YHS Heiner,No_name,Duesseldorf,NW - DEU,2621742
 Private Call,DK6OS Olaf,Strauch,Celle (RA),NI - DEU,2621743
 Private Call,DD6MS Matthias,Seifert,Hainichen,SN - DEU,2621744
 Private Call,DH1PU Friedhelm,Bauer,Ahrbrueck,RP - DEU,2621745
@@ -5770,7 +5770,7 @@ Private Call,DJ9DJ Merlin,Heer,Ellern (HU),RP - DEU,2625767
 Private Call,DO4DW Daniel,Wirz,Neumagen-Dhron,RP - DEU,2625768
 Private Call,DJ5AS Alexander,Spies,Voelklingen,SL - DEU,2625769
 Private Call,DG1IAG Gunter,Schwambach,Kusel,RP - DEU,2625770
-Private Call,DO1OHB Oliver,Helmer-Borsutzki,no_city,RP - DEU,2625771
+Private Call,DL1OT Oliver,Helmer-Borsutzki,Siefersheim,RP - DEU,2625771
 Private Call,DM5LF Felix,Langer,Neidenstein,BW - DEU,2625772
 Private Call,DC8VD Marco,Dhur,Neuerburg,RP - DEU,2625773
 Private Call,DB9RA Andreas,Rauscher,Betzenstein,BY - DEU,2625774
@@ -5794,11 +5794,11 @@ Private Call,DO2ABS Paul,Atherton,Hilgermissen,NI - DEU,2625791
 Private Call,DJ6PI Josef,Grimm,Augsburg,BY - DEU,2625792
 Private Call,DL3LBK Kai-Hendrik,Schlenger,Kiel,SH - DEU,2625793
 Private Call,DO1OJB Juergen,Boltze,Wietzen,NI - DEU,2625794
-Private Call,DO1ES Stefan,Deling,Waldems ()),HE - DEU,2625795
+Private Call,DO1ES Stefan,Deling,Waldems ())),HE - DEU,2625795
 Private Call,DO4SV Stefan,Voss,Nettetal,NW - DEU,2625796
 Private Call,DO3SKS Stefan,Knoess,Staufenberg,HE - DEU,2625797
 Private Call,DL2FDP Toma,Gruenfeld,Wiesbaden,HE - DEU,2625798
-Private Call,DO3JST Joerg,Staedele,Denkendorf ()),BY - DEU,2625799
+Private Call,DO3JST Joerg,Staedele,Denkendorf ())),BY - DEU,2625799
 Private Call,DL1GOA Tobias,Mosgart,Kriftel,HE - DEU,2625800
 Private Call,DL3YBD Uwe,Nagel,Rheine,NW - DEU,2625801
 Private Call,DL0THL Manfred,Helbing,Lauf,BY - DEU,2625802
@@ -5815,8 +5815,8 @@ Private Call,DB4QU Ralf,Borkowski,Herten,NW - DEU,2625812
 Private Call,DO5MSN Marcel,Steigelmann,Neugersdorf,SN - DEU,2625813
 Private Call,DL7ZI Thomas-Bernd,Kimmel,Asslar Werdorf,HE - DEU,2625814
 Private Call,DG8DZ Peter,Zeller,Regensburg,BY - DEU,2625815
-Private Call,DO5MP Peter,Thiele,Kirchenlamitz ()),BY - DEU,2625816
-Private Call,DO8CA Carsten,Wennemer,Rheine ()),NW - DEU,2625817
+Private Call,DO5MP Peter,Thiele,Kirchenlamitz ())),BY - DEU,2625816
+Private Call,DO8CA Carsten,Wennemer,Rheine ())),NW - DEU,2625817
 Private Call,DH9KF Ferdinand,Thuering,Koeln,NW - DEU,2625818
 Private Call,DL8AAE Thomas,Kerk,Peine,NI - DEU,2625819
 Private Call,DO5DAB Joerg,Grimm,Offenbach,HE - DEU,2625820
@@ -5826,8 +5826,8 @@ Private Call,DG1ACZ Martina,Zechmeister,Braunschweig,NI - DEU,2625823
 Private Call,DO1HMR Haritta,Richter,Erlangen,BY - DEU,2625824
 Private Call,DH1NB Bernd,Nickstat,Potsdam,BB - DEU,2625825
 Private Call,DK3UO Ronny,Bennoehr,Ruelzheim,RP - DEU,2625826
-Private Call,DK0ZD Clubstation,H50,Wietze ()),NI - DEU,2625827
-Private Call,DL0KSB Club,Station,Bad Neuenahr-Ahrweiler ()),RP - DEU,2625828
+Private Call,DK0ZD Clubstation,H50,Wietze ())),NI - DEU,2625827
+Private Call,DL0KSB Club,Station,Bad Neuenahr-Ahrweiler ())),RP - DEU,2625828
 Private Call,DL3NEY Florian,Thienel,Burgebrach,BY - DEU,2625829
 Private Call,DG3IAM Ralf,Herold,Rastatt,BW - DEU,2625830
 Private Call,DH5PR Peter,Telahr,Rhede,NW - DEU,2625831
@@ -5879,6 +5879,25 @@ Private Call,DL1EHR Rudolf,Pakulla,Duesseldorf,NW - DEU,2625876
 Private Call,DL1DAW Achim,Wortmann,Bergkamen,NW - DEU,2625877
 Private Call,DO1LUK Lukas,Loew,Wunstorf,NI - DEU,2625878
 Private Call,DO2CHN Christian,Nagel,Wiggensbach,BY - DEU,2625879
+Private Call,DO8YGX Manuel,Hark,Ruethen,NW - DEU,2625880
+Private Call,DO1WPO Werner,Pochmann,Oberhausen,BY - DEU,2625881
+Private Call,DG1CKM Katharina,Rossen,Lautzenbruecken,RP - DEU,2625882
+Private Call,DO9GOW Oliver,Westkaemper,Geseke,NW - DEU,2625883
+Private Call,DM4MT Michael,Tietz,Koeln,NW - DEU,2625884
+Private Call,DD9WL Juergen,Florenkowski,Nackenheim,RP - DEU,2625885
+Private Call,DK2PC Thomas,Michel,Hettenleidelheim,RP - DEU,2625886
+Private Call,DG5AAZ Uwe,Klapper,Salzgitter,NI - DEU,2625887
+Private Call,DO5LEM Stefan,Huber,Oberhausen,NW - DEU,2625888
+Private Call,DL1RSH Holger,Merhout,Potsdam,BB - DEU,2625889
+Private Call,DO1ZYM Martin,Zymelka,Bamberg,BY - DEU,2625890
+Private Call,DM5TT Holger,Adams,Esslingen,BW - DEU,2625891
+Private Call,DL7DI David,Innocente,Bad Liebenzell ()),BW - DEU,2625892
+Private Call,DF8WP Kurt,Kohler,St. Augustin,NW - DEU,2625893
+Private Call,DO7IW Ingo,Wiebusch,Tostedt ()),NI - DEU,2625894
+Private Call,DL5SBY Franz,Hermann,Boehmenkirch,BW - DEU,2625895
+Private Call,DH6LP Peter,Luening,Holzkirchen,BY - DEU,2625896
+Private Call,DM1MKF Michael,Fenske,Neuseddin,BB - DEU,2625897
+Private Call,DG8DCN Jens,Lottes,Dortmund,NW - DEU,2625898
 Private Call,DM0NR Hans-Juergen,Barthen,Kruft,RP - DEU,2625998
 Private Call,DB0LJ Hans-Juergen,Barthen,Kruft,RP - DEU,2625999
 Private Call,DF6RK Ralf,Klingler,Glashuetten,HE - DEU,2626000
