@@ -444,7 +444,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2620442,DL2BCQ,Kubutsch Bissendorf,Kubutsch,NI,DEU,262,DMR
 2620443,DG8MDP,Bader Unterostendorf,Bader,BY,DEU,262,DMR
 2620444,DO7MI,Radmacher no_city,Radmacher,NO_NAME,DEU,262,DMR
-2620445,DO3HKF,Moehring Bad Driburg,Moehring,NW,DEU,262,DMR
+2620445,DL3MZ,Moehring Bad Driburg,Moehring,NW,DEU,262,DMR
 2620446,DL1MJG,Gust Ohlstadt,Gust,BY,DEU,262,DMR
 2620447,DD4FK,Koenning Berlin,Koenning,BE,DEU,262,DMR
 2620448,DK9UW,Schoenboeck Otterberg,Schoenboeck,RP,DEU,262,DMR
@@ -462,7 +462,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2620460,DJ5HM,Ost Namborn,Ost,SL,DEU,262,DMR
 2620461,DD3FH,Heubach Bad Salzungen,Heubach,TH,DEU,262,DMR
 2620462,DO1KHS,Stoecker Siegburg,Stoecker,NW,DEU,262,DMR
-2620463,DB4RNM,no_name Ruelzheim,no_name,RP,DEU,262,DMR
+2620463,DB4RNM, Ruelzheim,,RP,DEU,262,DMR
 2620464,DC9WI,Krupp Augsburg,Krupp,BY,DEU,262,DMR
 2620465,DA6PFL,Sibley no_city,Sibley,NO_NAME,DEU,262,DMR
 2620466,DF1YE,Fabian Schoenfliess,Fabian,BB,DEU,262,DMR
@@ -615,13 +615,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2620613,DO1OIB,Bloedorn Bueddenstedt,Bloedorn,NO_NAME,DEU,262,DMR
 2620614,DL1MP,Pfeiffer Waldbroel,Pfeiffer,NW,DEU,262,DMR
 2620615,DK3LM,Schellack Hohenbucko,Schellack,BB,DEU,262,DMR
-2620616,DO1MSE,Seuffert Grossmehring,Seuffert,BY,DEU,262,DMR
+2620616,DK7SM,Seuffert Grossmehring ()),Seuffert,BY,DEU,262,DMR
 2620617,DO1NSF,Simic Frankfurt,Simic,HE,DEU,262,DMR
 2620618,DO9BES,Esters Neustadt,Esters,NI,DEU,262,DMR
 2620619,DL9STX,Radtke no_city,Radtke,NO_NAME,DEU,262,DMR
 2620620,DL2YEJ,Macke Marl,Macke,NI,DEU,262,DMR
 2620621,DO8HB,Birth Hueckelhoven,Birth,NW,DEU,262,DMR
-2620622,DO3HKF,Moehring Bad Driburg,Moehring,NW,DEU,262,DMR
+2620622,DL3MZ,Moehring Bad Driburg,Moehring,NW,DEU,262,DMR
 2620623,DO1HE,Schoo Guetersloh,Schoo,NW,DEU,262,DMR
 2620624,DK6DR,Stroemann Dortmund,Stroemann,NW,DEU,262,DMR
 2620625,DK9JL,Eckart Heidelberg,Eckart,BW,DEU,262,DMR
@@ -855,7 +855,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2620853,DC9DD,Koester Bergkamen,Koester,NW,DEU,262,DMR
 2620854,DJ9KK,Kasamatsu Nuernberg,Kasamatsu,BY,DEU,262,DMR
 2620855,DO6BJ,Breit Wolfsburg,Breit,NI,DEU,262,DMR
-2620856,DO8MAX,Jaeger no_city,Jaeger,NO_NAME,DEU,262,DMR
+2620856,DJ1MA,Jaeger Ingolstadt ()),Jaeger,BY,DEU,262,DMR
 2620857,DG1FCL,Nottarp Bad Soden,Nottarp,HE,DEU,262,DMR
 2620858,DO4TW,Warnstorff Straubing,Warnstorff,BY,DEU,262,DMR
 2620859,DC4XB,Bomm Wurster Nordseekueste,Bomm,NI,DEU,262,DMR
@@ -1249,7 +1249,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2621247,DC1EKD,Hensel Eisenhuettenstadt,Hensel,BB,DEU,262,DMR
 2621248,DO1JLH,Fechner Berlin,Fechner,BE,DEU,262,DMR
 2621249,DL7TT,Sadler Berlin,Sadler,BE,DEU,262,DMR
-2621250,DG1BRB,no_name Berlin,no_name,BE,DEU,262,DMR
+2621250,DG1BRB, Berlin,,BE,DEU,262,DMR
 2621251,DL1NCZ,Saukel Luckenwalde,Saukel,BB,DEU,262,DMR
 2621252,DL7VFX,Kroeger Berlin,Kroeger,BE,DEU,262,DMR
 2621253,DL7VMO,Stamer Berlin,Stamer,BE,DEU,262,DMR
@@ -1380,7 +1380,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2621378,DL7AAH,Herzog Berlin,Herzog,BE,DEU,262,DMR
 2621379,DG5BRE,Kelm Petershagen,Kelm,BB,DEU,262,DMR
 2621380,DO1REL,Engel Hoerlitz,Engel,BB,DEU,262,DMR
-2621381,DO7SRBM,no_name no_city,no_name,BB,DEU,262,DMR
+2621381,DO7SRBM, no_city,,BB,DEU,262,DMR
 2621382,DO1NIC,Emberger Berlin,Emberger,BE,DEU,262,DMR
 2621383,DD6URA,Anhalt Neuenhagen,Anhalt,BB,DEU,262,DMR
 2621384,DO7EA,Elsner Berlin,Elsner,BE,DEU,262,DMR
@@ -1741,7 +1741,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2621739,DL3NDZ,Herderich Hirschaid,Herderich,BY,DEU,262,DMR
 2621740,DK9ZW,Zwicker Neuhausen Ob Eck,Zwicker,BW,DEU,262,DMR
 2621741,DO4SR,Hoffmann no_city,Hoffmann,NO_NAME,DEU,262,DMR
-2621742,DG1YHS,No_name Duesseldorf,No_name,NW,DEU,262,DMR
+2621742,DG1YHS, Duesseldorf,,NW,DEU,262,DMR
 2621743,DK6OS,Strauch Celle (RA),Strauch,NI,DEU,262,DMR
 2621744,DD6MS,Seifert Hainichen,Seifert,SN,DEU,262,DMR
 2621745,DH1PU,Bauer Ahrbrueck,Bauer,RP,DEU,262,DMR
@@ -5891,13 +5891,33 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625889,DL1RSH,Merhout Potsdam,Merhout,BB,DEU,262,DMR
 2625890,DO1ZYM,Zymelka Bamberg,Zymelka,BY,DEU,262,DMR
 2625891,DM5TT,Adams Esslingen,Adams,BW,DEU,262,DMR
-2625892,DL7DI,Innocente Bad Liebenzell ()),Innocente,BW,DEU,262,DMR
+2625892,DL7DI,Innocente Bad Liebenzell ())),Innocente,BW,DEU,262,DMR
 2625893,DF8WP,Kohler St. Augustin,Kohler,NW,DEU,262,DMR
-2625894,DO7IW,Wiebusch Tostedt ()),Wiebusch,NI,DEU,262,DMR
+2625894,DO7IW,Wiebusch Tostedt ())),Wiebusch,NI,DEU,262,DMR
 2625895,DL5SBY,Hermann Boehmenkirch,Hermann,BW,DEU,262,DMR
 2625896,DH6LP,Luening Holzkirchen,Luening,BY,DEU,262,DMR
 2625897,DM1MKF,Fenske Neuseddin,Fenske,BB,DEU,262,DMR
 2625898,DG8DCN,Lottes Dortmund,Lottes,NW,DEU,262,DMR
+2625899,DL4NAX,Baer Bindlach,Baer,BY,DEU,262,DMR
+2625900,DO8BI,Schade Bernau,Schade,BB,DEU,262,DMR
+2625901,DO9SKU,Kaufmann Unterwachingen,Kaufmann,BW,DEU,262,DMR
+2625902,DO4MME,Mertens Wachtberg,Mertens,NW,DEU,262,DMR
+2625903,DL1MS,Schwarz Bonn,Schwarz,NW,DEU,262,DMR
+2625904,DG5BDO,Brockmeyer Hofstetten,Brockmeyer,BY,DEU,262,DMR
+2625905,DF2LS,Schneider Bargteheide,Schneider,SH,DEU,262,DMR
+2625906,DL7PUT,Fluche Potsdam,Fluche,BB,DEU,262,DMR
+2625907,DO5ER,Weiss Kamen,Weiss,NW,DEU,262,DMR
+2625908,DO4DAN,Mueller Lahntal,Mueller,HE,DEU,262,DMR
+2625909,DO9EPL,Plumpe Bad Homburg,Plumpe,HE,DEU,262,DMR
+2625910,DH1LM,Lueck Meerbusch,Lueck,NW,DEU,262,DMR
+2625911,DO1DPA,Dietz Wuppertal,Dietz,NW,DEU,262,DMR
+2625912,DJ5FS,Kuehl Winsen,Kuehl,NI,DEU,262,DMR
+2625913,DO5CR,Reschke Lemgo ()),Reschke,NW,DEU,262,DMR
+2625914,DG3YIT,Hartmann Westerheim,Hartmann,BW,DEU,262,DMR
+2625915,DO2ESB,Blum Kaarst,Blum,NW,DEU,262,DMR
+2625916,DH5SA,Aktas Babenhausen,Aktas,HE,DEU,262,DMR
+2625917,DL9DCA,Hoffmann Herne,Hoffmann,NW,DEU,262,DMR
+2625918,DL4MTL,Eifrig Poehsig,Eifrig,SN,DEU,262,DMR
 2625998,DM0NR,Barthen Kruft,Barthen,RP,DEU,262,DMR
 2625999,DB0LJ,Barthen Kruft,Barthen,RP,DEU,262,DMR
 2626000,DF6RK,Klingler Glashuetten,Klingler,HE,DEU,262,DMR
@@ -6967,7 +6987,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627064,DL2MT,Mansch Leonberg,Mansch,BW,DEU,262,DMR
 2627065,DL9SAD,Blanz Schwieberdingen,Blanz,BW,DEU,262,DMR
 2627066,DF0LEO,Eifler Stuttgart,Eifler,BW,DEU,262,DMR
-2627067,DK0ALC,no_name Rutesheim,no_name,BW,DEU,262,DMR
+2627067,DK0ALC, Rutesheim,,BW,DEU,262,DMR
 2627068,DL1IK,Decker Lauf,Decker,BW,DEU,262,DMR
 2627069,DL1SMD,Sommer Heubach,Sommer,BW,DEU,262,DMR
 2627070,DG8GL,Von Mulert Konstanz,Von Mulert,BW,DEU,262,DMR
@@ -7014,7 +7034,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627111,DL1GKR,Ruedel Ehingen,Ruedel,BW,DEU,262,DMR
 2627112,DL2BER,Gilgen Laupheim,Gilgen,BW,DEU,262,DMR
 2627113,DG6GC,Naumann Konstanz,Naumann,BW,DEU,262,DMR
-2627114,DO4WL,Gilgen Laupheim,Gilgen,BW,DEU,262,DMR
+2627114,DL2GA,Gilgen Laupheim,Gilgen,BW,DEU,262,DMR
 2627115,DM7RM,Mittelstaedt Mudau,Mittelstaedt,BW,DEU,262,DMR
 2627116,DK7US,Hoffner Karlsruhe,Hoffner,BW,DEU,262,DMR
 2627117,DK7US,Hoffner Karlsruhe,Hoffner,BW,DEU,262,DMR
@@ -7682,7 +7702,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627779,DL6SW,Hertkorn Stuttgart,Hertkorn,BW,DEU,262,DMR
 2627780,DF3IS,Glaeser Kuernbach,Glaeser,BW,DEU,262,DMR
 2627781,DL9SFE,Stein Lossburg,Stein,BW,DEU,262,DMR
-2627782,DO9LT,no_name Voehringen,no_name,BW,DEU,262,DMR
+2627782,DO9LT, Voehringen,,BW,DEU,262,DMR
 2627783,DO1GTO,Oldag Rheinfelden,Oldag,BW,DEU,262,DMR
 2627784,DL3SDF,Hellener Schorndorf,Hellener,BW,DEU,262,DMR
 2627785,DL1SEV,Conradt Vaihingen,Conradt,BW,DEU,262,DMR
@@ -8513,7 +8533,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2628620,DO2RAI,Hammer Gablingen,Hammer,BY,DEU,262,DMR
 2628621,DL0MO,Rinder Bidingen,Rinder,BY,DEU,262,DMR
 2628622,DL5YCW,Hinterding Ingolstadt,Hinterding,BY,DEU,262,DMR
-2628623,DO6EE,Gay Offingen,Gay,BY,DEU,262,DMR
+2628623,DO6EE,Gay Sontheim An der Brenz,Gay,BW,DEU,262,DMR
 2628624,DK1MCS,Scheucher Brunnthal,Scheucher,BY,DEU,262,DMR
 2628625,DF7MB,Boehner Kolbermoor,Boehner,BY,DEU,262,DMR
 2628626,DK1MFI,Rydwal Oettingen,Rydwal,BY,DEU,262,DMR
@@ -10018,7 +10038,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2633682,DC9XP,Fleischer Bremen,Fleischer,HB,DEU,263,DMR
 2633683,DL1ROW,Klueser Rotenburg,Klueser,NI,DEU,263,DMR
 2633684,DH1HD,Drechsler Loxstedt,Drechsler,NI,DEU,263,DMR
-2633685,DO3HMO,no_name Lueneburg,no_name,NI,DEU,263,DMR
+2633685,DO3HMO, Lueneburg,,NI,DEU,263,DMR
 2633686,DJ7XB,Grahn Koenigslutter,Grahn,NI,DEU,263,DMR
 2633687,DL1IN,Schulze Sassenburg,Schulze,NO_NAME,DEU,263,DMR
 2633688,DL9OAW,Hammer Lehrte,Hammer,NI,DEU,263,DMR
@@ -11494,7 +11514,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2637372,DD7GR,Tziortzidis Stuttgart,Tziortzidis,BW,DEU,263,DMR
 2637373,DG2SKJ,Klausnitzer Moetzingen,Klausnitzer,BW,DEU,263,DMR
 2637374,DO7RL,Lehmann Stuttgart,Lehmann,BW,DEU,263,DMR
-2637375,DJ3RO,Oesterle no_city,Oesterle,NO_NAME,DEU,263,DMR
+2637375,DJ3RO,Oesterle no_city,Oesterle,,DEU,263,DMR
 2637376,DL7KM,Kopp Nagold,Kopp,BW,DEU,263,DMR
 2637377,DK4HT,Radau Hanstedt,Radau,BW,DEU,263,DMR
 2637378,DL9ED,Damrau Wannweil,Damrau,BW,DEU,263,DMR
@@ -11619,7 +11639,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2637497,DJ1TF,Fritzsche Bad Schoenborn,Fritzsche,BW,DEU,263,DMR
 2637498,DH1HK,Krause Pforzheim,Krause,BW,DEU,263,DMR
 2637499,DL1SBU,Feuchter Bretzfeld,Feuchter,BW,DEU,263,DMR
-2637500,DD5KA,no_name no_city,no_name,BW,DEU,263,DMR
+2637500,DD5KA, no_city,,BW,DEU,263,DMR
 2637501,DJ5SE,Stetter Konstanz,Stetter,BW,DEU,263,DMR
 2637502,DO1RAU,Rau Hermaringen,Rau,BW,DEU,263,DMR
 2637503,DL6FS,Schulz Schwetzingen,Schulz,BW,DEU,263,DMR
@@ -12890,7 +12910,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2644163,DL4EBJ,Koering Bedburg-Hau,Koering,NW,DEU,264,DMR
 2644164,DO5APO,Agirkaya Witten,Agirkaya,NW,DEU,264,DMR
 2644165,DJ7QV,Fischer Ennepetal,Fischer,NW,DEU,264,DMR
-2644166,DB8LB,no_name Koeln,no_name,NW,DEU,264,DMR
+2644166,DB8LB, Koeln,,NW,DEU,264,DMR
 2644167,DB2CL,Lehr Musterhausen,Lehr,NW,DEU,264,DMR
 2644168,DO6IP,Beckers Geilenkirchen,Beckers,NW,DEU,264,DMR
 2644169,DC3DV,Schachtner Castrop-Rauxel,Schachtner,NW,DEU,264,DMR

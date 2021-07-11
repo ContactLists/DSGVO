@@ -443,7 +443,7 @@
 2620442,DL2BCQ,Andreas,Bissendorf,NI,DEU
 2620443,DG8MDP,Monika,Unterostendorf,BY,DEU
 2620444,DO7MI,Mike,no_city,NO_NAME,DEU
-2620445,DO3HKF,Markus,Bad Driburg,NW,DEU
+2620445,DL3MZ,Markus,Bad Driburg,NW,DEU
 2620446,DL1MJG,Johannes,Ohlstadt,BY,DEU
 2620447,DD4FK,Frank,Berlin,BE,DEU
 2620448,DK9UW,Horst,Otterberg,RP,DEU
@@ -614,13 +614,13 @@
 2620613,DO1OIB,Ingo,Bueddenstedt,NO_NAME,DEU
 2620614,DL1MP,Martin,Waldbroel,NW,DEU
 2620615,DK3LM,Mathias,Hohenbucko,BB,DEU
-2620616,DO1MSE,Michael,Grossmehring,BY,DEU
+2620616,DK7SM,Michael,Grossmehring ()),BY,DEU
 2620617,DO1NSF,Nebojsa,Frankfurt,HE,DEU
 2620618,DO9BES,Bernd,Neustadt,NI,DEU
 2620619,DL9STX,Rouven,no_city,NO_NAME,DEU
 2620620,DL2YEJ,Friedhelm,Marl,NI,DEU
 2620621,DO8HB,Herbert,Hueckelhoven,NW,DEU
-2620622,DO3HKF,Markus,Bad Driburg,NW,DEU
+2620622,DL3MZ,Markus,Bad Driburg,NW,DEU
 2620623,DO1HE,Henning,Guetersloh,NW,DEU
 2620624,DK6DR,Jan,Dortmund,NW,DEU
 2620625,DK9JL,Wolfgang,Heidelberg,BW,DEU
@@ -854,7 +854,7 @@
 2620853,DC9DD,Hans,Bergkamen,NW,DEU
 2620854,DJ9KK,Koichi,Nuernberg,BY,DEU
 2620855,DO6BJ,Thomas,Wolfsburg,NI,DEU
-2620856,DO8MAX,Maximilian,no_city,NO_NAME,DEU
+2620856,DJ1MA,Max,Ingolstadt ()),BY,DEU
 2620857,DG1FCL,Daniel,Bad Soden,HE,DEU
 2620858,DO4TW,Thomas,Straubing,BY,DEU
 2620859,DC4XB,Holger,Wurster Nordseekueste,NI,DEU
@@ -5890,13 +5890,33 @@
 2625889,DL1RSH,Holger,Potsdam,BB,DEU
 2625890,DO1ZYM,Martin,Bamberg,BY,DEU
 2625891,DM5TT,Holger,Esslingen,BW,DEU
-2625892,DL7DI,David,Bad Liebenzell ()),BW,DEU
+2625892,DL7DI,David,Bad Liebenzell ())),BW,DEU
 2625893,DF8WP,Kurt,St. Augustin,NW,DEU
-2625894,DO7IW,Ingo,Tostedt ()),NI,DEU
+2625894,DO7IW,Ingo,Tostedt ())),NI,DEU
 2625895,DL5SBY,Franz,Boehmenkirch,BW,DEU
 2625896,DH6LP,Peter,Holzkirchen,BY,DEU
 2625897,DM1MKF,Michael,Neuseddin,BB,DEU
 2625898,DG8DCN,Jens,Dortmund,NW,DEU
+2625899,DL4NAX,Friedrich,Bindlach,BY,DEU
+2625900,DO8BI,Stephan,Bernau,BB,DEU
+2625901,DO9SKU,Stefan,Unterwachingen,BW,DEU
+2625902,DO4MME,Marc,Wachtberg,NW,DEU
+2625903,DL1MS,Maik,Bonn,NW,DEU
+2625904,DG5BDO,Andreas,Hofstetten,BY,DEU
+2625905,DF2LS,Wolf-Michael,Bargteheide,SH,DEU
+2625906,DL7PUT,Bernhard,Potsdam,BB,DEU
+2625907,DO5ER,Norbert,Kamen,NW,DEU
+2625908,DO4DAN,Daniel,Lahntal,HE,DEU
+2625909,DO9EPL,Erik,Bad Homburg,HE,DEU
+2625910,DH1LM,Lothar,Meerbusch,NW,DEU
+2625911,DO1DPA,Harald,Wuppertal,NW,DEU
+2625912,DJ5FS,Horst,Winsen,NI,DEU
+2625913,DO5CR,Cornel,Lemgo ()),NW,DEU
+2625914,DG3YIT,Thorsten,Westerheim,BW,DEU
+2625915,DO2ESB,Sascha,Kaarst,NW,DEU
+2625916,DH5SA,Soner,Babenhausen,HE,DEU
+2625917,DL9DCA,Bjoern,Herne,NW,DEU
+2625918,DL4MTL,Steve,Poehsig,SN,DEU
 2625998,DM0NR,Hans-Juergen,Kruft,RP,DEU
 2625999,DB0LJ,Hans-Juergen,Kruft,RP,DEU
 2626000,DF6RK,Ralf,Glashuetten,HE,DEU
@@ -7013,7 +7033,7 @@
 2627111,DL1GKR,Klaus,Ehingen,BW,DEU
 2627112,DL2BER,Berno,Laupheim,BW,DEU
 2627113,DG6GC,Dirk,Konstanz,BW,DEU
-2627114,DO4WL,Andrea,Laupheim,BW,DEU
+2627114,DL2GA,Andrea,Laupheim,BW,DEU
 2627115,DM7RM,Ralf,Mudau,BW,DEU
 2627116,DK7US,Udo,Karlsruhe,BW,DEU
 2627117,DK7US,Udo,Karlsruhe,BW,DEU
@@ -8512,7 +8532,7 @@
 2628620,DO2RAI,Rainer,Gablingen,BY,DEU
 2628621,DL0MO,Herbert,Bidingen,BY,DEU
 2628622,DL5YCW,Matthias,Ingolstadt,BY,DEU
-2628623,DO6EE,Joachim,Offingen,BY,DEU
+2628623,DO6EE,Joachim,Sontheim An der Brenz,BW,DEU
 2628624,DK1MCS,Christian,Brunnthal,BY,DEU
 2628625,DF7MB,Bernhard,Kolbermoor,BY,DEU
 2628626,DK1MFI,Ingomar,Oettingen,BY,DEU
@@ -11493,7 +11513,7 @@
 2637372,DD7GR,Chrysovalantis,Stuttgart,BW,DEU
 2637373,DG2SKJ,Juergen,Moetzingen,BW,DEU
 2637374,DO7RL,Robin,Stuttgart,BW,DEU
-2637375,DJ3RO,Rainer,no_city,NO_NAME,DEU
+2637375,DJ3RO,Reiner,no_city,,DEU
 2637376,DL7KM,Martin,Nagold,BW,DEU
 2637377,DK4HT,Horst,Hanstedt,BW,DEU
 2637378,DL9ED,Elmar,Wannweil,BW,DEU

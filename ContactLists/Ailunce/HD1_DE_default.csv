@@ -444,7 +444,7 @@ Private Call,DG6RAH Christian Marzi,Schwandorf,BY,DEU,2620441
 Private Call,DL2BCQ Andreas Kubutsch,Bissendorf,NI,DEU,2620442
 Private Call,DG8MDP Monika Bader,Unterostendorf,BY,DEU,2620443
 Private Call,DO7MI Mike Radmacher,no_city,NO_NAME,DEU,2620444
-Private Call,DO3HKF Markus Moehring,Bad Driburg,NW,DEU,2620445
+Private Call,DL3MZ Markus Moehring,Bad Driburg,NW,DEU,2620445
 Private Call,DL1MJG Johannes Gust,Ohlstadt,BY,DEU,2620446
 Private Call,DD4FK Frank Koenning,Berlin,BE,DEU,2620447
 Private Call,DK9UW Horst Schoenboeck,Otterberg,RP,DEU,2620448
@@ -462,7 +462,7 @@ Private Call,DC0EG Udo Pasch,Solingen,NW,DEU,2620459
 Private Call,DJ5HM Hartmut Ost,Namborn,SL,DEU,2620460
 Private Call,DD3FH Frank Heubach,Bad Salzungen,TH,DEU,2620461
 Private Call,DO1KHS Horst Stoecker,Siegburg,NW,DEU,2620462
-Private Call,DB4RNM Norbert no_name,Ruelzheim,RP,DEU,2620463
+Private Call,DB4RNM Norbert ,Ruelzheim,RP,DEU,2620463
 Private Call,DC9WI Winrich Krupp,Augsburg,BY,DEU,2620464
 Private Call,DA6PFL Phillip Sibley,no_city,NO_NAME,DEU,2620465
 Private Call,DF1YE Thomas-Christian Fabian,Schoenfliess,BB,DEU,2620466
@@ -615,13 +615,13 @@ Private Call,DK8FF Hans-Juergen Huven,Meinerzhagen,NW,DEU,2620612
 Private Call,DO1OIB Ingo Bloedorn,Bueddenstedt,NO_NAME,DEU,2620613
 Private Call,DL1MP Martin Pfeiffer,Waldbroel,NW,DEU,2620614
 Private Call,DK3LM Mathias Schellack,Hohenbucko,BB,DEU,2620615
-Private Call,DO1MSE Michael Seuffert,Grossmehring,BY,DEU,2620616
+Private Call,DK7SM Michael Seuffert,Grossmehring ()),BY,DEU,2620616
 Private Call,DO1NSF Nebojsa Simic,Frankfurt,HE,DEU,2620617
 Private Call,DO9BES Bernd Esters,Neustadt,NI,DEU,2620618
 Private Call,DL9STX Rouven Radtke,no_city,NO_NAME,DEU,2620619
 Private Call,DL2YEJ Friedhelm Macke,Marl,NI,DEU,2620620
 Private Call,DO8HB Herbert Birth,Hueckelhoven,NW,DEU,2620621
-Private Call,DO3HKF Markus Moehring,Bad Driburg,NW,DEU,2620622
+Private Call,DL3MZ Markus Moehring,Bad Driburg,NW,DEU,2620622
 Private Call,DO1HE Henning Schoo,Guetersloh,NW,DEU,2620623
 Private Call,DK6DR Jan Stroemann,Dortmund,NW,DEU,2620624
 Private Call,DK9JL Wolfgang Eckart,Heidelberg,BW,DEU,2620625
@@ -855,7 +855,7 @@ Private Call,DL1FMK Mario Koch,Buedingen,HE,DEU,2620852
 Private Call,DC9DD Hans Koester,Bergkamen,NW,DEU,2620853
 Private Call,DJ9KK Koichi Kasamatsu,Nuernberg,BY,DEU,2620854
 Private Call,DO6BJ Thomas Breit,Wolfsburg,NI,DEU,2620855
-Private Call,DO8MAX Maximilian Jaeger,no_city,NO_NAME,DEU,2620856
+Private Call,DJ1MA Max Jaeger,Ingolstadt ()),BY,DEU,2620856
 Private Call,DG1FCL Daniel Nottarp,Bad Soden,HE,DEU,2620857
 Private Call,DO4TW Thomas Warnstorff,Straubing,BY,DEU,2620858
 Private Call,DC4XB Holger Bomm,Wurster Nordseekueste,NI,DEU,2620859
@@ -1249,7 +1249,7 @@ Private Call,DG2RON Ronny Jerke,Mittenwalde,BB,DEU,2621246
 Private Call,DC1EKD Eckhard Hensel,Eisenhuettenstadt,BB,DEU,2621247
 Private Call,DO1JLH Marco Fechner,Berlin,BE,DEU,2621248
 Private Call,DL7TT Manfred Sadler,Berlin,BE,DEU,2621249
-Private Call,DG1BRB Uwe no_name,Berlin,BE,DEU,2621250
+Private Call,DG1BRB Uwe ,Berlin,BE,DEU,2621250
 Private Call,DL1NCZ Bernhard Saukel,Luckenwalde,BB,DEU,2621251
 Private Call,DL7VFX Thomas Kroeger,Berlin,BE,DEU,2621252
 Private Call,DL7VMO Holger Stamer,Berlin,BE,DEU,2621253
@@ -1380,7 +1380,7 @@ Private Call,DD1BKT Felix Bayer,Berlin,BE,DEU,2621377
 Private Call,DL7AAH Andreas Herzog,Berlin,BE,DEU,2621378
 Private Call,DG5BRE Ronny Kelm,Petershagen,BB,DEU,2621379
 Private Call,DO1REL Rajko Engel,Hoerlitz,BB,DEU,2621380
-Private Call,DO7SRBM Sven no_name,no_city,BB,DEU,2621381
+Private Call,DO7SRBM Sven ,no_city,BB,DEU,2621381
 Private Call,DO1NIC Peter Emberger,Berlin,BE,DEU,2621382
 Private Call,DD6URA Rene Anhalt,Neuenhagen,BB,DEU,2621383
 Private Call,DO7EA Andreas Elsner,Berlin,BE,DEU,2621384
@@ -1741,7 +1741,7 @@ Private Call,DO5GD Gustav Schelling,Gauting,BY,DEU,2621738
 Private Call,DL3NDZ Gustav Herderich,Hirschaid,BY,DEU,2621739
 Private Call,DK9ZW Wolfgang Zwicker,Neuhausen Ob Eck,BW,DEU,2621740
 Private Call,DO4SR Sabrina Hoffmann,no_city,NO_NAME,DEU,2621741
-Private Call,DG1YHS Heiner No_name,Duesseldorf,NW,DEU,2621742
+Private Call,DG1YHS Heiner ,Duesseldorf,NW,DEU,2621742
 Private Call,DK6OS Olaf Strauch,Celle (RA),NI,DEU,2621743
 Private Call,DD6MS Matthias Seifert,Hainichen,SN,DEU,2621744
 Private Call,DH1PU Friedhelm Bauer,Ahrbrueck,RP,DEU,2621745
@@ -5891,13 +5891,33 @@ Private Call,DO5LEM Stefan Huber,Oberhausen,NW,DEU,2625888
 Private Call,DL1RSH Holger Merhout,Potsdam,BB,DEU,2625889
 Private Call,DO1ZYM Martin Zymelka,Bamberg,BY,DEU,2625890
 Private Call,DM5TT Holger Adams,Esslingen,BW,DEU,2625891
-Private Call,DL7DI David Innocente,Bad Liebenzell ()),BW,DEU,2625892
+Private Call,DL7DI David Innocente,Bad Liebenzell ())),BW,DEU,2625892
 Private Call,DF8WP Kurt Kohler,St. Augustin,NW,DEU,2625893
-Private Call,DO7IW Ingo Wiebusch,Tostedt ()),NI,DEU,2625894
+Private Call,DO7IW Ingo Wiebusch,Tostedt ())),NI,DEU,2625894
 Private Call,DL5SBY Franz Hermann,Boehmenkirch,BW,DEU,2625895
 Private Call,DH6LP Peter Luening,Holzkirchen,BY,DEU,2625896
 Private Call,DM1MKF Michael Fenske,Neuseddin,BB,DEU,2625897
 Private Call,DG8DCN Jens Lottes,Dortmund,NW,DEU,2625898
+Private Call,DL4NAX Friedrich Baer,Bindlach,BY,DEU,2625899
+Private Call,DO8BI Stephan Schade,Bernau,BB,DEU,2625900
+Private Call,DO9SKU Stefan Kaufmann,Unterwachingen,BW,DEU,2625901
+Private Call,DO4MME Marc Mertens,Wachtberg,NW,DEU,2625902
+Private Call,DL1MS Maik Schwarz,Bonn,NW,DEU,2625903
+Private Call,DG5BDO Andreas Brockmeyer,Hofstetten,BY,DEU,2625904
+Private Call,DF2LS Wolf-Michael Schneider,Bargteheide,SH,DEU,2625905
+Private Call,DL7PUT Bernhard Fluche,Potsdam,BB,DEU,2625906
+Private Call,DO5ER Norbert Weiss,Kamen,NW,DEU,2625907
+Private Call,DO4DAN Daniel Mueller,Lahntal,HE,DEU,2625908
+Private Call,DO9EPL Erik Plumpe,Bad Homburg,HE,DEU,2625909
+Private Call,DH1LM Lothar Lueck,Meerbusch,NW,DEU,2625910
+Private Call,DO1DPA Harald Dietz,Wuppertal,NW,DEU,2625911
+Private Call,DJ5FS Horst Kuehl,Winsen,NI,DEU,2625912
+Private Call,DO5CR Cornel Reschke,Lemgo ()),NW,DEU,2625913
+Private Call,DG3YIT Thorsten Hartmann,Westerheim,BW,DEU,2625914
+Private Call,DO2ESB Sascha Blum,Kaarst,NW,DEU,2625915
+Private Call,DH5SA Soner Aktas,Babenhausen,HE,DEU,2625916
+Private Call,DL9DCA Bjoern Hoffmann,Herne,NW,DEU,2625917
+Private Call,DL4MTL Steve Eifrig,Poehsig,SN,DEU,2625918
 Private Call,DM0NR Hans-Juergen Barthen,Kruft,RP,DEU,2625998
 Private Call,DB0LJ Hans-Juergen Barthen,Kruft,RP,DEU,2625999
 Private Call,DF6RK Ralf Klingler,Glashuetten,HE,DEU,2626000
@@ -6967,7 +6987,7 @@ Private Call,DM7RM Ralf Mittelstaedt,Mudau,BW,DEU,2627063
 Private Call,DL2MT Thomas Mansch,Leonberg,BW,DEU,2627064
 Private Call,DL9SAD Martin Blanz,Schwieberdingen,BW,DEU,2627065
 Private Call,DF0LEO Dirk Eifler,Stuttgart,BW,DEU,2627066
-Private Call,DK0ALC Club no_name,Rutesheim,BW,DEU,2627067
+Private Call,DK0ALC Club ,Rutesheim,BW,DEU,2627067
 Private Call,DL1IK Burkhard Decker,Lauf,BW,DEU,2627068
 Private Call,DL1SMD Manuel Sommer,Heubach,BW,DEU,2627069
 Private Call,DG8GL Christian Von Mulert,Konstanz,BW,DEU,2627070
@@ -7014,7 +7034,7 @@ Private Call,DB5RM Rico Meier,no_city,NO_NAME,DEU,2627110
 Private Call,DL1GKR Klaus Ruedel,Ehingen,BW,DEU,2627111
 Private Call,DL2BER Berno Gilgen,Laupheim,BW,DEU,2627112
 Private Call,DG6GC Dirk Naumann,Konstanz,BW,DEU,2627113
-Private Call,DO4WL Andrea Gilgen,Laupheim,BW,DEU,2627114
+Private Call,DL2GA Andrea Gilgen,Laupheim,BW,DEU,2627114
 Private Call,DM7RM Ralf Mittelstaedt,Mudau,BW,DEU,2627115
 Private Call,DK7US Udo Hoffner,Karlsruhe,BW,DEU,2627116
 Private Call,DK7US Udo Hoffner,Karlsruhe,BW,DEU,2627117
@@ -7682,7 +7702,7 @@ Private Call,DG4GP Uwe Ganter,Oberndorf,BW,DEU,2627778
 Private Call,DL6SW Wolfgang Hertkorn,Stuttgart,BW,DEU,2627779
 Private Call,DF3IS Michael Glaeser,Kuernbach,BW,DEU,2627780
 Private Call,DL9SFE Elmar Stein,Lossburg,BW,DEU,2627781
-Private Call,DO9LT Oliver no_name,Voehringen,BW,DEU,2627782
+Private Call,DO9LT Oliver ,Voehringen,BW,DEU,2627782
 Private Call,DO1GTO Thomas Oldag,Rheinfelden,BW,DEU,2627783
 Private Call,DL3SDF Ralf Hellener,Schorndorf,BW,DEU,2627784
 Private Call,DL1SEV Axel Conradt,Vaihingen,BW,DEU,2627785
@@ -8513,7 +8533,7 @@ Private Call,DO1WJS Walter Swoboda,Muenchen,BY,DEU,2628619
 Private Call,DO2RAI Rainer Hammer,Gablingen,BY,DEU,2628620
 Private Call,DL0MO Herbert Rinder,Bidingen,BY,DEU,2628621
 Private Call,DL5YCW Matthias Hinterding,Ingolstadt,BY,DEU,2628622
-Private Call,DO6EE Joachim Gay,Offingen,BY,DEU,2628623
+Private Call,DO6EE Joachim Gay,Sontheim An der Brenz,BW,DEU,2628623
 Private Call,DK1MCS Christian Scheucher,Brunnthal,BY,DEU,2628624
 Private Call,DF7MB Bernhard Boehner,Kolbermoor,BY,DEU,2628625
 Private Call,DK1MFI Ingomar Rydwal,Oettingen,BY,DEU,2628626
@@ -10018,7 +10038,7 @@ Private Call,DO4ABS Alwin Schmidt,no_city,NO_NAME,DEU,2633681
 Private Call,DC9XP Andreas Fleischer,Bremen,HB,DEU,2633682
 Private Call,DL1ROW Michael Klueser,Rotenburg,NI,DEU,2633683
 Private Call,DH1HD Hans-Dieter Drechsler,Loxstedt,NI,DEU,2633684
-Private Call,DO3HMO Patty no_name,Lueneburg,NI,DEU,2633685
+Private Call,DO3HMO Patty ,Lueneburg,NI,DEU,2633685
 Private Call,DJ7XB Robert Grahn,Koenigslutter,NI,DEU,2633686
 Private Call,DL1IN Stefan Schulze,Sassenburg,NO_NAME,DEU,2633687
 Private Call,DL9OAW Frank Hammer,Lehrte,NI,DEU,2633688
@@ -11494,7 +11514,7 @@ Private Call,DL1ST Siegfried Thumm,Filderstadt,BW,DEU,2637371
 Private Call,DD7GR Chrysovalantis Tziortzidis,Stuttgart,BW,DEU,2637372
 Private Call,DG2SKJ Juergen Klausnitzer,Moetzingen,BW,DEU,2637373
 Private Call,DO7RL Robin Lehmann,Stuttgart,BW,DEU,2637374
-Private Call,DJ3RO Rainer Oesterle,no_city,NO_NAME,DEU,2637375
+Private Call,DJ3RO Reiner Oesterle,no_city,,DEU,2637375
 Private Call,DL7KM Martin Kopp,Nagold,BW,DEU,2637376
 Private Call,DK4HT Horst Radau,Hanstedt,BW,DEU,2637377
 Private Call,DL9ED Elmar Damrau,Wannweil,BW,DEU,2637378
@@ -11619,7 +11639,7 @@ Private Call,DL4TP Rainer Bauersachs,Esslingen,BW,DEU,2637496
 Private Call,DJ1TF Thomas Fritzsche,Bad Schoenborn,BW,DEU,2637497
 Private Call,DH1HK Henry Krause,Pforzheim,BW,DEU,2637498
 Private Call,DL1SBU Bernd Feuchter,Bretzfeld,BW,DEU,2637499
-Private Call,DD5KA Jose no_name,no_city,BW,DEU,2637500
+Private Call,DD5KA Jose ,no_city,BW,DEU,2637500
 Private Call,DJ5SE Sebastian Stetter,Konstanz,BW,DEU,2637501
 Private Call,DO1RAU Stefan Rau,Hermaringen,BW,DEU,2637502
 Private Call,DL6FS Frank Schulz,Schwetzingen,BW,DEU,2637503
@@ -12890,7 +12910,7 @@ Private Call,DL0ES Ralf Trense,Gevelsberg,NW,DEU,2644162
 Private Call,DL4EBJ Johannes Koering,Bedburg-Hau,NW,DEU,2644163
 Private Call,DO5APO Abdullah Agirkaya,Witten,NW,DEU,2644164
 Private Call,DJ7QV Ernst Fischer,Ennepetal,NW,DEU,2644165
-Private Call,DB8LB Thomas no_name,Koeln,NW,DEU,2644166
+Private Call,DB8LB Thomas ,Koeln,NW,DEU,2644166
 Private Call,DB2CL Christian Lehr,Musterhausen,NW,DEU,2644167
 Private Call,DO6IP Birgit Beckers,Geilenkirchen,NW,DEU,2644168
 Private Call,DC3DV Ralf Schachtner,Castrop-Rauxel,NW,DEU,2644169

@@ -1,5 +1,5 @@
 Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
-2280000,N0CALL,No_name no_city,No_name,Zuerich und Thurgau,CHE,228,DMR
+2280000,N0CALL, no_city,,Zuerich und Thurgau,CHE,228,DMR
 2280001,4U1ITU,Arc Geneva,Arc,No_name,CHE,228,DMR
 2280002,HB3XWO,Becker Basel,Becker,-,CHE,228,DMR
 2280003,HB9HIT,Perez Le Mont-Sur-Lausanne,Perez,Westschweiz-Sud,CHE,228,DMR
@@ -14,11 +14,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280012,HB9HGO,Laya no_city,Laya,Basel/solothurn,CHE,228,DMR
 2280013,HB3XWW,Juen 8526 Oberneunforn,Juen,-,CHE,228,DMR
 2280014,HB9GYV,Junod Bienne,Junod,-,CHE,228,DMR
-2280015,HB3XVS,No_name Moosseedorf,No_name,Bern,CHE,228,DMR
+2280015,HB3XVS, Moosseedorf,,Bern,CHE,228,DMR
 2280016,HB3XWN,Nerone Auw,Nerone,Aargau,CHE,228,DMR
 2280017,HB9CTJ,Jenzer Biel,Jenzer,Bern,CHE,228,DMR
 2280018,HB9HJS,Affentranger Altishofen,Affentranger,Lucerne,CHE,228,DMR
-2280019,HB3XXA,No_name Baar,No_name,Zug,CHE,228,DMR
+2280019,HB3XXA, Baar,,Zug,CHE,228,DMR
 2280020,HB9SNW,Merz Ch-4528 Zuchwil So,Merz,Solothurn,CHE,228,DMR
 2280021,HB9OMI,Jaquenoud Yverdon-Les-Bains,Jaquenoud,Vaud,CHE,228,DMR
 2280022,HB3XWT,Schult Rickenbach Sulz,Schult,Zurich,CHE,228,DMR
@@ -42,7 +42,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280040,HB9MKE,Hagen St  Pantaleon,Hagen,Solothurn,CHE,228,DMR
 2280041,HB9TTU,Walther Ch 8332 Russikon,Walther,Zurich,CHE,228,DMR
 2280042,HB9MQB,Beat Immensee,Beat,Schwyz,CHE,228,DMR
-2280043,HB9HJH,No_name Basel,No_name,Basel-City,CHE,228,DMR
+2280043,HB9HJH, Basel,,Basel-City,CHE,228,DMR
 2280044,HB9COQ,Nogues Basilea,Nogues,Basel-City,CHE,228,DMR
 2280045,HB9FNN,Erhardt Lyss,Erhardt,Bern,CHE,228,DMR
 2280046,HB9FZF,Pobig Weiach,Pobig,Zurich,CHE,228,DMR
@@ -61,7 +61,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280059,HB3XXN,Keller Steinerberg,Keller,Schwyz,CHE,228,DMR
 2280060,HB3XXM,Freudiger Solothurn,Freudiger,Solothurn,CHE,228,DMR
 2280061,HB9HJP,Wyss Ch 6263 Richenthal   Reiden,Wyss,Lucerne,CHE,228,DMR
-2280062,HB9HKD,No_name Mendrisio,No_name,Ticino,CHE,228,DMR
+2280062,HB9HKD, Mendrisio,,Ticino,CHE,228,DMR
 2280063,HB9HKE,Egli Chavannes-Des-Bois,Egli,Vaud,CHE,228,DMR
 2280064,HB9HJM,Glanzmann Lohn-Ammannsegg,Glanzmann,Solothurn,CHE,228,DMR
 2280065,HB9HKS,Tejedo Geneva,Tejedo,Geneva,CHE,228,DMR
@@ -70,49 +70,54 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280068,HB9HJN,Kong Zuerich,Kong,Zurich,CHE,228,DMR
 2280069,HB9HJU,Santiago Kloten,Santiago,Zurich,CHE,228,DMR
 2280070,HB3XXY,Steiner Glattfelden,Steiner,Zurich,CHE,228,DMR
-2280071,HB3XXI,Baechli Rickenbach Zh,Baechli,Zurich,CHE,228,DMR
+2280071,HB9HKR,Baechli Rickenbach Zh,Baechli,Zurich,CHE,228,DMR
 2280072,HB9HJZ,Pesti Luzern,Pesti,Lucerne,CHE,228,DMR
 2280073,HB3XYE,Hrusca 8152 Opfikon,Hrusca,Zurich,CHE,228,DMR
-2281001,HB3YNV,No_name Saint-Cergue,No_name,Waadt,CHE,228,DMR
-2281002,HB3YNV,No_name Saint-Cergue,No_name,Waadt,CHE,228,DMR
-2281003,HB3YNV,No_name Saint-Cergue,No_name,Waadt,CHE,228,DMR
-2281004,HB9IBG,No_name Geneva-Ville,No_name,Genf,CHE,228,DMR
-2281005,HB9IBG,No_name Geneva-Ville,No_name,Genf,CHE,228,DMR
-2281006,HB9IBG,No_name Geneva-Ville,No_name,Genf,CHE,228,DMR
-2281007,HB9VAF,No_name Gingins,No_name,Genf,CHE,228,DMR
-2281008,HB9DNG,No_name Genve,No_name,Genf,CHE,228,DMR
-2281009,HB9DBB,No_name Lutry,No_name,Vd,CHE,228,DMR
-2281010,HB9VJS,No_name Lutry,No_name,Vd,CHE,228,DMR
-2281011,HB9IIF,No_name Lutry,No_name,Vd,CHE,228,DMR
-2281012,HB9VJS,No_name Lutry,No_name,Vd,CHE,228,DMR
-2281013,HB9TJU,No_name Vevey,No_name,Vd,CHE,228,DMR
-2281014,HB9TPL,No_name St. Sulpice,No_name,Lausanne,CHE,228,DMR
-2281015,HB3YKO,No_name Meyrin,No_name,Genf,CHE,228,DMR
-2281016,HB9TYR,No_name Versoix,No_name,Genf,CHE,228,DMR
-2281017,HB9DNG,No_name Genf,No_name,Genf,CHE,228,DMR
-2281018,HB9AXG,No_name Onex,No_name,Genf,CHE,228,DMR
-2281019,HB9DBB,No_name Lutry,No_name,Genf,CHE,228,DMR
-2281020,HB9DBB,No_name Lutry,No_name,Genf,CHE,228,DMR
-2281021,HB9DBB,No_name Lutry,No_name,Genf,CHE,228,DMR
-2281022,HB9HFF,No_name Morlon,No_name,Freiburg,CHE,228,DMR
-2281023,HB9HFF,No_name Morlon,No_name,Freiburg,CHE,228,DMR
+2280074,HB3XXG,Sieber Gwatt,Sieber,Bern,CHE,228,DMR
+2280075,HB3XYD,Laneve Le Noirmont,Laneve,Jura,CHE,228,DMR
+2280076,HB9DWC,Gruenenfelder Ch   7323 Wangs,Gruenenfelder,Stno_info Gallen,CHE,228,DMR
+2280077,HB9HKT,T Zrh,T,Zurich,CHE,228,DMR
+2280078,HB9HKP,Burri Dornach,Burri,Solothurn,CHE,228,DMR
+2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
+2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
+2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
+2281004,HB9IBG, Geneva-Ville,,Genf,CHE,228,DMR
+2281005,HB9IBG, Geneva-Ville,,Genf,CHE,228,DMR
+2281006,HB9IBG, Geneva-Ville,,Genf,CHE,228,DMR
+2281007,HB9VAF, Gingins,,Genf,CHE,228,DMR
+2281008,HB9DNG, Genve,,Genf,CHE,228,DMR
+2281009,HB9DBB, Lutry,,Vd,CHE,228,DMR
+2281010,HB9VJS, Lutry,,Vd,CHE,228,DMR
+2281011,HB9IIF, Lutry,,Vd,CHE,228,DMR
+2281012,HB9VJS, Lutry,,Vd,CHE,228,DMR
+2281013,HB9TJU, Vevey,,Vd,CHE,228,DMR
+2281014,HB9TPL, St. Sulpice,,Lausanne,CHE,228,DMR
+2281015,HB3YKO, Meyrin,,Genf,CHE,228,DMR
+2281016,HB9TYR, Versoix,,Genf,CHE,228,DMR
+2281017,HB9DNG, Genf,,Genf,CHE,228,DMR
+2281018,HB9AXG, Onex,,Genf,CHE,228,DMR
+2281019,HB9DBB, Lutry,,Genf,CHE,228,DMR
+2281020,HB9DBB, Lutry,,Genf,CHE,228,DMR
+2281021,HB9DBB, Lutry,,Genf,CHE,228,DMR
+2281022,HB9HFF, Morlon,,Freiburg,CHE,228,DMR
+2281023,HB9HFF, Morlon,,Freiburg,CHE,228,DMR
 2281024,HB9FOX,Guberan Biere,Guberan,Westschweiz-Sud,CHE,228,DMR
 2281025,HB9FOX,Guberan Biere,Guberan,Westschweiz-Sud,CHE,228,DMR
-2281026,HB9IJE,No_name Saint-Livres,No_name,Waadt,CHE,228,DMR
-2281027,HB9IJE,No_name Saint-Livres,No_name,Waadt,CHE,228,DMR
-2281028,HB9DUG,No_name Vich,No_name,Waadt,CHE,228,DMR
-2281029,HB9DUG,No_name Vich,No_name,Waadt,CHE,228,DMR
-2281030,HB9RHI,No_name Saint-Cergues,No_name,Waadt,CHE,228,DMR
-2281031,HB9RHI,No_name Saint-Cergues,No_name,Waadt,CHE,228,DMR
-2281032,HB9FMF,No_name Rougemont,No_name,Waadt,CHE,228,DMR
-2281033,HB9FMF,No_name Rougemont,No_name,Waadt,CHE,228,DMR
-2281034,HB9PCF,No_name Chatonnaye,No_name,Freiburg,CHE,228,DMR
-2281035,HB9PCF,No_name Chatonnaye,No_name,Freiburg,CHE,228,DMR
+2281026,HB9IJE, Saint-Livres,,Waadt,CHE,228,DMR
+2281027,HB9IJE, Saint-Livres,,Waadt,CHE,228,DMR
+2281028,HB9DUG, Vich,,Waadt,CHE,228,DMR
+2281029,HB9DUG, Vich,,Waadt,CHE,228,DMR
+2281030,HB9RHI, Saint-Cergues,,Waadt,CHE,228,DMR
+2281031,HB9RHI, Saint-Cergues,,Waadt,CHE,228,DMR
+2281032,HB9FMF, Rougemont,,Waadt,CHE,228,DMR
+2281033,HB9FMF, Rougemont,,Waadt,CHE,228,DMR
+2281034,HB9PCF, Chatonnaye,,Freiburg,CHE,228,DMR
+2281035,HB9PCF, Chatonnaye,,Freiburg,CHE,228,DMR
 2281036,HB3YRB,Jullier Verbier,Jullier,Wallis,CHE,228,DMR
-2281037,HB9EUF,No_name Avenches,No_name,Waadt,CHE,228,DMR
-2281038,HB9VAB,No_name Confignon,No_name,Genf,CHE,228,DMR
-2281039,HB9FLL,No_name Genf-Stadt,No_name,Genf,CHE,228,DMR
-2281040,HB9AKP,No_name Bremblens,No_name,Waadt,CHE,228,DMR
+2281037,HB9EUF, Avenches,,Waadt,CHE,228,DMR
+2281038,HB9VAB, Confignon,,Genf,CHE,228,DMR
+2281039,HB9FLL, Genf-Stadt,,Genf,CHE,228,DMR
+2281040,HB9AKP, Bremblens,,Waadt,CHE,228,DMR
 2281041,HB9ULG,Martial Denges,Martial,Waadt,CHE,228,DMR
 2281042,HB3YRB,Jullier Verbier,Jullier,Bern und Oberwallis,CHE,228,DMR
 2281043,HB9MMC,Minard Genf,Minard,Westschweiz-Sud,CHE,228,DMR
@@ -217,7 +222,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2281142,HB3YTB,Sudan Villeneuve,Sudan,Westschweiz-Sud,CHE,228,DMR
 2281143,HB3YYR,Scheidegger Versoix,Scheidegger,Westschweiz-Sud,CHE,228,DMR
 2281144,HB9SAT,Haldemann Sugiez,Haldemann,Westschweiz-Sud,CHE,228,DMR
-2281145,HB3YSK,No_name no_city,No_name,Westschweiz-Sud,CHE,228,DMR
+2281145,HB3YSK, no_city,,Westschweiz-Sud,CHE,228,DMR
 2281146,HB9TUI,Tille Lausanne,Tille,Westschweiz-Sud,CHE,228,DMR
 2281147,HB9FMK,Girardin Laconnex,Girardin,Westschweiz-Sud,CHE,228,DMR
 2281148,HB3YDE,Raider no_city,Raider,Westschweiz-Sud,CHE,228,DMR
@@ -238,7 +243,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2281163,HB3GYR,Baza Geneva,Baza,Westschweiz-Sud,CHE,228,DMR
 2281164,HB3YBO,Mermoud Carouge,Mermoud,Westschweiz-Sud,CHE,228,DMR
 2281165,HB9S,Bureau Geneva,Bureau,Westschweiz-Sud,CHE,228,DMR
-2281166,HB9DUW,No_name no_city,No_name,Westschweiz-Sud,CHE,228,DMR
+2281166,HB9DUW, no_city,,Westschweiz-Sud,CHE,228,DMR
 2281167,HB3YKB,Baud Giswil,Baud,Westschweiz-Sud,CHE,228,DMR
 2281168,HB3YOE,Fantuzzi Bellevue,Fantuzzi,Westschweiz-Sud,CHE,228,DMR
 2281169,HB3YAP,Trosset Epautheyres,Trosset,Westschweiz-Sud,CHE,228,DMR
@@ -251,7 +256,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2281176,HB3YFI,Nielsen Gd-Saconnex,Nielsen,Westschweiz-Sud,CHE,228,DMR
 2281177,HB9FXE,Porchet Geneva,Porchet,Westschweiz-Sud,CHE,228,DMR
 2281178,HB9AFO,Vonlanthen Bussigny,Vonlanthen,Westschweiz-Sud,CHE,228,DMR
-2281179,HB9RXW,No_name no_city,No_name,Westschweiz-Sud,CHE,228,DMR
+2281179,HB9RXW, no_city,,Westschweiz-Sud,CHE,228,DMR
 2281180,HB9UQL,Rey Ardon,Rey,Westschweiz-Sud,CHE,228,DMR
 2281181,HB9RYJ,Delvecchio Saint-Aubin,Delvecchio,Westschweiz-Sud,CHE,228,DMR
 2281182,HB3XPF,Wenger Geneva,Wenger,Westschweiz-Sud,CHE,228,DMR
@@ -269,55 +274,55 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2281194,HB9TUI,Tille Lausanne,Tille,Westschweiz-Sud,CHE,228,DMR
 2281195,HB9IIU,Staempfli Saint-Legier-La Chiesaz,Staempfli,Westschweiz-Sud,CHE,228,DMR
 2281196,HB3XPR,Tymkiw Givrins,Tymkiw,Westschweiz-Sud,CHE,228,DMR
-2281197,HB3XRH,No_name St.Gallen,No_name,Westschweiz-Sud,CHE,228,DMR
+2281197,HB3XRH, St.Gallen,,Westschweiz-Sud,CHE,228,DMR
 2281198,HB9GVJ,Wenger Geneva,Wenger,Westschweiz-Sud,CHE,228,DMR
 2281199,HB9IAM,Binggeli Geneva,Binggeli,Westschweiz-Sud,CHE,228,DMR
-2281200,HB3XRN,No_name Geneva,No_name,Geneva,CHE,228,DMR
+2281200,HB3XRN, Geneva,,Geneva,CHE,228,DMR
 2281201,HB9G,Geneva Geneva,Geneva,Geneva,CHE,228,DMR
-2281202,HB9GIC,No_name Mies,No_name,Westschweiz-Sud,CHE,228,DMR
+2281202,HB9GIC, Mies,,Westschweiz-Sud,CHE,228,DMR
 2281203,HB9GUR,Haake Geneva,Haake,No_name,CHE,228,DMR
 2281204,HB9GVX,Beney Prangins,Beney,No_name,CHE,228,DMR
-2281205,HB9GKZ,No_name Vouvry,No_name,No_name,CHE,228,DMR
+2281205,HB9GKZ, Vouvry,,No_name,CHE,228,DMR
 2281206,HB9RAR,Romand Morlon,Romand,Westschweiz-Sud,CHE,228,DMR
 2281207,HB3MAS,Sciulli Lausanne,Sciulli,No_name,CHE,228,DMR
 2281208,HB9GXP,Battaglia Verossaz,Battaglia,No_name,CHE,228,DMR
-2281209,HB9VCM,No_name Geneve,No_name,No_name,CHE,228,DMR
+2281209,HB9VCM, Geneve,,No_name,CHE,228,DMR
 2281210,HB3YCB,Messerli Bulle,Messerli,Fribourg,CHE,228,DMR
 2281211,HB9GYR,Baza Geneva,Baza,Geneva,CHE,228,DMR
 2281212,HB9GYM,Keops Geneva,Keops,No_name,CHE,228,DMR
 2281213,HB9HBY,Cosandier Gland,Cosandier,No_name,CHE,228,DMR
-2281214,HB9HBZ,No_name Geneva,No_name,Geneva,CHE,228,DMR
+2281214,HB9HBZ, Geneva,,Geneva,CHE,228,DMR
 2281215,HB9GYR,Baza Geneva,Baza,Geneva,CHE,228,DMR
 2281216,HB9HBE,Baza Geneva,Baza,Geneva,CHE,228,DMR
 2281217,HB9TWU,Sauty Gingins,Sauty,Westschweiz-Sud,CHE,228,DMR
 2281218,HB9DSB,Werder Martigny,Werder,Westschweiz-Sud,CHE,228,DMR
 2281219,HB9TIX,Morsa Chamoson,Morsa,Westschweiz-Sud,CHE,228,DMR
-2281220,HB9HCY,No_name Bulle,No_name,Westschweiz-Sud,CHE,228,DMR
-2281221,HB9VIV,No_name Servion,No_name,Westschweiz-Sud,CHE,228,DMR
-2281222,HB9AE,No_name Lutry,No_name,Westschweiz-Sud,CHE,228,DMR
-2281223,HB3XUH,No_name Montreux,No_name,Westschweiz-Sud,CHE,228,DMR
-2281224,HB3XUI,No_name Montreux,No_name,Westschweiz-Sud,CHE,228,DMR
-2281225,HB9TCT,No_name Bruenisried,No_name,Westschweiz-Sud,CHE,228,DMR
-2281226,HB9TCT,No_name Bruenisried,No_name,Westschweiz-Sud,CHE,228,DMR
-2281227,HB3XUL,No_name Geneva,No_name,Westschweiz-Sud,CHE,228,DMR
-2281228,HB3XUL,No_name Geneva,No_name,Westschweiz-Sud,CHE,228,DMR
-2281229,HB3YEG,No_name Vuisternens-Devant-Romont,No_name,Westschweiz-Sud,CHE,228,DMR
-2281230,HB9HER,No_name Bullet,No_name,No_name,CHE,228,DMR
-2281231,HB9HBP,No_name Ravoire,No_name,No_name,CHE,228,DMR
-2281232,HB9GXO,No_name Missy,No_name,No_name,CHE,228,DMR
-2281233,HB9GUP,No_name Euseigne,No_name,No_name,CHE,228,DMR
-2281234,HB9GFV,No_name Villarimboud,No_name,.,CHE,228,DMR
+2281220,HB9HCY, Bulle,,Westschweiz-Sud,CHE,228,DMR
+2281221,HB9VIV, Servion,,Westschweiz-Sud,CHE,228,DMR
+2281222,HB9AE, Lutry,,Westschweiz-Sud,CHE,228,DMR
+2281223,HB3XUH, Montreux,,Westschweiz-Sud,CHE,228,DMR
+2281224,HB3XUI, Montreux,,Westschweiz-Sud,CHE,228,DMR
+2281225,HB9TCT, Bruenisried,,Westschweiz-Sud,CHE,228,DMR
+2281226,HB9TCT, Bruenisried,,Westschweiz-Sud,CHE,228,DMR
+2281227,HB3XUL, Geneva,,Westschweiz-Sud,CHE,228,DMR
+2281228,HB3XUL, Geneva,,Westschweiz-Sud,CHE,228,DMR
+2281229,HB3YEG, Vuisternens-Devant-Romont,,Westschweiz-Sud,CHE,228,DMR
+2281230,HB9HER, Bullet,,No_name,CHE,228,DMR
+2281231,HB9HBP, Ravoire,,No_name,CHE,228,DMR
+2281232,HB9GXO, Missy,,No_name,CHE,228,DMR
+2281233,HB9GUP, Euseigne,,No_name,CHE,228,DMR
+2281234,HB9GFV, Villarimboud,,.,CHE,228,DMR
 2281235,HB9EVJ,Jeanrenaud Paudex,Jeanrenaud,Westschweiz-Sud,CHE,228,DMR
 2281236,HB9HCT,Vouilloz Meyrin,Vouilloz,.,CHE,228,DMR
 2281237,HB3XVJ,Schaer Etoy,Schaer,Vaud,CHE,228,DMR
 2281238,HB3XVN,Honger Ecublens,Honger,Vaud,CHE,228,DMR
-2281239,HB9GUO,No_name Verbier,No_name,Vs,CHE,228,DMR
-2281240,HB9CCE,No_name Aigle,No_name,.,CHE,228,DMR
-2281241,HB9MIG,No_name Froideville,No_name,Vaud,CHE,228,DMR
+2281239,HB9GUO, Verbier,,Vs,CHE,228,DMR
+2281240,HB9CCE, Aigle,,.,CHE,228,DMR
+2281241,HB9MIG, Froideville,,Vaud,CHE,228,DMR
 2281242,HB9GFV,Magnin Villarimboud,Magnin,Fribourg,CHE,228,DMR
-2281243,HB9HHG,No_name Petit-Lancy,No_name,Geneva,CHE,228,DMR
-2281244,HB3XWC,No_name Lucens,No_name,.,CHE,228,DMR
-2281245,HB9GZD,No_name Nyon,No_name,.,CHE,228,DMR
+2281243,HB9HHG, Petit-Lancy,,Geneva,CHE,228,DMR
+2281244,HB3XWC, Lucens,,.,CHE,228,DMR
+2281245,HB9GZD, Nyon,,.,CHE,228,DMR
 2282001,HB9OOI,Hofstetter Grenchen,Hofstetter,Solothurn,CHE,228,DMR
 2282002,HB9BEI,Knuchel Taeuffelen,Knuchel,Bern,CHE,228,DMR
 2282003,HB9EZV,Perrenoud La Neuveville,Perrenoud,Westschweiz-Nord,CHE,228,DMR
@@ -336,7 +341,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2282016,HB3YPD,Oeztuerk Pieterln,Oeztuerk,Westschweiz-Nord,CHE,228,DMR
 2282017,HB9FSL,Lehenne Le Locle,Lehenne,Westschweiz-Nord,CHE,228,DMR
 2282018,HB9SMU,Pedro Fretereules,Pedro,Westschweiz-Nord,CHE,228,DMR
-2282019,HB9GWC,No_name Grenchen,No_name,Westschweiz-Nord,CHE,228,DMR
+2282019,HB9GWC, Grenchen,,Westschweiz-Nord,CHE,228,DMR
 2282020,HB3YRY,Thiebaud La Chaux-De-Fonds,Thiebaud,Westschweiz-Nord,CHE,228,DMR
 2282021,HB9FMC,Droux Corgemont,Droux,Westschweiz-Nord,CHE,228,DMR
 2282022,HB9EPM,Metthez La Chaux-De-Fonds,Metthez,Westschweiz-Nord,CHE,228,DMR
@@ -348,7 +353,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2282028,HB9EHB,Maria no_city,Maria,Westschweiz-Nord,CHE,228,DMR
 2282029,HB9GPP,Nikles Cormondreche,Nikles,Westschweiz-Nord,CHE,228,DMR
 2282030,HB9EPC,Dubuis Coffrane,Dubuis,Westschweiz-Nord,CHE,228,DMR
-2282031,HB9GSK,No_name no_city,No_name,Westschweiz-Nord,CHE,228,DMR
+2282031,HB9GSK, no_city,,Westschweiz-Nord,CHE,228,DMR
 2282032,HB3XRF,Demir Bienne,Demir,Westschweiz-Nord,CHE,228,DMR
 2282033,HB9COS,Joos Biel/bienne,Joos,Westschweiz-Nord,CHE,228,DMR
 2282034,HB3YMM,Aubin Les Geneveys-Sur-Coffrane,Aubin,Westschweiz-Nord,CHE,228,DMR
@@ -356,47 +361,47 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2282036,HB3YNP,Morend Le Noirmont,Morend,Jura,CHE,228,DMR
 2282037,HB9FXW,Wisard La Chaux-De-Fonds,Wisard,No_name,CHE,228,DMR
 2282038,HB9GSO,Urbanyik Grenchen So,Urbanyik,Westschweiz-Nord,CHE,228,DMR
-2282039,HB9EVI,No_name Boncourt,No_name,.,CHE,228,DMR
-2282040,HB9ARD,No_name Cressier Ne,No_name,.,CHE,228,DMR
-2282041,HB9HLM,No_name Boudry,No_name,.,CHE,228,DMR
+2282039,HB9EVI, Boncourt,,.,CHE,228,DMR
+2282040,HB9ARD, Cressier Ne,,.,CHE,228,DMR
+2282041,HB9HLM, Boudry,,.,CHE,228,DMR
 2282042,HB9FMC,Droux Corgemont,Droux,Bern,CHE,228,DMR
-2282043,HB9BEI,No_name Taeuffelen,No_name,Bern,CHE,228,DMR
+2282043,HB9BEI, Taeuffelen,,Bern,CHE,228,DMR
 2283000,HB9DUU,Christian Ringgenberg,Christian,Interlaken,CHE,228,DMR
-2283001,HB9DUU,No_name Ringgenberg,No_name,Interlaken,CHE,228,DMR
-2283002,HB9DUU,No_name Ringgenberg,No_name,Interlaken,CHE,228,DMR
-2283003,HB9DUU,No_name Ringgenberg,No_name,Interlaken,CHE,228,DMR
-2283004,HB9DUU,No_name Ringgenberg,No_name,Bern und Oberwallis,CHE,228,DMR
+2283001,HB9DUU, Ringgenberg,,Interlaken,CHE,228,DMR
+2283002,HB9DUU, Ringgenberg,,Interlaken,CHE,228,DMR
+2283003,HB9DUU, Ringgenberg,,Interlaken,CHE,228,DMR
+2283004,HB9DUU, Ringgenberg,,Bern und Oberwallis,CHE,228,DMR
 2283005,HB9MHS,Moser Bern,Moser,Bern und Oberwallis,CHE,228,DMR
 2283006,HB9BSP,Zwahlen Detligen,Zwahlen,Bern und Oberwallis,CHE,228,DMR
 2283007,HB9BO,Schmocker Ringgenberg,Schmocker,Bern und Oberwallis,CHE,228,DMR
 2283008,HB9HVS,Hofstetter Wynigen,Hofstetter,Bern und Oberwallis,CHE,228,DMR
 2283009,HB9MCY,Thomi Bremgarten,Thomi,Bern und Oberwallis,CHE,228,DMR
 2283010,HB9CJQ,Thomi Ittigen,Thomi,Bern und Oberwallis,CHE,228,DMR
-2283011,HB9BEN,No_name Brienzwiler,No_name,Haslital,CHE,228,DMR
-2283012,HB9BEN,No_name Brienzwiler,No_name,Haslital,CHE,228,DMR
-2283013,HB3YAM,No_name Brienzwiler,No_name,Haslital,CHE,228,DMR
-2283014,HB9MHS,No_name Bern,No_name,Bern und Umgebung,CHE,228,DMR
-2283015,HB3YEI,No_name Unterseen,No_name,Interlaken,CHE,228,DMR
-2283016,HB9SNU,No_name Brienzwiler,No_name,Haslital,CHE,228,DMR
-2283017,HB9MOA,No_name Interlaken,No_name,Interlaken,CHE,228,DMR
+2283011,HB9BEN, Brienzwiler,,Haslital,CHE,228,DMR
+2283012,HB9BEN, Brienzwiler,,Haslital,CHE,228,DMR
+2283013,HB3YAM, Brienzwiler,,Haslital,CHE,228,DMR
+2283014,HB9MHS, Bern,,Bern und Umgebung,CHE,228,DMR
+2283015,HB3YEI, Unterseen,,Interlaken,CHE,228,DMR
+2283016,HB9SNU, Brienzwiler,,Haslital,CHE,228,DMR
+2283017,HB9MOA, Interlaken,,Interlaken,CHE,228,DMR
 2283018,HB9HVS,Hofstetter Wynigen,Hofstetter,Bern und Oberwallis,CHE,228,DMR
-2283019,HB9HVE,No_name Interlaken,No_name,Interlaken,CHE,228,DMR
-2283020,HB9CIU,No_name Unterseen,No_name,Interlaken,CHE,228,DMR
-2283021,HB9EVL,No_name Frutigen,No_name,Frutigland,CHE,228,DMR
-2283022,HB9EVL,No_name Frutigen,No_name,Frutigland,CHE,228,DMR
-2283023,HB9EVK,No_name Frutigen,No_name,Frutigland,CHE,228,DMR
-2283024,HB3YUK,No_name Bern,No_name,Bern und Umgebung,CHE,228,DMR
-2283025,HB9DTN,No_name Bern,No_name,Bern und Umgebung,CHE,228,DMR
-2283026,HB9BEN,No_name Brienzwiler,No_name,Haslital,CHE,228,DMR
-2283027,HB9FGW,No_name Helgisried,No_name,Seftigen,CHE,228,DMR
-2283028,HB9FGW,No_name Helgisried,No_name,Seftigen,CHE,228,DMR
-2283029,HB3YEH,No_name Matten,No_name,Interlaken,CHE,228,DMR
+2283019,HB9HVE, Interlaken,,Interlaken,CHE,228,DMR
+2283020,HB9CIU, Unterseen,,Interlaken,CHE,228,DMR
+2283021,HB9EVL, Frutigen,,Frutigland,CHE,228,DMR
+2283022,HB9EVL, Frutigen,,Frutigland,CHE,228,DMR
+2283023,HB9EVK, Frutigen,,Frutigland,CHE,228,DMR
+2283024,HB3YUK, Bern,,Bern und Umgebung,CHE,228,DMR
+2283025,HB9DTN, Bern,,Bern und Umgebung,CHE,228,DMR
+2283026,HB9BEN, Brienzwiler,,Haslital,CHE,228,DMR
+2283027,HB9FGW, Helgisried,,Seftigen,CHE,228,DMR
+2283028,HB9FGW, Helgisried,,Seftigen,CHE,228,DMR
+2283029,HB3YEH, Matten,,Interlaken,CHE,228,DMR
 2283030,HB9FVW,Wyss Brienzwiler,Wyss,No_name,CHE,228,DMR
-2283031,HB9STJ,No_name Belp,No_name,Bern-Mittelland,CHE,228,DMR
-2283032,HB9STJ,No_name Belp,No_name,Bern-Mittelland,CHE,228,DMR
-2283033,HB3YIR,No_name Meiringen,No_name,Haslital,CHE,228,DMR
-2283034,HB9CUF,No_name Bern,No_name,Bern und Umgebung,CHE,228,DMR
-2283035,HB9ESW,No_name Burgdorf,No_name,Bern,CHE,228,DMR
+2283031,HB9STJ, Belp,,Bern-Mittelland,CHE,228,DMR
+2283032,HB9STJ, Belp,,Bern-Mittelland,CHE,228,DMR
+2283033,HB3YIR, Meiringen,,Haslital,CHE,228,DMR
+2283034,HB9CUF, Bern,,Bern und Umgebung,CHE,228,DMR
+2283035,HB9ESW, Burgdorf,,Bern,CHE,228,DMR
 2283036,HB9ERS,Buetzberger Kehrsatz,Buetzberger,Bern,CHE,228,DMR
 2283037,HB9FIL,Staehli Walkringen,Staehli,Bern,CHE,228,DMR
 2283038,HB9PFV,Studer Spiez,Studer,Bern und Oberwallis,CHE,228,DMR
@@ -492,41 +497,41 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2283128,HB9PKP,Hort Liebistorf,Hort,Bern und Oberwallis,CHE,228,DMR
 2283129,HB3YIW,Grogg Bern,Grogg,Bern und Oberwallis,CHE,228,DMR
 2283130,HB9DNX,Greco Krailigen,Greco,Bern und Oberwallis,CHE,228,DMR
-2283131,HB3YVR,No_name Bern,No_name,Bern und Oberwallis,CHE,228,DMR
-2283132,HB9DLB,No_name no_city,No_name,Bern und Oberwallis,CHE,228,DMR
+2283131,HB3YVR, Bern,,Bern und Oberwallis,CHE,228,DMR
+2283132,HB9DLB, no_city,,Bern und Oberwallis,CHE,228,DMR
 2283133,HB9GNB,Baehler Zauggenried,Baehler,Bern und Oberwallis,CHE,228,DMR
 2283134,HB9HQX,Oehrli Brig,Oehrli,Bern und Oberwallis,CHE,228,DMR
-2283135,HB3YSZ,No_name no_city,No_name,Bern und Oberwallis,CHE,228,DMR
+2283135,HB3YSZ, no_city,,Bern und Oberwallis,CHE,228,DMR
 2283136,HB9GSZ,Bruegger Frutigen,Bruegger,Bern und Oberwallis,CHE,228,DMR
 2283137,HB3YYI,Schoenholzer Thun,Schoenholzer,Bern und Oberwallis,CHE,228,DMR
 2283138,HB3YDX,Waelchli Bern,Waelchli,Bern und Oberwallis,CHE,228,DMR
-2283139,HB9BRS,No_name Bern,No_name,Bern und Oberwallis,CHE,228,DMR
+2283139,HB9BRS, Bern,,Bern und Oberwallis,CHE,228,DMR
 2283140,HB9GPC,Glanzmann Bern,Glanzmann,Bern und Oberwallis,CHE,228,DMR
-2283141,HB3YIP,No_name no_city,No_name,Bern und Oberwallis,CHE,228,DMR
+2283141,HB3YIP, no_city,,Bern und Oberwallis,CHE,228,DMR
 2283142,HB9GAA,Elmiger Konolfingen,Elmiger,Bern und Oberwallis,CHE,228,DMR
 2283143,HB9BFC,Ruefli Frutigen,Ruefli,Bern und Oberwallis,CHE,228,DMR
 2283144,HB9BWR,Kobel Zollikofen,Kobel,Bern und Oberwallis,CHE,228,DMR
 2283145,HB9FLW,Wurzbacher Spiez,Wurzbacher,Bern und Oberwallis,CHE,228,DMR
 2283146,HB3YYW,Bach Heimenschwand,Bach,Bern und Oberwallis,CHE,228,DMR
 2283147,HB9UVM,Wenger no_city,Wenger,Bern und Oberwallis,CHE,228,DMR
-2283148,HB3YBC,No_name no_city,No_name,Bern und Oberwallis,CHE,228,DMR
-2283149,HB9EIS,No_name no_city,No_name,Bern und Oberwallis,CHE,228,DMR
+2283148,HB3YBC, no_city,,Bern und Oberwallis,CHE,228,DMR
+2283149,HB9EIS, no_city,,Bern und Oberwallis,CHE,228,DMR
 2283150,HB9GIK,Streit Walliswil,Streit,Bern und Oberwallis,CHE,228,DMR
-2283151,HB9FMG,No_name no_city,No_name,Bern und Oberwallis,CHE,228,DMR
+2283151,HB9FMG, no_city,,Bern und Oberwallis,CHE,228,DMR
 2283152,HB9DNM,Kunz Schofflisdorf,Kunz,Bern und Oberwallis,CHE,228,DMR
-2283153,HB9FUR,No_name Moosseedorf,No_name,Bern und Oberwallis,CHE,228,DMR
+2283153,HB9FUR, Moosseedorf,,Bern und Oberwallis,CHE,228,DMR
 2283154,HB9FXH,Eichenberger Aeschau,Eichenberger,Bern und Oberwallis,CHE,228,DMR
 2283155,HB9FRN,Bach Seftigen,Bach,Bern und Oberwallis,CHE,228,DMR
 2283156,HB9GSZ,Bruegger no_city,Bruegger,Bern und Oberwallis,CHE,228,DMR
-2283157,HB9BPJ,No_name Frutigen,No_name,Bern und Oberwallis,CHE,228,DMR
+2283157,HB9BPJ, Frutigen,,Bern und Oberwallis,CHE,228,DMR
 2283158,HB3YHU,Schupbach Muwensingen,Schupbach,Bern und Oberwallis,CHE,228,DMR
 2283159,HB9BWA,Buehler Belp,Buehler,Bern und Oberwallis,CHE,228,DMR
-2283160,HB9XBK,No_name no_city,No_name,Bern und Oberwallis,CHE,228,DMR
+2283160,HB9XBK, no_city,,Bern und Oberwallis,CHE,228,DMR
 2283161,HB3YYH,Schneider Interlaken,Schneider,Bern und Oberwallis,CHE,228,DMR
 2283162,HB9GNB,Bahler Zauggenried,Bahler,Bern und Oberwallis,CHE,228,DMR
-2283163,HB3YHJ,No_name Liechtenstein,No_name,Bern und Oberwallis,CHE,228,DMR
+2283163,HB3YHJ, Liechtenstein,,Bern und Oberwallis,CHE,228,DMR
 2283164,HB3YWJ,Bergmann Gwatt,Bergmann,Bern und Oberwallis,CHE,228,DMR
-2283165,HB9GUN,No_name no_city,No_name,Bern und Oberwallis,CHE,228,DMR
+2283165,HB9GUN, no_city,,Bern und Oberwallis,CHE,228,DMR
 2283166,HB9GUV,Schoenholzer Thun,Schoenholzer,Bern und Oberwallis,CHE,228,DMR
 2283167,HB9GAS,Buerki Ostermundigen,Buerki,Bern und Oberwallis,CHE,228,DMR
 2283168,HB9GAA,Elmiger Konolfingen,Elmiger,Bern und Oberwallis,CHE,228,DMR
@@ -547,30 +552,30 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2283183,HB3YRU,Gress Zollikofen,Gress,Bern,CHE,228,DMR
 2283184,HB3YZD,Marti Grosshoechstetten,Marti,Bern,CHE,228,DMR
 2283185,HB9GZQ,Baumann Bern,Baumann,Bern und Oberwallis,CHE,228,DMR
-2283186,HB3XRE,No_name St.Gallen,No_name,No_name,CHE,228,DMR
-2283187,HB9OAD,No_name Bellinzona,No_name,Ticino,CHE,228,DMR
+2283186,HB3XRE, St.Gallen,,No_name,CHE,228,DMR
+2283187,HB9OAD, Bellinzona,,Ticino,CHE,228,DMR
 2283188,HB9BJL,Eugster Messen,Eugster,No_name,CHE,228,DMR
-2283189,HB9HDW,No_name Worben,No_name,Bern und Oberwallis,CHE,228,DMR
+2283189,HB9HDW, Worben,,Bern und Oberwallis,CHE,228,DMR
 2283190,HB9CZV,Buechli Spiez,Buechli,No_name,CHE,228,DMR
 2283191,HB3XSX,Bader Steg im Tosstal,Bader,Bern,CHE,228,DMR
 2283192,HB3YWL,Niederhausern Heimberg,Niederhausern,Bern,CHE,228,DMR
 2283193,HB9EWH,Wittwer Muensingen,Wittwer,Bern,CHE,228,DMR
 2283194,HB9RNP,Kraft Huenibach,Kraft,Bern,CHE,228,DMR
-2283195,HB9HBH,No_name Schliern,No_name,Bern und Oberwallis,CHE,228,DMR
+2283195,HB9HBH, Schliern,,Bern und Oberwallis,CHE,228,DMR
 2283196,HB9FEA,Dias Brienz Be,Dias,Bern und Oberwallis,CHE,228,DMR
 2283197,HB9CWK,Pfister Heimiswil,Pfister,Bern und Oberwallis,CHE,228,DMR
-2283198,HB3XUE,No_name Thun,No_name,Bern und Oberwallis,CHE,228,DMR
-2283199,HB3XTM,No_name Muehlethurnen,No_name,Bern und Oberwallis,CHE,228,DMR
+2283198,HB3XUE, Thun,,Bern und Oberwallis,CHE,228,DMR
+2283199,HB3XTM, Muehlethurnen,,Bern und Oberwallis,CHE,228,DMR
 2283200,HB9RWR,Fluekiger Ersigen,Fluekiger,No_name,CHE,228,DMR
-2283201,HB9SHB,No_name Zollikofen,No_name,No_name,CHE,228,DMR
-2283202,HB9RVH,No_name no_city,No_name,.,CHE,228,DMR
-2283203,HB9RVG,No_name Graechen,No_name,No_name,CHE,228,DMR
-2283204,HB9TBI,No_name Bern,No_name,No_name,CHE,228,DMR
-2283205,HB9EVN,No_name Bern,No_name,No_name,CHE,228,DMR
-2283206,HB9HGK,No_name Zollikofen,No_name,Bern und Oberwallis,CHE,228,DMR
+2283201,HB9SHB, Zollikofen,,No_name,CHE,228,DMR
+2283202,HB9RVH, no_city,,.,CHE,228,DMR
+2283203,HB9RVG, Graechen,,No_name,CHE,228,DMR
+2283204,HB9TBI, Bern,,No_name,CHE,228,DMR
+2283205,HB9EVN, Bern,,No_name,CHE,228,DMR
+2283206,HB9HGK, Zollikofen,,Bern und Oberwallis,CHE,228,DMR
 2283207,HB9GUX,Grotemeyer Muensingen / Bern,Grotemeyer,Bern,CHE,228,DMR
 2283208,HB9TKB,Trachsel Steffisburg,Trachsel,Bern,CHE,228,DMR
-2283209,HB9BMR,No_name Gurmels,No_name,.,CHE,228,DMR
+2283209,HB9BMR, Gurmels,,.,CHE,228,DMR
 2283210,HB9HGU,Gertsch Innertkirchen,Gertsch,Be,CHE,228,DMR
 2283211,HB9AOO,Von Escher Ch-3267 Seedorf,Von Escher,.,CHE,228,DMR
 2283212,HB9HID,Schnapauff Spiegel Be,Schnapauff,.,CHE,228,DMR
@@ -578,44 +583,44 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2284002,HB9EMQ,Wetzikon Oberbuchsitten,Wetzikon,Olten,CHE,228,DMR
 2284003,HB9EMQ,Wetzikon Oberbuchsitten,Wetzikon,Olten,CHE,228,DMR
 2284004,HB9EMQ,Wetzikon Oberbuchsitten,Wetzikon,Olten,CHE,228,DMR
-2284005,HB9MFL,No_name Deitingen,No_name,Solothurn,CHE,228,DMR
-2284006,HB3YKD,No_name Oberbuchsitten,No_name,Olten,CHE,228,DMR
+2284005,HB9MFL, Deitingen,,Solothurn,CHE,228,DMR
+2284006,HB3YKD, Oberbuchsitten,,Olten,CHE,228,DMR
 2284007,HB9EBZ,Mundwiler Hafelfingen,Mundwiler,Basel Land,CHE,228,DMR
 2284008,HB9EBZ,Mundwiler Hafelfingen,Mundwiler,Basel Land,CHE,228,DMR
-2284009,HB9FGF,No_name Zofingen,No_name,Aargau,CHE,228,DMR
-2284010,HB9ROH,No_name Farnern,No_name,Solothurn,CHE,228,DMR
-2284011,HB9ROH,No_name Farnern,No_name,Solothurn,CHE,228,DMR
-2284012,HB9MNX,No_name Langendorf,No_name,Solothurn,CHE,228,DMR
-2284013,HB9MNX,No_name Langendorf,No_name,Solothurn,CHE,228,DMR
-2284014,HB9TWT,No_name Langenbruck,No_name,Basel Land,CHE,228,DMR
-2284015,HB9TWT,No_name Langenbruck,No_name,Basel Land,CHE,228,DMR
-2284016,HB9TWT,No_name Langenbruck,No_name,Basel Land,CHE,228,DMR
-2284017,HB9TVW,No_name Basel,No_name,Basel,CHE,228,DMR
-2284018,HB9FEF,No_name Basel,No_name,Basel Stadt,CHE,228,DMR
+2284009,HB9FGF, Zofingen,,Aargau,CHE,228,DMR
+2284010,HB9ROH, Farnern,,Solothurn,CHE,228,DMR
+2284011,HB9ROH, Farnern,,Solothurn,CHE,228,DMR
+2284012,HB9MNX, Langendorf,,Solothurn,CHE,228,DMR
+2284013,HB9MNX, Langendorf,,Solothurn,CHE,228,DMR
+2284014,HB9TWT, Langenbruck,,Basel Land,CHE,228,DMR
+2284015,HB9TWT, Langenbruck,,Basel Land,CHE,228,DMR
+2284016,HB9TWT, Langenbruck,,Basel Land,CHE,228,DMR
+2284017,HB9TVW, Basel,,Basel,CHE,228,DMR
+2284018,HB9FEF, Basel,,Basel Stadt,CHE,228,DMR
 2284019,HB9FEF,Gelzer Basel,Gelzer,Basel/solothurn,CHE,228,DMR
 2284020,HB9FEG,Grieder Aurigeno,Grieder,Basel Stadt,CHE,228,DMR
 2284021,HB9FEG,Grieder Aurigeno,Grieder,Basel Stadt,CHE,228,DMR
-2284022,HB3YDW,No_name Oberamsern,No_name,Solothurn,CHE,228,DMR
-2284023,HB9RNX,No_name Bellach,No_name,Solothurn,CHE,228,DMR
-2284024,HB9EXT,No_name Riehen,No_name,Basel Stadt,CHE,228,DMR
-2284025,HB9EXT,No_name Riehen,No_name,Basel Stadt,CHE,228,DMR
-2284026,HB9TQJ,No_name Dornach,No_name,Solothurn,CHE,228,DMR
-2284027,HB9TQJ,No_name Dornach,No_name,Solothurn,CHE,228,DMR
-2284028,HB9FND,No_name Steinhof,No_name,Solothurn,CHE,228,DMR
-2284029,HB9FND,No_name Steinhof,No_name,Solothurn,CHE,228,DMR
-2284030,HB9NMT,No_name Muttenz,No_name,Basel Land,CHE,228,DMR
-2284031,HB9NMT,No_name Muttenz,No_name,Basel Land,CHE,228,DMR
-2284032,HB9FIA,No_name Basel,No_name,Basel Stadt,CHE,228,DMR
-2284033,HB9FIA,No_name Basel,No_name,Basel Stadt,CHE,228,DMR
-2284034,HB9EYW,No_name Allschwil,No_name,Basel Land,CHE,228,DMR
-2284035,HB9EYW,No_name Allschwil,No_name,Basel Land,CHE,228,DMR
-2284036,HB9FMJ,No_name Lohn,No_name,Solothurn,CHE,228,DMR
-2284037,HB9FEH,No_name Basel,No_name,Basel Stadt,CHE,228,DMR
-2284038,HB9RCJ,No_name Arlesheim,No_name,Basel Land,CHE,228,DMR
-2284039,HB9RCJ,No_name Arlesheim,No_name,Basel Land,CHE,228,DMR
-2284040,HB9AUV,No_name Olten,No_name,Olten,CHE,228,DMR
+2284022,HB3YDW, Oberamsern,,Solothurn,CHE,228,DMR
+2284023,HB9RNX, Bellach,,Solothurn,CHE,228,DMR
+2284024,HB9EXT, Riehen,,Basel Stadt,CHE,228,DMR
+2284025,HB9EXT, Riehen,,Basel Stadt,CHE,228,DMR
+2284026,HB9TQJ, Dornach,,Solothurn,CHE,228,DMR
+2284027,HB9TQJ, Dornach,,Solothurn,CHE,228,DMR
+2284028,HB9FND, Steinhof,,Solothurn,CHE,228,DMR
+2284029,HB9FND, Steinhof,,Solothurn,CHE,228,DMR
+2284030,HB9NMT, Muttenz,,Basel Land,CHE,228,DMR
+2284031,HB9NMT, Muttenz,,Basel Land,CHE,228,DMR
+2284032,HB9FIA, Basel,,Basel Stadt,CHE,228,DMR
+2284033,HB9FIA, Basel,,Basel Stadt,CHE,228,DMR
+2284034,HB9EYW, Allschwil,,Basel Land,CHE,228,DMR
+2284035,HB9EYW, Allschwil,,Basel Land,CHE,228,DMR
+2284036,HB9FMJ, Lohn,,Solothurn,CHE,228,DMR
+2284037,HB9FEH, Basel,,Basel Stadt,CHE,228,DMR
+2284038,HB9RCJ, Arlesheim,,Basel Land,CHE,228,DMR
+2284039,HB9RCJ, Arlesheim,,Basel Land,CHE,228,DMR
+2284040,HB9AUV, Olten,,Olten,CHE,228,DMR
 2284041,HB9DBQ,Tschumi Zuchwil,Tschumi,Basel/solothurn,CHE,228,DMR
-2284042,HB9FGU,No_name Basel,No_name,Basel,CHE,228,DMR
+2284042,HB9FGU, Basel,,Basel,CHE,228,DMR
 2284043,HB9DDE,Haechler Rothrist,Haechler,Aargau,CHE,228,DMR
 2284044,HB9SQV,Vonlaufen Langendorf,Vonlaufen,Basel,CHE,228,DMR
 2284045,HB9FKF,Egloff Basel,Egloff,Basel Stadt,CHE,228,DMR
@@ -708,10 +713,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2284132,HB9DOL,Pauli Biberist,Pauli,Basel/solothurn,CHE,228,DMR
 2284133,HB3YMZ,Meili Laeufelfingen,Meili,Basel/solothurn,CHE,228,DMR
 2284134,HB9FZX,Koelliker Wynau,Koelliker,Basel/solothurn,CHE,228,DMR
-2284135,HB9GFI,No_name no_city,No_name,Basel/solothurn,CHE,228,DMR
+2284135,HB9GFI, no_city,,Basel/solothurn,CHE,228,DMR
 2284136,HB9BSL,Club Basel,Club,Basel/solothurn,CHE,228,DMR
 2284137,HB9KIDS,Club Basel,Club,Basel/solothurn,CHE,228,DMR
-2284138,HB9CWI,No_name no_city,No_name,Basel/solothurn,CHE,228,DMR
+2284138,HB9CWI, no_city,,Basel/solothurn,CHE,228,DMR
 2284139,HB9FZX,Koelliker Wynau,Koelliker,Basel/solothurn,CHE,228,DMR
 2284140,HB9TUL,Labriola Gerlafingen,Labriola,Westschweiz-Nord,CHE,228,DMR
 2284141,HB9DHR,Ruef Vordemwald,Ruef,Basel/solothurn,CHE,228,DMR
@@ -720,34 +725,34 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2284144,HB9BVB,Scharrer Rheinfelden,Scharrer,Basel/solothurn,CHE,228,DMR
 2284145,HB9FVK,Kneubuehler Strengelbach,Kneubuehler,Basel/solothurn,CHE,228,DMR
 2284146,HB9EOR,Schulthess Melchnau,Schulthess,Basel/solothurn,CHE,228,DMR
-2284147,HB9FMZ,No_name Basel,No_name,Basel/solothurn,CHE,228,DMR
-2284148,HB9GIQ,No_name Basel,No_name,Basel/solothurn,CHE,228,DMR
-2284149,HB9FSG,No_name Basel,No_name,Basel/solothurn,CHE,228,DMR
-2284150,HB9GNZ,No_name Basel,No_name,Basel/solothurn,CHE,228,DMR
+2284147,HB9FMZ, Basel,,Basel/solothurn,CHE,228,DMR
+2284148,HB9GIQ, Basel,,Basel/solothurn,CHE,228,DMR
+2284149,HB9FSG, Basel,,Basel/solothurn,CHE,228,DMR
+2284150,HB9GNZ, Basel,,Basel/solothurn,CHE,228,DMR
 2284151,HB3YST,Strub Daniken,Strub,Basel/solothurn,CHE,228,DMR
 2284152,HB9DSG,Schar Basel,Schar,Basel/solothurn,CHE,228,DMR
-2284153,HB9EAS,No_name Amateurfunkgruppe Hb9eas,No_name,Basel/solothurn,CHE,228,DMR
-2284154,HB3YDB,No_name Basel,No_name,Basel/solothurn,CHE,228,DMR
-2284155,HB9GSQ,No_name Basel,No_name,Basel/solothurn,CHE,228,DMR
-2284156,HB9GSI,No_name Basel,No_name,Basel/solothurn,CHE,228,DMR
+2284153,HB9EAS, Amateurfunkgruppe Hb9eas,,Basel/solothurn,CHE,228,DMR
+2284154,HB3YDB, Basel,,Basel/solothurn,CHE,228,DMR
+2284155,HB9GSQ, Basel,,Basel/solothurn,CHE,228,DMR
+2284156,HB9GSI, Basel,,Basel/solothurn,CHE,228,DMR
 2284157,HB3YOY,Thomann Rheinfelden,Thomann,Basel/solothurn,CHE,228,DMR
 2284158,HB9GSP,Studer Allschwil,Studer,Basel/solothurn,CHE,228,DMR
 2284159,HB9EDQ,Frank Gempen,Frank,Basel/solothurn,CHE,228,DMR
 2284160,HB9DIO,Keller Muenchenstein,Keller,Basel/solothurn,CHE,228,DMR
 2284161,HB9DKQ,Briel Basel,Briel,Basel/solothurn,CHE,228,DMR
 2284162,HB9BOQ,Kost Basel,Kost,Basel/solothurn,CHE,228,DMR
-2284163,HB9GUB,No_name Basel,No_name,Basel/solothurn,CHE,228,DMR
+2284163,HB9GUB, Basel,,Basel/solothurn,CHE,228,DMR
 2284164,HB9FRL,Erni Zofingen,Erni,Basel/solothurn,CHE,228,DMR
 2284165,HB9GSP,Studer Allschwil,Studer,Basel/solothurn,CHE,228,DMR
-2284166,HB9FGH,No_name Basel,No_name,Basel/solothurn,CHE,228,DMR
+2284166,HB9FGH, Basel,,Basel/solothurn,CHE,228,DMR
 2284167,HB9EHS,Kochli Frenkendorf,Kochli,Basel/solothurn,CHE,228,DMR
 2284168,HB9EDU,Grolimund Basel,Grolimund,Basel/solothurn,CHE,228,DMR
 2284169,HB9DKX,Ackermann Allschwil,Ackermann,Basel/solothurn,CHE,228,DMR
 2284170,HB9TPU,Allmen Olten,Allmen,Basel/solothurn,CHE,228,DMR
-2284171,HB3XPM,No_name Basel,No_name,Basel/solothurn,CHE,228,DMR
+2284171,HB3XPM, Basel,,Basel/solothurn,CHE,228,DMR
 2284172,HB9GSV,Stauffer Oensingen,Stauffer,Basel/solothurn,CHE,228,DMR
-2284173,HB9TPW,No_name no_city,No_name,Basel/solothurn,CHE,228,DMR
-2284174,HB9GPK,No_name Basel,No_name,Basel/solothurn,CHE,228,DMR
+2284173,HB9TPW, no_city,,Basel/solothurn,CHE,228,DMR
+2284174,HB9GPK, Basel,,Basel/solothurn,CHE,228,DMR
 2284175,HB9CKO,Wehrli Giswil,Wehrli,Basel/solothurn,CHE,228,DMR
 2284176,HB9RMM,Krumm Basel,Krumm,Basel/solothurn,CHE,228,DMR
 2284177,HB3MAM,Brunold Reinach,Brunold,Basel/solothurn,CHE,228,DMR
@@ -762,9 +767,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2284186,HB9TQP,Nikles Allschwil,Nikles,Basel/solothurn,CHE,228,DMR
 2284187,HB9EBX,Gianola Himmelried,Gianola,No_name,CHE,228,DMR
 2284188,HB9BLV,Gnos Binningen,Gnos,Basel/solothurn,CHE,228,DMR
-2284189,HB9SNC,No_name Basel,No_name,No_name,CHE,228,DMR
+2284189,HB9SNC, Basel,,No_name,CHE,228,DMR
 2284190,HB9GXA,Studer Allschwil,Studer,Basel/solothurn,CHE,228,DMR
-2284191,HB9GXV,No_name Allschwil,No_name,Basel/solothurn,CHE,228,DMR
+2284191,HB9GXV, Allschwil,,Basel/solothurn,CHE,228,DMR
 2284192,HB3YUR,Charles Olten,Charles,No_name,CHE,228,DMR
 2284193,HB9FRK,Fuhr Basel,Fuhr,No_name,CHE,228,DMR
 2284194,HB3YPO,Tari Basel,Tari,No_name,CHE,228,DMR
@@ -780,67 +785,67 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2284204,HB9GKH,Kaiser Basel,Kaiser,Basel,CHE,228,DMR
 2284205,HB9GXA,Studer Allschwil,Studer,Basel,CHE,228,DMR
 2284206,HB9GZX,Grola Liestal,Grola,No_name,CHE,228,DMR
-2284207,HB9HBC,No_name Basel,No_name,No_name,CHE,228,DMR
+2284207,HB9HBC, Basel,,No_name,CHE,228,DMR
 2284208,HB9HBB,Senn Muttenz,Senn,No_name,CHE,228,DMR
 2284209,HB9GSY,Gurtner Gelterkinden,Gurtner,Basel,CHE,228,DMR
 2284210,HB9TXZ,Acklin Binningen,Acklin,Basel,CHE,228,DMR
-2284211,HB3XTN,No_name no_city,No_name,Basel/solothurn,CHE,228,DMR
+2284211,HB3XTN, no_city,,Basel/solothurn,CHE,228,DMR
 2284212,HB9NCS,Schnalzer Washington,Schnalzer,Arkansas,CHE,228,DMR
 2284213,HB9FZQ,Dirac Itingen,Dirac,Basel,CHE,228,DMR
-2284214,HB3YHG,No_name Rheinfelden,No_name,Basel/solothurn,CHE,228,DMR
-2284215,HB3XTL,No_name Daeniken,No_name,Basel/solothurn,CHE,228,DMR
+2284214,HB3YHG, Rheinfelden,,Basel/solothurn,CHE,228,DMR
+2284215,HB3XTL, Daeniken,,Basel/solothurn,CHE,228,DMR
 2284216,HB9OMP,Bahler Biel-Bienne,Bahler,Basel/solothurn,CHE,228,DMR
-2284217,HB9BZG,No_name Solothurn,No_name,Basel/solothurn,CHE,228,DMR
-2284218,HB9HCV,No_name Wiedlisbach,No_name,Basel/solothurn,CHE,228,DMR
-2284219,HB9SLM,No_name Solothurn,No_name,Basel/solothurn,CHE,228,DMR
-2284220,HB9HBV,No_name Muttenz,No_name,Basel/solothurn,CHE,228,DMR
-2284221,HB9HBU,No_name Muttenz,No_name,Basel/solothurn,CHE,228,DMR
-2284222,HB9CNX,No_name Welschenrohr,No_name,Basel/solothurn,CHE,228,DMR
+2284217,HB9BZG, Solothurn,,Basel/solothurn,CHE,228,DMR
+2284218,HB9HCV, Wiedlisbach,,Basel/solothurn,CHE,228,DMR
+2284219,HB9SLM, Solothurn,,Basel/solothurn,CHE,228,DMR
+2284220,HB9HBV, Muttenz,,Basel/solothurn,CHE,228,DMR
+2284221,HB9HBU, Muttenz,,Basel/solothurn,CHE,228,DMR
+2284222,HB9CNX, Welschenrohr,,Basel/solothurn,CHE,228,DMR
 2284223,HB9HDH,Hak Nenzlingen. Baselland,Hak,Basel/solothurn,CHE,228,DMR
 2284224,HB9HDK,Strub Daeniken,Strub,Basel/solothurn,CHE,228,DMR
-2284225,HB9HIM,No_name Rheinfelden,No_name,Markus,CHE,228,DMR
-2284226,HB9BLA,No_name Lausen,No_name,Andreas,CHE,228,DMR
+2284225,HB9HIM, Rheinfelden,,Markus,CHE,228,DMR
+2284226,HB9BLA, Lausen,,Andreas,CHE,228,DMR
 2284227,HB9CEY,Eberle Ziefen / Bl,Eberle,Gerald,CHE,228,DMR
-2284228,HB3XUW,No_name Rohrbach,No_name,Simon,CHE,228,DMR
-2284229,HB9HEF,No_name Daeniken,No_name,No_name,CHE,228,DMR
+2284228,HB3XUW, Rohrbach,,Simon,CHE,228,DMR
+2284229,HB9HEF, Daeniken,,No_name,CHE,228,DMR
 2284230,HB9FFW,Wuester Niederbipp,Wuester,Daniel,CHE,228,DMR
-2284231,HB3XTY,No_name Derendingen,No_name,No_name,CHE,228,DMR
+2284231,HB3XTY, Derendingen,,No_name,CHE,228,DMR
 2284232,HB9BLA,Spiess Lausen,Spiess,No_name,CHE,228,DMR
-2284233,HB9EAJ,No_name Basel,No_name,No_name,CHE,228,DMR
-2284234,HB9TPQ,No_name Solothurn,No_name,No_name,CHE,228,DMR
-2284235,HB9PFA,No_name Muenchenstein,No_name,No_name,CHE,228,DMR
+2284233,HB9EAJ, Basel,,No_name,CHE,228,DMR
+2284234,HB9TPQ, Solothurn,,No_name,CHE,228,DMR
+2284235,HB9PFA, Muenchenstein,,No_name,CHE,228,DMR
 2284236,HB9GVA,Kienzler Basel,Kienzler,No_name,CHE,228,DMR
 2284237,HB3XVF,Bertoneri Basel,Bertoneri,.,CHE,228,DMR
-2284238,HB9PCH,No_name Allschwil,No_name,.,CHE,228,DMR
+2284238,HB9PCH, Allschwil,,.,CHE,228,DMR
 2284239,HB3XVI,Steck Muttenz,Steck,Basel,CHE,228,DMR
-2284240,HB9HGH,No_name Pfeffingen,No_name,Basel-Landschaft,CHE,228,DMR
+2284240,HB9HGH, Pfeffingen,,Basel-Landschaft,CHE,228,DMR
 2284241,HB9HGG,Wuethrich Rohrbach,Wuethrich,Oberaargau,CHE,228,DMR
-2284242,HB9MKV,No_name Buesserach,No_name,.,CHE,228,DMR
-2284243,HB9HEI,No_name Winznau,No_name,.,CHE,228,DMR
+2284242,HB9MKV, Buesserach,,.,CHE,228,DMR
+2284243,HB9HEI, Winznau,,.,CHE,228,DMR
 2284244,HB9GUU,Dietschi Langendorf,Dietschi,.,CHE,228,DMR
-2284245,HB9TCZ,No_name Laupersdorf,No_name,.,CHE,228,DMR
-2284246,HB3XVW,No_name Lohn-Ammannsegg,No_name,Solothurn,CHE,228,DMR
-2284247,HB3XVM,No_name Basel-Stadt,No_name,.,CHE,228,DMR
-2284248,HB3XWF,No_name Riehen,No_name,.,CHE,228,DMR
-2284249,HB9HHZ,No_name Basel,No_name,.,CHE,228,DMR
-2284250,HB9ANQ,No_name Subingen,No_name,.,CHE,228,DMR
-2284251,HB9MGI,No_name Riehen,No_name,.,CHE,228,DMR
+2284245,HB9TCZ, Laupersdorf,,.,CHE,228,DMR
+2284246,HB3XVW, Lohn-Ammannsegg,,Solothurn,CHE,228,DMR
+2284247,HB3XVM, Basel-Stadt,,.,CHE,228,DMR
+2284248,HB3XWF, Riehen,,.,CHE,228,DMR
+2284249,HB9HHZ, Basel,,.,CHE,228,DMR
+2284250,HB9ANQ, Subingen,,.,CHE,228,DMR
+2284251,HB9MGI, Riehen,,.,CHE,228,DMR
 2284252,HB9XBY,Thiele Daeniken 4658,Thiele,So,CHE,228,DMR
-2284253,HB3XWR,No_name Nenzlingen,No_name,.,CHE,228,DMR
-2284254,HB3XWL,No_name Rohrbach,No_name,.,CHE,228,DMR
-2284255,HB9HIF,No_name Grellingen,No_name,.,CHE,228,DMR
+2284253,HB3XWR, Nenzlingen,,.,CHE,228,DMR
+2284254,HB3XWL, Rohrbach,,.,CHE,228,DMR
+2284255,HB9HIF, Grellingen,,.,CHE,228,DMR
 2285001,HB9CNT,Streich Untersiggenthal,Streich,Baden,CHE,228,DMR
 2285002,HB9CNT,Streich Untersiggenthal,Streich,Baden,CHE,228,DMR
 2285003,HB9CNT,Streich Untersiggenthal,Streich,Baden,CHE,228,DMR
 2285004,HB9CNT,Streich Untersiggenthal,Streich,Baden,CHE,228,DMR
-2285005,HB9AQB,No_name Doettingen,No_name,Aargau,CHE,228,DMR
-2285006,HB9RDD,No_name Holderbank,No_name,Aargau,CHE,228,DMR
-2285007,HB3YEC,No_name Rupperswil,No_name,Aargau,CHE,228,DMR
-2285008,HB9FDS,No_name Mellingen,No_name,Aargau,CHE,228,DMR
-2285009,HB9TUF,No_name Niedergoesgen,No_name,Solothurn,CHE,228,DMR
-2285010,HB3YLR,No_name Niedergoesgen,No_name,Solothurn,CHE,228,DMR
-2285011,HB9TTD,No_name Hendschiken,No_name,Aargau,CHE,228,DMR
-2285012,HB9FGE,No_name Mellikon,No_name,Aargau,CHE,228,DMR
+2285005,HB9AQB, Doettingen,,Aargau,CHE,228,DMR
+2285006,HB9RDD, Holderbank,,Aargau,CHE,228,DMR
+2285007,HB3YEC, Rupperswil,,Aargau,CHE,228,DMR
+2285008,HB9FDS, Mellingen,,Aargau,CHE,228,DMR
+2285009,HB9TUF, Niedergoesgen,,Solothurn,CHE,228,DMR
+2285010,HB3YLR, Niedergoesgen,,Solothurn,CHE,228,DMR
+2285011,HB9TTD, Hendschiken,,Aargau,CHE,228,DMR
+2285012,HB9FGE, Mellikon,,Aargau,CHE,228,DMR
 2285013,HB9XCA,Frey Holziken,Frey,Aargau,CHE,228,DMR
 2285014,HB9DWW,Amsler Rupperswil,Amsler,Aargau,CHE,228,DMR
 2285015,HB9DWS,Baur Schlossrued,Baur,Aargau,CHE,228,DMR
@@ -874,7 +879,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2285043,HB9TRQ,Schellenberg Baden,Schellenberg,Aargau,CHE,228,DMR
 2285044,HB9FPX,Tanner Oberkulm,Tanner,Aargau,CHE,228,DMR
 2285045,HB9FPW,Tanner Oberkulm,Tanner,Aargau,CHE,228,DMR
-2285046,HB9PDM,No_name Oberkulm,No_name,Aargau,CHE,228,DMR
+2285046,HB9PDM, Oberkulm,,Aargau,CHE,228,DMR
 2285047,HB9SOI,Waldvogel Brugg,Waldvogel,Aargau,CHE,228,DMR
 2285048,HB9FSI,Boccone Birmenstorf,Boccone,Aargau,CHE,228,DMR
 2285049,HB9FPX,Tanner Oberkulm,Tanner,Aargau,CHE,228,DMR
@@ -883,54 +888,54 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2285052,HB9FFK,Spieler Rohr,Spieler,Aargau,CHE,228,DMR
 2285053,HB9XBO,Walker Suhr,Walker,Aargau,CHE,228,DMR
 2285054,HB9DOD,Hoedjes Reinach,Hoedjes,Aargau,CHE,228,DMR
-2285055,HB3XPK,No_name no_city,No_name,Aargau,CHE,228,DMR
+2285055,HB3XPK, no_city,,Aargau,CHE,228,DMR
 2285056,HB9GNI,Hartmeier Baden,Hartmeier,Aargau,CHE,228,DMR
 2285057,HB9GSN,Frey Lupfig,Frey,Aargau,CHE,228,DMR
 2285058,HB9RWF,Menz Reitnau,Menz,Aargau,CHE,228,DMR
 2285059,HB3YLY,Bircher Oberkulm,Bircher,Aargau,CHE,228,DMR
 2285060,HB9HDD,Raphael Lenzburg,Raphael,Aargau,CHE,228,DMR
-2285061,HB9RTJ,No_name Buttwil,No_name,Aargau,CHE,228,DMR
-2285062,HB9ROP,No_name Koelliken,No_name,Aargau,CHE,228,DMR
-2285063,HB9HBD,No_name Oberentfelden,No_name,Aargau,CHE,228,DMR
-2285064,HB9CTU,No_name Kuettigen,No_name,Aargau,CHE,228,DMR
-2285065,HB9FEK,No_name Gretzenbach,No_name,Aargau,CHE,228,DMR
-2285066,HB3XUG,No_name Oberkulm,No_name,Aargau,CHE,228,DMR
-2285067,HB9DDZ,No_name Rheinsulz,No_name,Aargau,CHE,228,DMR
+2285061,HB9RTJ, Buttwil,,Aargau,CHE,228,DMR
+2285062,HB9ROP, Koelliken,,Aargau,CHE,228,DMR
+2285063,HB9HBD, Oberentfelden,,Aargau,CHE,228,DMR
+2285064,HB9CTU, Kuettigen,,Aargau,CHE,228,DMR
+2285065,HB9FEK, Gretzenbach,,Aargau,CHE,228,DMR
+2285066,HB3XUG, Oberkulm,,Aargau,CHE,228,DMR
+2285067,HB9DDZ, Rheinsulz,,Aargau,CHE,228,DMR
 2285068,HB9HDE,Bhp Neuenhof,Bhp,Aargau,CHE,228,DMR
-2285069,HB9ERD,No_name Holderbank,No_name,Aargau,CHE,228,DMR
+2285069,HB9ERD, Holderbank,,Aargau,CHE,228,DMR
 2285070,HB9XBG,Kaegi Auenstein,Kaegi,.,CHE,228,DMR
-2285071,HB9HGQ,No_name Villmergen,No_name,Aargau,CHE,228,DMR
-2285072,HB3YFT,No_name Gontenschwil,No_name,.,CHE,228,DMR
-2285073,HB9BRH,No_name Fischbach-Goeslikon,No_name,.,CHE,228,DMR
+2285071,HB9HGQ, Villmergen,,Aargau,CHE,228,DMR
+2285072,HB3YFT, Gontenschwil,,.,CHE,228,DMR
+2285073,HB9BRH, Fischbach-Goeslikon,,.,CHE,228,DMR
 2285074,HB9HHO,Volkmer Wittnau,Volkmer,Aargau,CHE,228,DMR
 2286001,HB9BMC,Murer Steinhausen,Murer,Zentralschweiz und T,CHE,228,DMR
-2286002,HB9CPY,No_name Altdorf,No_name,Uri,CHE,228,DMR
-2286003,HB3YVK,No_name Comano,No_name,Tessin,CHE,228,DMR
-2286004,HB9TUO,No_name Gordevio,No_name,Tessin,CHE,228,DMR
-2286005,HB9TWC,No_name Locarno,No_name,Tessin,CHE,228,DMR
-2286006,HB9THJ,No_name Luzern,No_name,Zentralschweiz,CHE,228,DMR
-2286007,HB9ENY,No_name Luzern,No_name,Zentralschweiz,CHE,228,DMR
-2286008,HB9FLB,No_name Luzern,No_name,Zentralschweiz,CHE,228,DMR
-2286009,HB9ODP,No_name Mendrisio,No_name,Ticino,CHE,228,DMR
-2286010,HB9TLX,No_name Kriens,No_name,Luzern,CHE,228,DMR
-2286011,HB9TLX,No_name Kriens,No_name,Luzern,CHE,228,DMR
-2286012,HB3YWW,No_name Corteglia,No_name,Ticino,CHE,228,DMR
-2286013,HB9OBX,No_name Oggio,No_name,Tessin,CHE,228,DMR
-2286014,HB3YWB,No_name Comano,No_name,Tessin,CHE,228,DMR
-2286015,HB9EZU,No_name Brunnen,No_name,Tessin,CHE,228,DMR
-2286016,HB9CNA,No_name Lugano,No_name,Tessin,CHE,228,DMR
-2286017,HB3YVK,No_name Comano,No_name,Tessin,CHE,228,DMR
-2286018,HB3YWC,No_name Lugano,No_name,Tessin,CHE,228,DMR
-2286019,HB9FFA,No_name Losone,No_name,Tessin,CHE,228,DMR
+2286002,HB9CPY, Altdorf,,Uri,CHE,228,DMR
+2286003,HB3YVK, Comano,,Tessin,CHE,228,DMR
+2286004,HB9TUO, Gordevio,,Tessin,CHE,228,DMR
+2286005,HB9TWC, Locarno,,Tessin,CHE,228,DMR
+2286006,HB9THJ, Luzern,,Zentralschweiz,CHE,228,DMR
+2286007,HB9ENY, Luzern,,Zentralschweiz,CHE,228,DMR
+2286008,HB9FLB, Luzern,,Zentralschweiz,CHE,228,DMR
+2286009,HB9ODP, Mendrisio,,Ticino,CHE,228,DMR
+2286010,HB9TLX, Kriens,,Luzern,CHE,228,DMR
+2286011,HB9TLX, Kriens,,Luzern,CHE,228,DMR
+2286012,HB3YWW, Corteglia,,Ticino,CHE,228,DMR
+2286013,HB9OBX, Oggio,,Tessin,CHE,228,DMR
+2286014,HB3YWB, Comano,,Tessin,CHE,228,DMR
+2286015,HB9EZU, Brunnen,,Tessin,CHE,228,DMR
+2286016,HB9CNA, Lugano,,Tessin,CHE,228,DMR
+2286017,HB3YVK, Comano,,Tessin,CHE,228,DMR
+2286018,HB3YWC, Lugano,,Tessin,CHE,228,DMR
+2286019,HB9FFA, Losone,,Tessin,CHE,228,DMR
 2286020,HB9DSE,Kuenzli Willisau,Kuenzli,Zentralschweiz und T,CHE,228,DMR
-2286021,HB9FHE,No_name Lugano,No_name,Tessin,CHE,228,DMR
+2286021,HB9FHE, Lugano,,Tessin,CHE,228,DMR
 2286022,HB3YWW,Parravicini Corteglia,Parravicini,Zentralschweiz und T,CHE,228,DMR
-2286023,HB9ODP,No_name Mendrisio,No_name,Ticino,CHE,228,DMR
-2286024,HB3YWW,No_name Corteglia,No_name,Ticino,CHE,228,DMR
+2286023,HB9ODP, Mendrisio,,Ticino,CHE,228,DMR
+2286024,HB3YWW, Corteglia,,Ticino,CHE,228,DMR
 2286025,HB9BZM,Righini Cadro,Righini,Ticino,CHE,228,DMR
-2286026,HB9TUZ,No_name Lugano,No_name,Ticino,CHE,228,DMR
-2286027,HB9OAU,No_name Caslano,No_name,Ticino,CHE,228,DMR
-2286028,HB3YVN,No_name Gordola,No_name,Ticino,CHE,228,DMR
+2286026,HB9TUZ, Lugano,,Ticino,CHE,228,DMR
+2286027,HB9OAU, Caslano,,Ticino,CHE,228,DMR
+2286028,HB3YVN, Gordola,,Ticino,CHE,228,DMR
 2286029,HB9EZO,Arcangelo Alberswil,Arcangelo,Zentralschweiz,CHE,228,DMR
 2286030,HB9TRT,Meyer Grosswangen,Meyer,Zentralschweiz und T,CHE,228,DMR
 2286031,HB9TRT,Meyer Grosswangen,Meyer,Zentralschweiz und T,CHE,228,DMR
@@ -980,7 +985,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2286075,HB9FPF,Pero Bioggio,Pero,Zentralschweiz und T,CHE,228,DMR
 2286076,HB9JCQ,Vogel Neuenkirch,Vogel,Zentralschweiz und T,CHE,228,DMR
 2286077,HB9FFA,Scolari Losone,Scolari,Zentralschweiz und T,CHE,228,DMR
-2286078,HB9DD,No_name Lugano,No_name,Zentralschweiz und T,CHE,228,DMR
+2286078,HB9DD, Lugano,,Zentralschweiz und T,CHE,228,DMR
 2286079,HB9OAB,Borsa Bellinzona,Borsa,Zentralschweiz und T,CHE,228,DMR
 2286080,HB9OK,Tera Vezia,Tera,Zentralschweiz und T,CHE,228,DMR
 2286081,HB9WCH,Schwoerer Eich,Schwoerer,Zentralschweiz und T,CHE,228,DMR
@@ -1039,7 +1044,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2286134,HB9TSI,Rieser Goeschenen,Rieser,Zentralschweiz und T,CHE,228,DMR
 2286135,HB9EWZ,Wilhelm Luzern,Wilhelm,Zentralschweiz und T,CHE,228,DMR
 2286136,HB9EHW,Casa San Pietro Di Stabio,Casa,Zentralschweiz und T,CHE,228,DMR
-2286137,HB9FKT,No_name Bellizona,No_name,Zentralschweiz und T,CHE,228,DMR
+2286137,HB9FKT, Bellizona,,Zentralschweiz und T,CHE,228,DMR
 2286138,HB9JAW,Winiger Neudorf,Winiger,Zentralschweiz und T,CHE,228,DMR
 2286139,HB9FEX,Pagnamenta Melide,Pagnamenta,Zentralschweiz und T,CHE,228,DMR
 2286140,HB4FG,Station Bellinzona,Station,Zentralschweiz und T,CHE,228,DMR
@@ -1054,10 +1059,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2286149,HB9CCU,Homberger Ibach,Homberger,Zentralschweiz und T,CHE,228,DMR
 2286150,HB9CDH,Ruesch no_city,Ruesch,Zentralschweiz und T,CHE,228,DMR
 2286151,HB9TUO,Tasinato Gordevio,Tasinato,Zentralschweiz und T,CHE,228,DMR
-2286152,HB9ENK,No_name no_city,No_name,Zentralschweiz und T,CHE,228,DMR
+2286152,HB9ENK, no_city,,Zentralschweiz und T,CHE,228,DMR
 2286153,HB9WDN,Geiger Dierikon,Geiger,Zentralschweiz und T,CHE,228,DMR
 2286154,HB9JBY,Keiser Hochdorf,Keiser,Zentralschweiz und T,CHE,228,DMR
-2286155,HB9JAY,No_name Luzern,No_name,Zentralschweiz und T,CHE,228,DMR
+2286155,HB9JAY, Luzern,,Zentralschweiz und T,CHE,228,DMR
 2286156,HB9CAB,Feller Brunnen,Feller,Zentralschweiz und T,CHE,228,DMR
 2286157,HB9RE,Rc Zofingen,Rc,Zentralschweiz und T,CHE,228,DMR
 2286158,HB9RYY,Schlegel Seewen,Schlegel,Zentralschweiz und T,CHE,228,DMR
@@ -1079,13 +1084,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2286174,HB9JA,Hb9ja Emmenbrucke,Hb9ja,Zentralschweiz und T,CHE,228,DMR
 2286175,HB9IPHA,Call Nottwil,Call,Zentralschweiz und T,CHE,228,DMR
 2286176,HB9DBM,Brun Beromuenster,Brun,Zentralschweiz und T,CHE,228,DMR
-2286177,HB9GSD,No_name Bellinzona,No_name,Zentralschweiz und T,CHE,228,DMR
+2286177,HB9GSD, Bellinzona,,Zentralschweiz und T,CHE,228,DMR
 2286178,HB9GSE,Luca Bioggio,Luca,Zentralschweiz und T,CHE,228,DMR
 2286179,HB9FLA,Brunner Luzern,Brunner,Zentralschweiz und T,CHE,228,DMR
 2286180,HB9JAB,Roosli Eschenbach,Roosli,Zentralschweiz und T,CHE,228,DMR
 2286181,HB9TKZ,Zemp Goldau,Zemp,Zentralschweiz und T,CHE,228,DMR
 2286182,HB9CVN,Bernasconi no_city,Bernasconi,Zentralschweiz und T,CHE,228,DMR
-2286183,HB9WCN,No_name Schoetz,No_name,Zentralschweiz und Tessin,CHE,228,DMR
+2286183,HB9WCN, Schoetz,,Zentralschweiz und Tessin,CHE,228,DMR
 2286184,HB9FSK,Slomczykowski Lu,Slomczykowski,Zentralschweiz und Tessin,CHE,228,DMR
 2286185,HB9FEV,Sengun Beromunster,Sengun,Zentralschweiz und T,CHE,228,DMR
 2286186,HB9EGC,Mombelli Vacallo,Mombelli,Zentralschweiz und T,CHE,228,DMR
@@ -1095,7 +1100,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2286190,HB3XPS,Crivelli Gordola,Crivelli,Zentralschweiz und Tessin,CHE,228,DMR
 2286191,HB3XPX,Menca no_city,Menca,Zentralschweiz und Tessin,CHE,228,DMR
 2286192,HB9EVZ,Zgraggen Lauerz,Zgraggen,Zentralschweiz und Tessin,CHE,228,DMR
-2286193,HB3XPZ,No_name no_city,No_name,Zentralschweiz und Tessin,CHE,228,DMR
+2286193,HB3XPZ, no_city,,Zentralschweiz und Tessin,CHE,228,DMR
 2286194,HB9EKV,Fischer Oberkirch,Fischer,Zentralschweiz und Tessin,CHE,228,DMR
 2286195,HB9TKZ,Zemp Goldau,Zemp,Zentralschweiz und Tessin,CHE,228,DMR
 2286196,HB9JCI,Schumacher Schwyz,Schumacher,Zentralschweiz und Tessin,CHE,228,DMR
@@ -1107,11 +1112,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2286202,HB9GZI,Mobilia Giswil,Mobilia,Zentralschweiz und Tessin,CHE,228,DMR
 2286203,HB9FPR,Ranzoni Quartino,Ranzoni,No_name,CHE,228,DMR
 2286204,HB3YVG,Panarisi Rivera,Panarisi,Ticino,CHE,228,DMR
-2286205,HB9GWZ,No_name Gordola,No_name,Ticino,CHE,228,DMR
+2286205,HB9GWZ, Gordola,,Ticino,CHE,228,DMR
 2286206,HB3XPW,Marchi Massagno,Marchi,No_name,CHE,228,DMR
 2286207,HB9DWL,Marbach St. Erhard,Marbach,Zentralschweiz und Tessin,CHE,228,DMR
 2286208,HB9OAB,Borsa Bellinzona,Borsa,Zentralschweiz und Tessin,CHE,228,DMR
-2286209,HB9GVN,No_name Coldrerio,No_name,Zentralschweiz und Tessin,CHE,228,DMR
+2286209,HB9GVN, Coldrerio,,Zentralschweiz und Tessin,CHE,228,DMR
 2286210,HB9FBK,Gada-Barenco Bellinzona,Gada-Barenco,No_name,CHE,228,DMR
 2286211,HB9DDW,Frei Adligenswil,Frei,Luzern,CHE,228,DMR
 2286212,HB9PHA,Brentini Campello,Brentini,Zentralschweiz und Tessin,CHE,228,DMR
@@ -1121,11 +1126,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2286216,HB3YGD,Buerkler Cham,Buerkler,Zentralschweiz und Tessin,CHE,228,DMR
 2286217,HB9SYO,Veronelli Bironico,Veronelli,Zentralschweiz und Tessin,CHE,228,DMR
 2286218,HB9FAL,Sartori Gnosca,Sartori,Zentralschweiz und Tessin,CHE,228,DMR
-2286219,HB9GUD,No_name Hochdorf,No_name,Ticino,CHE,228,DMR
+2286219,HB9GUD, Hochdorf,,Ticino,CHE,228,DMR
 2286220,HB3YVO,Fischer Triengen,Fischer,No_name,CHE,228,DMR
 2286221,HB9DDW,Frei Adligenswil,Frei,No_name,CHE,228,DMR
 2286222,HB9HJJ,Marchy Brunnen,Marchy,Schwyz,CHE,228,DMR
-2286223,HB9TQQ,No_name Emmen Hochdorf,No_name,Luzern,CHE,228,DMR
+2286223,HB9TQQ, Emmen Hochdorf,,Luzern,CHE,228,DMR
 2286224,HB9FEX,Pagnamenta Melide,Pagnamenta,No_name,CHE,228,DMR
 2286225,HB9AJM,Pedruzzi Locarno,Pedruzzi,Ticino,CHE,228,DMR
 2286226,HB9JBQ,Christen Schenkon,Christen,No_name,CHE,228,DMR
@@ -1137,40 +1142,40 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2286232,HB9GZT,Tiziano Porza,Tiziano,No_name,CHE,228,DMR
 2286233,HB9GZL,Tos Lavorgo,Tos,Zentralschweiz und Tessin,CHE,228,DMR
 2286234,HB9FIF,Rodenhaeuser Baar,Rodenhaeuser,Zug,CHE,228,DMR
-2286235,HB9HCE,No_name no_city,No_name,Ticino,CHE,228,DMR
+2286235,HB9HCE, no_city,,Ticino,CHE,228,DMR
 2286236,HB9PUE,Piffaretti Pregassona,Piffaretti,Ticino,CHE,228,DMR
 2286237,HB9FAB,Orso Camignolo,Orso,Ticino,CHE,228,DMR
 2286238,HB3XST,Michel Casoro,Michel,Ticino,CHE,228,DMR
-2286239,HB9GZP,No_name Minusio,No_name,Zentralschweiz und Tessin,CHE,228,DMR
+2286239,HB9GZP, Minusio,,Zentralschweiz und Tessin,CHE,228,DMR
 2286240,HB9TXB,Djokic Luzern. .,Djokic,Zentralschweiz und Tessin,CHE,228,DMR
 2286241,HB9FBD,Weick Cugnasco,Weick,Zentralschweiz und Tessin,CHE,228,DMR
 2286242,HB9PLW,Bucher Reiden,Bucher,Zentralschweiz und Tessin,CHE,228,DMR
-2286243,HB9HIR,No_name Gelfingen,No_name,.,CHE,228,DMR
-2286244,HB9EHU,No_name Ruswil,No_name,Zentralschweiz und Tessin,CHE,228,DMR
-2286245,HB3XUB,No_name Gordola,No_name,Zentralschweiz und Tessin,CHE,228,DMR
-2286246,HB9TTZ,No_name Bellinzona,No_name,Zentralschweiz und Tessin,CHE,228,DMR
-2286247,HB9MFY,No_name Cugnasco,No_name,Zentralschweiz und Tessin,CHE,228,DMR
-2286248,HB9FOM,No_name Eschenbach,No_name,Zentralschweiz und Tessin,CHE,228,DMR
+2286243,HB9HIR, Gelfingen,,.,CHE,228,DMR
+2286244,HB9EHU, Ruswil,,Zentralschweiz und Tessin,CHE,228,DMR
+2286245,HB3XUB, Gordola,,Zentralschweiz und Tessin,CHE,228,DMR
+2286246,HB9TTZ, Bellinzona,,Zentralschweiz und Tessin,CHE,228,DMR
+2286247,HB9MFY, Cugnasco,,Zentralschweiz und Tessin,CHE,228,DMR
+2286248,HB9FOM, Eschenbach,,Zentralschweiz und Tessin,CHE,228,DMR
 2286249,HB9ALH,Wehrli Meggen /nr Lucerne,Wehrli,Zentralschweiz und Tessin,CHE,228,DMR
-2286250,HB3XPX,No_name Collina Doro,No_name,Zentralschweiz und Tessin,CHE,228,DMR
+2286250,HB3XPX, Collina Doro,,Zentralschweiz und Tessin,CHE,228,DMR
 2286251,HB9SBL,Gianini Arzo,Gianini,Zentralschweiz und Tessin,CHE,228,DMR
 2286252,HB9BXE,Peter Adligenswil,Peter,Zentralschweiz und Tessin,CHE,228,DMR
-2286253,HB9HDO,No_name Steinhausen,No_name,Zentralschweiz und Tessin,CHE,228,DMR
-2286254,HB9HEC,No_name Astano,No_name,Gabri,CHE,228,DMR
-2286255,HB3YTC,No_name Lumino,No_name,No_name,CHE,228,DMR
-2286256,HB9TTY,No_name Buttisholz,No_name,No_name,CHE,228,DMR
-2286257,HB9ERA,No_name no_city,No_name,.,CHE,228,DMR
+2286253,HB9HDO, Steinhausen,,Zentralschweiz und Tessin,CHE,228,DMR
+2286254,HB9HEC, Astano,,Gabri,CHE,228,DMR
+2286255,HB3YTC, Lumino,,No_name,CHE,228,DMR
+2286256,HB9TTY, Buttisholz,,No_name,CHE,228,DMR
+2286257,HB9ERA, no_city,,.,CHE,228,DMR
 2286258,HB9GHD,Paganoni Piedmont,Paganoni,Zentralschweiz und T,CHE,228,DMR
 2286259,HB3YKK,Kieliger Brunnen,Kieliger,Zentralschweiz und T,CHE,228,DMR
 2286260,HB3XTP,Ferrari Chiasso,Ferrari,Ticino,CHE,228,DMR
-2286261,HB3XVP,No_name Richenthal,No_name,.,CHE,228,DMR
-2286262,HB9TIK,No_name Bidogno,No_name,.,CHE,228,DMR
+2286261,HB3XVP, Richenthal,,.,CHE,228,DMR
+2286262,HB9TIK, Bidogno,,.,CHE,228,DMR
 2286263,HB9GZL,Gabriele Lavorgo,Gabriele,Zentralschweiz und T,CHE,228,DMR
-2286264,HB9GCC,No_name Luzern,No_name,.,CHE,228,DMR
+2286264,HB9GCC, Luzern,,.,CHE,228,DMR
 2286265,HB9DHG,Galli Origlio,Galli,Ticino,CHE,228,DMR
-2286266,HB9GCC,No_name Luzern,No_name,.,CHE,228,DMR
-2286267,HB9HHJ,No_name Luzern,No_name,.,CHE,228,DMR
-2287001,HB9FPO,No_name Poschiavo,No_name,Graubuenden,CHE,228,DMR
+2286266,HB9GCC, Luzern,,.,CHE,228,DMR
+2286267,HB9HHJ, Luzern,,.,CHE,228,DMR
+2287001,HB9FPO, Poschiavo,,Graubuenden,CHE,228,DMR
 2287002,HB9HAN,Peter Sargans,Peter,Graubuenden,CHE,228,DMR
 2287003,HB9FPO,Foppoli Poschiavo,Foppoli,Graubuenden,CHE,228,DMR
 2287004,HB9SOA,Hug Vilters,Hug,Graubuenden,CHE,228,DMR
@@ -1199,75 +1204,75 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2287027,HB9ASV,Schudel Chur,Schudel,Graubuenden,CHE,228,DMR
 2287028,HB9CAN,Leupin Berne,Leupin,Graubuenden,CHE,228,DMR
 2287029,HB3YYA,Muenchbach Laax,Muenchbach,Graubuenden,CHE,228,DMR
-2287030,HB3XPV,No_name no_city,No_name,Graubuenden,CHE,228,DMR
-2287031,HB3XRK,No_name Sankt Gallen,No_name,Sankt Gallen,CHE,228,DMR
+2287030,HB3XPV, no_city,,Graubuenden,CHE,228,DMR
+2287031,HB3XRK, Sankt Gallen,,Sankt Gallen,CHE,228,DMR
 2287032,HB9GKX,Ebner Zernez,Ebner,Graubuenden,CHE,228,DMR
-2287033,HB9GYA,No_name Zernez,No_name,Bern,CHE,228,DMR
+2287033,HB9GYA, Zernez,,Bern,CHE,228,DMR
 2287034,HB9GNO,Hartmann Malans,Hartmann,Graubuenden,CHE,228,DMR
 2287035,HB9GPO,Cristini Bergamo,Cristini,Italy,CHE,228,DMR
-2287036,HB9GZK,No_name Alvaneu Dorf,No_name,.,CHE,228,DMR
+2287036,HB9GZK, Alvaneu Dorf,,.,CHE,228,DMR
 2288000,HB9SDB,Tschumi Waedenswil,Tschumi,Zuerich und Thurgau,CHE,228,DMR
-2288001,HB3YEJ,No_name Schleitheim,No_name,Schaffhausen,CHE,228,DMR
-2288002,HB9WOF,No_name Winterthur,No_name,Winterthur,CHE,228,DMR
-2288003,HB9WOF,No_name Winterthur,No_name,Winterthur,CHE,228,DMR
-2288004,HB9WOF,No_name Winterthur,No_name,Winterthur,CHE,228,DMR
-2288005,HB9WOF,No_name Winterthur,No_name,Winterthur,CHE,228,DMR
-2288006,HB9ESL,No_name Wetzikon,No_name,Hinwil,CHE,228,DMR
-2288007,HB9LCQ,No_name Kilchberg,No_name,Zuerich,CHE,228,DMR
-2288008,HB9TSP,No_name Jona,No_name,Zuerich,CHE,228,DMR
+2288001,HB3YEJ, Schleitheim,,Schaffhausen,CHE,228,DMR
+2288002,HB9WOF, Winterthur,,Winterthur,CHE,228,DMR
+2288003,HB9WOF, Winterthur,,Winterthur,CHE,228,DMR
+2288004,HB9WOF, Winterthur,,Winterthur,CHE,228,DMR
+2288005,HB9WOF, Winterthur,,Winterthur,CHE,228,DMR
+2288006,HB9ESL, Wetzikon,,Hinwil,CHE,228,DMR
+2288007,HB9LCQ, Kilchberg,,Zuerich,CHE,228,DMR
+2288008,HB9TSP, Jona,,Zuerich,CHE,228,DMR
 2288009,HB9ZAZ,Rieser Zuerich,Rieser,Zuerich und Thurgau,CHE,228,DMR
 2288010,HB9PJT,Sidler Affoltern am Albis,Sidler,Zuerich und Thurgau,CHE,228,DMR
 2288011,HB9ZAZ,Rieser Zuerich,Rieser,Zuerich und Thurgau,CHE,228,DMR
-2288012,HB3YZE,No_name Kloten,No_name,Zuerich,CHE,228,DMR
+2288012,HB3YZE, Kloten,,Zuerich,CHE,228,DMR
 2288013,HB9ZCY,Katz Zuerich,Katz,Zuerich und Thurgau,CHE,228,DMR
-2288014,HB3YEJ,No_name Schleitheim,No_name,Schaffhausen,CHE,228,DMR
-2288015,HB3YZE,No_name Kloten,No_name,Zuerich,CHE,228,DMR
-2288016,HB9TTQ,No_name Birmensdorf,No_name,Zuerich,CHE,228,DMR
-2288017,HB9WNT,No_name Winterthur,No_name,Winterthur,CHE,228,DMR
-2288018,HB9WNT,No_name Winterthur,No_name,Winterthur,CHE,228,DMR
-2288019,HB9WNT,No_name Winterthur,No_name,Winterthur,CHE,228,DMR
-2288020,HB9WNT,No_name Winterthur,No_name,Winterthur,CHE,228,DMR
-2288021,HB9DRX,No_name Maennedorf,No_name,Zuerich,CHE,228,DMR
+2288014,HB3YEJ, Schleitheim,,Schaffhausen,CHE,228,DMR
+2288015,HB3YZE, Kloten,,Zuerich,CHE,228,DMR
+2288016,HB9TTQ, Birmensdorf,,Zuerich,CHE,228,DMR
+2288017,HB9WNT, Winterthur,,Winterthur,CHE,228,DMR
+2288018,HB9WNT, Winterthur,,Winterthur,CHE,228,DMR
+2288019,HB9WNT, Winterthur,,Winterthur,CHE,228,DMR
+2288020,HB9WNT, Winterthur,,Winterthur,CHE,228,DMR
+2288021,HB9DRX, Maennedorf,,Zuerich,CHE,228,DMR
 2288022,HB9DR,Digitalrc Waedenswil,Digitalrc,Zuerich und Thurgau,CHE,228,DMR
-2288023,HB9DRX,No_name Maennedorf,No_name,Zuerich,CHE,228,DMR
-2288024,HB9DRX,No_name Maennedorf,No_name,Zuerich,CHE,228,DMR
-2288025,HB9DRX,No_name Maennedorf,No_name,Zuerich,CHE,228,DMR
-2288026,HB9MNP,No_name Hinwil,No_name,Zuerich,CHE,228,DMR
-2288027,HB9MNP,No_name Hinwil,No_name,Zuerich,CHE,228,DMR
-2288028,HB9IRM,No_name Richterswil,No_name,Zuerich,CHE,228,DMR
-2288029,HB9IRM,No_name Richterswil,No_name,Zuerich,CHE,228,DMR
-2288030,HB9EUK,No_name Meilen,No_name,Zuerich,CHE,228,DMR
-2288031,HB9EUK,No_name Meilen,No_name,Zuerich,CHE,228,DMR
-2288032,HB3YEO,No_name Richterswil,No_name,Zuerich,CHE,228,DMR
+2288023,HB9DRX, Maennedorf,,Zuerich,CHE,228,DMR
+2288024,HB9DRX, Maennedorf,,Zuerich,CHE,228,DMR
+2288025,HB9DRX, Maennedorf,,Zuerich,CHE,228,DMR
+2288026,HB9MNP, Hinwil,,Zuerich,CHE,228,DMR
+2288027,HB9MNP, Hinwil,,Zuerich,CHE,228,DMR
+2288028,HB9IRM, Richterswil,,Zuerich,CHE,228,DMR
+2288029,HB9IRM, Richterswil,,Zuerich,CHE,228,DMR
+2288030,HB9EUK, Meilen,,Zuerich,CHE,228,DMR
+2288031,HB9EUK, Meilen,,Zuerich,CHE,228,DMR
+2288032,HB3YEO, Richterswil,,Zuerich,CHE,228,DMR
 2288033,HB3YGV,Steinhauser Winterthur,Steinhauser,Zuerich,CHE,228,DMR
 2288034,HB9BHL,Hohermuth Hittnau,Hohermuth,Zuerich und Thurgau,CHE,228,DMR
-2288035,HB9ERT,No_name Winterthur,No_name,Zuerich,CHE,228,DMR
-2288036,HB9CCQ,No_name Zuerich,No_name,Zuerich,CHE,228,DMR
-2288037,HB9CCQ,No_name Zuerich,No_name,Zuerich,CHE,228,DMR
-2288038,HB9JBP,No_name Duebendorf,No_name,Zuerich,CHE,228,DMR
-2288039,HB9JBP,No_name Duebendorf,No_name,Zuerich,CHE,228,DMR
-2288040,HB3YLN,No_name Winterthur,No_name,Zuerich,CHE,228,DMR
-2288041,HB3YLN,No_name Winterthur,No_name,Zuerich,CHE,228,DMR
-2288042,HB3YLN,No_name Winterthur,No_name,Zuerich,CHE,228,DMR
-2288043,HB3YLN,No_name Winterthur,No_name,Zuerich,CHE,228,DMR
-2288044,HB9TTI,No_name Wollerau,No_name,Schwyz,CHE,228,DMR
-2288045,HB9TTI,No_name Wollerau,No_name,Schwyz,CHE,228,DMR
-2288046,HB9ZEI,No_name Stadel,No_name,Zuerich,CHE,228,DMR
-2288047,HB9ZEI,No_name Stadel,No_name,Zuerich,CHE,228,DMR
-2288048,HB9ZIC,No_name Neerach,No_name,Zuerich,CHE,228,DMR
-2288049,HB9FSU,No_name Ebmatingen,No_name,Zuerich und Thurgau,CHE,228,DMR
-2288050,HB9SJO,No_name Regensdorf,No_name,Zuerich,CHE,228,DMR
-2288051,HB9DSY,No_name Zuerich,No_name,Zuerich,CHE,228,DMR
-2288052,HB9LEH,No_name Zuerich,No_name,Zuerich,CHE,228,DMR
-2288053,HB9EMG,No_name Russikon,No_name,Zuerich,CHE,228,DMR
-2288054,HB9ZDU,No_name Rudolfstetten,No_name,Aargau,CHE,228,DMR
-2288055,HB9LBX,No_name Fehraltorf,No_name,Zuerich,CHE,228,DMR
-2288056,HB3YAU,No_name Zuerich,No_name,Zuerich,CHE,228,DMR
-2288057,HB9RIU,No_name Zuerich,No_name,Zuerich,CHE,228,DMR
-2288058,HB9MXQ,No_name Uster,No_name,Zuerich,CHE,228,DMR
-2288059,HB9EPQ,No_name Bauma,No_name,Zuerich,CHE,228,DMR
+2288035,HB9ERT, Winterthur,,Zuerich,CHE,228,DMR
+2288036,HB9CCQ, Zuerich,,Zuerich,CHE,228,DMR
+2288037,HB9CCQ, Zuerich,,Zuerich,CHE,228,DMR
+2288038,HB9JBP, Duebendorf,,Zuerich,CHE,228,DMR
+2288039,HB9JBP, Duebendorf,,Zuerich,CHE,228,DMR
+2288040,HB3YLN, Winterthur,,Zuerich,CHE,228,DMR
+2288041,HB3YLN, Winterthur,,Zuerich,CHE,228,DMR
+2288042,HB3YLN, Winterthur,,Zuerich,CHE,228,DMR
+2288043,HB3YLN, Winterthur,,Zuerich,CHE,228,DMR
+2288044,HB9TTI, Wollerau,,Schwyz,CHE,228,DMR
+2288045,HB9TTI, Wollerau,,Schwyz,CHE,228,DMR
+2288046,HB9ZEI, Stadel,,Zuerich,CHE,228,DMR
+2288047,HB9ZEI, Stadel,,Zuerich,CHE,228,DMR
+2288048,HB9ZIC, Neerach,,Zuerich,CHE,228,DMR
+2288049,HB9FSU, Ebmatingen,,Zuerich und Thurgau,CHE,228,DMR
+2288050,HB9SJO, Regensdorf,,Zuerich,CHE,228,DMR
+2288051,HB9DSY, Zuerich,,Zuerich,CHE,228,DMR
+2288052,HB9LEH, Zuerich,,Zuerich,CHE,228,DMR
+2288053,HB9EMG, Russikon,,Zuerich,CHE,228,DMR
+2288054,HB9ZDU, Rudolfstetten,,Aargau,CHE,228,DMR
+2288055,HB9LBX, Fehraltorf,,Zuerich,CHE,228,DMR
+2288056,HB3YAU, Zuerich,,Zuerich,CHE,228,DMR
+2288057,HB9RIU, Zuerich,,Zuerich,CHE,228,DMR
+2288058,HB9MXQ, Uster,,Zuerich,CHE,228,DMR
+2288059,HB9EPQ, Bauma,,Zuerich,CHE,228,DMR
 2288060,HB9DSF,Meroni Horgen,Meroni,Zuerich,CHE,228,DMR
-2288061,HB9EHE,No_name Hittnau,No_name,Zuerich,CHE,228,DMR
+2288061,HB9EHE, Hittnau,,Zuerich,CHE,228,DMR
 2288062,HB9TPX,Voser Birmensdorf,Voser,Zuerich,CHE,228,DMR
 2288063,HB9AZT,Schleutermann Tagelswangen,Schleutermann,Zuerich,CHE,228,DMR
 2288064,HB9SXQ,Baertschi Kleinandelfingen,Baertschi,Zuerich,CHE,228,DMR
@@ -1387,29 +1392,29 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2288178,HB9FIH,Erich Waedenswil,Erich,Zuerich und Thurgau,CHE,228,DMR
 2288179,HB3YGH,Sidler Affoltern am Albis,Sidler,Zuerich und Thurgau,CHE,228,DMR
 2288180,HB9PJT,Sidler Affoltern am Albis,Sidler,Zuerich und Thurgau,CHE,228,DMR
-2288181,HB9IQY,No_name Biel,No_name,Zuerich und Thurgau,CHE,228,DMR
+2288181,HB9IQY, Biel,,Zuerich und Thurgau,CHE,228,DMR
 2288182,HB9DDS,Schaeffler Zuerich,Schaeffler,Zuerich und Thurgau,CHE,228,DMR
-2288183,HB3YBX,No_name no_city,No_name,Zuerich und Thurgau,CHE,228,DMR
-2288184,HB9PLB,No_name Truttikon,No_name,Zuerich und Thurgau,CHE,228,DMR
+2288183,HB3YBX, no_city,,Zuerich und Thurgau,CHE,228,DMR
+2288184,HB9PLB, Truttikon,,Zuerich und Thurgau,CHE,228,DMR
 2288185,HB9DQM,Kasper Andelfingen,Kasper,Zuerich und Thurgau,CHE,228,DMR
 2288186,HB9BRJ,Leggenhager Schaffhausen,Leggenhager,Zuerich und Thurgau,CHE,228,DMR
 2288187,HB9UAG,Sogno Felben-Wellhausen,Sogno,Zuerich und Thurgau,CHE,228,DMR
 2288188,HB9FVR,Mumenthaler Romanshorn,Mumenthaler,Zuerich und Thurgau,CHE,228,DMR
-2288189,HB9FF,No_name Zurich,No_name,Zuerich und Thurgau,CHE,228,DMR
+2288189,HB9FF, Zurich,,Zuerich und Thurgau,CHE,228,DMR
 2288190,HB9ZCY,Katz Zurich,Katz,Zuerich und Thurgau,CHE,228,DMR
 2288191,HB9FU,Untersee Stein am Rhein,Untersee,Zuerich und Thurgau,CHE,228,DMR
 2288192,HB9TZX,Banditt Zuerich,Banditt,Zuerich und Thurgau,CHE,228,DMR
-2288193,HB3YVH,No_name no_city,No_name,Zuerich und Thurgau,CHE,228,DMR
-2288194,HB9CAC,No_name Thayngen,No_name,Zuerich und Thurgau,CHE,228,DMR
+2288193,HB3YVH, no_city,,Zuerich und Thurgau,CHE,228,DMR
+2288194,HB9CAC, Thayngen,,Zuerich und Thurgau,CHE,228,DMR
 2288195,HB9TPT,Frohli Horgen,Frohli,Ostschweiz,CHE,228,DMR
 2288196,HB9LEK,Neukomm Illnau,Neukomm,Zuerich und Thurgau,CHE,228,DMR
 2288197,HB9GPG,Wortmann Schaffhausen,Wortmann,Zuerich und Thurgau,CHE,228,DMR
 2288198,HB9STW,Bertolf Balterswil,Bertolf,Zuerich und Thurgau,CHE,228,DMR
-2288199,HB3YZL,No_name Mesenzana,No_name,Zuerich und Thurgau,CHE,228,DMR
+2288199,HB3YZL, Mesenzana,,Zuerich und Thurgau,CHE,228,DMR
 2288200,HB9XXX,Blocked Zurich,Blocked,Zuerich und Thurgau,CHE,228,DMR
 2288201,HB9FFP,Schmid Bottighofen,Schmid,Zuerich und Thurgau,CHE,228,DMR
 2288202,HB3YPI,Aldighieri Uerikon,Aldighieri,Zuerich und Thurgau,CHE,228,DMR
-2288203,HB9FGX,No_name Bellinzona,No_name,Zuerich und Thurgau,CHE,228,DMR
+2288203,HB9FGX, Bellinzona,,Zuerich und Thurgau,CHE,228,DMR
 2288204,HB9EGA,Korona Zurich,Korona,Zuerich und Thurgau,CHE,228,DMR
 2288205,HB9GZY,Guarlotti Hemishofen,Guarlotti,Zuerich und Thurgau,CHE,228,DMR
 2288206,HB9TQD,Nyffenegger Urdorf,Nyffenegger,Zuerich und Thurgau,CHE,228,DMR
@@ -1419,10 +1424,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2288210,HB9BTE,Thalmann Meilen,Thalmann,Zuerich und Thurgau,CHE,228,DMR
 2288211,HB9EWB,Bencivenga Zurich,Bencivenga,Zuerich und Thurgau,CHE,228,DMR
 2288212,HB9RMW,Gutzwiller Mettmwenstetten,Gutzwiller,Zuerich und Thurgau,CHE,228,DMR
-2288213,HB9LFK,No_name no_city,No_name,Zuerich und Thurgau,CHE,228,DMR
+2288213,HB9LFK, no_city,,Zuerich und Thurgau,CHE,228,DMR
 2288214,HB9IQR,Schadegg Glarus,Schadegg,Zuerich und Thurgau,CHE,228,DMR
 2288215,HB9FVR,Mumenthaler Romanshorn,Mumenthaler,Zuerich und Thurgau,CHE,228,DMR
-2288216,HB3YZX,No_name Wila,No_name,Zuerich und Thurgau,CHE,228,DMR
+2288216,HB3YZX, Wila,,Zuerich und Thurgau,CHE,228,DMR
 2288217,HB9TQH,Peter no_city,Peter,Zuerich und Thurgau,CHE,228,DMR
 2288218,HB9XJ,Buehler Zuerich,Buehler,Zuerich und Thurgau,CHE,228,DMR
 2288219,HB9THI,Angst Giswil,Angst,Zuerich und Thurgau,CHE,228,DMR
@@ -1443,21 +1448,21 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2288234,HB9RPU,Telli Wetzikon,Telli,Zuerich und Thurgau,CHE,228,DMR
 2288235,HB9ZCF,Steiger Kloten,Steiger,Zuerich und Thurgau,CHE,228,DMR
 2288236,HB3YVX,Eichmann Zuerich,Eichmann,Zuerich und Thurgau,CHE,228,DMR
-2288237,HB3YRW,No_name no_city,No_name,Zuerich und Thurgau,CHE,228,DMR
+2288237,HB3YRW, no_city,,Zuerich und Thurgau,CHE,228,DMR
 2288238,HB9TLH,Ruch Hemishofen,Ruch,Zuerich und Thurgau,CHE,228,DMR
-2288239,HB9GSX,No_name Zuerich,No_name,Zuerich und Thurgau,CHE,228,DMR
+2288239,HB9GSX, Zuerich,,Zuerich und Thurgau,CHE,228,DMR
 2288240,HB9EZE,Jun Zuerich,Jun,Zuerich und Thurgau,CHE,228,DMR
-2288241,HB9GSW,No_name Zuerich,No_name,Zuerich und Thurgau,CHE,228,DMR
+2288241,HB9GSW, Zuerich,,Zuerich und Thurgau,CHE,228,DMR
 2288242,HB9EMD,Paunovic Thalwil,Paunovic,Zuerich und Thurgau,CHE,228,DMR
 2288243,HB3YLQ,Robin Zuerich,Robin,Zuerich und Thurgau,CHE,228,DMR
 2288244,HB3YYU,Kohler Uster,Kohler,Zuerich und Thurgau,CHE,228,DMR
-2288245,HB9FLY,No_name no_city,No_name,Zuerich und Thurgau,CHE,228,DMR
+2288245,HB9FLY, no_city,,Zuerich und Thurgau,CHE,228,DMR
 2288246,HB3XPA,Gutzwiller Zuerich,Gutzwiller,Zuerich und Thurgau,CHE,228,DMR
-2288247,HB3YTS,No_name no_city,No_name,Zuerich und Thurgau,CHE,228,DMR
+2288247,HB3YTS, no_city,,Zuerich und Thurgau,CHE,228,DMR
 2288248,HB9FSV,Schwarz Schaffhausen,Schwarz,Zuerich und Thurgau,CHE,228,DMR
 2288249,HB9SH,Sektion Schaffhausen,Sektion,Zuerich und Thurgau,CHE,228,DMR
-2288250,HB9GIJ,No_name no_city,No_name,Zuerich und Thurgau,CHE,228,DMR
-2288251,HB9GUT,No_name no_city,No_name,Zuerich und Thurgau,CHE,228,DMR
+2288250,HB9GIJ, no_city,,Zuerich und Thurgau,CHE,228,DMR
+2288251,HB9GUT, no_city,,Zuerich und Thurgau,CHE,228,DMR
 2288252,HB9OOA,Michael Tagerwilen,Michael,Zuerich und Thurgau,CHE,228,DMR
 2288253,HB3YXR,Martel-Reichmuth Regensdorf,Martel-Reichmuth,Zuerich und Thurgau,CHE,228,DMR
 2288254,HB9GNT,Lobsiger Adlikon,Lobsiger,Zuerich und Thurgau,CHE,228,DMR
@@ -1467,8 +1472,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2288258,HB9GVS,Schremmer Zurich,Schremmer,Zuerich und Thurgau,CHE,228,DMR
 2288259,HB9GVR,Munafo Buerglen,Munafo,Zuerich und Thurgau,CHE,228,DMR
 2288260,HB9DRN,Huerlemann Wallenwil,Huerlemann,Zuerich und Thurgau,CHE,228,DMR
-2288261,HB9GVM,No_name Private,No_name,Zuerich und Thurgau,CHE,228,DMR
-2288262,HB3YJY,No_name Sulgen,No_name,No_name,CHE,228,DMR
+2288261,HB9GVM, Private,,Zuerich und Thurgau,CHE,228,DMR
+2288262,HB3YJY, Sulgen,,No_name,CHE,228,DMR
 2288263,HB9ZBV,Zanoni Hochfelden,Zanoni,Zuerich und Thurgau,CHE,228,DMR
 2288264,HB9XOF,Antink Winterthur,Antink,No_name,CHE,228,DMR
 2288265,HB3XRP,Hammerli Wetzikon,Hammerli,Zuerich und Thurgau,CHE,228,DMR
@@ -1486,7 +1491,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2288277,HB3YTX,Zahnd Benken,Zahnd,Zuerich und Thurgau,CHE,228,DMR
 2288278,HB9GVR,Munafo Buerglen,Munafo,No_name,CHE,228,DMR
 2288279,HB9FIY,Astbury Zuerich,Astbury,Zuerich und Thurgau,CHE,228,DMR
-2288280,HB9GXQ,No_name Buerglen,No_name,No_name,CHE,228,DMR
+2288280,HB9GXQ, Buerglen,,No_name,CHE,228,DMR
 2288281,HB3YVB,Zengaffinen Zuerich,Zengaffinen,No_name,CHE,228,DMR
 2288282,HB9AK,Winlink Neuenegg,Winlink,No_name,CHE,228,DMR
 2288283,HB9GKP,Paler Adliswil,Paler,No_name,CHE,228,DMR
@@ -1518,42 +1523,42 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2288309,HB9GVF,Eichmann Zuerich,Eichmann,Zuerich und Thurgau,CHE,228,DMR
 2288310,HB3XTO,Odermatt Oetwil am See,Odermatt,Zuerich und Thurgau,CHE,228,DMR
 2288311,HB9HBI,Bolliger Schindellegi,Bolliger,Zuerich und Thurgau,CHE,228,DMR
-2288312,HB3XUC,No_name Amriswil,No_name,Zuerich und Thurgau,CHE,228,DMR
-2288313,HB9RTV,No_name Reutlingen,No_name,Zuerich und Thurgau,CHE,228,DMR
-2288314,HB9RRL,No_name Schwanden,No_name,Zuerich und Thurgau,CHE,228,DMR
-2288315,HB9NFO,No_name Romanshorn,No_name,Zuerich und Thurgau,CHE,228,DMR
-2288316,HB9HDC,No_name Uitikon,No_name,Zuerich und Thurgau,CHE,228,DMR
+2288312,HB3XUC, Amriswil,,Zuerich und Thurgau,CHE,228,DMR
+2288313,HB9RTV, Reutlingen,,Zuerich und Thurgau,CHE,228,DMR
+2288314,HB9RRL, Schwanden,,Zuerich und Thurgau,CHE,228,DMR
+2288315,HB9NFO, Romanshorn,,Zuerich und Thurgau,CHE,228,DMR
+2288316,HB9HDC, Uitikon,,Zuerich und Thurgau,CHE,228,DMR
 2288317,HB3XUN,Club Waedenswil,Club,Zuerich und Thurgau,CHE,228,DMR
 2288318,HB9LBR,Tschumi Waedenswil,Tschumi,Zuerich und Thurgau,CHE,228,DMR
 2288319,HB9HCQ,Matter Berikon,Matter,.,CHE,228,DMR
-2288320,HB9WAV,No_name Mettmenstetten,No_name,Zuerich und Thurgau,CHE,228,DMR
+2288320,HB9WAV, Mettmenstetten,,Zuerich und Thurgau,CHE,228,DMR
 2288321,HB9GYI,Tschirky Tagelswangen,Tschirky,Crispin,CHE,228,DMR
-2288322,HB9HDZ,No_name Embrach,No_name,Zh-Tg,CHE,228,DMR
-2288323,HB9HEM,No_name Zurich,No_name,Zh-Tg,CHE,228,DMR
-2288324,HB9HDM,No_name Zuerich,No_name,No_name,CHE,228,DMR
-2288325,HB9GSS,No_name Zurich,No_name,Stephan,CHE,228,DMR
-2288326,HB9HEX,No_name Opfikon,No_name,No_name,CHE,228,DMR
-2288327,HB9CCS,No_name Zuerich,No_name,No_name,CHE,228,DMR
-2288328,HB9EKO,No_name Buelach,No_name,No_name,CHE,228,DMR
-2288329,HB3XVE,No_name Zurich,No_name,No_name,CHE,228,DMR
+2288322,HB9HDZ, Embrach,,Zh-Tg,CHE,228,DMR
+2288323,HB9HEM, Zurich,,Zh-Tg,CHE,228,DMR
+2288324,HB9HDM, Zuerich,,No_name,CHE,228,DMR
+2288325,HB9GSS, Zurich,,Stephan,CHE,228,DMR
+2288326,HB9HEX, Opfikon,,No_name,CHE,228,DMR
+2288327,HB9CCS, Zuerich,,No_name,CHE,228,DMR
+2288328,HB9EKO, Buelach,,No_name,CHE,228,DMR
+2288329,HB3XVE, Zurich,,No_name,CHE,228,DMR
 2288330,HB9HBT,Heierle Duernten,Heierle,Zh-Tg,CHE,228,DMR
-2288331,HB3XUX,No_name Meilen,No_name,.,CHE,228,DMR
-2288332,HB9HCP,No_name Oberwil-Lieli,No_name,.,CHE,228,DMR
+2288331,HB3XUX, Meilen,,.,CHE,228,DMR
+2288332,HB9HCP, Oberwil-Lieli,,.,CHE,228,DMR
 2288333,HB3XUD,Bollier Einsiedeln,Bollier,Sz,CHE,228,DMR
-2288334,HB9HGP,No_name Birchwil,No_name,.,CHE,228,DMR
-2288335,HB9HHQ,No_name Staefa,No_name,.,CHE,228,DMR
+2288334,HB9HGP, Birchwil,,.,CHE,228,DMR
+2288335,HB9HHQ, Staefa,,.,CHE,228,DMR
 2288336,HB9CIG,Salzmann Uitikon Waldegg,Salzmann,.,CHE,228,DMR
 2288337,HB9AN,2000 Kilchberg,2000,.,CHE,228,DMR
-2288338,HB9BIS,No_name Uitikon Waldegg,No_name,.,CHE,228,DMR
+2288338,HB9BIS, Uitikon Waldegg,,.,CHE,228,DMR
 2288339,HB9HJK,Kaesermann Winterthur,Kaesermann,Zurich,CHE,228,DMR
-2288340,HB3XWY,No_name Schoenholzerswilen,No_name,.,CHE,228,DMR
+2288340,HB3XWY, Schoenholzerswilen,,.,CHE,228,DMR
 2288424,HB9EPF,Brunner Embrach,Brunner,Zuerich und Thurgau,CHE,228,DMR
 2288542,HB9ANF,Spring Wiesendangen,Spring,Zuerich und Thurgau,CHE,228,DMR
 2288822,HB9SDB,Tschumi Waedenswil,Tschumi,Zuerich und Thurgau,CHE,228,DMR
 2288867,HB9BXQ,Schlittler Zuerich,Schlittler,Zuerich und Thurgau,CHE,228,DMR
-2289000,HB9SG,No_name St.Gallen,No_name,Ostschweiz,CHE,228,DMR
+2289000,HB9SG, St.Gallen,,Ostschweiz,CHE,228,DMR
 2289001,HB9SOF,Strassmann Bettwiesen,Strassmann,Zuerich und Thurgau,CHE,228,DMR
-2289002,HB9SWR,No_name Trogen,No_name,Ostschweiz,CHE,228,DMR
+2289002,HB9SWR, Trogen,,Ostschweiz,CHE,228,DMR
 2289003,HB3YKN,Graf Arbon,Graf,Ostschweiz,CHE,228,DMR
 2289004,HB9TIM,Kozma Goldach,Kozma,Ostschweiz,CHE,228,DMR
 2289005,HB9ASF,Sigg Rheineck,Sigg,Ostschweiz,CHE,228,DMR
@@ -1588,10 +1593,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2289034,HB9MTJ,Hutter Kriessern,Hutter,Ostschweiz,CHE,228,DMR
 2289035,HB9FGC,Markovic Niederuzwil,Markovic,Ostschweiz,CHE,228,DMR
 2289036,HB9BEP,Reinhold Grabs,Reinhold,Ostschweiz,CHE,228,DMR
-2289037,HB9EKI,No_name Diepoldsau,No_name,Ostschweiz,CHE,228,DMR
+2289037,HB9EKI, Diepoldsau,,Ostschweiz,CHE,228,DMR
 2289038,HB9EUQ,Brassel Altstaetten,Brassel,Ostschweiz,CHE,228,DMR
 2289039,HB9FVF,Sen Wolfhalden,Sen,Ostschweiz,CHE,228,DMR
-2289040,HB9DWD,No_name no_city,No_name,Ostschweiz,CHE,228,DMR
+2289040,HB9DWD, no_city,,Ostschweiz,CHE,228,DMR
 2289041,HB9DQL,Solenthaler Wald,Solenthaler,Ostschweiz,CHE,228,DMR
 2289042,HB9DQK,Venzin Widnau,Venzin,Ostschweiz,CHE,228,DMR
 2289043,HB9WG,Ulmann St.Gallen,Ulmann,Ostschweiz,CHE,228,DMR
@@ -1599,26 +1604,26 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2289045,HB9AKC,Clauss Horn,Clauss,Ostschweiz,CHE,228,DMR
 2289046,HB9GNK,Lander Wil,Lander,Ostschweiz,CHE,228,DMR
 2289047,HB9KNO,Palatini Untereggen,Palatini,Ostschweiz,CHE,228,DMR
-2289048,HB9DWD,No_name no_city,No_name,Ostschweiz,CHE,228,DMR
+2289048,HB9DWD, no_city,,Ostschweiz,CHE,228,DMR
 2289049,HB9KOG,Sutter St.Gallen,Sutter,Ostschweiz,CHE,228,DMR
-2289050,HB9TIP,No_name Bern,No_name,Ostschweiz,CHE,228,DMR
+2289050,HB9TIP, Bern,,Ostschweiz,CHE,228,DMR
 2289051,HB9EVD,Braunwalder Wilen,Braunwalder,Ostschweiz,CHE,228,DMR
 2289052,HB9BZC,Hirschi St.Gallen,Hirschi,Ostschweiz,CHE,228,DMR
 2289053,HB9KOO,Lareida Engelburg,Lareida,Ostschweiz,CHE,228,DMR
 2289054,HB9FFY,Krapf Roggwil,Krapf,Ostschweiz,CHE,228,DMR
-2289055,HB3YGP,No_name Ostschweiz,No_name,Ostschweiz,CHE,228,DMR
+2289055,HB3YGP, Ostschweiz,,Ostschweiz,CHE,228,DMR
 2289056,HB9TNW,Bassanello St.Gallen,Bassanello,Ostschweiz,CHE,228,DMR
 2289057,HB9BFY,Aeschlimann Walzenhausen,Aeschlimann,Ostschweiz,CHE,228,DMR
 2289058,HB9FES,Scheuss Herisau,Scheuss,Ostschweiz,CHE,228,DMR
 2289059,HB9CMP,Klingler Widnau,Klingler,Ostschweiz,CHE,228,DMR
-2289060,HB9DHH,No_name no_city,No_name,Ostschweiz,CHE,228,DMR
-2289061,HB9TKE,No_name Bern,No_name,Ostschweiz,CHE,228,DMR
+2289060,HB9DHH, no_city,,Ostschweiz,CHE,228,DMR
+2289061,HB9TKE, Bern,,Ostschweiz,CHE,228,DMR
 2289062,HB9AJF,Manser Bern,Manser,Ostschweiz,CHE,228,DMR
 2289063,HB9EMZ,Giger Bussnang,Giger,Ostschweiz,CHE,228,DMR
 2289064,HB3YWF,Willi St.Gallen,Willi,Ostschweiz,CHE,228,DMR
 2289065,HB9FUT,Schneider Muenchwilen,Schneider,Ostschweiz,CHE,228,DMR
-2289066,HB9BIPI,No_name Scoutnet Schweiz,No_name,No_name,CHE,228,DMR
-2289067,HB3YBV,No_name no_city,No_name,Ostschweiz,CHE,228,DMR
+2289066,HB9BIPI, Scoutnet Schweiz,,No_name,CHE,228,DMR
+2289067,HB3YBV, no_city,,Ostschweiz,CHE,228,DMR
 2289068,HB3YDM,Waldispuehl Wilen,Waldispuehl,Ostschweiz,CHE,228,DMR
 2289069,HB9FUE,Oberholzer Bischofszell,Oberholzer,Ostschweiz,CHE,228,DMR
 2289070,HB9CMI,Altschul Waengi,Altschul,Ostschweiz,CHE,228,DMR
@@ -1628,13 +1633,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2289074,HB3YDT,Kaserer Tagerschen,Kaserer,Ostschweiz,CHE,228,DMR
 2289075,HB9GPX,Luber Lauterach,Luber,Ostschweiz,CHE,228,DMR
 2289076,HB9EZX,Petrou Moerschwil,Petrou,Ostschweiz,CHE,228,DMR
-2289077,HB9GPJ,No_name no_city,No_name,Ostschweiz,CHE,228,DMR
+2289077,HB9GPJ, no_city,,Ostschweiz,CHE,228,DMR
 2289078,HB9DGR,Erdmann Rebstein,Erdmann,Ostschweiz,CHE,228,DMR
 2289079,HB9EIJ,Jung Rossruti,Jung,Ostschweiz,CHE,228,DMR
 2289080,HB9TMR,Rudisuhli Frumsen,Rudisuhli,Ostschweiz,CHE,228,DMR
 2289081,HB9DPM,Oehninger Bazenheid,Oehninger,Ostschweiz,CHE,228,DMR
 2289082,HB3XPJ,Mader St.Gallen,Mader,No_name,CHE,228,DMR
-2289083,HB9TUT,No_name St.Gallen,No_name,Sankt Gallen,CHE,228,DMR
+2289083,HB9TUT, St.Gallen,,Sankt Gallen,CHE,228,DMR
 2289084,HB3YBF,Kern Gossau,Kern,Sankt Gallen,CHE,228,DMR
 2289085,HB9DWK,Epper Gossau,Epper,No_name,CHE,228,DMR
 2289086,HB9TRO,Noll Schwarzenbach,Noll,Ostschweiz,CHE,228,DMR
@@ -1645,20 +1650,20 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2289091,HB9ZGZ,Schmid Muenchwilen,Schmid,No_name,CHE,228,DMR
 2289092,HB9GYB,Kern Gossau,Kern,Sankt Gallen,CHE,228,DMR
 2289093,HB9DKC,Clausen Widnau,Clausen,No_name,CHE,228,DMR
-2289094,HB9BEF,No_name Tubach,No_name,No_name,CHE,228,DMR
+2289094,HB9BEF, Tubach,,No_name,CHE,228,DMR
 2289095,HB3YJZ,Ross Flawil,Ross,No_name,CHE,228,DMR
 2289096,HB9DXB,Wismer Flawil,Wismer,Stgalle,CHE,228,DMR
-2289097,HB9HBF,No_name Wolfhalden,No_name,Ostschweiz,CHE,228,DMR
-2289098,HB9DKC,No_name Widnau,No_name,Ostschweiz,CHE,228,DMR
-2289099,HB9ENE,No_name Tobel-Taegerschen,No_name,Ostschweiz,CHE,228,DMR
+2289097,HB9HBF, Wolfhalden,,Ostschweiz,CHE,228,DMR
+2289098,HB9DKC, Widnau,,Ostschweiz,CHE,228,DMR
+2289099,HB9ENE, Tobel-Taegerschen,,Ostschweiz,CHE,228,DMR
 2289100,HB3XUP,Florian Waldkirch,Florian,Ostschweiz,CHE,228,DMR
 2289101,HB9HEW,Mohr Engelburg,Mohr,No_name,CHE,228,DMR
 2289102,HB9DVZ,Jalkoczi Sevelen Sg,Jalkoczi,.,CHE,228,DMR
-2289103,HB9FUG,No_name Schwellbrunn,No_name,Ausserrhoden,CHE,228,DMR
-2289104,HB9BZY,No_name Au/sg,No_name,.,CHE,228,DMR
-2289105,HB9SRD,No_name Goldach,No_name,Stno_infogallen,CHE,228,DMR
+2289103,HB9FUG, Schwellbrunn,,Ausserrhoden,CHE,228,DMR
+2289104,HB9BZY, Au/sg,,.,CHE,228,DMR
+2289105,HB9SRD, Goldach,,Stno_infogallen,CHE,228,DMR
 2289106,HB9HJQ,Egger Moerschwil,Egger,Stno_info Gallen,CHE,228,DMR
-2289107,HB3XWP,No_name Ganterschwil,No_name,.,CHE,228,DMR
+2289107,HB3XWP, Ganterschwil,,.,CHE,228,DMR
 2320010,OE1XAR,Lv Wien Wien,Lv Wien,WIEN,AUT,232,DMR
 2320011,OE5XWM,Wels Wels,Wels,KTN,AUT,232,DMR
 2320012,OE8WUK,Unterberger Klagenfurt,Unterberger,KTN,AUT,232,DMR
@@ -1694,7 +1699,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320042,OE3VYB,Mick Bad Voeslau,Mick,NOE,AUT,232,DMR
 2320043,OE3YLR,Rentmeister Neulengbach,Rentmeister,NOE,AUT,232,DMR
 2320044,OE7HDJ,Huber Pill,Huber,TIROL,AUT,232,DMR
-2320045,OE1EKG,Grabler Wien,Grabler,WIEN,AUT,232,DMR
+2320045,OE1EKG,Grabler Wien,Grabler,NOE,AUT,232,DMR
 2320046,OE1DWD,Dusek Wien,Dusek,WIEN,AUT,232,DMR
 2320047,OE5HNG,Hangl Tumeltsham,Hangl,OOE,AUT,232,DMR
 2320048,OE9KHJ,Haemmerle Dornbirn,Haemmerle,VBG,AUT,232,DMR
@@ -1781,17 +1786,21 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320129,OE5HOR,Hoertenhummer Ohlsdorf,Hoertenhummer,OOE,AUT,232,DMR
 2320130,OE6CHD,Dallermassl Graz,Dallermassl,.,AUT,232,DMR
 2320131,OE5WEO,Wessely Voecklabruck,Wessely,OOE,AUT,232,DMR
+2320132,OE7PHT,Plank Silz,Plank,TIROL,AUT,232,DMR
+2320133,OE5PBO,Baumgartl Pinsdorf,Baumgartl,OOE,AUT,232,DMR
+2320134,OE8AIF,Hackl Spittal An der Drau,Hackl,KTN,AUT,232,DMR
+2320135,OE5WAQ,Weinzierl Wels,Weinzierl,KTN,AUT,232,DMR
 2321001,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321002,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321003,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
-2321004,OE1TKT,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321004,OE1TKT, Wien,,WIEN,AUT,232,DMR
 2321005,OE1RBC,Binder Wien,Binder,WIEN,AUT,232,DMR
 2321006,OE1NKC,Klisura Wien,Klisura,WIEN,AUT,232,DMR
 2321007,OE1RPW,Roditsch Wien,Roditsch,WIEN,AUT,232,DMR
 2321008,OE1AZS,Schmid-Zartner Wien,Schmid-Zartner,WIEN,AUT,232,DMR
-2321009,OE1RXW,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321010,OE1ODS,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321011,OE1OCB,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321009,OE1RXW, Wien,,WIEN,AUT,232,DMR
+2321010,OE1ODS, Wien,,WIEN,AUT,232,DMR
+2321011,OE1OCB, Wien,,WIEN,AUT,232,DMR
 2321012,OE1WLA,Lehner Wien,Lehner,WIEN,AUT,232,DMR
 2321013,OE1RGU,Gilge Wien,Gilge,WIEN,AUT,232,DMR
 2321014,OE1RFC,Hopfer Wien,Hopfer,WIEN,AUT,232,DMR
@@ -1800,34 +1809,34 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321017,OE1TKS,Koch Wien,Koch,WIEN,AUT,232,DMR
 2321018,OE1AFU,Farago Wien,Farago,WIEN,AUT,232,DMR
 2321019,OE1UPS,Schlegelgruber Wien,Schlegelgruber,WIEN,AUT,232,DMR
-2321020,OE1AMA,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321021,OE1NHC,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321020,OE1AMA, Wien,,WIEN,AUT,232,DMR
+2321021,OE1NHC, Wien,,WIEN,AUT,232,DMR
 2321022,OE1GPA,Pechoc Wien,Pechoc,WIEN,AUT,232,DMR
 2321023,OE1WBC,Bieringer Wien,Bieringer,WIEN,AUT,232,DMR
 2321024,OE1LBS,Bachschwell Wien,Bachschwell,WIEN,AUT,232,DMR
 2321025,OE1KDA,Dabrowski Wien,Dabrowski,WIEN,AUT,232,DMR
 2321026,OE1WBS,Bachschwell Wien,Bachschwell,WIEN,AUT,232,DMR
 2321027,OE1HXA,Haas Wien,Haas,WIEN,AUT,232,DMR
-2321028,OE1DZS,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321028,OE1DZS, Wien,,WIEN,AUT,232,DMR
 2321029,OE1UMS,Stockhammer Wien,Stockhammer,WIEN,AUT,232,DMR
 2321030,OE1CMW,Wurzinger Wien,Wurzinger,WIEN,AUT,232,DMR
 2321031,OE1HWS,Waloschek Wien,Waloschek,WIEN,AUT,232,DMR
 2321032,OE1AMM,Antolini Wien,Antolini,WIEN,AUT,232,DMR
-2321033,OE1LFB,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321033,OE1LFB, Wien,,WIEN,AUT,232,DMR
 2321034,OE1JXS,Barthel Wien,Barthel,WIEN,AUT,232,DMR
 2321035,OE1XMB,Icom Radio Wien,Icom Radio,WIEN,AUT,232,DMR
 2321036,OE1CUC,Wutscher Wien,Wutscher,WIEN,AUT,232,DMR
 2321037,OE1VZ,Hochgoetz Wien,Hochgoetz,WIEN,AUT,232,DMR
-2321038,OE1SRC,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321038,OE1SRC, Wien,,WIEN,AUT,232,DMR
 2321039,OE1SGW,Sobotka Wien,Sobotka,WIEN,AUT,232,DMR
 2321040,OE1PHS,Puchardt Wien,Puchardt,WIEN,AUT,232,DMR
 2321041,OE1PZC,Zoechling Wien,Zoechling,WIEN,AUT,232,DMR
 2321042,OE1RIC,Menedetter Wien,Menedetter,WIEN,AUT,232,DMR
 2321043,OE1WKL,Kraml Wien,Kraml,WIEN,AUT,232,DMR
-2321044,OE1FRA,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321044,OE1FRA, Wien,,WIEN,AUT,232,DMR
 2321045,OE1OWA,Wagner Wien,Wagner,WIEN,AUT,232,DMR
-2321046,OE1IKW,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321047,OE1MIA,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321046,OE1IKW, Wien,,WIEN,AUT,232,DMR
+2321047,OE1MIA, Wien,,WIEN,AUT,232,DMR
 2321048,OE1XNC,Lv Wien Wien,Lv Wien,WIEN,AUT,232,DMR
 2321049,OE1XTK,Icom Radio Wien,Icom Radio,WIEN,AUT,232,DMR
 2321050,OE1SSU,Steininger Wien,Steininger,WIEN,AUT,232,DMR
@@ -1837,38 +1846,38 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321054,OE1LRC,Rausch Wien,Rausch,WIEN,AUT,232,DMR
 2321055,OE1AMS,Meier Wien,Meier,WIEN,AUT,232,DMR
 2321056,OE1HWS,Waloschek Wien,Waloschek,WIEN,AUT,232,DMR
-2321057,OE1VNA,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321057,OE1VNA, Wien,,WIEN,AUT,232,DMR
 2321058,OE1GYA,Baumgartner Wien,Baumgartner,WIEN,AUT,232,DMR
-2321059,OE1DLA,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321060,OE1KLM,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321059,OE1DLA, Wien,,WIEN,AUT,232,DMR
+2321060,OE1KLM, Wien,,WIEN,AUT,232,DMR
 2321061,OE1ROB,Petsovits Wien,Petsovits,WIEN,AUT,232,DMR
 2321062,OE1JXS,Barthel Wien,Barthel,WIEN,AUT,232,DMR
 2321063,OE1JTB,Tschapka Wien,Tschapka,WIEN,AUT,232,DMR
-2321064,OE1VHS,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321064,OE1VHS, Wien,,WIEN,AUT,232,DMR
 2321065,OE1OEA,Prokop Wien,Prokop,WIEN,AUT,232,DMR
 2321066,OE1VGC,Vehzely Wien,Vehzely,WIEN,AUT,232,DMR
 2321067,OE1OWA,Wagner Wien,Wagner,WIEN,AUT,232,DMR
-2321068,OE1DLA,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321069,OE1FEA,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321068,OE1DLA, Wien,,WIEN,AUT,232,DMR
+2321069,OE1FEA, Wien,,WIEN,AUT,232,DMR
 2321070,OE1VRB,Pfaffeneder Wien,Pfaffeneder,WIEN,AUT,232,DMR
 2321071,OE1AKA,Krainz Wien,Krainz,WIEN,AUT,232,DMR
 2321072,OE1PYA,Koenig Wien,Koenig,WIEN,AUT,232,DMR
 2321073,OE1SPS,Schittelkopf Wien,Schittelkopf,WIEN,AUT,232,DMR
 2321074,OE1LHU,Huber Wien,Huber,WIEN,AUT,232,DMR
 2321075,OE1KHU,Hengl Wien,Hengl,WIEN,AUT,232,DMR
-2321076,OE1ZEB,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321076,OE1ZEB, Wien,,WIEN,AUT,232,DMR
 2321077,OE1MPB,Mohr Wien,Mohr,WIEN,AUT,232,DMR
-2321078,OE1WFS,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321079,OE1TMC,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321078,OE1WFS, Wien,,WIEN,AUT,232,DMR
+2321079,OE1TMC, Wien,,WIEN,AUT,232,DMR
 2321080,OE1XIC,Icom Radio Wien,Icom Radio,WIEN,AUT,232,DMR
-2321081,OE1SJS,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321081,OE1SJS, Wien,,WIEN,AUT,232,DMR
 2321082,OE1SWS,Stuckart Wien,Stuckart,WIEN,AUT,232,DMR
 2321083,OE1EBC,Buchberger Wien,Buchberger,WIEN,AUT,232,DMR
 2321084,OE1CGS,Schwaerzler Wien,Schwaerzler,WIEN,AUT,232,DMR
 2321085,OE1PHB,Hammerl Wien,Hammerl,WIEN,AUT,232,DMR
 2321086,OE1FFS,Frede Wien,Frede,WIEN,AUT,232,DMR
-2321087,OE1MAB,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321088,OE1RNQ,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321087,OE1MAB, Wien,,WIEN,AUT,232,DMR
+2321088,OE1RNQ, Wien,,WIEN,AUT,232,DMR
 2321089,OE1OMK,Knell Wien,Knell,WIEN,AUT,232,DMR
 2321090,OE1OEB,Haden Wien,Haden,WIEN,AUT,232,DMR
 2321091,OE1BAK,Akhras Wien,Akhras,WIEN,AUT,232,DMR
@@ -1877,38 +1886,38 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321094,OE1HAW,Alberer Hans Wien,Alberer Hans,WIEN,AUT,232,DMR
 2321095,OE1ABS,Boehler Wien,Boehler,WIEN,AUT,232,DMR
 2321096,OE1YXS,Bachschwell Wien,Bachschwell,WIEN,AUT,232,DMR
-2321097,OE4DEA,No_name Wien,No_name,WIEN,AUT,232,DMR
-2321098,OE1PSW,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321099,OE1AMA,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321097,OE4DEA, no_city,,,AUT,232,DMR
+2321098,OE1PSW, Wien,,WIEN,AUT,232,DMR
+2321099,OE1AMA, Wien,,WIEN,AUT,232,DMR
 2321100,OE1ROC,Raul Wien,Raul,WIEN,AUT,232,DMR
 2321101,OE1WDS,Detz Wien,Detz,WIEN,AUT,232,DMR
-2321102,OE1BHS,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321103,OE1XMW,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321102,OE1BHS, Wien,,WIEN,AUT,232,DMR
+2321103,OE1XMW, Wien,,WIEN,AUT,232,DMR
 2321104,OE1GTU,Rothfuss Wien,Rothfuss,WIEN,AUT,232,DMR
-2321105,OE1PSW,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321106,OE1MSA,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321107,OE1MSA,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321105,OE1PSW, Wien,,WIEN,AUT,232,DMR
+2321106,OE1MSA, Wien,,WIEN,AUT,232,DMR
+2321107,OE1MSA, Wien,,WIEN,AUT,232,DMR
 2321108,OE1YHA,Wasserburger Wien,Wasserburger,WIEN,AUT,232,DMR
 2321109,OE1GKS,Koller Wien,Koller,WIEN,AUT,232,DMR
 2321110,OE1PYW,Stiassny Wien,Stiassny,WIEN,AUT,232,DMR
 2321111,OE1PYW,Stiassny Wien,Stiassny,WIEN,AUT,232,DMR
-2321112,OE1MHA,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321112,OE1MHA, Wien,,WIEN,AUT,232,DMR
 2321113,OE1BSA,Stoff Robert Wien,Stoff Robert,WIEN,AUT,232,DMR
 2321114,OE1MBW,Belohrad Wien,Belohrad,WIEN,AUT,232,DMR
 2321115,OE1AOA,Sobotka Wien,Sobotka,WIEN,AUT,232,DMR
-2321116,OE1GNU,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321117,OE1MMU,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321116,OE1GNU, Wien,,WIEN,AUT,232,DMR
+2321117,OE1MMU, Wien,,WIEN,AUT,232,DMR
 2321118,OE1RSA,Schwarz Wien,Schwarz,WIEN,AUT,232,DMR
-2321119,OE1SSS,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321120,OE1SSS,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321119,OE1SSS, Wien,,WIEN,AUT,232,DMR
+2321120,OE1SSS, Wien,,WIEN,AUT,232,DMR
 2321121,OE1RCS,Schillinger Wien,Schillinger,WIEN,AUT,232,DMR
-2321122,OE1FCQ,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321123,OE1MHA,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321124,OE1MHA,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321122,OE1FCQ, Wien,,WIEN,AUT,232,DMR
+2321123,OE1MHA, Wien,,WIEN,AUT,232,DMR
+2321124,OE1MHA, Wien,,WIEN,AUT,232,DMR
 2321125,OE1CKW,Polak Wien,Polak,WIEN,AUT,232,DMR
 2321126,OE1PHS,Puchardt Wien,Puchardt,WIEN,AUT,232,DMR
 2321127,OE1RGU,Gilge Wien,Gilge,WIEN,AUT,232,DMR
-2321128,OE1ULA,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321128,OE1ULA, Wien,,WIEN,AUT,232,DMR
 2321129,OE1BAW,Baender Wien,Baender,WIEN,AUT,232,DMR
 2321130,OE1ILW,Roubal Wien,Roubal,WIEN,AUT,232,DMR
 2321131,OE1XBH,Austrian Military Radio Society Hq - Wien,Austrian Military Radio Society Hq -,WIEN,AUT,232,DMR
@@ -1923,15 +1932,15 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321140,OE1AQL,Lehner Wien,Lehner,WIEN,AUT,232,DMR
 2321141,OE1MMA,Melcher Wien,Melcher,WIEN,AUT,232,DMR
 2321142,OE1MWW,Meister Wien,Meister,WIEN,AUT,232,DMR
-2321143,OE1RSW,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321143,OE1RSW, Wien,,WIEN,AUT,232,DMR
 2321144,OE1DGW,Westphal Wien,Westphal,WIEN,AUT,232,DMR
 2321145,OE1WUA,Zunke Wien,Zunke,WIEN,AUT,232,DMR
 2321146,OE1WLW,Langer Wien,Langer,WIEN,AUT,232,DMR
 2321147,OE1EPU,Prem Wien,Prem,WIEN,AUT,232,DMR
 2321148,OE1AGF,Hedtmann Wien,Hedtmann,WIEN,AUT,232,DMR
 2321149,OE1AGF,Hedtmann Wien,Hedtmann,WIEN,AUT,232,DMR
-2321150,OE1CRW,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321151,OE1CRW,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321150,OE1CRW, Wien,,WIEN,AUT,232,DMR
+2321151,OE1CRW, Wien,,WIEN,AUT,232,DMR
 2321152,OE1DOA,Hois Wien,Hois,WIEN,AUT,232,DMR
 2321153,OE1GQA,Pelan Wien,Pelan,WIEN,AUT,232,DMR
 2321154,OE1NHU,Harter Wien,Harter,WIEN,AUT,232,DMR
@@ -1939,28 +1948,28 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321156,OE1DFS,Friedreich Wien,Friedreich,WIEN,AUT,232,DMR
 2321157,OE1CBC,Busslinger Wien,Busslinger,WIEN,AUT,232,DMR
 2321158,OE1HXS,Hanisch Wien,Hanisch,WIEN,AUT,232,DMR
-2321159,OE1LHP,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321159,OE1LHP, Wien,,WIEN,AUT,232,DMR
 2321160,OE1WUW,Wolf Wien,Wolf,WIEN,AUT,232,DMR
-2321161,OE1SQA,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321161,OE1SQA, Wien,,WIEN,AUT,232,DMR
 2321162,OE1UVA,Reim Wien,Reim,WIEN,AUT,232,DMR
 2321163,OE1FUC,Frey Wien,Frey,WIEN,AUT,232,DMR
-2321164,OE1CWJ,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321165,OE1NCH,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321164,OE1CWJ, Wien,,WIEN,AUT,232,DMR
+2321165,OE1NCH, Wien,,WIEN,AUT,232,DMR
 2321166,OE1YHL,Hertinger Wien,Hertinger,WIEN,AUT,232,DMR
-2321167,OE1DHU,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321167,OE1DHU, Wien,,WIEN,AUT,232,DMR
 2321168,OE1ROF,Ferchenbauer Robert Wien,Ferchenbauer Robert,WIEN,AUT,232,DMR
 2321169,OE1DHK,Defner Johannes Wien,Defner Johannes,WIEN,AUT,232,DMR
 2321170,OE1FFA,Froehlich Wien,Froehlich,WIEN,AUT,232,DMR
 2321171,OE1INA,Naydenov Wien,Naydenov,WIEN,AUT,232,DMR
 2321172,OE1WBC,Bieringer Wien,Bieringer,WIEN,AUT,232,DMR
 2321173,OE1XKW,Radio Club Wien,Radio Club,WIEN,AUT,232,DMR
-2321174,OE1LHP,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321174,OE1LHP, Wien,,WIEN,AUT,232,DMR
 2321175,OE1DOA,Hois Wien,Hois,WIEN,AUT,232,DMR
 2321176,OE1LWA,Waitz Wien,Waitz,WIEN,AUT,232,DMR
-2321177,OE1MMU,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321177,OE1MMU, Wien,,WIEN,AUT,232,DMR
 2321178,OE1LKU,Kuhn Wien,Kuhn,WIEN,AUT,232,DMR
 2321179,OE1SCU,Schaefer Wien,Schaefer,WIEN,AUT,232,DMR
-2321180,OE1DMB,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321180,OE1DMB, Wien,,WIEN,AUT,232,DMR
 2321181,OE1NMA,Strauss Wien,Strauss,WIEN,AUT,232,DMR
 2321182,OE1MKA,Kuso Wien,Kuso,WIEN,AUT,232,DMR
 2321183,OE1HLB,Lamprecht Wien,Lamprecht,WIEN,AUT,232,DMR
@@ -1973,8 +1982,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321190,OE1LON,Daxboeck Wien,Daxboeck,WIEN,AUT,232,DMR
 2321191,OE1WKC,Kabelka Wien,Kabelka,WIEN,AUT,232,DMR
 2321192,OE1MOO,Morais Wien,Morais,WIEN,AUT,232,DMR
-2321193,OE1HLT,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321194,OE1ABV,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321193,OE1HLT, Wien,,WIEN,AUT,232,DMR
+2321194,OE1ABV, Wien,,WIEN,AUT,232,DMR
 2321195,OE1UKB,Bischinger Wien,Bischinger,WIEN,AUT,232,DMR
 2321196,OE1KDW,Heidinger Wien,Heidinger,WIEN,AUT,232,DMR
 2321197,OE1GLB,Lechinger Wien,Lechinger,WIEN,AUT,232,DMR
@@ -1983,7 +1992,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321200,OE1XVC,Sektion Amateurfunk Kultur- und Sportverein Wien,Sektion Amateurfunk Kultur- und Sportverein,WIEN,AUT,232,DMR
 2321201,OE1NDB,Deutsch Wien,Deutsch,WIEN,AUT,232,DMR
 2321202,OE1AKA,Krainz Wien,Krainz,WIEN,AUT,232,DMR
-2321203,OE1PFC,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321203,OE1PFC, Wien,,WIEN,AUT,232,DMR
 2321204,OE1CLC,Lederer Wien,Lederer,WIEN,AUT,232,DMR
 2321205,OE1NDB,Deutsch Wien,Deutsch,WIEN,AUT,232,DMR
 2321206,OE1CSR,Siedler Wien,Siedler,WIEN,AUT,232,DMR
@@ -1995,18 +2004,18 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321212,OE1TOA,Tok Wien,Tok,WIEN,AUT,232,DMR
 2321213,OE1GOA,Ostrowski Wien,Ostrowski,WIEN,AUT,232,DMR
 2321214,OE1LYA,Leyrer Wien,Leyrer,WIEN,AUT,232,DMR
-2321215,OE1KCR,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321216,OE1DZW,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321215,OE1KCR, Wien,,WIEN,AUT,232,DMR
+2321216,OE1DZW, Wien,,WIEN,AUT,232,DMR
 2321217,OE1EWA,Empacher Wien,Empacher,WIEN,AUT,232,DMR
 2321218,OE1EAX,Gahleitner Engelbert Wien,Gahleitner Engelbert,WIEN,AUT,232,DMR
 2321219,OE1PIM,Pilz Wien,Pilz,WIEN,AUT,232,DMR
 2321220,OE1GXK,Kaderavek Wien,Kaderavek,WIEN,AUT,232,DMR
-2321221,OE1MSX,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321222,OE1TWW,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321223,OE1LYK,Oliver Wien,Oliver,WIEN,AUT,232,DMR
+2321221,OE1MSX, Wien,,WIEN,AUT,232,DMR
+2321222,OE1TWW, Wien,,WIEN,AUT,232,DMR
+2321223,OE1LYK,Schabasser Wien,Schabasser,WIEN,AUT,232,DMR
 2321224,OE1TKW,Klein Wien,Klein,WIEN,AUT,232,DMR
 2321225,OE1SSB,Schmid Wien,Schmid,WIEN,AUT,232,DMR
-2321226,OE1DZW,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321226,OE1DZW, Wien,,WIEN,AUT,232,DMR
 2321227,OE1SCS,Schultheis Wien,Schultheis,WIEN,AUT,232,DMR
 2321228,OE1OIW,Wild Wien,Wild,WIEN,AUT,232,DMR
 2321229,OE1LON,Daxboeck Wien,Daxboeck,WIEN,AUT,232,DMR
@@ -2014,14 +2023,14 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321231,OE1WCA,Casett Wien,Casett,WIEN,AUT,232,DMR
 2321232,OE1SKV,Kleibel Wien,Kleibel,WIEN,AUT,232,DMR
 2321233,OE1EAX,Gahleitner Engelbert Wien,Gahleitner Engelbert,WIEN,AUT,232,DMR
-2321234,OE1VZG,No_name no_city,No_name,WIEN,AUT,232,DMR
-2321235,OE1MEW,Maximilian Wien,Maximilian,WIEN,AUT,232,DMR
-2321236,OE1WEH,Heinz Wien,Heinz,WIEN,AUT,232,DMR
+2321234,OE1VZG, no_city,,,AUT,232,DMR
+2321235,OE1MEW,Hausermaier Wien,Hausermaier,WIEN,AUT,232,DMR
+2321236,OE1WEH,Weber Wien,Weber,WIEN,AUT,232,DMR
 2321237,OE1SCS,Schultheis Wien,Schultheis,WIEN,AUT,232,DMR
 2321238,OE1NPC,Pratl Wien,Pratl,WIEN,AUT,232,DMR
 2321239,OE1MUL,Musiejovsky Wien,Musiejovsky,WIEN,AUT,232,DMR
-2321240,OE1ZEB,no_name Wien,no_name,WIEN,AUT,232,DMR
-2321241,OE1TKB,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321240,OE1ZEB, Wien,,WIEN,AUT,232,DMR
+2321241,OE1TKB, Wien,,WIEN,AUT,232,DMR
 2321242,OE1LPC,Pschernig Wien,Pschernig,WIEN,AUT,232,DMR
 2321243,OE1BAS,Buechner Wien,Buechner,WIEN,AUT,232,DMR
 2321244,OE1CGC,Gasser Wien,Gasser,WIEN,AUT,232,DMR
@@ -2032,7 +2041,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321249,OE1NBS,Bachschwell Wien,Bachschwell,WIEN,AUT,232,DMR
 2321250,OE1HNA,Naber Wien,Naber,WIEN,AUT,232,DMR
 2321251,OE1HNA,Naber Wien,Naber,WIEN,AUT,232,DMR
-2321252,OE1ITA,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321252,OE1ITA, Wien,,WIEN,AUT,232,DMR
 2321253,OE1THT,Tiefenbacher Wien,Tiefenbacher,WIEN,AUT,232,DMR
 2321254,OE1JTC,Thomasberger Wien,Thomasberger,WIEN,AUT,232,DMR
 2321255,OE1AQL,Lehner Wien,Lehner,WIEN,AUT,232,DMR
@@ -2043,29 +2052,29 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321260,OE1VDS,Stojanovic Wien,Stojanovic,WIEN,AUT,232,DMR
 2321261,OE1MIS,Rubitschka Wien,Rubitschka,WIEN,AUT,232,DMR
 2321262,OE1ZMM,Montfort Wien,Montfort,WIEN,AUT,232,DMR
-2321263,OE1VWA,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321263,OE1VWA, Wien,,WIEN,AUT,232,DMR
 2321264,OE1YSI,Schweitzer Wien,Schweitzer,WIEN,AUT,232,DMR
 2321265,OE1RQH,Hefele Wien,Hefele,WIEN,AUT,232,DMR
-2321266,OE1BHT,No_name Wien,No_name,WIEN,AUT,232,DMR
+2321266,OE1BHT, no_city,,,AUT,232,DMR
 2321267,OE1WAA,Wacek Wien,Wacek,WIEN,AUT,232,DMR
 2321268,OE1UNS,Ungar Wien,Ungar,WIEN,AUT,232,DMR
-2321269,OE1MHZ,Mahr Wien,Mahr,WIEN,AUT,232,DMR
-2321270,OE1OEE,No_name Wien,No_name,WIEN,AUT,232,DMR
-2321271,OE1VEP,No_name Wien,No_name,WIEN,AUT,232,DMR
-2321272,OE1ITE,Scharmueller Wien,Scharmueller,WIEN,AUT,232,DMR
-2321273,OE1WDH,Dvorak Wien,Dvorak,WIEN,AUT,232,DMR
+2321269,OE1MHZ, no_city,,,AUT,232,DMR
+2321270,OE1OEE,Majcher Wien,Majcher,NOE,AUT,232,DMR
+2321271,OE1VEP,Veress Wien,Veress,WIEN,AUT,232,DMR
+2321272,OE1ITE, no_city,,,AUT,232,DMR
+2321273,OE1WDH, no_city,,,AUT,232,DMR
 2321274,OE1UHU,Hutter Wien,Hutter,WIEN,AUT,232,DMR
 2321275,OE1TRI,Rief Wien,Rief,WIEN,AUT,232,DMR
 2321276,OE1KTU,Kausalius Wien,Kausalius,WIEN,AUT,232,DMR
 2321277,OE1TSU,Schimanek Wien,Schimanek,WIEN,AUT,232,DMR
 2321278,OE1TOA,Tok Wien,Tok,WIEN,AUT,232,DMR
-2321279,OE1PMD,Puttner Wien,Puttner,WIEN,AUT,232,DMR
+2321279,OE1PMD, no_city,,,AUT,232,DMR
 2321280,OE1HGJ,Herold Wien,Herold,WIEN,AUT,232,DMR
 2321281,OE1PUT,Muellner Wien,Muellner,WIEN,AUT,232,DMR
 2321282,OE1JEW,Eitzenberger Wien,Eitzenberger,WIEN,AUT,232,DMR
 2321283,OE1EXW,Wallner Wien,Wallner,WIEN,AUT,232,DMR
 2321301,OE1BAD,Boeck Wien,Boeck,WIEN,AUT,232,DMR
-2321302,OE1PNS,no_name Wien,no_name,WIEN,AUT,232,DMR
+2321302,OE1PNS, Wien,,WIEN,AUT,232,DMR
 2321303,OE1MCU,Kastelic Wien,Kastelic,WIEN,AUT,232,DMR
 2321304,OE1CSC,Schmikal Wien,Schmikal,WIEN,AUT,232,DMR
 2321305,OE1IFM,Frauscher Wien,Frauscher,WIEN,AUT,232,DMR
@@ -2075,17 +2084,17 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2322002,OE2WAO,Wedl Michael Obertrum am See,Wedl Michael,SBG,AUT,232,DMR
 2322003,OE2KLM,Klima Saalfelden am Steinernen Meer,Klima,SBG,AUT,232,DMR
 2322004,OE2IKN,Koenig St.Gilgen,Koenig,SBG,AUT,232,DMR
-2322005,OE2XIL,no_name St. Gilgen,no_name,SBG,AUT,232,DMR
-2322006,OE2XXM,no_name St. Gilgen,no_name,SBG,AUT,232,DMR
+2322005,OE2XIL, St. Gilgen,,SBG,AUT,232,DMR
+2322006,OE2XXM, St. Gilgen,,SBG,AUT,232,DMR
 2322007,OE2WIO,Wittig Werfen,Wittig,SBG,AUT,232,DMR
 2322008,OE2CER,Ekkerman Ronald Johannes Lungoetz,Ekkerman Ronald Johannes,SBG,AUT,232,DMR
 2322009,OE2RPL,Rubenzer Salzburg,Rubenzer,SBG,AUT,232,DMR
-2322010,OE2CEN,no_name Obertrum am See,no_name,SBG,AUT,232,DMR
+2322010,OE2CEN, Obertrum am See,,SBG,AUT,232,DMR
 2322011,OE2JHN,Neulinger Salzburg,Neulinger,SBG,AUT,232,DMR
 2322012,OE2FKM,Krahbichler Maishofen,Krahbichler,SBG,AUT,232,DMR
 2322013,OE2HPO,Ploderer Bad Gastein,Ploderer,SBG,AUT,232,DMR
 2322014,OE2HPO,Ploderer Bad Gastein,Ploderer,SBG,AUT,232,DMR
-2322015,OE2WPX,no_name no_city,no_name,SBG,AUT,232,DMR
+2322015,OE2WPX, no_city,,SBG,AUT,232,DMR
 2322016,OE2MLP,Laubichler Salzburg,Laubichler,SBG,AUT,232,DMR
 2322017,OE2MKR,Krainer Sankt Johann im Pongau,Krainer,SBG,AUT,232,DMR
 2322018,OE2TRM,Rothschopf Wolfgang St.Michael/lg.,Rothschopf Wolfgang,SBG,AUT,232,DMR
@@ -2095,7 +2104,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2322022,OE2IGL,Ihninger Salzburg,Ihninger,SBG,AUT,232,DMR
 2322023,OE2TXN,Scheuringer Thomas Salzburg,Scheuringer Thomas,SBG,AUT,232,DMR
 2322024,OE2MAL,Liebminger Markus Seeham,Liebminger Markus,SBG,AUT,232,DMR
-2322025,OE2TXO,no_name no_city,no_name,SBG,AUT,232,DMR
+2322025,OE2TXO, no_city,,SBG,AUT,232,DMR
 2322026,OE2XAL,Lv Wals,Lv,SBG,AUT,232,DMR
 2322027,OE2ANP,Naissar Saalfelden am Steinernen Meer,Naissar,SBG,AUT,232,DMR
 2322028,OE2KTO,Krznar Muhr,Krznar,SBG,AUT,232,DMR
@@ -2109,11 +2118,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2322036,OE2TST,Stahf Salzburg,Stahf,SBG,AUT,232,DMR
 2322037,OE2JKN,Kainz Bischofshofen,Kainz,SBG,AUT,232,DMR
 2322038,OE2RXN,Hoffmann Wagrain,Hoffmann,SBG,AUT,232,DMR
-2322039,OE2FGP,no_name Salzburg,no_name,SBG,AUT,232,DMR
-2322040,OE2HIT,no_name no_city,no_name,SBG,AUT,232,DMR
-2322041,OE2TXO,no_name no_city,no_name,SBG,AUT,232,DMR
+2322039,OE2FGP, Salzburg,,SBG,AUT,232,DMR
+2322040,OE2HIT, no_city,,SBG,AUT,232,DMR
+2322041,OE2TXO, no_city,,SBG,AUT,232,DMR
 2322042,OE2YYL,Kaiser Andrea Hallein,Kaiser Andrea,SBG,AUT,232,DMR
-2322043,OE2CRP,no_name no_city,no_name,SBG,AUT,232,DMR
+2322043,OE2CRP, no_city,,SBG,AUT,232,DMR
 2322044,OE2FEP,Einboeck Wals,Einboeck,SBG,AUT,232,DMR
 2322045,OE2FAO,Freudenschuss Salzburg,Freudenschuss,SBG,AUT,232,DMR
 2322046,OE2CRT,Auer Bsichofshofen,Auer,SBG,AUT,232,DMR
@@ -2123,12 +2132,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2322050,OE2KNN,Kreuzer Uttendorf,Kreuzer,SBG,AUT,232,DMR
 2322051,OE2ADE,Andreas Schwarzach,Andreas,SBG,AUT,232,DMR
 2322052,OE2AKO,Messner Salzburg,Messner,SBG,AUT,232,DMR
-2322053,OE2PAX,no_name no_city,no_name,SBG,AUT,232,DMR
+2322053,OE2PAX, no_city,,SBG,AUT,232,DMR
 2322054,OE2SCJ,Schoenauer Golling An der Salzach,Schoenauer,SBG,AUT,232,DMR
 2322055,OE2TVL,Weissenbacher Altenmarkt/pg,Weissenbacher,SBG,AUT,232,DMR
-2322056,OE2LAT,Lukas Saalfelden am Steinernen Meer,Lukas,SBG,AUT,232,DMR
+2322056,OE2LAT,Klima Saalfelden am Steinernen Meer,Klima,SBG,AUT,232,DMR
 2322057,OE2RDO,Damisch Wals-Siezenheim,Damisch,SBG,AUT,232,DMR
-2322058,OE2PFN,Franz Pfarrwerfen,Franz,SBG,AUT,232,DMR
+2322058,OE2PFN,Poehr Salzburg,Poehr,,AUT,232,DMR
 2322059,OE2VPK,Pflugbeil Zederhaus,Pflugbeil,SBG,AUT,232,DMR
 2322060,OE2FGI,Fuchs Saalfelden am Steinernen Meer,Fuchs,SBG,AUT,232,DMR
 2322061,OE2SPN,Schlieff Obertrum,Schlieff,SBG,AUT,232,DMR
@@ -2150,10 +2159,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323016,OE3WGU,Weber Schloss Rosenau,Weber,NOE,AUT,232,DMR
 2323017,OE3CVS,Vuleta Korneuburg,Vuleta,NOE,AUT,232,DMR
 2323018,OE3MAS,Medek Sankt Poelten,Medek,NOE,AUT,232,DMR
-2323019,OE3RVU,no_name no_city,no_name,NOE,AUT,232,DMR
+2323019,OE3RVU, no_city,,NOE,AUT,232,DMR
 2323020,OE3ANU,Karner Moedling,Karner,NOE,AUT,232,DMR
 2323021,OE3NEC,Nechvatal Gedersdorf,Nechvatal,NOE,AUT,232,DMR
-2323022,OE3NAU,no_name Perchtoldsdorf,no_name,NOE,AUT,232,DMR
+2323022,OE3NAU, Perchtoldsdorf,,NOE,AUT,232,DMR
 2323023,OE3CDW,Digruber Sankt Poelten,Digruber,NOE,AUT,232,DMR
 2323024,OE3FHU,Hochwallner Ulmerfeld-Hausmening-Neufurth,Hochwallner,NOE,AUT,232,DMR
 2323025,OE3CHC,Hammerl Klosterneuburg,Hammerl,NOE,AUT,232,DMR
@@ -2161,17 +2170,17 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323027,OE3SUW,Riesenhuber Rotheau,Riesenhuber,NOE,AUT,232,DMR
 2323028,OE3MHU,Hladil Klosterneuburg,Hladil,NOE,AUT,232,DMR
 2323029,OE3KNC,Leonhartsberger-Kneth Gedersdorf,Leonhartsberger-Kneth,NOE,AUT,232,DMR
-2323030,OE3ZK,no_name Klosterneuburg,no_name,NOE,AUT,232,DMR
+2323030,OE3ZK, Klosterneuburg,,NOE,AUT,232,DMR
 2323031,OE3OSB,Varga Obersiebenbrunn,Varga,NOE,AUT,232,DMR
-2323032,OE3SBU,no_name no_city,no_name,NOE,AUT,232,DMR
+2323032,OE3SBU, no_city,,NOE,AUT,232,DMR
 2323033,OE3FPA,Popp Heidenreichstein,Popp,NOE,AUT,232,DMR
 2323034,OE3IGW,Gabler Litschau,Gabler,NOE,AUT,232,DMR
-2323035,OE3AAG,no_name Heidenreichstein,no_name,NOE,AUT,232,DMR
+2323035,OE3AAG, Heidenreichstein,,NOE,AUT,232,DMR
 2323036,OE3DJB,Jagsch Zwettl,Jagsch,NOE,AUT,232,DMR
 2323037,OE3SCC,Schoerg Korneuburg,Schoerg,NOE,AUT,232,DMR
 2323038,OE3SCC,Schoerg Korneuburg,Schoerg,NOE,AUT,232,DMR
 2323039,OE3WFC,Fallmann Stockerau,Fallmann,NOE,AUT,232,DMR
-2323040,OE3XMB,no_name Stockerau,no_name,NOE,AUT,232,DMR
+2323040,OE3XMB, Stockerau,,NOE,AUT,232,DMR
 2323041,OE3AAS,Gheorghe Korneuburg,Gheorghe,NOE,AUT,232,DMR
 2323042,OE3PVC,Halvorsen Peter Schwechat,Halvorsen Peter,NOE,AUT,232,DMR
 2323043,OE3AKB,Schlicksbier Oberwoelbling,Schlicksbier,NOE,AUT,232,DMR
@@ -2188,7 +2197,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323054,OE3BSU,Stoecklmayr Kritzendorf,Stoecklmayr,NOE,AUT,232,DMR
 2323055,OE3NOB,Novak Sankt Poelten,Novak,NOE,AUT,232,DMR
 2323056,OE3FRU,Rodinger Nagelberg,Rodinger,NOE,AUT,232,DMR
-2323057,OE3CMW,no_name Grosebersdorf,no_name,NOE,AUT,232,DMR
+2323057,OE3CMW, Grosebersdorf,,NOE,AUT,232,DMR
 2323058,OE3PKB,Krammer Mario Kleinhadersdorf,Krammer Mario,NOE,AUT,232,DMR
 2323059,OE3PGU,Pfandler Gerasdorf,Pfandler,NOE,AUT,232,DMR
 2323060,OE3REC,Hemerka Probstdorf,Hemerka,NOE,AUT,232,DMR
@@ -2241,7 +2250,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323107,OE3PAS,Ackermann Traiskirchen,Ackermann,NOE,AUT,232,DMR
 2323108,OE3MKU,Krenn Wiener Neustadt,Krenn,NOE,AUT,232,DMR
 2323109,OE3RDW,Radl Bad Voeslau,Radl,NOE,AUT,232,DMR
-2323110,OE3NSU,no_name Perchtoldsdorf,no_name,NOE,AUT,232,DMR
+2323110,OE3NSU, Perchtoldsdorf,,NOE,AUT,232,DMR
 2323111,OE3RHS,Hinterleitner Sollenau,Hinterleitner,NOE,AUT,232,DMR
 2323112,OE3ORW,Rohm Eibesbrunn,Rohm,NOE,AUT,232,DMR
 2323113,OE3VBC,Hinterleitner Sollenau,Hinterleitner,NOE,AUT,232,DMR
@@ -2249,9 +2258,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323115,OE3VBA,Mazan Gansbach,Mazan,NOE,AUT,232,DMR
 2323116,OE3VBA,Mazan Gansbach,Mazan,NOE,AUT,232,DMR
 2323117,OE3FGB,Grill Sollenau,Grill,NOE,AUT,232,DMR
-2323118,OE3GJB,no_name Gainfarn,no_name,NOE,AUT,232,DMR
+2323118,OE3GJB, Gainfarn,,NOE,AUT,232,DMR
 2323119,OE3BMA,Belak Leopoldsdorf,Belak,NOE,AUT,232,DMR
-2323120,OE3VGC,no_name Leopoldsdorf,no_name,NOE,AUT,232,DMR
+2323120,OE3VGC, Leopoldsdorf,,NOE,AUT,232,DMR
 2323121,OE3MKU,Krenn Wiener Neustadt,Krenn,NOE,AUT,232,DMR
 2323122,OE3FEC,Fass Mollram,Fass,NOE,AUT,232,DMR
 2323123,OE3KLU,Lichtenecker Schwechat,Lichtenecker,NOE,AUT,232,DMR
@@ -2259,9 +2268,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323125,OE3KLU,Lichtenecker Schwechat,Lichtenecker,NOE,AUT,232,DMR
 2323126,OE3ARB,Redl Moedling,Redl,NOE,AUT,232,DMR
 2323127,OE3PAS,Ackermann Traiskirchen,Ackermann,NOE,AUT,232,DMR
-2323128,OE3LSC,no_name no_city,no_name,NOE,AUT,232,DMR
+2323128,OE3LSC, no_city,,NOE,AUT,232,DMR
 2323129,OE3CDS,Dworak Harmannsdorf-Rueckersdorf,Dworak,NOE,AUT,232,DMR
-2323130,OE3NSU,no_name Perchtoldsdorf,no_name,NOE,AUT,232,DMR
+2323130,OE3NSU, Perchtoldsdorf,,NOE,AUT,232,DMR
 2323131,OE3CRD,Steger Ebreichsdorf,Steger,NOE,AUT,232,DMR
 2323132,OE3CRD,Steger Ebreichsdorf,Steger,NOE,AUT,232,DMR
 2323133,OE3DMB,Malek Muenchendorf,Malek,NOE,AUT,232,DMR
@@ -2270,7 +2279,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323136,OE3TWA,Woelfl Korneuburg,Woelfl,NOE,AUT,232,DMR
 2323137,OE3PDB,Kanera Purkersdorf,Kanera,NOE,AUT,232,DMR
 2323138,OE3CDL,Scheiblbrandner Ma Lanzendorf,Scheiblbrandner,NOE,AUT,232,DMR
-2323139,OE3TKT,no_name no_city,no_name,NOE,AUT,232,DMR
+2323139,OE3TKT, no_city,,NOE,AUT,232,DMR
 2323140,OE3MBZ,Brettraeger Absdorf,Brettraeger,NOE,AUT,232,DMR
 2323141,OE3WWE,Winkelhofer Grossweikersdorf,Winkelhofer,NOE,AUT,232,DMR
 2323142,OE3JDW,Dietrich Kaltenleutgeben,Dietrich,NOE,AUT,232,DMR
@@ -2285,12 +2294,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323151,OE3RPU,Pfeffer Moenichkirchen,Pfeffer,NOE,AUT,232,DMR
 2323152,OE3AWU,Wandl Markersdorf-Haindorf,Wandl,NOE,AUT,232,DMR
 2323153,OE3ASA,Elian Gruenbach am Schneeberg,Elian,NOE,AUT,232,DMR
-2323154,OE3JFW,no_name Herzogenburg,no_name,NOE,AUT,232,DMR
+2323154,OE3JFW, Herzogenburg,,NOE,AUT,232,DMR
 2323155,OE3RFW,Frimmel Brunn am Gebirge,Frimmel,NOE,AUT,232,DMR
 2323156,OE3BLS,Janc Bruck An der Leitha,Janc,NOE,AUT,232,DMR
 2323157,OE3MTC,Mutter Sankt Andrae-Woerdern,Mutter,NOE,AUT,232,DMR
 2323158,OE3HOI,Bischof Laxenburg,Bischof,NOE,AUT,232,DMR
-2323159,OE3FKR,no_name Moellersdorf,no_name,NOE,AUT,232,DMR
+2323159,OE3FKR, Moellersdorf,,NOE,AUT,232,DMR
 2323160,OE3NIM,Mehofer Frauendorf An der Schmida,Mehofer,NOE,AUT,232,DMR
 2323161,OE3EIW,Eichberger Puchberg am Schneeberg,Eichberger,NOE,AUT,232,DMR
 2323162,OE3FZB,Zajicek Wiener Neudorf,Zajicek,NOE,AUT,232,DMR
@@ -2300,13 +2309,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323166,OE3BHB,Binder Heidenreichstn,Binder,NOE,AUT,232,DMR
 2323167,OE3FQR,Russ Waidhofen An der Thaya,Russ,NOE,AUT,232,DMR
 2323168,OE3FOA,Offenberger Ferschnitz,Offenberger,NOE,AUT,232,DMR
-2323169,OE3ULA,no_name no_city,no_name,NOE,AUT,232,DMR
-2323170,OE3VNA,no_name Trumau,no_name,NOE,AUT,232,DMR
+2323169,OE3ULA, no_city,,NOE,AUT,232,DMR
+2323170,OE3VNA, Trumau,,NOE,AUT,232,DMR
 2323171,OE3VSS,Straubinger Sankt Peter In der Au,Straubinger,NOE,AUT,232,DMR
 2323172,OE3TWH,Thaler Bsc Msc Voesendorf,Thaler Bsc Msc,NOE,AUT,232,DMR
 2323173,OE3LWC,Leuthner Koenigsbrunn am Wagram,Leuthner,NOE,AUT,232,DMR
 2323174,OE3KAU,Kuerner Ferschnitz,Kuerner,NOE,AUT,232,DMR
-2323175,OE3MQK,no_name no_city,no_name,NOE,AUT,232,DMR
+2323175,OE3MQK, no_city,,NOE,AUT,232,DMR
 2323176,OE3RLQ,Lindorfer Blindenmarkt,Lindorfer,NOE,AUT,232,DMR
 2323177,OE3MRA,Rohrer Oberwaltersdorf,Rohrer,NOE,AUT,232,DMR
 2323178,OE3RAS,Auernig Trautmannsdorf An der Leitha,Auernig,NOE,AUT,232,DMR
@@ -2318,12 +2327,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323184,OE3PMS,Mayr Wiener Neustadt,Mayr,NOE,AUT,232,DMR
 2323185,OE3MEN,Mayerhofer Herzogenburg,Mayerhofer,NOE,AUT,232,DMR
 2323186,OE3HGB,Hochgatterer Mautern An der Donau,Hochgatterer,NOE,AUT,232,DMR
-2323187,OE3ZJC,no_name Strasshof An der Nordbahn,no_name,NOE,AUT,232,DMR
-2323188,OE3JTB,no_name Gfoehl,no_name,NOE,AUT,232,DMR
+2323187,OE3ZJC, Strasshof An der Nordbahn,,NOE,AUT,232,DMR
+2323188,OE3JTB, Gfoehl,,NOE,AUT,232,DMR
 2323189,OE3OZA,Mitterbauer Gaming,Mitterbauer,NOE,AUT,232,DMR
-2323190,OE3DZW,no_name no_city,no_name,NOE,AUT,232,DMR
+2323190,OE3DZW, no_city,,NOE,AUT,232,DMR
 2323191,OE3RFA,Fuchs Pyhra St Poelten,Fuchs,NOE,AUT,232,DMR
-2323192,OE3DMW,no_name Wien,no_name,NOE,AUT,232,DMR
+2323192,OE3DMW, Wien,,NOE,AUT,232,DMR
 2323193,OE3EHU,Huttmann St Poelten-Spr,Huttmann,NOE,AUT,232,DMR
 2323194,OE3BWW,Boeck Waidhofen/ybbs,Boeck,NOE,AUT,232,DMR
 2323195,OE3ELJ,El-Awadi Josef Schoenau An der Triesting,El-Awadi Josef,NOE,AUT,232,DMR
@@ -2332,7 +2341,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323198,OE3HCH,Hoeltl Leopoldsdorf,Hoeltl,NOE,AUT,232,DMR
 2323199,OE3IGW,Gabler Litschau,Gabler,NOE,AUT,232,DMR
 2323200,OE3AEU,Geppert Laa/thaya,Geppert,NOE,AUT,232,DMR
-2323201,OE3JIU,no_name Ulrichskirchen,no_name,NOE,AUT,232,DMR
+2323201,OE3JIU, Ulrichskirchen,,NOE,AUT,232,DMR
 2323202,OE3FLU,Lammeranner Baden,Lammeranner,NOE,AUT,232,DMR
 2323203,OE3FLU,Lammeranner Baden,Lammeranner,NOE,AUT,232,DMR
 2323204,OE3GAU,Gabler Deutsch/wagram,Gabler,NOE,AUT,232,DMR
@@ -2341,7 +2350,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323207,OE3LTB,Thorn Klosterneuburg,Thorn,NOE,AUT,232,DMR
 2323208,OE3UKW,Beck Gross-Schweinbarth,Beck,NOE,AUT,232,DMR
 2323209,OE3HZW,Zwickl Hainfeld,Zwickl,NOE,AUT,232,DMR
-2323210,OE3OMC,no_name Klosterneuburg,no_name,NOE,AUT,232,DMR
+2323210,OE3OMC, Klosterneuburg,,NOE,AUT,232,DMR
 2323211,OE3HCH,Hoeltl Leopoldsdorf,Hoeltl,NOE,AUT,232,DMR
 2323212,OE3NRC,Nothmueller Dietmanns,Nothmueller,NOE,AUT,232,DMR
 2323213,OE3NJA,Jell Hadersdorf am Kamp,Jell,NOE,AUT,232,DMR
@@ -2367,7 +2376,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323233,OE3RRW,Rotthaler Pfaffstaetten,Rotthaler,NOE,AUT,232,DMR
 2323234,OE3TVJ,Jurcik Neidling,Jurcik,NOE,AUT,232,DMR
 2323235,OE3FIB,Spindler Aggsbach Markt,Spindler,NOE,AUT,232,DMR
-2323236,OE3HYC,no_name Langenlois,no_name,NOE,AUT,232,DMR
+2323236,OE3HYC, Langenlois,,NOE,AUT,232,DMR
 2323237,OE3FIB,Spindler Aggsbach Markt,Spindler,NOE,AUT,232,DMR
 2323238,OE3YUR,Hoser Sankt Valentin,Hoser,NOE,AUT,232,DMR
 2323239,OE3GBC,Blaschke Pellendorf,Blaschke,NOE,AUT,232,DMR
@@ -2384,27 +2393,27 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323250,OE3YJM,Maringer Heidenreichstein,Maringer,NOE,AUT,232,DMR
 2323251,OE3VPA,Poik Gmuend,Poik,NOE,AUT,232,DMR
 2323252,OE3YHC,Poik Gmuend,Poik,NOE,AUT,232,DMR
-2323253,OE3MVW,no_name no_city,no_name,NOE,AUT,232,DMR
+2323253,OE3MVW, no_city,,NOE,AUT,232,DMR
 2323254,OE3WYC,Meyrath Klosterneuburg,Meyrath,NOE,AUT,232,DMR
-2323255,OE3CQJ,no_name no_city,no_name,NOE,AUT,232,DMR
+2323255,OE3CQJ, no_city,,NOE,AUT,232,DMR
 2323256,OE3APM,Maringer Heidenreichstein,Maringer,NOE,AUT,232,DMR
 2323257,OE3KPC,Krall Haringsee,Krall,NOE,AUT,232,DMR
 2323258,OE3GWW,Wildmann Neu-Purkersdorf,Wildmann,NOE,AUT,232,DMR
 2323259,OE3TFL,Flatschart Bergern,Flatschart,NOE,AUT,232,DMR
 2323260,OE3JKA,Koller Schrems,Koller,NOE,AUT,232,DMR
 2323261,OE3KAI,Kaineder Leobersdorf,Kaineder,NOE,AUT,232,DMR
-2323262,OE3RPR,no_name no_city,no_name,NOE,AUT,232,DMR
+2323262,OE3RPR, no_city,,NOE,AUT,232,DMR
 2323263,OE3BCB,Baier Neulengbach,Baier,NOE,AUT,232,DMR
 2323264,OE3LKB,Kern Neu-Mitterndorf,Kern,NOE,AUT,232,DMR
 2323265,OE3ABA,Benda Nagelberg,Benda,NOE,AUT,232,DMR
 2323266,OE3PCB,Plasser Enzersdorf An der Fischa,Plasser,NOE,AUT,232,DMR
-2323267,OE3DOS,no_name no_city,no_name,NOE,AUT,232,DMR
+2323267,OE3DOS, no_city,,NOE,AUT,232,DMR
 2323268,OE3GWC,Wuerdinger Woellersdorf,Wuerdinger,NOE,AUT,232,DMR
 2323269,OE3AGH,Gall Sankt Poelten,Gall,NOE,AUT,232,DMR
 2323270,OE3WRB,Rummer Sankt Poelten,Rummer,NOE,AUT,232,DMR
 2323271,OE3AJA,Aufgewekt Haugsdorf,Aufgewekt,NOE,AUT,232,DMR
 2323272,OE3YMB,Matuschek Ravelsbach,Matuschek,NOE,AUT,232,DMR
-2323273,OE3DOS,no_name no_city,no_name,NOE,AUT,232,DMR
+2323273,OE3DOS, no_city,,NOE,AUT,232,DMR
 2323274,OE3MES,Esslinger Klosterneuburg,Esslinger,NOE,AUT,232,DMR
 2323275,OE3MLC,Mestnik Limberg,Mestnik,NOE,AUT,232,DMR
 2323276,OE3BRU,Binder Grossweikersdorf,Binder,NOE,AUT,232,DMR
@@ -2424,30 +2433,30 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323290,OE3MYR,Renner Horn,Renner,NOE,AUT,232,DMR
 2323291,OE3NHW,Hartl Hans Sankt Andrae/woerdern,Hartl Hans,NOE,AUT,232,DMR
 2323292,OE3AEA,Sattler Grossmugl,Sattler,NOE,AUT,232,DMR
-2323293,OE3RQF,no_name no_city,no_name,NOE,AUT,232,DMR
+2323293,OE3RQF, no_city,,NOE,AUT,232,DMR
 2323294,OE3XRC,Amrs Allentsteig,Amrs,NOE,AUT,232,DMR
 2323295,OE3KDC,Kraft Goestling/ybbs,Kraft,NOE,AUT,232,DMR
-2323296,OE3UZA,Guenter Schrick,Guenter,NOE,AUT,232,DMR
+2323296,OE3UZA,Rausch Schrick,Rausch,NOE,AUT,232,DMR
 2323297,OE3CBS,Braun Zwoelfaxing,Braun,NOE,AUT,232,DMR
 2323298,OE3BHW,Hejna Felixdorf,Hejna,NOE,AUT,232,DMR
 2323299,OE3FAP,Farcher Sankt Poelten,Farcher,NOE,AUT,232,DMR
 2323300,OE3DNA,Neubauer Amstetten,Neubauer,NOE,AUT,232,DMR
 2323301,OE3WFA,Franta Eichgraben,Franta,NOE,AUT,232,DMR
-2323302,OE3MVM,Michael Stockerau,Michael,NOE,AUT,232,DMR
+2323302,OE3MVM,Schnepf Stockerau,Schnepf,NOE,AUT,232,DMR
 2323303,OE3BGB,Baeumler Blindenmarkt,Baeumler,NOE,AUT,232,DMR
 2323304,OE3GHB,Hickl Gaweinstal,Hickl,NOE,AUT,232,DMR
-2323305,OE3PLF,no_name no_city,no_name,NOE,AUT,232,DMR
+2323305,OE3PLF, no_city,,NOE,AUT,232,DMR
 2323306,OE3CKS,Kuntscher Matzendorf,Kuntscher,NOE,AUT,232,DMR
 2323307,OE3PCS,Pernerstorfer Hadersdorf am Kamp,Pernerstorfer,NOE,AUT,232,DMR
 2323308,OE3YOS,Huber Bruck An der Leitha,Huber,NOE,AUT,232,DMR
-2323309,OE3PWT,no_name no_city,no_name,NOE,AUT,232,DMR
-2323310,OE3MVM,Michael Stockerau,Michael,NOE,AUT,232,DMR
+2323309,OE3PWT, no_city,,NOE,AUT,232,DMR
+2323310,OE3MVM,Schnepf Stockerau,Schnepf,NOE,AUT,232,DMR
 2323311,OE3EMC,Engel Bad Grosspertholz,Engel,NOE,AUT,232,DMR
 2323312,OE3YSC,Stouy Bad Grosspertholz,Stouy,NOE,AUT,232,DMR
-2323313,OE3JAL,No_name Brunn am Gebirge,No_name,NOE,AUT,232,DMR
-2323314,OE3GKQ,No_name Seifritz,No_name,NOE,AUT,232,DMR
+2323313,OE3JAL,Jalits Brunn am Gebirge,Jalits,NOE,AUT,232,DMR
+2323314,OE3GKQ,Kiesl Seifritz,Kiesl,NOE,AUT,232,DMR
 2323315,OE3BRW,Wild Sankt Poelten,Wild,NOE,AUT,232,DMR
-2323316,OE3TDF,No_name Oberwaltersdorf,No_name,NOE,AUT,232,DMR
+2323316,OE3TDF,Fuchs Oberwaltersdorf,Fuchs,NOE,AUT,232,DMR
 2323317,OE3MWB,Weis Amstetten,Weis,NOE,AUT,232,DMR
 2323318,OE3HLU,Kellner Mank,Kellner,NOE,AUT,232,DMR
 2323319,OE3PEA,Elster Gaubitsch,Elster,NOE,AUT,232,DMR
@@ -2459,31 +2468,31 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323325,OE3DMA,Wagner Altenburg,Wagner,NOE,AUT,232,DMR
 2323326,OE3CRA,Reps Sieghartskirchen,Reps,NOE,AUT,232,DMR
 2323327,OE3RQA,Rafenstein Brunn am Gebirge,Rafenstein,NOE,AUT,232,DMR
-2323328,OE3FTC,Rafenstein no_city,Rafenstein,NOE,AUT,232,DMR
+2323328,OE3FTC,Gaerber Moedling,Gaerber,NOE,AUT,232,DMR
 2323329,OE3KCC,Koczan Baden,Koczan,NOE,AUT,232,DMR
-2323330,OE3MNU,Reiter Sankt Poelten,Reiter,NOE,AUT,232,DMR
+2323330,OE3MNU, no_city,,,AUT,232,DMR
 2323331,OE3AJS,Hagmann Krems An der Donau,Hagmann,NOE,AUT,232,DMR
-2323332,OE3AKI,No_name Berndorf,No_name,STMK,AUT,232,DMR
-2323333,OE3TRB,no_name Berndorf,no_name,NOE,AUT,232,DMR
+2323332,OE3AKI, Berndorf,,STMK,AUT,232,DMR
+2323333,OE3TRB, Berndorf,,NOE,AUT,232,DMR
 2323334,OE3MTA,Schaffer Perchtoldsdorf,Schaffer,NOE,AUT,232,DMR
-2323335,OE3PBS,Ing. Peter Bambas Scheiblingkirchen,Ing. Peter Bambas,NOE,AUT,232,DMR
-2323336,OE3TSH,Ing. Peter Bambas no_city,Ing. Peter Bambas,NOE,AUT,232,DMR
-2323337,OE3RFR,No_name Ruprechtshofen,No_name,OOE,AUT,232,DMR
+2323335,OE3PBS,Peinsipp ),Peinsipp,NOE,AUT,232,DMR
+2323336,OE3TSH,Schreiber Poysdorf,Schreiber,NOE,AUT,232,DMR
+2323337,OE3RFR,Fuchsbauer Ruprechtshofen,Fuchsbauer,NOE,AUT,232,DMR
 2323338,OE3EGH,Haiderer Gross Enzersdorf,Haiderer,NOE,AUT,232,DMR
-2323339,OE3THX,No_name Maria Enzersdorf,No_name,NOE,AUT,232,DMR
-2323340,OE3WWP,No_name Laaben,No_name,NOE,AUT,232,DMR
-2323341,OE3WEK,No_name Laaben,No_name,NOE,AUT,232,DMR
-2323342,OE3OMR,No_name Grossrust,No_name,NOE,AUT,232,DMR
-2323343,OE3RBT,No_name Pyhra,No_name,NOE,AUT,232,DMR
-2323344,OE3WDK,No_name Hafnerbach,No_name,NOE,AUT,232,DMR
-2323345,OE3HPT,No_name Prein An der Rax,No_name,NOE,AUT,232,DMR
-2323346,OE3OEW,No_name no_city,No_name,NOE,AUT,232,DMR
+2323339,OE3THX, no_city,,,AUT,232,DMR
+2323340,OE3WWP,Wesseli Laaben,Wesseli,NOE,AUT,232,DMR
+2323341,OE3WEK,Wesseli Laaben,Wesseli,NOE,AUT,232,DMR
+2323342,OE3OMR,Mitter ),Mitter,NOE,AUT,232,DMR
+2323343,OE3RBT,Biegel Pyhra,Biegel,NOE,AUT,232,DMR
+2323344,OE3WDK,Keles Hafnerbach,Keles,NOE,AUT,232,DMR
+2323345,OE3HPT,Hillepold Reichenau An der Rax,Hillepold,NOE,AUT,232,DMR
+2323346,OE3OEW,Oesterreicher Sankt Poelten,Oesterreicher,NOE,AUT,232,DMR
 2323347,OE3KMZ,Zaruba Tresdorf,Zaruba,KTN,AUT,232,DMR
-2323348,OE3WHS,Hahnemann Amstetten,Hahnemann,NOE,AUT,232,DMR
-2323349,OE3OEX,Hahnemann no_city,Hahnemann,NOE,AUT,232,DMR
+2323348,OE3WHS, no_city,,,AUT,232,DMR
+2323349,OE3OEX,Weinberger Eggendorf am Wagram,Weinberger,NOE,AUT,232,DMR
 2323350,OE3FKN,Kleindl Goestling An der Ybbs,Kleindl,NOE,AUT,232,DMR
 2323351,OE3AMA,Roetsch Sollenau,Roetsch,NOE,AUT,232,DMR
-2323352,OE3LIT,No_name Wilfersdorf,No_name,STMK,AUT,232,DMR
+2323352,OE3LIT,Linner Wilfersdorf,Linner,NOE,AUT,232,DMR
 2323353,OE3MJA,Mathae Seitenstetten,Mathae,NOE,AUT,232,DMR
 2323354,OE3RVA,Vymyslicky Leopoldsdorf/m,Vymyslicky,NOE,AUT,232,DMR
 2323355,OE3YZC,Zehetner Wolfsbach,Zehetner,NOE,AUT,232,DMR
@@ -2508,7 +2517,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323414,OE3JWC,Waser Neuhofen/ybbs,Waser,NOE,AUT,232,DMR
 2323415,OE3JDA,Donschachner Mauer-Oehling,Donschachner,NOE,AUT,232,DMR
 2323416,OE3GNB,Gruber Neumarkt An der Ybbs,Gruber,NOE,AUT,232,DMR
-2323417,OE3OHS,no_name Waidhofen Ybbs,no_name,NOE,AUT,232,DMR
+2323417,OE3OHS, Waidhofen Ybbs,,NOE,AUT,232,DMR
 2323418,OE3VWU,Bergen Oehling,Bergen,NOE,AUT,232,DMR
 2323419,OE3LEB,Eder Oed,Eder,NOE,AUT,232,DMR
 2323420,OE3NRU,Nefischer Mauer-Oehling,Nefischer,NOE,AUT,232,DMR
@@ -2522,9 +2531,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2323435,OE3VKA,Kern Ybbs An der Donau,Kern,NOE,AUT,232,DMR
 2323436,OE3ATC,Taranetz Ardagger Markt,Taranetz,NOE,AUT,232,DMR
 2323500,OE3XHQ,Oevsv Wiener Neudorf,Oevsv,NOE,AUT,232,DMR
-2323701,OE3DNW,no_name Ebreichsdorf,no_name,NOE,AUT,232,DMR
-2323702,OE3DNW,no_name Ebreichsdorf,no_name,NOE,AUT,232,DMR
-2323710,OE3DNW,no_name Ebreichsdorf,no_name,NOE,AUT,232,DMR
+2323701,OE3DNW, Ebreichsdorf,,NOE,AUT,232,DMR
+2323702,OE3DNW, Ebreichsdorf,,NOE,AUT,232,DMR
+2323710,OE3DNW, Ebreichsdorf,,NOE,AUT,232,DMR
 2324001,OE4KMU,Musser Markt Allhau,Musser,BGLD,AUT,232,DMR
 2324002,OE4KMU,Musser Markt Allhau,Musser,BGLD,AUT,232,DMR
 2324003,OE4NAU,Autengruber Weiden am See,Autengruber,BGLD,AUT,232,DMR
@@ -2544,37 +2553,37 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2324017,OE4EUA,Putz Andau,Putz,BGLD,AUT,232,DMR
 2324018,OE4HZB,Hammer Guessing,Hammer,BGLD,AUT,232,DMR
 2324019,OE4BAQ,Balluf Wimpassing An der Leitha,Balluf,BGLD,AUT,232,DMR
-2324020,OE4GUB,no_name no_city,no_name,BGLD,AUT,232,DMR
+2324020,OE4GUB, no_city,,BGLD,AUT,232,DMR
 2324021,OE4LQK,Windisch Purbach am Neusiedler See,Windisch,BGLD,AUT,232,DMR
 2324022,OE4RWD,Rauter Hornstein,Rauter,BGLD,AUT,232,DMR
 2324023,OE4HDS,Steinberger Stoettera,Steinberger,BGLD,AUT,232,DMR
-2324024,OE4GZC,no_name Stinatz,no_name,BGLD,AUT,232,DMR
+2324024,OE4GZC, Stinatz,,BGLD,AUT,232,DMR
 2324025,OE4RUK,Kirchmayer Frauenkirchen,Kirchmayer,BGLD,AUT,232,DMR
 2324026,OE4AFW,Wilfinger Deutsch Kaltenbrunn,Wilfinger,BGLD,AUT,232,DMR
 2324027,OE4SZS,Schuch Guettenbach,Schuch,BGLD,AUT,232,DMR
-2324028,OE4VIE,no_name no_city,no_name,BGLD,AUT,232,DMR
-2324029,OE4GZZ,no_name Stinatz,no_name,BGLD,AUT,232,DMR
+2324028,OE4VIE, no_city,,BGLD,AUT,232,DMR
+2324029,OE4GZZ, Stinatz,,BGLD,AUT,232,DMR
 2324030,OE4KZU,Zach Ritzing,Zach,BGLD,AUT,232,DMR
 2324031,OE4CHZ,Zsilla Grosshoeflein,Zsilla,BGLD,AUT,232,DMR
 2324032,OE4ENU,Nussbaum Klingenbach,Nussbaum,BGLD,AUT,232,DMR
-2324033,OE4GTU,no_name Steinbach,no_name,BGLD,AUT,232,DMR
+2324033,OE4GTU, Steinbach,,BGLD,AUT,232,DMR
 2324034,OE4RUM,Stelzer Bernstein,Stelzer,BGLD,AUT,232,DMR
 2324035,OE4VNA,Biedermann Schandorf,Biedermann,BGLD,AUT,232,DMR
 2324036,OE4AZU,Zak Parndorf,Zak,BGLD,AUT,232,DMR
-2324037,OE4EIE,no_name no_city,no_name,BGLD,AUT,232,DMR
+2324037,OE4EIE, no_city,,BGLD,AUT,232,DMR
 2324038,OE4SMS,Maritsch Siegfried Pinkafeld,Maritsch Siegfried,BGLD,AUT,232,DMR
-2324039,OE4UFB,no_name no_city,no_name,BGLD,AUT,232,DMR
+2324039,OE4UFB, no_city,,BGLD,AUT,232,DMR
 2324040,OE4WUA,Zunke Gattendorf,Zunke,BGLD,AUT,232,DMR
 2324041,OE4AHG,Hadl Oberwart,Hadl,BGLD,AUT,232,DMR
-2324042,OE4EWA,No_name Lackenbach,No_name,BGLD,AUT,232,DMR
+2324042,OE4EWA,Empacher Lackenbach,Empacher,BGLD,AUT,232,DMR
 2324101,OE4KMU,Musser Markt Allhau,Musser,BGLD,AUT,232,DMR
 2324102,OE4RLC,Stangl Markt Allhau,Stangl,BGLD,AUT,232,DMR
 2324103,OE4MUB,Urbauer Buchschachen,Urbauer,BGLD,AUT,232,DMR
 2324104,OE4VMB,Martinek Woerterberg,Martinek,BGLD,AUT,232,DMR
 2324111,OE4CRC,Rockrohr Jois,Rockrohr,BGLD,AUT,232,DMR
 2324112,OE4CRC,Rockrohr Jois,Rockrohr,BGLD,AUT,232,DMR
-2324115,OE4KNA,no_name Grosshoeflein,no_name,BGLD,AUT,232,DMR
-2324121,OE4SSE,no_name Stegersbach,no_name,BGLD,AUT,232,DMR
+2324115,OE4KNA, Grosshoeflein,,BGLD,AUT,232,DMR
+2324121,OE4SSE, Stegersbach,,BGLD,AUT,232,DMR
 2324127,OE4MXB,Halvax Neufeld/l,Halvax,BGLD,AUT,232,DMR
 2324321,OE4JHW,Heissenberger Neufeld An der Leitha,Heissenberger,BGLD,AUT,232,DMR
 2324759,OE4KOB,Kirner Oggau,Kirner,BGLD,AUT,232,DMR
@@ -2600,7 +2609,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2325020,OE5MCM,Mayr Ried/innkreis,Mayr,OOE,AUT,232,DMR
 2325021,OE5MIL,Gruber Hallstatt,Gruber,OOE,AUT,232,DMR
 2325022,OE5RCO,Klein Rohrbach,Klein,OOE,AUT,232,DMR
-2325023,OE5KNT,no_name no_city,no_name,OOE,AUT,232,DMR
+2325023,OE5KNT, no_city,,OOE,AUT,232,DMR
 2325024,OE5FKL,Feichtenschlager Wippenham,Feichtenschlager,OOE,AUT,232,DMR
 2325025,OE5WHN,Wimmer Bad Ischl,Wimmer,OOE,AUT,232,DMR
 2325026,OE5GOL,Gstoettenmayr Linz,Gstoettenmayr,OOE,AUT,232,DMR
@@ -2616,11 +2625,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2325036,OE5VCO,Haslberger Uttendorf,Haslberger,OOE,AUT,232,DMR
 2325037,OE5RSZ,Schoefecker Traun,Schoefecker,OOE,AUT,232,DMR
 2325038,OE5DRM,Mayr Richard Attersee,Mayr Richard,OOE,AUT,232,DMR
-2325039,OE5MDD,no_name no_city,no_name,OOE,AUT,232,DMR
+2325039,OE5MDD, no_city,,OOE,AUT,232,DMR
 2325040,OE5RCA,Curik Linz,Curik,OOE,AUT,232,DMR
 2325041,OE5TGM,Thurner Sankt Marienkirchen An der Pols,Thurner,OOE,AUT,232,DMR
 2325042,OE5XSN,Oberoesterreichischer Amateurfunkverband Vorderweissenbach,Oberoesterreichischer Amateurfunkverband,OOE,AUT,232,DMR
-2325043,OE5GNB,no_name Waldhausen im Strude,no_name,OOE,AUT,232,DMR
+2325043,OE5GNB, Waldhausen im Strude,,OOE,AUT,232,DMR
 2325044,OE5LBO,Lazarevic Braunau am Inn,Lazarevic,OOE,AUT,232,DMR
 2325045,OE5GTN,Gruber Sankt Marienkirchen An der Pols,Gruber,OOE,AUT,232,DMR
 2325046,OE5HEL,Hell St. Martin im Innkreis,Hell,OOE,AUT,232,DMR
@@ -2639,14 +2648,14 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2325059,OE5PSO,Stockenreitner Pettenbach,Stockenreitner,OOE,AUT,232,DMR
 2325060,OE5OEM,Greindl Linz,Greindl,OOE,AUT,232,DMR
 2325061,OE5KIL,Hader Schwertberg,Hader,OOE,AUT,232,DMR
-2325062,OE5DLH,no_name no_city,no_name,OOE,AUT,232,DMR
+2325062,OE5DLH, no_city,,OOE,AUT,232,DMR
 2325063,OE5WIK,Kleinlechner Linz,Kleinlechner,OOE,AUT,232,DMR
 2325064,OE5DZL,Zechleitner Mehrnbach,Zechleitner,OOE,AUT,232,DMR
 2325065,OE5STM,Schneider Timm Voecklabruck,Schneider Timm,OOE,AUT,232,DMR
 2325066,OE5MXL,Max Steyr,Max,OOE,AUT,232,DMR
 2325067,OE5TET,Landl Eidenberg,Landl,OOE,AUT,232,DMR
 2325068,OE5KZM,Zehetner St.Marien B.N.,Zehetner,OOE,AUT,232,DMR
-2325069,OE5YEE,no_name Linz,no_name,OOE,AUT,232,DMR
+2325069,OE5YEE, Linz,,OOE,AUT,232,DMR
 2325070,OE5EIN,Wagner Linz,Wagner,OOE,AUT,232,DMR
 2325071,OE5ENL,Eggl Frankenburg am Hausruck,Eggl,OOE,AUT,232,DMR
 2325072,OE5HHP,Holzmann Rutzenmoos,Holzmann,OOE,AUT,232,DMR
@@ -2676,10 +2685,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2325096,OE5MKL,Kasteneder Wippenham,Kasteneder,OOE,AUT,232,DMR
 2325097,OE5GJN,Jungbauer Linz,Jungbauer,OOE,AUT,232,DMR
 2325098,OE5MKE,Koppensteiner Ansfelden,Koppensteiner,OOE,AUT,232,DMR
-2325099,OE5ASO,no_name no_city,no_name,OOE,AUT,232,DMR
+2325099,OE5ASO, no_city,,OOE,AUT,232,DMR
 2325100,OE5CGL,Kranzl Perg,Kranzl,OOE,AUT,232,DMR
 2325101,OE5GOL,Gstoettenmayr Linz,Gstoettenmayr,OOE,AUT,232,DMR
-2325102,OE5ELL,no_name Trattnach,no_name,OOE,AUT,232,DMR
+2325102,OE5ELL, Trattnach,,OOE,AUT,232,DMR
 2325103,OE5LOH,Handl Lothar Reinhard no_city,Handl Lothar Reinhard,OOE,AUT,232,DMR
 2325104,OE5SLS,Lugschitz Stefan Schaerding,Lugschitz Stefan,OOE,AUT,232,DMR
 2325105,OE5HNF,Just Gregor Linz,Just Gregor,OOE,AUT,232,DMR
@@ -2734,17 +2743,17 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2325154,OE5DRO,Dorn Traun,Dorn,OOE,AUT,232,DMR
 2325155,OE5AZG,Zehetner Haid/ansfelden,Zehetner,OOE,AUT,232,DMR
 2325156,OE5AMR,Arnetseder Wels,Arnetseder,OOE,AUT,232,DMR
-2325157,OE5BPA,No_name Linz,No_name,OOE,AUT,232,DMR
+2325157,OE5BPA,Buchegger Linz,Buchegger,OOE,AUT,232,DMR
 2325158,OE5GMO,Mueller Sankt Martin im Muehlkreis,Mueller,OOE,AUT,232,DMR
-2325159,OE5NEO,Markus Roitham,Markus,OOE,AUT,232,DMR
+2325159,OE5NEO,Jachs Pinsdorf,Jachs,OOE,AUT,232,DMR
 2325160,OE5EIR,Doppelhofer Bad Leonfelden,Doppelhofer,OOE,AUT,232,DMR
 2325161,OE5RNL,Autengruber Linz,Autengruber,OOE,AUT,232,DMR
-2325162,OE5HKQ,Harald Traun,Harald,OOE,AUT,232,DMR
-2325163,OE5LEC,no_name no_city,no_name,OOE,AUT,232,DMR
+2325162,OE5HKQ,Krammer Traun,Krammer,OOE,AUT,232,DMR
+2325163,OE5LEC, no_city,,OOE,AUT,232,DMR
 2325164,OE5RLP,Lappi Untergruenburg,Lappi,OOE,AUT,232,DMR
-2325165,OE5WZM,no_name no_city,no_name,OOE,AUT,232,DMR
+2325165,OE5WZM, no_city,,OOE,AUT,232,DMR
 2325166,OE5SLN,Lettner Mehrnbach,Lettner,OOE,AUT,232,DMR
-2325167,OE5JOH,Johannes Bad Hall,Johannes,OOE,AUT,232,DMR
+2325167,OE5JOH,Lang Bad Hall,Lang,OOE,AUT,232,DMR
 2325168,OE5UWL,Unger Walter Ried im Innkreis,Unger Walter,OOE,AUT,232,DMR
 2325169,OE5STE,Steinhofer Enns,Steinhofer,OOE,AUT,232,DMR
 2325170,OE5GMP,Meixner Mettmach,Meixner,OOE,AUT,232,DMR
@@ -2754,7 +2763,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2325174,OE5AKM,Mateja Linz,Mateja,OOE,AUT,232,DMR
 2325175,OE5CNN,Bumberger Traun,Bumberger,OOE,AUT,232,DMR
 2325176,OE5AGM,Gallistl Wels,Gallistl,OOE,AUT,232,DMR
-2325177,OE5XXF,no_name no_city,no_name,OOE,AUT,232,DMR
+2325177,OE5XXF, no_city,,OOE,AUT,232,DMR
 2325178,OE5TJO,Justus Sankt Pantaleon,Justus,OOE,AUT,232,DMR
 2325179,OE5SGN,Simader Buchkirchen,Simader,OOE,AUT,232,DMR
 2325180,OE5ARP,Aichinger Linz,Aichinger,KTN,AUT,232,DMR
@@ -2777,7 +2786,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2326003,OE6WKE,Wolf Hart-Purgstall,Wolf,STMK,AUT,232,DMR
 2326004,OE6SSG,Pfundner Fehring,Pfundner,STMK,AUT,232,DMR
 2326005,OE6WND,Ninaus Pirka,Ninaus,STMK,AUT,232,DMR
-2326006,OE6GJE,no_name no_city,no_name,STMK,AUT,232,DMR
+2326006,OE6GJE, no_city,,STMK,AUT,232,DMR
 2326007,OE6WAD,Aicher Franz Feldbach,Aicher Franz,STMK,AUT,232,DMR
 2326008,OE6SDG,Sloniowski Deutschfeistritz,Sloniowski,STMK,AUT,232,DMR
 2326009,OE6VFG,Schneider Weissenbach Bei Liezen,Schneider,STMK,AUT,232,DMR
@@ -2800,12 +2809,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2326026,OE6FID,Witzani Friedrich Graz,Witzani Friedrich,STMK,AUT,232,DMR
 2326027,OE6DLG,Oswald Sankt Michael In Obersteiermark,Oswald,STMK,AUT,232,DMR
 2326028,OE6WWG,Werlitsch Graz,Werlitsch,STMK,AUT,232,DMR
-2326029,OE6HHG,no_name Tobelbad,no_name,STMK,AUT,232,DMR
+2326029,OE6HHG, Tobelbad,,STMK,AUT,232,DMR
 2326030,OE6NHG,Nitsch Graz,Nitsch,STMK,AUT,232,DMR
 2326031,OE6FID,Witzani Friedrich Graz,Witzani Friedrich,STMK,AUT,232,DMR
 2326032,OE6FTF,Hofbauer Hoenigsberg,Hofbauer,STMK,AUT,232,DMR
 2326033,OE6FTF,Hofbauer Hoenigsberg,Hofbauer,STMK,AUT,232,DMR
-2326034,OE6CGG,no_name Schladming,no_name,STMK,AUT,232,DMR
+2326034,OE6CGG, Schladming,,STMK,AUT,232,DMR
 2326035,OE6WSE,Willkomm Pirching am Traubenberg,Willkomm,STMK,AUT,232,DMR
 2326036,OE6PJF,Parfuss Stainz,Parfuss,STMK,AUT,232,DMR
 2326037,OE6DMD,Doppelreiter Bruck An der Mur,Doppelreiter,STMK,AUT,232,DMR
@@ -2815,7 +2824,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2326041,OE6EMF,Voelker Hartberg,Voelker,STMK,AUT,232,DMR
 2326042,OE6KSE,Schubert Kalsdorf Bei Graz,Schubert,STMK,AUT,232,DMR
 2326043,OE6MGG,Meister Graz,Meister,STMK,AUT,232,DMR
-2326044,OE6XMG,no_name no_city,no_name,STMK,AUT,232,DMR
+2326044,OE6XMG, no_city,,STMK,AUT,232,DMR
 2326045,OE6OCG,Posch Nestelbach,Posch,STMK,AUT,232,DMR
 2326046,OE6KUD,Krainz Ilz,Krainz,STMK,AUT,232,DMR
 2326047,OE6SSF,Samastur Wettmannstaetten,Samastur,STMK,AUT,232,DMR
@@ -2832,15 +2841,15 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2326058,OE6ABE,Bairl Eggersdorf Bei Graz,Bairl,STMK,AUT,232,DMR
 2326059,OE6WPG,Preising Sinabelkirchen,Preising,STMK,AUT,232,DMR
 2326060,OE6GBG,Hohensinner Gamlitz,Hohensinner,STMK,AUT,232,DMR
-2326061,OE6FZE,no_name Hafning,no_name,STMK,AUT,232,DMR
+2326061,OE6FZE, Hafning,,STMK,AUT,232,DMR
 2326062,OE6IWG,Steinwender Kapfenberg,Steinwender,STMK,AUT,232,DMR
 2326063,OE6SWD,Stelzer Bruck/mur,Stelzer,STMK,AUT,232,DMR
-2326064,OE6XBZ,no_name no_city,no_name,STMK,AUT,232,DMR
+2326064,OE6XBZ, no_city,,STMK,AUT,232,DMR
 2326065,OE6BZE,Zeiler Sulb,Zeiler,STMK,AUT,232,DMR
 2326066,OE6EWG,Stern Graz,Stern,STMK,AUT,232,DMR
 2326067,OE6RST,Poellabauer Weiz,Poellabauer,STMK,AUT,232,DMR
 2326068,OE6CPR,Rothmaier Graz,Rothmaier,STMK,AUT,232,DMR
-2326069,OE6XWG,no_name no_city,no_name,STMK,AUT,232,DMR
+2326069,OE6XWG, no_city,,STMK,AUT,232,DMR
 2326070,OE6LGF,Laenger Graz,Laenger,STMK,AUT,232,DMR
 2326071,OE6POD,Pachler Zeltweg,Pachler,STMK,AUT,232,DMR
 2326072,OE6POD,Pachler Zeltweg,Pachler,STMK,AUT,232,DMR
@@ -2886,17 +2895,17 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2326112,OE6ARF,Rothaemmel Graz,Rothaemmel,STMK,AUT,232,DMR
 2326113,OE6LSD,Stuebler Graz-St.Peter,Stuebler,STMK,AUT,232,DMR
 2326114,OE6FJF,Felber Johannes Eggersdorf Bei Graz,Felber Johannes,STMK,AUT,232,DMR
-2326115,OE6UUE,no_name no_city,no_name,STMK,AUT,232,DMR
+2326115,OE6UUE, no_city,,STMK,AUT,232,DMR
 2326116,OE6AXG,Allmer St.Johann/herb,Allmer,STMK,AUT,232,DMR
 2326117,OE6ATD,Brutti Ehrenhausen,Brutti,STMK,AUT,232,DMR
 2326118,OE6WID,Lipp Kapfenberg,Lipp,STMK,AUT,232,DMR
-2326119,OE6XFF,no_name no_city,no_name,STMK,AUT,232,DMR
+2326119,OE6XFF, no_city,,STMK,AUT,232,DMR
 2326120,OE6LUG,Haus Lothar Graz,Haus Lothar,STMK,AUT,232,DMR
 2326121,OE6HOF,Hocevar Bad Gams,Hocevar,STMK,AUT,232,DMR
 2326122,OE6HOF,Hocevar Bad Gams,Hocevar,STMK,AUT,232,DMR
 2326123,OE6PKF,Pischler Werndorf,Pischler,STMK,AUT,232,DMR
 2326124,OE6PKF,Pischler Werndorf,Pischler,STMK,AUT,232,DMR
-2326125,OE6MMA,no_name Wien,no_name,STMK,AUT,232,DMR
+2326125,OE6MMA, Wien,,STMK,AUT,232,DMR
 2326126,OE6SHE,Schaffer Kapfenberg,Schaffer,STMK,AUT,232,DMR
 2326127,OE6ESD,Schaeffer Leoben,Schaeffer,STMK,AUT,232,DMR
 2326128,OE6FBD,Foetsch Lang,Foetsch,STMK,AUT,232,DMR
@@ -2918,13 +2927,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2326144,OE6XRD,Oerk Landesverband Feldbach,Oerk Landesverband,STMK,AUT,232,DMR
 2326145,OE6ASF,Spitzer Weissenbach Bei Liezen,Spitzer,STMK,AUT,232,DMR
 2326146,OE6KCH,Kamper Scheifling,Kamper,STMK,AUT,232,DMR
-2326147,OE6DEF,no_name no_city,no_name,STMK,AUT,232,DMR
+2326147,OE6DEF, no_city,,STMK,AUT,232,DMR
 2326148,OE6SSE,Stipsits Ludersdorf-Wilfersdorf,Stipsits,STMK,AUT,232,DMR
 2326149,OE6UIG,Schuettner Lassing/selzt.,Schuettner,STMK,AUT,232,DMR
 2326150,OE6BYD,Brutti Ehrenhausen,Brutti,STMK,AUT,232,DMR
 2326151,OE6HOE,Eichinger Trofaiach,Eichinger,STMK,AUT,232,DMR
 2326152,OE6RNT,Willingshofer Langenwang-Schwoebing,Willingshofer,STMK,AUT,232,DMR
-2326153,OE6KGD,no_name no_city,no_name,STMK,AUT,232,DMR
+2326153,OE6KGD, no_city,,STMK,AUT,232,DMR
 2326154,OE6WIG,Wieser Mureck,Wieser,STMK,AUT,232,DMR
 2326155,OE6ARD,Peklar Hartberg,Peklar,STMK,AUT,232,DMR
 2326156,OE6RCD,Robic Leibnitz,Robic,STMK,AUT,232,DMR
@@ -2956,29 +2965,29 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2326182,OE6SLG,Schnedlitz Kammern im Liesingtal,Schnedlitz,STMK,AUT,232,DMR
 2326183,OE6JDG,Judmaier Niklasdorf,Judmaier,STMK,AUT,232,DMR
 2326184,OE6UXS,Rabl Graz,Rabl,STMK,AUT,232,DMR
-2326185,OE6XRX,no_name no_city,no_name,STMK,AUT,232,DMR
-2326186,OE6BKQ,Bernhard Graz,Bernhard,STMK,AUT,232,DMR
+2326185,OE6XRX, no_city,,STMK,AUT,232,DMR
+2326186,OE6BKQ,Koch Graz,Koch,STMK,AUT,232,DMR
 2326187,OE6JMF,Meixner Birkfeld,Meixner,STMK,AUT,232,DMR
-2326188,OE6AGD,no_name no_city,no_name,STMK,AUT,232,DMR
+2326188,OE6AGD, no_city,,STMK,AUT,232,DMR
 2326189,OE6ADE,Domani Koeflach,Domani,STMK,AUT,232,DMR
 2326190,OE6HFG,Hermann Murau,Hermann,STMK,AUT,232,DMR
-2326191,OE6HFF,no_name no_city,no_name,STMK,AUT,232,DMR
-2326192,OE6FBI,Michael Graz,Michael,STMK,AUT,232,DMR
+2326191,OE6HFF, no_city,,STMK,AUT,232,DMR
+2326192,OE6FBI,Neumeister Graz,Neumeister,STMK,AUT,232,DMR
 2326193,OE6ETF,Thaller Eisenerz,Thaller,STMK,AUT,232,DMR
 2326194,OE6BOT,Kohl Zlatten,Kohl,STMK,AUT,232,DMR
-2326195,OE6KLF,No_name no_city,No_name,STMK,AUT,232,DMR
+2326195,OE6KLF, no_city,,,AUT,232,DMR
 2326196,OE6PSF,Schuller Lemberg,Schuller,STMK,AUT,232,DMR
 2326197,OE6RAD,Maderbacher Baernbach,Maderbacher,STMK,AUT,232,DMR
-2326198,OE6MMR,No_name no_city,No_name,STMK,AUT,232,DMR
+2326198,OE6MMR, no_city,,,AUT,232,DMR
 2326199,OE6SSB,Hans Wien,Hans,WIEN,AUT,232,DMR
 2326200,OE6TXG,Meitz Graz-Liebenau,Meitz,STMK,AUT,232,DMR
 2326201,OE6OLD,Muehler Weinburg am Sassbach,Muehler,STMK,AUT,232,DMR
-2326202,OE6LUI,No_name Graz,No_name,STMK,AUT,232,DMR
+2326202,OE6LUI,Luidolt Graz,Luidolt,STMK,AUT,232,DMR
 2326203,OE6JUE,Schweizer Windorf,Schweizer,STMK,AUT,232,DMR
 2326204,OE6DUG,Neukirchner Graz,Neukirchner,STMK,AUT,232,DMR
 2326205,OE6PWE,Puhar Neuseiersberg,Puhar,STMK,AUT,232,DMR
 2326206,OE6OMC,Heritsch Aflenz,Heritsch,STMK,AUT,232,DMR
-2326207,OE6VIE,Engelbrecht St.Johann am Tauern,Engelbrecht,STMK,AUT,232,DMR
+2326207,OE6VIE, no_city,,,AUT,232,DMR
 2326208,OE6PVG,Picher Hetzendorf,Picher,STMK,AUT,232,DMR
 2326209,OE6KWG,Kaiser Graz,Kaiser,STMK,AUT,232,DMR
 2326210,OE6KAE,Kozar Leutschach,Kozar,KTN,AUT,232,DMR
@@ -2991,18 +3000,18 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2326231,OE6AUD,Urschler Eggersdorf,Urschler,STMK,AUT,232,DMR
 2326232,OE6JWD,Wolf Hart-Purgstall,Wolf,STMK,AUT,232,DMR
 2326233,OE6JWD,Wolf Hart-Purgstall,Wolf,STMK,AUT,232,DMR
-2326234,OE6CLR,no_name Graz,no_name,STMK,AUT,232,DMR
+2326234,OE6CLR, Graz,,STMK,AUT,232,DMR
 2326235,OE6VHF,Kohlhofer Sankt Oswald Bei Plankenwarth,Kohlhofer,STMK,AUT,232,DMR
 2326236,OE6RSD,Stipsic Gleisdorf,Stipsic,STMK,AUT,232,DMR
 2326237,OE6TSG,Tschermernig Graz,Tschermernig,STMK,AUT,232,DMR
 2326238,OE6CUD,Thurner Graz-Strassgng,Thurner,STMK,AUT,232,DMR
 2326239,OE6PBD,Boehler Hausmannstaetten,Boehler,STMK,AUT,232,DMR
-2326261,OE6KLU,no_name Stuhleck,no_name,STMK,AUT,232,DMR
+2326261,OE6KLU, Stuhleck,,STMK,AUT,232,DMR
 2326351,OE6DJG,Jahn Kainbach,Jahn,STMK,AUT,232,DMR
 2326532,OE6JWD,Wolf Hart-Purgstall,Wolf,STMK,AUT,232,DMR
 2326533,OE6HWD,Walitsch Unterlamm,Walitsch,STMK,AUT,232,DMR
 2327000,OE7BKH,Kroell Mayrhofen,Kroell,TIROL,AUT,232,DMR
-2327001,OE7CAH,no_name no_city,no_name,TIROL,AUT,232,DMR
+2327001,OE7CAH, no_city,,TIROL,AUT,232,DMR
 2327002,OE7SRI,Strobl Kramsach,Strobl,TIROL,AUT,232,DMR
 2327003,OE7BSH,Steiner Bernd Wattens,Steiner Bernd,TIROL,AUT,232,DMR
 2327004,OE7FMI,Fankhauser Finkenberg,Fankhauser,TIROL,AUT,232,DMR
@@ -3042,7 +3051,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2327038,OE7TMJ,Traxl Zams,Traxl,TIROL,AUT,232,DMR
 2327039,OE7MMT,Moranduzzo Kaunerberg,Moranduzzo,TIROL,AUT,232,DMR
 2327040,OE7GHJ,Grindhammer Schwoich,Grindhammer,TIROL,AUT,232,DMR
-2327041,OE7SBH,no_name no_city,no_name,TIROL,AUT,232,DMR
+2327041,OE7SBH, no_city,,TIROL,AUT,232,DMR
 2327042,OE7JRT,Anfang Tux,Anfang,TIROL,AUT,232,DMR
 2327043,OE7XWI,Sportverein der Verbund Hydro Power  Gmbh Mayrhofen,Sportverein der Verbund Hydro Power  Gmbh,TIROL,AUT,232,DMR
 2327044,OE7MWH,Werhonik Steinach A.Br.,Werhonik,TIROL,AUT,232,DMR
@@ -3128,8 +3137,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2327124,OE7WPA,Pichl Innsbruck,Pichl,TIROL,AUT,232,DMR
 2327125,OE7GFT,Floegel Innsbruck,Floegel,TIROL,AUT,232,DMR
 2327126,OE7PSH,Schulze Scharnitz,Schulze,TIROL,AUT,232,DMR
-2327127,OE7RAJ,no_name no_city,no_name,TIROL,AUT,232,DMR
-2327128,OE7RAJ,no_name no_city,no_name,TIROL,AUT,232,DMR
+2327127,OE7RAJ, no_city,,TIROL,AUT,232,DMR
+2327128,OE7RAJ, no_city,,TIROL,AUT,232,DMR
 2327129,OE7JVJ,Wechselberger Aschau,Wechselberger,TIROL,AUT,232,DMR
 2327130,OE7NJI,Janku Wattens,Janku,TIROL,AUT,232,DMR
 2327131,OE7GDH,Daum Aschau,Daum,TIROL,AUT,232,DMR
@@ -3159,37 +3168,37 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2327155,OE7XKJ,Lv Tirol Des Oesterreichischen Kufstein,Lv Tirol Des Oesterreichischen,TIROL,AUT,232,DMR
 2327156,OE7GMT,Mathoi Innsbruck,Mathoi,TIROL,AUT,232,DMR
 2327157,OE7NHT,Henning Innsbruck,Henning,TIROL,AUT,232,DMR
-2327158,OE7ECH,no_name no_city,no_name,TIROL,AUT,232,DMR
-2327159,OE7AYH,no_name no_city,no_name,TIROL,AUT,232,DMR
+2327158,OE7ECH, no_city,,TIROL,AUT,232,DMR
+2327159,OE7AYH, no_city,,TIROL,AUT,232,DMR
 2327160,OE7BFT,Ball Lans,Ball,TIROL,AUT,232,DMR
 2327161,OE7UTI,Tasch Vomp,Tasch,TIROL,AUT,232,DMR
 2327162,OE7SPI,Soder St.Ulrich am Pillers,Soder,TIROL,AUT,232,DMR
-2327163,OE7SBH,no_name no_city,no_name,TIROL,AUT,232,DMR
+2327163,OE7SBH, no_city,,TIROL,AUT,232,DMR
 2327164,OE7GWT,Wirth Volders,Wirth,TIROL,AUT,232,DMR
 2327165,OE7BOE,Schneider Mieming,Schneider,TIROL,AUT,232,DMR
 2327166,OE7CAI,Agerer Niederndorf,Agerer,TIROL,AUT,232,DMR
 2327167,OE7HKJ,Mazzurana Karl Mils,Mazzurana Karl,TIROL,AUT,232,DMR
 2327168,OE7AAT,Sonnweber Hall In Tirol,Sonnweber,TIROL,AUT,232,DMR
 2327169,OE7FWJ,Weitlaner Innsbruck,Weitlaner,TIROL,AUT,232,DMR
-2327170,OE7KIR,Markus Pfaffenhofen,Markus,TIROL,AUT,232,DMR
-2327171,OE7SAE,Alexander Seefeld In Tirol,Alexander,TIROL,AUT,232,DMR
-2327172,OE7TSJ,Stefan Telfs,Stefan,TIROL,AUT,232,DMR
-2327173,OE7LKT,no_name no_city,no_name,TIROL,AUT,232,DMR
-2327174,OE7AZO,no_name no_city,no_name,TIROL,AUT,232,DMR
+2327170,OE7KIR,Kihr Pfaffenhofen,Kihr,TIROL,AUT,232,DMR
+2327171,OE7SAE,Seelos Seefeld In Tirol,Seelos,TIROL,AUT,232,DMR
+2327172,OE7TSJ,Langmaier Telfs,Langmaier,TIROL,AUT,232,DMR
+2327173,OE7LKT, no_city,,TIROL,AUT,232,DMR
+2327174,OE7AZO, no_city,,TIROL,AUT,232,DMR
 2327175,OE7GKH,Gabl Sankt Leonhard im Pitztal,Gabl,TIROL,AUT,232,DMR
-2327176,OE7CSM,Martin Schwoich,Martin,TIROL,AUT,232,DMR
-2327177,OE7SZT,Stefan Innsbruck,Stefan,TIROL,AUT,232,DMR
-2327178,OE7SLF,Stefan Kufstein,Stefan,TIROL,AUT,232,DMR
+2327176,OE7CSM,Steinbacher Schwoich,Steinbacher,TIROL,AUT,232,DMR
+2327177,OE7SZT,Zimmermann Innsbruck,Zimmermann,TIROL,AUT,232,DMR
+2327178,OE7SLF,Schaedl Kufstein,Schaedl,TIROL,AUT,232,DMR
 2327179,OE7AUI,Untersteiner Fliess,Untersteiner,TIROL,AUT,232,DMR
-2327180,OE7DRT,Dominic Laengenfeld,Dominic,TIROL,AUT,232,DMR
-2327181,OE7LPR,Laurenz Zoeblen,Laurenz,TIROL,AUT,232,DMR
+2327180,OE7DRT,Reich Laengenfeld,Reich,TIROL,AUT,232,DMR
+2327181,OE7LPR,Preindl Zoeblen,Preindl,TIROL,AUT,232,DMR
 2327182,OE7RSI,Stemmer Prutz,Stemmer,TIROL,AUT,232,DMR
-2327183,OE7MOV,no_name no_city,no_name,TIROL,AUT,232,DMR
+2327183,OE7MOV, no_city,,TIROL,AUT,232,DMR
 2327184,OE7WDR,Widmann Ebbs,Widmann,TIROL,AUT,232,DMR
 2327185,OE7MPT,Pacher Ebbs,Pacher,TIROL,AUT,232,DMR
 2327186,OE7GMH,Gardener Sillian,Gardener,TIROL,AUT,232,DMR
 2327187,OE7WPJ,Pesserer Jenbach,Pesserer,TIROL,AUT,232,DMR
-2327188,OE7MOF,No_name Eben am Achensee,No_name,TIROL,AUT,232,DMR
+2327188,OE7MOF,Moosmann Eben am Achensee,Moosmann,TIROL,AUT,232,DMR
 2327189,OE7NCT,Coluccini Angerberg,Coluccini,TIROL,AUT,232,DMR
 2327190,OE7GWT,Wirth Volders,Wirth,TIROL,AUT,232,DMR
 2327191,OE7LOJ,Loll-Nielsen Kitzbuehel,Loll-Nielsen,TIROL,AUT,232,DMR
@@ -3202,23 +3211,23 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2327198,OE7OBD,Oberhofer Terfens,Oberhofer,TIROL,AUT,232,DMR
 2327199,OE7WRT,Ramoser Innsbruck,Ramoser,TIROL,AUT,232,DMR
 2327200,OE7TDK,Duracher Ausservillgraten,Duracher,TIROL,AUT,232,DMR
-2327201,OE7EJT,No_name Fiss,No_name,TIROL,AUT,232,DMR
+2327201,OE7EJT,Illmer Fiss,Illmer,TIROL,AUT,232,DMR
 2327202,OE7IWT,Haid Aldrans,Haid,TIROL,AUT,232,DMR
-2327203,OE7HDR,No_name Tarrenz,No_name,TIROL,AUT,232,DMR
-2327204,OE7KJM,No_name Itter,No_name,TIROL,AUT,232,DMR
+2327203,OE7HDR,Doblander Tarrenz,Doblander,TIROL,AUT,232,DMR
+2327204,OE7KJM,Klingenschmid Itter,Klingenschmid,TIROL,AUT,232,DMR
 2327205,OE7SIT,Isser Seefeld,Isser,OOE,AUT,232,DMR
-2327206,OE7SXG,No_name Niederndorf,No_name,TIROL,AUT,232,DMR
+2327206,OE7SXG,Steinbacher Niederndorf,Steinbacher,TIROL,AUT,232,DMR
 2327207,OE7MLH,Hainz Reith Bei Seefeld,Hainz,TIROL,AUT,232,DMR
-2327208,OE7KIW,No_name Innsbruck,No_name,TIROL,AUT,232,DMR
-2327209,OE7PIP,No_name Innsbruck,No_name,TIROL,AUT,232,DMR
-2327210,OE7DAV,No_name Schwaz,No_name,TIROL,AUT,232,DMR
-2327211,OE7ETT,No_name Woergl,No_name,TIROL,AUT,232,DMR
+2327208,OE7KIW,Winter Innsbruck,Winter,TIROL,AUT,232,DMR
+2327209,OE7PIP, no_city,,,AUT,232,DMR
+2327210,OE7DAV,Habernig Schwaz,Habernig,TIROL,AUT,232,DMR
+2327211,OE7ETT,Ettinger Woergl,Ettinger,TIROL,AUT,232,DMR
 2327212,OE7DRT,Reich Laengenfeld,Reich,TIROL,AUT,232,DMR
 2327213,OE7MET,Dessl Waengle,Dessl,TIROL,AUT,232,DMR
 2327214,OE7CHJ,Hitthaler Fliess,Hitthaler,TIROL,AUT,232,DMR
 2327215,OE7RMT,Rossini Tarrenz,Rossini,TIROL,AUT,232,DMR
 2327216,OE7PET,Pelzer Kufstein,Pelzer,TIROL,AUT,232,DMR
-2327217,OE7CSM,No_name Schwoich,No_name,TIROL,AUT,232,DMR
+2327217,OE7CSM,Steinbacher Schwoich,Steinbacher,TIROL,AUT,232,DMR
 2327218,OE7RJU,Juen Pettneu A/a,Juen,TIROL,AUT,232,DMR
 2327219,OE7MOH,Mair Innsbruck,Mair,TIROL,AUT,232,DMR
 2327220,OE7WIP,Wuggenig Innsbruck,Wuggenig,TIROL,AUT,232,DMR
@@ -3227,9 +3236,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2327223,OE7ERJ,Raggl Zams,Raggl,TIROL,AUT,232,DMR
 2327232,OE7OST,Ostermann Innsbruck,Ostermann,TIROL,AUT,232,DMR
 2328001,OE8AGK,Grascher Eberndorf,Grascher,KTN,AUT,232,DMR
-2328002,OE8DDK,no_name no_city,no_name,KTN,AUT,232,DMR
+2328002,OE8DDK, no_city,,KTN,AUT,232,DMR
 2328003,OE8LCK,Lippay Klagenfurt,Lippay,KTN,AUT,232,DMR
-2328004,OE8JFK,no_name no_city,no_name,KTN,AUT,232,DMR
+2328004,OE8JFK, no_city,,KTN,AUT,232,DMR
 2328005,OE8MMK,Maas Margret Spittal An der Drau,Maas Margret,KTN,AUT,232,DMR
 2328006,OE8DMR,Gulyas Hermagor,Gulyas,KTN,AUT,232,DMR
 2328007,OE8URQ,Rimmele Noetsch,Rimmele,KTN,AUT,232,DMR
@@ -3237,10 +3246,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2328009,OE8AEQ,Egger Unteraichwald,Egger,KTN,AUT,232,DMR
 2328010,OE8AMK,Haller Ferlach,Haller,KTN,AUT,232,DMR
 2328011,OE8PJK,Ploessnig Villach,Ploessnig,KTN,AUT,232,DMR
-2328012,OE8KLK,no_name no_city,no_name,KTN,AUT,232,DMR
+2328012,OE8KLK, no_city,,KTN,AUT,232,DMR
 2328013,OE8LCK,Lippay Klagenfurt,Lippay,KTN,AUT,232,DMR
 2328014,OE8AGK,Grascher Eberndorf,Grascher,KTN,AUT,232,DMR
-2328015,OE8JFK,no_name no_city,no_name,KTN,AUT,232,DMR
+2328015,OE8JFK, no_city,,KTN,AUT,232,DMR
 2328016,OE8DMK,Maier Klagenfurt,Maier,KTN,AUT,232,DMR
 2328017,OE8AAK,Augustin Villach,Augustin,KTN,AUT,232,DMR
 2328018,OE8AIR,Tragauer Friedrich Villach,Tragauer Friedrich,KTN,AUT,232,DMR
@@ -3248,7 +3257,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2328020,OE8HSR,Steiner Hans Rangersdorf,Steiner Hans,KTN,AUT,232,DMR
 2328021,OE8JDK,Dedek Villach,Dedek,KTN,AUT,232,DMR
 2328022,OE8JDK,Dedek Villach,Dedek,KTN,AUT,232,DMR
-2328023,OE8KBC,no_name Saurachberg,no_name,KTN,AUT,232,DMR
+2328023,OE8KBC, Saurachberg,,KTN,AUT,232,DMR
 2328024,OE8PSQ,Suppick Wernberg,Suppick,KTN,AUT,232,DMR
 2328025,OE8XMK,Oevsv Magdalensberg,Oevsv,KTN,AUT,232,DMR
 2328026,OE8BGK,Wurzer Meiselding,Wurzer,KTN,AUT,232,DMR
@@ -3261,15 +3270,15 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2328033,OE8CKK,Kommetter Waidegg,Kommetter,KTN,AUT,232,DMR
 2328034,OE8KKM,Mekul Sankt Veit An der Glan,Mekul,KTN,AUT,232,DMR
 2328035,OE8WOZ,Scherr Villach,Scherr,KTN,AUT,232,DMR
-2328036,OE8VIK,no_name no_city,no_name,KTN,AUT,232,DMR
+2328036,OE8VIK, no_city,,KTN,AUT,232,DMR
 2328037,OE8SCQ,Seitner-Stadik Feldkirchen In Kaernten,Seitner-Stadik,KTN,AUT,232,DMR
 2328038,OE8AEQ,Egger Unteraichwald,Egger,KTN,AUT,232,DMR
-2328039,OE8VIK,no_name no_city,no_name,KTN,AUT,232,DMR
+2328039,OE8VIK, no_city,,KTN,AUT,232,DMR
 2328040,OE8XGK,Radio Club Finkenstein am Faakersee,Radio Club,KTN,AUT,232,DMR
-2328041,OE8DLG,no_name Ruden,no_name,KTN,AUT,232,DMR
+2328041,OE8DLG, Ruden,,KTN,AUT,232,DMR
 2328042,OE8DIV,Rasser Klagenfurt,Rasser,KTN,AUT,232,DMR
 2328043,OE8AIR,Tragauer Friedrich Villach,Tragauer Friedrich,KTN,AUT,232,DMR
-2328044,OE8BJK,no_name Klagenfurt,no_name,KTN,AUT,232,DMR
+2328044,OE8BJK, Klagenfurt,,KTN,AUT,232,DMR
 2328045,OE8PAK,Pichler Moellbruecke,Pichler,KTN,AUT,232,DMR
 2328046,OE8PGQ,Felsperger Rosegg,Felsperger,KTN,AUT,232,DMR
 2328047,OE8CMQ,Malle Klagenfurt,Malle,KTN,AUT,232,DMR
@@ -3301,32 +3310,32 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2328073,OE8NWQ,Weiss Berg/drau,Weiss,KTN,AUT,232,DMR
 2328074,OE8PJQ,Pichler Baldramsdorf,Pichler,KTN,AUT,232,DMR
 2328075,OE8WV,Wolf Villach,Wolf,KTN,AUT,232,DMR
-2328076,OE8AED,no_name no_city,no_name,KTN,AUT,232,DMR
+2328076,OE8AED, no_city,,KTN,AUT,232,DMR
 2328077,OE8ADF,Allmayer Spittal An der Drau,Allmayer,KTN,AUT,232,DMR
 2328078,OE8ACQ,Nachbar Klagenfurt,Nachbar,KTN,AUT,232,DMR
 2328079,OE8ANK,Achatz Pischeldorf,Achatz,KTN,AUT,232,DMR
 2328080,OE8JPQ,Jeschofnik Klagenfurt,Jeschofnik,KTN,AUT,232,DMR
-2328081,OE8KTR,no_name Grafenstein,no_name,KTN,AUT,232,DMR
+2328081,OE8KTR, Grafenstein,,KTN,AUT,232,DMR
 2328082,OE8MVG,Veratschnig Keutschach,Veratschnig,KTN,AUT,232,DMR
 2328083,OE8JWK,Berger Poertschach am Woerther See,Berger,KTN,AUT,232,DMR
 2328084,OE8ACD,Joebstl Wolfsberg,Joebstl,KTN,AUT,232,DMR
 2328085,OE8AEE,Stieger Klagenfurt,Stieger,KTN,AUT,232,DMR
-2328086,OE8GWQ,No_name Sankt Jakob im Rosental,No_name,KTN,AUT,232,DMR
-2328087,OE8IJK,Juergen Sankt Veit An der Glan,Juergen,KTN,AUT,232,DMR
-2328088,OE8GGE,Gerd Sankt Veit An der Glan,Gerd,KTN,AUT,232,DMR
+2328086,OE8GWQ,Gabrutsch Sankt Jakob im Rosental,Gabrutsch,KTN,AUT,232,DMR
+2328087,OE8IJK,Kugi Sankt Veit An der Glan,Kugi,KTN,AUT,232,DMR
+2328088,OE8GGE,Gradischnig Sankt Veit An der Glan,Gradischnig,KTN,AUT,232,DMR
 2328089,OE8IMK,Sternath Sankt Veit An der Glan,Sternath,KTN,AUT,232,DMR
-2328090,OE8ITG,Gerhard Sankt Veit An der Glan,Gerhard,KTN,AUT,232,DMR
-2328091,OE8IMR,Michael Sankt Veit An der Glan,Michael,KTN,AUT,232,DMR
-2328092,OE8RAT,No_name no_city,No_name,KTN,AUT,232,DMR
-2328093,OE8JAS,Joshua Sittersdorf,Joshua,KTN,AUT,232,DMR
+2328090,OE8ITG,Stromberger Sankt Veit An der Glan,Stromberger,KTN,AUT,232,DMR
+2328091,OE8IMR,Rauter Sankt Veit An der Glan,Rauter,KTN,AUT,232,DMR
+2328092,OE8RAT, no_city,,,AUT,232,DMR
+2328093,OE8JAS,Sacherer Sittersdorf,Sacherer,KTN,AUT,232,DMR
 2328094,OE8JSK,Scherzer Sankt Veit An der Glan,Scherzer,KTN,AUT,232,DMR
 2328095,OE8ASK,Scherzer Sankt Veit An der Glan,Scherzer,KTN,AUT,232,DMR
 2328096,OE8BSK,Sitar Miklauzhof,Sitar,KTN,AUT,232,DMR
-2328097,OE8KYK,Henryk Ueberfeld,Henryk,KTN,AUT,232,DMR
+2328097,OE8KYK,Unterkoefler Ueberfeld,Unterkoefler,KTN,AUT,232,DMR
 2328098,OE8OGI,Ogris Feistritz im Rosental,Ogris,KTN,AUT,232,DMR
 2328099,OE8SFK,Schenk Klagenfurt,Schenk,KTN,AUT,232,DMR
-2328100,OE8ELO,No_name Feldkirchen In Kaernten,No_name,KTN,AUT,232,DMR
-2328101,OE8TEK,Tusch Bodensdorf,Tusch,KTN,AUT,232,DMR
+2328100,OE8ELO,Londer Feldkirchen In Kaernten,Londer,KTN,AUT,232,DMR
+2328101,OE8TEK,Enzenebner Klagenfurt,Enzenebner,KTN,AUT,232,DMR
 2328102,OE8FOX,Spreitzer Steindorf,Spreitzer,KTN,AUT,232,DMR
 2328103,OE8RPK,Pobatschnig Sankt Andrae,Pobatschnig,KTN,AUT,232,DMR
 2328104,OE8TLK,Lueger Lambichl,Lueger,KTN,AUT,232,DMR
@@ -3337,7 +3346,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2328109,OE8HKS,Kloss Friesach,Kloss,KTN,AUT,232,DMR
 2328110,OE8MEQ,Meschnark Wolfsberg,Meschnark,KTN,AUT,232,DMR
 2328111,OE8ARQ,Rieder Viktring,Rieder,KTN,AUT,232,DMR
-2328212,OE8LBK,no_name Villach,no_name,KTN,AUT,232,DMR
+2328212,OE8LBK, Villach,,KTN,AUT,232,DMR
 2328502,OE8WLK,Spielvogel Villach,Spielvogel,KTN,AUT,232,DMR
 2328503,OE8BCK,Bodner Gmuend,Bodner,KTN,AUT,232,DMR
 2328504,OE8EGK,Krall Klgft/viktring,Krall,KTN,AUT,232,DMR
@@ -3345,7 +3354,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2328506,OE8HJK,Jelinek Klagenfurt,Jelinek,KTN,AUT,232,DMR
 2328507,OE8CHK,Rieder Villach,Rieder,KTN,AUT,232,DMR
 2328508,OE8HJK,Jelinek Klagenfurt,Jelinek,KTN,AUT,232,DMR
-2328802,OE8SWR,no_name Villach,no_name,KTN,AUT,232,DMR
+2328802,OE8SWR, Villach,,KTN,AUT,232,DMR
 2328806,OE8OK,Kruschitz St Kanzian,Kruschitz,KTN,AUT,232,DMR
 2328811,OE8MDK,Perdacher Tainach,Perdacher,KTN,AUT,232,DMR
 2328812,OE8SGK,Schellander Wernberg,Schellander,KTN,AUT,232,DMR
@@ -3360,12 +3369,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2328832,OE8YHQ,Karlin St Ulrich,Karlin,KTN,AUT,232,DMR
 2328841,OE8RVK,Vrisk Klagenfurt,Vrisk,KTN,AUT,232,DMR
 2328842,OE8URQ,Rimmele Noetsch,Rimmele,KTN,AUT,232,DMR
-2328851,OE8KER,no_name no_city,no_name,KTN,AUT,232,DMR
+2328851,OE8KER, no_city,,KTN,AUT,232,DMR
 2328860,OE8AAK,Augustin Villach,Augustin,KTN,AUT,232,DMR
 2328862,OE8PKR,Karlin St Magdalen,Karlin,KTN,AUT,232,DMR
 2328864,OE8BGQ,Brandner Steinfeld,Brandner,KTN,AUT,232,DMR
-2328872,OE8PTK,no_name Villach,no_name,KTN,AUT,232,DMR
-2328892,OE8MCQ,no_name Wernberg,no_name,KTN,AUT,232,DMR
+2328872,OE8PTK, Villach,,KTN,AUT,232,DMR
+2328892,OE8MCQ, Wernberg,,KTN,AUT,232,DMR
 2329001,OE9KFV,Kossidowski Hoerbranz,Kossidowski,VBG,AUT,232,DMR
 2329002,OE9KSV,Schoell Bregenz,Schoell,VBG,AUT,232,DMR
 2329003,OE9IGV,Giesinger Dornbirn,Giesinger,VBG,AUT,232,DMR
@@ -3373,7 +3382,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2329005,OE9AFV,Fetz Lauterach,Fetz,VBG,AUT,232,DMR
 2329006,OE9SAJ,Autengruber Bregenz,Autengruber,VBG,AUT,232,DMR
 2329007,OE9LTV,Antholzer Bregenz,Antholzer,VBG,AUT,232,DMR
-2329008,OE9VVV,no_name Frastanz,no_name,VBG,AUT,232,DMR
+2329008,OE9VVV, Frastanz,,VBG,AUT,232,DMR
 2329009,OE9PKV,Pfister Bludesch,Pfister,VBG,AUT,232,DMR
 2329010,OE9AFV,Fetz Lauterach,Fetz,VBG,AUT,232,DMR
 2329011,OE9FRV,Friesenecker Feldkirch,Friesenecker,VBG,AUT,232,DMR
@@ -3381,13 +3390,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2329013,OE9LTV,Antholzer Bregenz,Antholzer,VBG,AUT,232,DMR
 2329014,OE9TNT,Molina Bregenz,Molina,VBG,AUT,232,DMR
 2329015,OE9BBH,Bleyle-Fink Bregenz,Bleyle-Fink,VBG,AUT,232,DMR
-2329016,OE9WOH,no_name Wolfurt,no_name,VBG,AUT,232,DMR
+2329016,OE9WOH, Wolfurt,,VBG,AUT,232,DMR
 2329017,OE9PTI,Prettner Bregenz,Prettner,VBG,AUT,232,DMR
 2329018,OE9WLJ,Haeusle Hoerbranz,Haeusle,VBG,AUT,232,DMR
 2329019,OE9PGV,Gstir Dornbirn,Gstir,VBG,AUT,232,DMR
 2329020,OE9HGV,Hug Goetzis,Hug,VBG,AUT,232,DMR
 2329021,OE9HLH,Longhi Bregenz,Longhi,VBG,AUT,232,DMR
-2329022,OE9UGV,no_name Bregenz,no_name,VBG,AUT,232,DMR
+2329022,OE9UGV, Bregenz,,VBG,AUT,232,DMR
 2329023,OE9WSJ,Stoessl Meiningen,Stoessl,VBG,AUT,232,DMR
 2329024,OE9FWV,Furlan Feldkirch,Furlan,VBG,AUT,232,DMR
 2329025,OE9XGV,Oevsv Koblach,Oevsv,VBG,AUT,232,DMR
@@ -3396,7 +3405,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2329028,OE9EFH,Felder Schoppernau,Felder,VBG,AUT,232,DMR
 2329029,OE9SJV,Schenk Bregenz,Schenk,VBG,AUT,232,DMR
 2329030,OE9MOI,Kirchebner Feldkirch,Kirchebner,VBG,AUT,232,DMR
-2329031,OE9IMJ,no_name no_city,no_name,VBG,AUT,232,DMR
+2329031,OE9IMJ, no_city,,VBG,AUT,232,DMR
 2329032,OE9HPV,Prinz Feldkirch,Prinz,VBG,AUT,232,DMR
 2329033,OE9TFH,Vrisk Bludesch,Vrisk,VBG,AUT,232,DMR
 2329034,OE9AZV,Zimmermann Andreas Feldkirch,Zimmermann Andreas,VBG,AUT,232,DMR
@@ -3408,10 +3417,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2329040,OE9XVI,Oevsv Feldkirch,Oevsv,VBG,AUT,232,DMR
 2329041,OE9SAM,Koeb Wolfurt,Koeb,VBG,AUT,232,DMR
 2329042,OE9EFJ,Floery Gortipohl,Floery,VBG,AUT,232,DMR
-2329043,OE9JAP,no_name Feldkirch,no_name,VBG,AUT,232,DMR
+2329043,OE9JAP, Feldkirch,,VBG,AUT,232,DMR
 2329044,OE9DKH,Kuschke Hoerbranz,Kuschke,VBG,AUT,232,DMR
 2329045,OE9CBV,Boss Lauterach,Boss,VBG,AUT,232,DMR
-2329046,OE9IMJ,no_name no_city,no_name,VBG,AUT,232,DMR
+2329046,OE9IMJ, no_city,,VBG,AUT,232,DMR
 2329047,OE9EZI,Zwanziger Bregenz,Zwanziger,VBG,AUT,232,DMR
 2329048,OE9TEV,Eisemann Loruens,Eisemann,VBG,AUT,232,DMR
 2329049,OE9PBV,Mielich Bregenz,Mielich,VBG,AUT,232,DMR
@@ -3423,7 +3432,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2329055,OE9VMR,Ruedisser Bregenz,Ruedisser,VBG,AUT,232,DMR
 2329056,OE9DEV,Eberle Lauterach,Eberle,VBG,AUT,232,DMR
 2329057,OE9TNT,Molina Bregenz,Molina,VBG,AUT,232,DMR
-2329058,OE9SBV,no_name no_city,no_name,VBG,AUT,232,DMR
+2329058,OE9SBV, no_city,,VBG,AUT,232,DMR
 2329059,OE9RSV,Sonnweber Sulz,Sonnweber,VBG,AUT,232,DMR
 2329060,OE9AKI,Krainer Dornbirn,Krainer,VBG,AUT,232,DMR
 2329061,OE9MMH,Kneidl Dornbirn,Kneidl,VBG,AUT,232,DMR
@@ -3445,7 +3454,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2329077,OE9HWV,Hauck Dornbirn,Hauck,VBG,AUT,232,DMR
 2329078,OE9OLT,Wirth Hard,Wirth,VBG,AUT,232,DMR
 2329079,OE9MEV,Elbs Bregenz,Elbs,VBG,AUT,232,DMR
-2329080,OE9DLV,no_name Lauterach,no_name,VBG,AUT,232,DMR
+2329080,OE9DLV, Lauterach,,VBG,AUT,232,DMR
 2329081,OE9MDT,Denifle Bregenz,Denifle,VBG,AUT,232,DMR
 2329082,OE9GBH,Bitschi Klaus,Bitschi,VBG,AUT,232,DMR
 2329083,OE9MMV,Mayr Bludenz,Mayr,VBG,AUT,232,DMR
@@ -3465,7 +3474,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2329097,OE9GWV,Wagner Bludesch,Wagner,VBG,AUT,232,DMR
 2329098,OE9GZH,Hirschmann Helmut Dornbirn,Hirschmann Helmut,VBG,AUT,232,DMR
 2329099,OE9XXV,Amateurfunkverein Digital Force Bregenz,Amateurfunkverein Digital Force,VBG,AUT,232,DMR
-2329100,OE9VVV,no_name Frastanz,no_name,VBG,AUT,232,DMR
+2329100,OE9VVV, Frastanz,,VBG,AUT,232,DMR
 2329101,OE9DBI,Dobler Vandans,Dobler,VBG,AUT,232,DMR
 2329102,OE9DAI,Dobler Vandans,Dobler,VBG,AUT,232,DMR
 2329103,OE9OBV,Friedl Ingo Dornbirn,Friedl Ingo,VBG,AUT,232,DMR
@@ -3480,14 +3489,14 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2329112,OE9MVT,Matt Frastanz,Matt,VBG,AUT,232,DMR
 2329113,OE9MNR,Mohr Wolfurt,Mohr,VBG,AUT,232,DMR
 2329114,OE9BOK,Boeckle Bregenz,Boeckle,VBG,AUT,232,DMR
-2329115,OE9IHR,Ozren Nenzing,Ozren,VBG,AUT,232,DMR
+2329115,OE9IHR,Mesaric Nenzing,Mesaric,VBG,AUT,232,DMR
 2329116,OE9CBV,Boss Lauterach,Boss,VBG,AUT,232,DMR
 2329117,OE9KRI,Kadis Altach,Kadis,VBG,AUT,232,DMR
 2329118,OE9FRV,Friesenecker Feldkirch,Friesenecker,VBG,AUT,232,DMR
 2329119,OE9MNR,Mohr Wolfurt,Mohr,VBG,AUT,232,DMR
 2329120,OE9PHV,Petnig Lustenau,Petnig,VBG,AUT,232,DMR
 2329121,OE9TAV,Yekdes Lustenau,Yekdes,VBG,AUT,232,DMR
-2329122,OE9RFV,no_name no_city,no_name,VBG,AUT,232,DMR
+2329122,OE9RFV, no_city,,VBG,AUT,232,DMR
 2329123,OE9IGV,Giesinger Dornbirn,Giesinger,VBG,AUT,232,DMR
 2329124,OE9NGH,Nussbaumer Langenegg,Nussbaumer,VBG,AUT,232,DMR
 2329125,OE9XBV,A1 Bregenz,A1,VBG,AUT,232,DMR
@@ -3939,7 +3948,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2620442,DL2BCQ,Kubutsch Bissendorf,Kubutsch,NI,DEU,262,DMR
 2620443,DG8MDP,Bader Unterostendorf,Bader,BY,DEU,262,DMR
 2620444,DO7MI,Radmacher no_city,Radmacher,NO_NAME,DEU,262,DMR
-2620445,DO3HKF,Moehring Bad Driburg,Moehring,NW,DEU,262,DMR
+2620445,DL3MZ,Moehring Bad Driburg,Moehring,NW,DEU,262,DMR
 2620446,DL1MJG,Gust Ohlstadt,Gust,BY,DEU,262,DMR
 2620447,DD4FK,Koenning Berlin,Koenning,BE,DEU,262,DMR
 2620448,DK9UW,Schoenboeck Otterberg,Schoenboeck,RP,DEU,262,DMR
@@ -3957,7 +3966,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2620460,DJ5HM,Ost Namborn,Ost,SL,DEU,262,DMR
 2620461,DD3FH,Heubach Bad Salzungen,Heubach,TH,DEU,262,DMR
 2620462,DO1KHS,Stoecker Siegburg,Stoecker,NW,DEU,262,DMR
-2620463,DB4RNM,no_name Ruelzheim,no_name,RP,DEU,262,DMR
+2620463,DB4RNM, Ruelzheim,,RP,DEU,262,DMR
 2620464,DC9WI,Krupp Augsburg,Krupp,BY,DEU,262,DMR
 2620465,DA6PFL,Sibley no_city,Sibley,NO_NAME,DEU,262,DMR
 2620466,DF1YE,Fabian Schoenfliess,Fabian,BB,DEU,262,DMR
@@ -4110,13 +4119,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2620613,DO1OIB,Bloedorn Bueddenstedt,Bloedorn,NO_NAME,DEU,262,DMR
 2620614,DL1MP,Pfeiffer Waldbroel,Pfeiffer,NW,DEU,262,DMR
 2620615,DK3LM,Schellack Hohenbucko,Schellack,BB,DEU,262,DMR
-2620616,DO1MSE,Seuffert Grossmehring,Seuffert,BY,DEU,262,DMR
+2620616,DK7SM,Seuffert Grossmehring ()),Seuffert,BY,DEU,262,DMR
 2620617,DO1NSF,Simic Frankfurt,Simic,HE,DEU,262,DMR
 2620618,DO9BES,Esters Neustadt,Esters,NI,DEU,262,DMR
 2620619,DL9STX,Radtke no_city,Radtke,NO_NAME,DEU,262,DMR
 2620620,DL2YEJ,Macke Marl,Macke,NI,DEU,262,DMR
 2620621,DO8HB,Birth Hueckelhoven,Birth,NW,DEU,262,DMR
-2620622,DO3HKF,Moehring Bad Driburg,Moehring,NW,DEU,262,DMR
+2620622,DL3MZ,Moehring Bad Driburg,Moehring,NW,DEU,262,DMR
 2620623,DO1HE,Schoo Guetersloh,Schoo,NW,DEU,262,DMR
 2620624,DK6DR,Stroemann Dortmund,Stroemann,NW,DEU,262,DMR
 2620625,DK9JL,Eckart Heidelberg,Eckart,BW,DEU,262,DMR
@@ -4350,7 +4359,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2620853,DC9DD,Koester Bergkamen,Koester,NW,DEU,262,DMR
 2620854,DJ9KK,Kasamatsu Nuernberg,Kasamatsu,BY,DEU,262,DMR
 2620855,DO6BJ,Breit Wolfsburg,Breit,NI,DEU,262,DMR
-2620856,DO8MAX,Jaeger no_city,Jaeger,NO_NAME,DEU,262,DMR
+2620856,DJ1MA,Jaeger Ingolstadt ()),Jaeger,BY,DEU,262,DMR
 2620857,DG1FCL,Nottarp Bad Soden,Nottarp,HE,DEU,262,DMR
 2620858,DO4TW,Warnstorff Straubing,Warnstorff,BY,DEU,262,DMR
 2620859,DC4XB,Bomm Wurster Nordseekueste,Bomm,NI,DEU,262,DMR
@@ -4744,7 +4753,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2621247,DC1EKD,Hensel Eisenhuettenstadt,Hensel,BB,DEU,262,DMR
 2621248,DO1JLH,Fechner Berlin,Fechner,BE,DEU,262,DMR
 2621249,DL7TT,Sadler Berlin,Sadler,BE,DEU,262,DMR
-2621250,DG1BRB,no_name Berlin,no_name,BE,DEU,262,DMR
+2621250,DG1BRB, Berlin,,BE,DEU,262,DMR
 2621251,DL1NCZ,Saukel Luckenwalde,Saukel,BB,DEU,262,DMR
 2621252,DL7VFX,Kroeger Berlin,Kroeger,BE,DEU,262,DMR
 2621253,DL7VMO,Stamer Berlin,Stamer,BE,DEU,262,DMR
@@ -4875,7 +4884,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2621378,DL7AAH,Herzog Berlin,Herzog,BE,DEU,262,DMR
 2621379,DG5BRE,Kelm Petershagen,Kelm,BB,DEU,262,DMR
 2621380,DO1REL,Engel Hoerlitz,Engel,BB,DEU,262,DMR
-2621381,DO7SRBM,no_name no_city,no_name,BB,DEU,262,DMR
+2621381,DO7SRBM, no_city,,BB,DEU,262,DMR
 2621382,DO1NIC,Emberger Berlin,Emberger,BE,DEU,262,DMR
 2621383,DD6URA,Anhalt Neuenhagen,Anhalt,BB,DEU,262,DMR
 2621384,DO7EA,Elsner Berlin,Elsner,BE,DEU,262,DMR
@@ -5236,7 +5245,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2621739,DL3NDZ,Herderich Hirschaid,Herderich,BY,DEU,262,DMR
 2621740,DK9ZW,Zwicker Neuhausen Ob Eck,Zwicker,BW,DEU,262,DMR
 2621741,DO4SR,Hoffmann no_city,Hoffmann,NO_NAME,DEU,262,DMR
-2621742,DG1YHS,No_name Duesseldorf,No_name,NW,DEU,262,DMR
+2621742,DG1YHS, Duesseldorf,,NW,DEU,262,DMR
 2621743,DK6OS,Strauch Celle (RA),Strauch,NI,DEU,262,DMR
 2621744,DD6MS,Seifert Hainichen,Seifert,SN,DEU,262,DMR
 2621745,DH1PU,Bauer Ahrbrueck,Bauer,RP,DEU,262,DMR
@@ -9386,13 +9395,33 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625889,DL1RSH,Merhout Potsdam,Merhout,BB,DEU,262,DMR
 2625890,DO1ZYM,Zymelka Bamberg,Zymelka,BY,DEU,262,DMR
 2625891,DM5TT,Adams Esslingen,Adams,BW,DEU,262,DMR
-2625892,DL7DI,Innocente Bad Liebenzell ()),Innocente,BW,DEU,262,DMR
+2625892,DL7DI,Innocente Bad Liebenzell ())),Innocente,BW,DEU,262,DMR
 2625893,DF8WP,Kohler St. Augustin,Kohler,NW,DEU,262,DMR
-2625894,DO7IW,Wiebusch Tostedt ()),Wiebusch,NI,DEU,262,DMR
+2625894,DO7IW,Wiebusch Tostedt ())),Wiebusch,NI,DEU,262,DMR
 2625895,DL5SBY,Hermann Boehmenkirch,Hermann,BW,DEU,262,DMR
 2625896,DH6LP,Luening Holzkirchen,Luening,BY,DEU,262,DMR
 2625897,DM1MKF,Fenske Neuseddin,Fenske,BB,DEU,262,DMR
 2625898,DG8DCN,Lottes Dortmund,Lottes,NW,DEU,262,DMR
+2625899,DL4NAX,Baer Bindlach,Baer,BY,DEU,262,DMR
+2625900,DO8BI,Schade Bernau,Schade,BB,DEU,262,DMR
+2625901,DO9SKU,Kaufmann Unterwachingen,Kaufmann,BW,DEU,262,DMR
+2625902,DO4MME,Mertens Wachtberg,Mertens,NW,DEU,262,DMR
+2625903,DL1MS,Schwarz Bonn,Schwarz,NW,DEU,262,DMR
+2625904,DG5BDO,Brockmeyer Hofstetten,Brockmeyer,BY,DEU,262,DMR
+2625905,DF2LS,Schneider Bargteheide,Schneider,SH,DEU,262,DMR
+2625906,DL7PUT,Fluche Potsdam,Fluche,BB,DEU,262,DMR
+2625907,DO5ER,Weiss Kamen,Weiss,NW,DEU,262,DMR
+2625908,DO4DAN,Mueller Lahntal,Mueller,HE,DEU,262,DMR
+2625909,DO9EPL,Plumpe Bad Homburg,Plumpe,HE,DEU,262,DMR
+2625910,DH1LM,Lueck Meerbusch,Lueck,NW,DEU,262,DMR
+2625911,DO1DPA,Dietz Wuppertal,Dietz,NW,DEU,262,DMR
+2625912,DJ5FS,Kuehl Winsen,Kuehl,NI,DEU,262,DMR
+2625913,DO5CR,Reschke Lemgo ()),Reschke,NW,DEU,262,DMR
+2625914,DG3YIT,Hartmann Westerheim,Hartmann,BW,DEU,262,DMR
+2625915,DO2ESB,Blum Kaarst,Blum,NW,DEU,262,DMR
+2625916,DH5SA,Aktas Babenhausen,Aktas,HE,DEU,262,DMR
+2625917,DL9DCA,Hoffmann Herne,Hoffmann,NW,DEU,262,DMR
+2625918,DL4MTL,Eifrig Poehsig,Eifrig,SN,DEU,262,DMR
 2625998,DM0NR,Barthen Kruft,Barthen,RP,DEU,262,DMR
 2625999,DB0LJ,Barthen Kruft,Barthen,RP,DEU,262,DMR
 2626000,DF6RK,Klingler Glashuetten,Klingler,HE,DEU,262,DMR
@@ -10462,7 +10491,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627064,DL2MT,Mansch Leonberg,Mansch,BW,DEU,262,DMR
 2627065,DL9SAD,Blanz Schwieberdingen,Blanz,BW,DEU,262,DMR
 2627066,DF0LEO,Eifler Stuttgart,Eifler,BW,DEU,262,DMR
-2627067,DK0ALC,no_name Rutesheim,no_name,BW,DEU,262,DMR
+2627067,DK0ALC, Rutesheim,,BW,DEU,262,DMR
 2627068,DL1IK,Decker Lauf,Decker,BW,DEU,262,DMR
 2627069,DL1SMD,Sommer Heubach,Sommer,BW,DEU,262,DMR
 2627070,DG8GL,Von Mulert Konstanz,Von Mulert,BW,DEU,262,DMR
@@ -10509,7 +10538,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627111,DL1GKR,Ruedel Ehingen,Ruedel,BW,DEU,262,DMR
 2627112,DL2BER,Gilgen Laupheim,Gilgen,BW,DEU,262,DMR
 2627113,DG6GC,Naumann Konstanz,Naumann,BW,DEU,262,DMR
-2627114,DO4WL,Gilgen Laupheim,Gilgen,BW,DEU,262,DMR
+2627114,DL2GA,Gilgen Laupheim,Gilgen,BW,DEU,262,DMR
 2627115,DM7RM,Mittelstaedt Mudau,Mittelstaedt,BW,DEU,262,DMR
 2627116,DK7US,Hoffner Karlsruhe,Hoffner,BW,DEU,262,DMR
 2627117,DK7US,Hoffner Karlsruhe,Hoffner,BW,DEU,262,DMR
@@ -11177,7 +11206,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627779,DL6SW,Hertkorn Stuttgart,Hertkorn,BW,DEU,262,DMR
 2627780,DF3IS,Glaeser Kuernbach,Glaeser,BW,DEU,262,DMR
 2627781,DL9SFE,Stein Lossburg,Stein,BW,DEU,262,DMR
-2627782,DO9LT,no_name Voehringen,no_name,BW,DEU,262,DMR
+2627782,DO9LT, Voehringen,,BW,DEU,262,DMR
 2627783,DO1GTO,Oldag Rheinfelden,Oldag,BW,DEU,262,DMR
 2627784,DL3SDF,Hellener Schorndorf,Hellener,BW,DEU,262,DMR
 2627785,DL1SEV,Conradt Vaihingen,Conradt,BW,DEU,262,DMR
@@ -12008,7 +12037,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2628620,DO2RAI,Hammer Gablingen,Hammer,BY,DEU,262,DMR
 2628621,DL0MO,Rinder Bidingen,Rinder,BY,DEU,262,DMR
 2628622,DL5YCW,Hinterding Ingolstadt,Hinterding,BY,DEU,262,DMR
-2628623,DO6EE,Gay Offingen,Gay,BY,DEU,262,DMR
+2628623,DO6EE,Gay Sontheim An der Brenz,Gay,BW,DEU,262,DMR
 2628624,DK1MCS,Scheucher Brunnthal,Scheucher,BY,DEU,262,DMR
 2628625,DF7MB,Boehner Kolbermoor,Boehner,BY,DEU,262,DMR
 2628626,DK1MFI,Rydwal Oettingen,Rydwal,BY,DEU,262,DMR
@@ -13513,7 +13542,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2633682,DC9XP,Fleischer Bremen,Fleischer,HB,DEU,263,DMR
 2633683,DL1ROW,Klueser Rotenburg,Klueser,NI,DEU,263,DMR
 2633684,DH1HD,Drechsler Loxstedt,Drechsler,NI,DEU,263,DMR
-2633685,DO3HMO,no_name Lueneburg,no_name,NI,DEU,263,DMR
+2633685,DO3HMO, Lueneburg,,NI,DEU,263,DMR
 2633686,DJ7XB,Grahn Koenigslutter,Grahn,NI,DEU,263,DMR
 2633687,DL1IN,Schulze Sassenburg,Schulze,NO_NAME,DEU,263,DMR
 2633688,DL9OAW,Hammer Lehrte,Hammer,NI,DEU,263,DMR
@@ -14989,7 +15018,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2637372,DD7GR,Tziortzidis Stuttgart,Tziortzidis,BW,DEU,263,DMR
 2637373,DG2SKJ,Klausnitzer Moetzingen,Klausnitzer,BW,DEU,263,DMR
 2637374,DO7RL,Lehmann Stuttgart,Lehmann,BW,DEU,263,DMR
-2637375,DJ3RO,Oesterle no_city,Oesterle,NO_NAME,DEU,263,DMR
+2637375,DJ3RO,Oesterle no_city,Oesterle,,DEU,263,DMR
 2637376,DL7KM,Kopp Nagold,Kopp,BW,DEU,263,DMR
 2637377,DK4HT,Radau Hanstedt,Radau,BW,DEU,263,DMR
 2637378,DL9ED,Damrau Wannweil,Damrau,BW,DEU,263,DMR
@@ -15114,7 +15143,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2637497,DJ1TF,Fritzsche Bad Schoenborn,Fritzsche,BW,DEU,263,DMR
 2637498,DH1HK,Krause Pforzheim,Krause,BW,DEU,263,DMR
 2637499,DL1SBU,Feuchter Bretzfeld,Feuchter,BW,DEU,263,DMR
-2637500,DD5KA,no_name no_city,no_name,BW,DEU,263,DMR
+2637500,DD5KA, no_city,,BW,DEU,263,DMR
 2637501,DJ5SE,Stetter Konstanz,Stetter,BW,DEU,263,DMR
 2637502,DO1RAU,Rau Hermaringen,Rau,BW,DEU,263,DMR
 2637503,DL6FS,Schulz Schwetzingen,Schulz,BW,DEU,263,DMR
@@ -16385,7 +16414,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2644163,DL4EBJ,Koering Bedburg-Hau,Koering,NW,DEU,264,DMR
 2644164,DO5APO,Agirkaya Witten,Agirkaya,NW,DEU,264,DMR
 2644165,DJ7QV,Fischer Ennepetal,Fischer,NW,DEU,264,DMR
-2644166,DB8LB,no_name Koeln,no_name,NW,DEU,264,DMR
+2644166,DB8LB, Koeln,,NW,DEU,264,DMR
 2644167,DB2CL,Lehr Musterhausen,Lehr,NW,DEU,264,DMR
 2644168,DO6IP,Beckers Geilenkirchen,Beckers,NW,DEU,264,DMR
 2644169,DC3DV,Schachtner Castrop-Rauxel,Schachtner,NW,DEU,264,DMR

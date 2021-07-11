@@ -8773,6 +8773,21 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2228772,IU6PMY,IU6PMY Giuseppe,Pescara (PE),Abruzzo,ITA,,Private Call,None
 ,2228773,IT9JCA,IT9JCA Antonio,Palermo (PA),Sicilia,ITA,,Private Call,None
 ,2228774,IU2IMF,IU2IMF Mantovan,Garlasco (PV),Lombardia,ITA,,Private Call,None
+,2228775,IZ8VKR,IZ8VKR Clemente,Scisciano (NA),Campania,ITA,,Private Call,None
+,2228776,IZ5RLS,IZ5RLS Giovanni,Firenze (FI),Toscana,ITA,,Private Call,None
+,2228777,IU8PML,IU8PML Luigi,Napoli (NA),Campania,ITA,,Private Call,None
+,2228778,IZ5TJJ,IZ5TJJ Claudio,Empoli (FI),Toscana,ITA,,Private Call,None
+,2228779,IU2ECN,IU2ECN Susanna,Lomagna (LC),Lombardia,ITA,,Private Call,None
+,2228780,IU2BDZ,IU2BDZ Marco,Galbiate (LC),Lombardia,ITA,,Private Call,None
+,2228781,IU2ORC,IU2ORC Dario,Coccaglio (BS),Lombardia,ITA,,Private Call,None
+,2228782,IZ1NBJ,IZ1NBJ Luigi,Genova (GE),Liguria,ITA,,Private Call,None
+,2228783,IW3RKZ,IW3RKZ Adriano,Mossa (GO),Friuli Vg,ITA,,Private Call,None
+,2228784,IT9XXS,IT9XXS Giovanni,Palermo (PA),Sicilia,ITA,,Private Call,None
+,2228785,IU5PMV,IU5PMV Marco,Rosignano Marittimo (LI),Toscana,ITA,,Private Call,None
+,2228786,IN3EZK,IN3EZK Gianluca,Bolzano (BZ),Trentino Aa,ITA,,Private Call,None
+,2228787,IZ3TCE,IZ3TCE Michele,Spinea (VE),Veneto,ITA,,Private Call,None
+,2228788,IU0IAM,IU0IAM Valentino,Roma (RM),Lazio,ITA,,Private Call,None
+,2228789,IW8FDK,IW8FDK Marco,Tufino (NA),Campania,ITA,,Private Call,None
 ,2229001,IT9YFO,IT9YFO Andrea,Catania (CT),Sicilia,ITA,,Private Call,None
 ,2229002,IT9ZON,IT9ZON Francesco,Catania (CT),Sicilia,ITA,,Private Call,None
 ,2229003,IT9UUT,IT9UUT Salvo,Ispica (RG),Sicilia,ITA,,Private Call,None
@@ -9337,9 +9352,14 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280068,HB9HJN,HB9HJN Charpoan,Zuerich,Zurich,CHE,,Private Call,None
 ,2280069,HB9HJU,HB9HJU Luis,Kloten,Zurich,CHE,,Private Call,None
 ,2280070,HB3XXY,HB3XXY Roger,Glattfelden,Zurich,CHE,,Private Call,None
-,2280071,HB3XXI,HB3XXI Roman,Rickenbach Zh,Zurich,CHE,,Private Call,None
+,2280071,HB9HKR,HB9HKR Roman,Rickenbach Zh,Zurich,CHE,,Private Call,None
 ,2280072,HB9HJZ,HB9HJZ Vincent,Luzern,Lucerne,CHE,,Private Call,None
 ,2280073,HB3XYE,HB3XYE Vladimir,8152 Opfikon,Zurich,CHE,,Private Call,None
+,2280074,HB3XXG,HB3XXG Peter,Gwatt,Bern,CHE,,Private Call,None
+,2280075,HB3XYD,HB3XYD Sylvio,Le Noirmont,Jura,CHE,,Private Call,None
+,2280076,HB9DWC,HB9DWC Christian,Ch   7323 Wangs,Stno_info Gallen,CHE,,Private Call,None
+,2280077,HB9HKT,HB9HKT Karol,Zrh,Zurich,CHE,,Private Call,None
+,2280078,HB9HKP,HB9HKP Stefan,Dornach,Solothurn,CHE,,Private Call,None
 ,2281001,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
 ,2281002,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
 ,2281003,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
@@ -10973,7 +10993,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2780045,9H1LC,9H1LC Paul,Zejtun,-,MLT,,Private Call,None
 ,2780046,9H1CL,9H1CL John,Marsaskala.,All Regions,MLT,,Private Call,None
 ,2780047,9H5SB,9H5SB Frans,Attard  Bzn 12,.,MLT,,Private Call,None
-,2780048,9H5JW,9H5JW John,Paola Pla,no_name,MLT,,Private Call,None
+,2780048,9H5JW,9H5JW John,Paola Pla,No_name,MLT,,Private Call,None
 ,2920001,T77GR,T77GR Renato,Borgo Maggiore,No_name,SMR,,Private Call,None
 ,2920002,T77NC,T77NC Nazzareno,Acquaviva,No_name,SMR,,Private Call,None
 ,2920003,T77DB,T77DB Danilo,Borgo Maggiore,San Marino,SMR,,Private Call,None

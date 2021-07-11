@@ -1,5 +1,5 @@
 Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
-2280000,N0CALL,No_name No_name,no_city,Zuerich und Thurgau,CHE
+2280000,N0CALL,No_name ,no_city,Zuerich und Thurgau,CHE
 2280001,4U1ITU,International Arc,Geneva,No_name,CHE
 2280002,HB3XWO,Kornel Becker,Basel,-,CHE
 2280003,HB9HIT,Jean Perez,Le Mont-Sur-Lausanne,Westschweiz-Sud,CHE
@@ -14,11 +14,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280012,HB9HGO,Carlos Laya,no_city,Basel/solothurn,CHE
 2280013,HB3XWW,Roland Juen,8526 Oberneunforn,-,CHE
 2280014,HB9GYV,Paul Junod,Bienne,-,CHE
-2280015,HB3XVS,Stefan No_name,Moosseedorf,Bern,CHE
+2280015,HB3XVS,Stefan ,Moosseedorf,Bern,CHE
 2280016,HB3XWN,Umberto Nerone,Auw,Aargau,CHE
 2280017,HB9CTJ,Urs Jenzer,Biel,Bern,CHE
 2280018,HB9HJS,Stefan Affentranger,Altishofen,Lucerne,CHE
-2280019,HB3XXA,No_name No_name,Baar,Zug,CHE
+2280019,HB3XXA,No_name ,Baar,Zug,CHE
 2280020,HB9SNW,Armin Merz,Ch-4528 Zuchwil So,Solothurn,CHE
 2280021,HB9OMI,Pierre-Yves Jaquenoud,Yverdon-Les-Bains,Vaud,CHE
 2280022,HB3XWT,Jean Schult,Rickenbach Sulz,Zurich,CHE
@@ -42,7 +42,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280040,HB9MKE,Fritz Hagen,St  Pantaleon,Solothurn,CHE
 2280041,HB9TTU,Ruedi Walther,Ch 8332 Russikon,Zurich,CHE
 2280042,HB9MQB,Meier Beat,Immensee,Schwyz,CHE
-2280043,HB9HJH,Mitko No_name,Basel,Basel-City,CHE
+2280043,HB9HJH,Mitko ,Basel,Basel-City,CHE
 2280044,HB9COQ,Jaime Nogues,Basilea,Basel-City,CHE
 2280045,HB9FNN,Matthias Erhardt,Lyss,Bern,CHE
 2280046,HB9FZF,Matthias Pobig,Weiach,Zurich,CHE
@@ -61,7 +61,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280059,HB3XXN,Sam Keller,Steinerberg,Schwyz,CHE
 2280060,HB3XXM,Marcel Freudiger,Solothurn,Solothurn,CHE
 2280061,HB9HJP,Philipp Wyss,Ch 6263 Richenthal   Reiden,Lucerne,CHE
-2280062,HB9HKD,Damiano No_name,Mendrisio,Ticino,CHE
+2280062,HB9HKD,Damiano ,Mendrisio,Ticino,CHE
 2280063,HB9HKE,Laurent Egli,Chavannes-Des-Bois,Vaud,CHE
 2280064,HB9HJM,Martin Glanzmann,Lohn-Ammannsegg,Solothurn,CHE
 2280065,HB9HKS,Salvador Tejedo,Geneva,Geneva,CHE
@@ -70,49 +70,54 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280068,HB9HJN,Charpoan Kong,Zuerich,Zurich,CHE
 2280069,HB9HJU,Luis Santiago,Kloten,Zurich,CHE
 2280070,HB3XXY,Roger Steiner,Glattfelden,Zurich,CHE
-2280071,HB3XXI,Roman Baechli,Rickenbach Zh,Zurich,CHE
+2280071,HB9HKR,Roman Baechli,Rickenbach Zh,Zurich,CHE
 2280072,HB9HJZ,Vincent Pesti,Luzern,Lucerne,CHE
 2280073,HB3XYE,Vladimir Hrusca,8152 Opfikon,Zurich,CHE
-2281001,HB3YNV,Cedric No_name,Saint-Cergue,Waadt,CHE
-2281002,HB3YNV,Cedric No_name,Saint-Cergue,Waadt,CHE
-2281003,HB3YNV,Cedric No_name,Saint-Cergue,Waadt,CHE
-2281004,HB9IBG,Hippolyte No_name,Geneva-Ville,Genf,CHE
-2281005,HB9IBG,Hippolyte No_name,Geneva-Ville,Genf,CHE
-2281006,HB9IBG,Hippolyte No_name,Geneva-Ville,Genf,CHE
-2281007,HB9VAF,Marco No_name,Gingins,Genf,CHE
-2281008,HB9DNG,Raymond No_name,Genve,Genf,CHE
-2281009,HB9DBB,Jean-Michel No_name,Lutry,Vd,CHE
-2281010,HB9VJS,Charles No_name,Lutry,Vd,CHE
-2281011,HB9IIF,Jean-Louis No_name,Lutry,Vd,CHE
-2281012,HB9VJS,Charles No_name,Lutry,Vd,CHE
-2281013,HB9TJU,Nicolas No_name,Vevey,Vd,CHE
-2281014,HB9TPL,Daniel No_name,St. Sulpice,Lausanne,CHE
-2281015,HB3YKO,Philippe No_name,Meyrin,Genf,CHE
-2281016,HB9TYR,Renato No_name,Versoix,Genf,CHE
-2281017,HB9DNG,Raymond No_name,Genf,Genf,CHE
-2281018,HB9AXG,Antoine No_name,Onex,Genf,CHE
-2281019,HB9DBB,Jean-Michel No_name,Lutry,Genf,CHE
-2281020,HB9DBB,Jean-Michel No_name,Lutry,Genf,CHE
-2281021,HB9DBB,Jean-Michel No_name,Lutry,Genf,CHE
-2281022,HB9HFF,Stephen No_name,Morlon,Freiburg,CHE
-2281023,HB9HFF,Stephen No_name,Morlon,Freiburg,CHE
+2280074,HB3XXG,Peter Sieber,Gwatt,Bern,CHE
+2280075,HB3XYD,Sylvio Laneve,Le Noirmont,Jura,CHE
+2280076,HB9DWC,Christian Gruenenfelder,Ch   7323 Wangs,Stno_info Gallen,CHE
+2280077,HB9HKT,Karol T,Zrh,Zurich,CHE
+2280078,HB9HKP,Stefan Burri,Dornach,Solothurn,CHE
+2281001,HB3YNV,Cedric ,Saint-Cergue,Waadt,CHE
+2281002,HB3YNV,Cedric ,Saint-Cergue,Waadt,CHE
+2281003,HB3YNV,Cedric ,Saint-Cergue,Waadt,CHE
+2281004,HB9IBG,Hippolyte ,Geneva-Ville,Genf,CHE
+2281005,HB9IBG,Hippolyte ,Geneva-Ville,Genf,CHE
+2281006,HB9IBG,Hippolyte ,Geneva-Ville,Genf,CHE
+2281007,HB9VAF,Marco ,Gingins,Genf,CHE
+2281008,HB9DNG,Raymond ,Genve,Genf,CHE
+2281009,HB9DBB,Jean-Michel ,Lutry,Vd,CHE
+2281010,HB9VJS,Charles ,Lutry,Vd,CHE
+2281011,HB9IIF,Jean-Louis ,Lutry,Vd,CHE
+2281012,HB9VJS,Charles ,Lutry,Vd,CHE
+2281013,HB9TJU,Nicolas ,Vevey,Vd,CHE
+2281014,HB9TPL,Daniel ,St. Sulpice,Lausanne,CHE
+2281015,HB3YKO,Philippe ,Meyrin,Genf,CHE
+2281016,HB9TYR,Renato ,Versoix,Genf,CHE
+2281017,HB9DNG,Raymond ,Genf,Genf,CHE
+2281018,HB9AXG,Antoine ,Onex,Genf,CHE
+2281019,HB9DBB,Jean-Michel ,Lutry,Genf,CHE
+2281020,HB9DBB,Jean-Michel ,Lutry,Genf,CHE
+2281021,HB9DBB,Jean-Michel ,Lutry,Genf,CHE
+2281022,HB9HFF,Stephen ,Morlon,Freiburg,CHE
+2281023,HB9HFF,Stephen ,Morlon,Freiburg,CHE
 2281024,HB9FOX,Patrice Guberan,Biere,Westschweiz-Sud,CHE
 2281025,HB9FOX,Patrice Guberan,Biere,Westschweiz-Sud,CHE
-2281026,HB9IJE,Dominique No_name,Saint-Livres,Waadt,CHE
-2281027,HB9IJE,Dominique No_name,Saint-Livres,Waadt,CHE
-2281028,HB9DUG,Michel No_name,Vich,Waadt,CHE
-2281029,HB9DUG,Michel No_name,Vich,Waadt,CHE
-2281030,HB9RHI,Enio No_name,Saint-Cergues,Waadt,CHE
-2281031,HB9RHI,Enio No_name,Saint-Cergues,Waadt,CHE
-2281032,HB9FMF,Didier No_name,Rougemont,Waadt,CHE
-2281033,HB9FMF,Didier No_name,Rougemont,Waadt,CHE
-2281034,HB9PCF,Olaf No_name,Chatonnaye,Freiburg,CHE
-2281035,HB9PCF,Olaf No_name,Chatonnaye,Freiburg,CHE
+2281026,HB9IJE,Dominique ,Saint-Livres,Waadt,CHE
+2281027,HB9IJE,Dominique ,Saint-Livres,Waadt,CHE
+2281028,HB9DUG,Michel ,Vich,Waadt,CHE
+2281029,HB9DUG,Michel ,Vich,Waadt,CHE
+2281030,HB9RHI,Enio ,Saint-Cergues,Waadt,CHE
+2281031,HB9RHI,Enio ,Saint-Cergues,Waadt,CHE
+2281032,HB9FMF,Didier ,Rougemont,Waadt,CHE
+2281033,HB9FMF,Didier ,Rougemont,Waadt,CHE
+2281034,HB9PCF,Olaf ,Chatonnaye,Freiburg,CHE
+2281035,HB9PCF,Olaf ,Chatonnaye,Freiburg,CHE
 2281036,HB3YRB,Alex Jullier,Verbier,Wallis,CHE
-2281037,HB9EUF,Oliver No_name,Avenches,Waadt,CHE
-2281038,HB9VAB,Rodolphe No_name,Confignon,Genf,CHE
-2281039,HB9FLL,Jeremie No_name,Genf-Stadt,Genf,CHE
-2281040,HB9AKP,Pierre-Andre No_name,Bremblens,Waadt,CHE
+2281037,HB9EUF,Oliver ,Avenches,Waadt,CHE
+2281038,HB9VAB,Rodolphe ,Confignon,Genf,CHE
+2281039,HB9FLL,Jeremie ,Genf-Stadt,Genf,CHE
+2281040,HB9AKP,Pierre-Andre ,Bremblens,Waadt,CHE
 2281041,HB9ULG,Privet Martial,Denges,Waadt,CHE
 2281042,HB3YRB,Alex Jullier,Verbier,Bern und Oberwallis,CHE
 2281043,HB9MMC,Alain Minard,Genf,Westschweiz-Sud,CHE
@@ -217,7 +222,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2281142,HB3YTB,Christian Sudan,Villeneuve,Westschweiz-Sud,CHE
 2281143,HB3YYR,Roberto Scheidegger,Versoix,Westschweiz-Sud,CHE
 2281144,HB9SAT,Freddy Haldemann,Sugiez,Westschweiz-Sud,CHE
-2281145,HB3YSK,Bernard No_name,no_city,Westschweiz-Sud,CHE
+2281145,HB3YSK,Bernard ,no_city,Westschweiz-Sud,CHE
 2281146,HB9TUI,Nicolas Tille,Lausanne,Westschweiz-Sud,CHE
 2281147,HB9FMK,Mario Girardin,Laconnex,Westschweiz-Sud,CHE
 2281148,HB3YDE,Dominique Raider,no_city,Westschweiz-Sud,CHE
@@ -238,7 +243,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2281163,HB3GYR,Jose-Antonio Baza,Geneva,Westschweiz-Sud,CHE
 2281164,HB3YBO,Nathanael Mermoud,Carouge,Westschweiz-Sud,CHE
 2281165,HB9S,World Bureau,Geneva,Westschweiz-Sud,CHE
-2281166,HB9DUW,Agatino No_name,no_city,Westschweiz-Sud,CHE
+2281166,HB9DUW,Agatino ,no_city,Westschweiz-Sud,CHE
 2281167,HB3YKB,Patrick Baud,Giswil,Westschweiz-Sud,CHE
 2281168,HB3YOE,Massimiliano Fantuzzi,Bellevue,Westschweiz-Sud,CHE
 2281169,HB3YAP,Pascal Trosset,Epautheyres,Westschweiz-Sud,CHE
@@ -251,7 +256,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2281176,HB3YFI,Tom Nielsen,Gd-Saconnex,Westschweiz-Sud,CHE
 2281177,HB9FXE,Gerard Porchet,Geneva,Westschweiz-Sud,CHE
 2281178,HB9AFO,Michel Vonlanthen,Bussigny,Westschweiz-Sud,CHE
-2281179,HB9RXW,Walter No_name,no_city,Westschweiz-Sud,CHE
+2281179,HB9RXW,Walter ,no_city,Westschweiz-Sud,CHE
 2281180,HB9UQL,Cyril Rey,Ardon,Westschweiz-Sud,CHE
 2281181,HB9RYJ,Jean-Marie Delvecchio,Saint-Aubin,Westschweiz-Sud,CHE
 2281182,HB3XPF,Remy Wenger,Geneva,Westschweiz-Sud,CHE
@@ -269,55 +274,55 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2281194,HB9TUI,Nicolas Tille,Lausanne,Westschweiz-Sud,CHE
 2281195,HB9IIU,Daniel Staempfli,Saint-Legier-La Chiesaz,Westschweiz-Sud,CHE
 2281196,HB3XPR,Olivier Tymkiw,Givrins,Westschweiz-Sud,CHE
-2281197,HB3XRH,Franoise No_name,St.Gallen,Westschweiz-Sud,CHE
+2281197,HB3XRH,Franoise ,St.Gallen,Westschweiz-Sud,CHE
 2281198,HB9GVJ,Remy Wenger,Geneva,Westschweiz-Sud,CHE
 2281199,HB9IAM,Pierre Binggeli,Geneva,Westschweiz-Sud,CHE
-2281200,HB3XRN,Samuel No_name,Geneva,Geneva,CHE
+2281200,HB3XRN,Samuel ,Geneva,Geneva,CHE
 2281201,HB9G,Uska Geneva,Geneva,Geneva,CHE
-2281202,HB9GIC,Alexandre No_name,Mies,Westschweiz-Sud,CHE
+2281202,HB9GIC,Alexandre ,Mies,Westschweiz-Sud,CHE
 2281203,HB9GUR,Philippe Haake,Geneva,No_name,CHE
 2281204,HB9GVX,Patrick Beney,Prangins,No_name,CHE
-2281205,HB9GKZ,Myriam No_name,Vouvry,No_name,CHE
+2281205,HB9GKZ,Myriam ,Vouvry,No_name,CHE
 2281206,HB9RAR,Ass Romand,Morlon,Westschweiz-Sud,CHE
 2281207,HB3MAS,Stephane Sciulli,Lausanne,No_name,CHE
 2281208,HB9GXP,Marc Battaglia,Verossaz,No_name,CHE
-2281209,HB9VCM,Ali-Reza No_name,Geneve,No_name,CHE
+2281209,HB9VCM,Ali-Reza ,Geneve,No_name,CHE
 2281210,HB3YCB,Yves Messerli,Bulle,Fribourg,CHE
 2281211,HB9GYR,Jose-Antonio Baza,Geneva,Geneva,CHE
 2281212,HB9GYM,Jean-Pierre Keops,Geneva,No_name,CHE
 2281213,HB9HBY,Loick Cosandier,Gland,No_name,CHE
-2281214,HB9HBZ,Alexandre No_name,Geneva,Geneva,CHE
+2281214,HB9HBZ,Alexandre ,Geneva,Geneva,CHE
 2281215,HB9GYR,Jose-Antonio Baza,Geneva,Geneva,CHE
 2281216,HB9HBE,Emilie Baza,Geneva,Geneva,CHE
 2281217,HB9TWU,Gregoire Sauty,Gingins,Westschweiz-Sud,CHE
 2281218,HB9DSB,Adolphe Werder,Martigny,Westschweiz-Sud,CHE
 2281219,HB9TIX,Christophe Morsa,Chamoson,Westschweiz-Sud,CHE
-2281220,HB9HCY,Yves No_name,Bulle,Westschweiz-Sud,CHE
-2281221,HB9VIV,Stphane No_name,Servion,Westschweiz-Sud,CHE
-2281222,HB9AE,Lutry No_name,Lutry,Westschweiz-Sud,CHE
-2281223,HB3XUH,Floriane No_name,Montreux,Westschweiz-Sud,CHE
-2281224,HB3XUI,Laurent No_name,Montreux,Westschweiz-Sud,CHE
-2281225,HB9TCT,Leo No_name,Bruenisried,Westschweiz-Sud,CHE
-2281226,HB9TCT,Leo No_name,Bruenisried,Westschweiz-Sud,CHE
-2281227,HB3XUL,Xb3xul No_name,Geneva,Westschweiz-Sud,CHE
-2281228,HB3XUL,Czar No_name,Geneva,Westschweiz-Sud,CHE
-2281229,HB3YEG,Jeanluc No_name,Vuisternens-Devant-Romont,Westschweiz-Sud,CHE
-2281230,HB9HER,Dede No_name,Bullet,No_name,CHE
-2281231,HB9HBP,Christian No_name,Ravoire,No_name,CHE
-2281232,HB9GXO,Alain No_name,Missy,No_name,CHE
-2281233,HB9GUP,Cedric No_name,Euseigne,No_name,CHE
-2281234,HB9GFV,Greg No_name,Villarimboud,.,CHE
+2281220,HB9HCY,Yves ,Bulle,Westschweiz-Sud,CHE
+2281221,HB9VIV,Stphane ,Servion,Westschweiz-Sud,CHE
+2281222,HB9AE,Lutry ,Lutry,Westschweiz-Sud,CHE
+2281223,HB3XUH,Floriane ,Montreux,Westschweiz-Sud,CHE
+2281224,HB3XUI,Laurent ,Montreux,Westschweiz-Sud,CHE
+2281225,HB9TCT,Leo ,Bruenisried,Westschweiz-Sud,CHE
+2281226,HB9TCT,Leo ,Bruenisried,Westschweiz-Sud,CHE
+2281227,HB3XUL,Xb3xul ,Geneva,Westschweiz-Sud,CHE
+2281228,HB3XUL,Czar ,Geneva,Westschweiz-Sud,CHE
+2281229,HB3YEG,Jeanluc ,Vuisternens-Devant-Romont,Westschweiz-Sud,CHE
+2281230,HB9HER,Dede ,Bullet,No_name,CHE
+2281231,HB9HBP,Christian ,Ravoire,No_name,CHE
+2281232,HB9GXO,Alain ,Missy,No_name,CHE
+2281233,HB9GUP,Cedric ,Euseigne,No_name,CHE
+2281234,HB9GFV,Greg ,Villarimboud,.,CHE
 2281235,HB9EVJ,Vincent Jeanrenaud,Paudex,Westschweiz-Sud,CHE
 2281236,HB9HCT,Bernard Vouilloz,Meyrin,.,CHE
 2281237,HB3XVJ,Anthony Schaer,Etoy,Vaud,CHE
 2281238,HB3XVN,Pascal Honger,Ecublens,Vaud,CHE
-2281239,HB9GUO,Francesco No_name,Verbier,Vs,CHE
-2281240,HB9CCE,Roger No_name,Aigle,.,CHE
-2281241,HB9MIG,Michel No_name,Froideville,Vaud,CHE
+2281239,HB9GUO,Francesco ,Verbier,Vs,CHE
+2281240,HB9CCE,Roger ,Aigle,.,CHE
+2281241,HB9MIG,Michel ,Froideville,Vaud,CHE
 2281242,HB9GFV,Gregory Magnin,Villarimboud,Fribourg,CHE
-2281243,HB9HHG,Luismo70 No_name,Petit-Lancy,Geneva,CHE
-2281244,HB3XWC,Chris No_name,Lucens,.,CHE
-2281245,HB9GZD,Herve No_name,Nyon,.,CHE
+2281243,HB9HHG,Luismo70 ,Petit-Lancy,Geneva,CHE
+2281244,HB3XWC,Chris ,Lucens,.,CHE
+2281245,HB9GZD,Herve ,Nyon,.,CHE
 2282001,HB9OOI,Stephan Hofstetter,Grenchen,Solothurn,CHE
 2282002,HB9BEI,Bruno Knuchel,Taeuffelen,Bern,CHE
 2282003,HB9EZV,Michel Perrenoud,La Neuveville,Westschweiz-Nord,CHE
@@ -336,7 +341,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2282016,HB3YPD,Serdal Oeztuerk,Pieterln,Westschweiz-Nord,CHE
 2282017,HB9FSL,Marius Lehenne,Le Locle,Westschweiz-Nord,CHE
 2282018,HB9SMU,Boldt Pedro,Fretereules,Westschweiz-Nord,CHE
-2282019,HB9GWC,Andre No_name,Grenchen,Westschweiz-Nord,CHE
+2282019,HB9GWC,Andre ,Grenchen,Westschweiz-Nord,CHE
 2282020,HB3YRY,Patrick Thiebaud,La Chaux-De-Fonds,Westschweiz-Nord,CHE
 2282021,HB9FMC,Pascal Droux,Corgemont,Westschweiz-Nord,CHE
 2282022,HB9EPM,Philippe Metthez,La Chaux-De-Fonds,Westschweiz-Nord,CHE
@@ -348,7 +353,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2282028,HB9EHB,Carlo Maria,no_city,Westschweiz-Nord,CHE
 2282029,HB9GPP,Jerome Nikles,Cormondreche,Westschweiz-Nord,CHE
 2282030,HB9EPC,Christian Dubuis,Coffrane,Westschweiz-Nord,CHE
-2282031,HB9GSK,Daniel No_name,no_city,Westschweiz-Nord,CHE
+2282031,HB9GSK,Daniel ,no_city,Westschweiz-Nord,CHE
 2282032,HB3XRF,Ferdi Demir,Bienne,Westschweiz-Nord,CHE
 2282033,HB9COS,Urs Joos,Biel/bienne,Westschweiz-Nord,CHE
 2282034,HB3YMM,Christophe Aubin,Les Geneveys-Sur-Coffrane,Westschweiz-Nord,CHE
@@ -356,47 +361,47 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2282036,HB3YNP,Phil Morend,Le Noirmont,Jura,CHE
 2282037,HB9FXW,Francois Wisard,La Chaux-De-Fonds,No_name,CHE
 2282038,HB9GSO,Roland Urbanyik,Grenchen So,Westschweiz-Nord,CHE
-2282039,HB9EVI,Pascal No_name,Boncourt,.,CHE
-2282040,HB9ARD,Lorenz No_name,Cressier Ne,.,CHE
-2282041,HB9HLM,Andre No_name,Boudry,.,CHE
+2282039,HB9EVI,Pascal ,Boncourt,.,CHE
+2282040,HB9ARD,Lorenz ,Cressier Ne,.,CHE
+2282041,HB9HLM,Andre ,Boudry,.,CHE
 2282042,HB9FMC,Pascal Droux,Corgemont,Bern,CHE
-2282043,HB9BEI,Bruno No_name,Taeuffelen,Bern,CHE
+2282043,HB9BEI,Bruno ,Taeuffelen,Bern,CHE
 2283000,HB9DUU,Christian Christian,Ringgenberg,Interlaken,CHE
-2283001,HB9DUU,Christian No_name,Ringgenberg,Interlaken,CHE
-2283002,HB9DUU,Christian No_name,Ringgenberg,Interlaken,CHE
-2283003,HB9DUU,Christian No_name,Ringgenberg,Interlaken,CHE
-2283004,HB9DUU,Christian No_name,Ringgenberg,Bern und Oberwallis,CHE
+2283001,HB9DUU,Christian ,Ringgenberg,Interlaken,CHE
+2283002,HB9DUU,Christian ,Ringgenberg,Interlaken,CHE
+2283003,HB9DUU,Christian ,Ringgenberg,Interlaken,CHE
+2283004,HB9DUU,Christian ,Ringgenberg,Bern und Oberwallis,CHE
 2283005,HB9MHS,Roland Moser,Bern,Bern und Oberwallis,CHE
 2283006,HB9BSP,Hansueli Zwahlen,Detligen,Bern und Oberwallis,CHE
 2283007,HB9BO,Christian Schmocker,Ringgenberg,Bern und Oberwallis,CHE
 2283008,HB9HVS,Heinz Hofstetter,Wynigen,Bern und Oberwallis,CHE
 2283009,HB9MCY,Max Thomi,Bremgarten,Bern und Oberwallis,CHE
 2283010,HB9CJQ,Urs Thomi,Ittigen,Bern und Oberwallis,CHE
-2283011,HB9BEN,Ruedi No_name,Brienzwiler,Haslital,CHE
-2283012,HB9BEN,Ruedi No_name,Brienzwiler,Haslital,CHE
-2283013,HB3YAM,Vreni No_name,Brienzwiler,Haslital,CHE
-2283014,HB9MHS,Roland No_name,Bern,Bern und Umgebung,CHE
-2283015,HB3YEI,Martin No_name,Unterseen,Interlaken,CHE
-2283016,HB9SNU,Peter No_name,Brienzwiler,Haslital,CHE
-2283017,HB9MOA,Heinz No_name,Interlaken,Interlaken,CHE
+2283011,HB9BEN,Ruedi ,Brienzwiler,Haslital,CHE
+2283012,HB9BEN,Ruedi ,Brienzwiler,Haslital,CHE
+2283013,HB3YAM,Vreni ,Brienzwiler,Haslital,CHE
+2283014,HB9MHS,Roland ,Bern,Bern und Umgebung,CHE
+2283015,HB3YEI,Martin ,Unterseen,Interlaken,CHE
+2283016,HB9SNU,Peter ,Brienzwiler,Haslital,CHE
+2283017,HB9MOA,Heinz ,Interlaken,Interlaken,CHE
 2283018,HB9HVS,Heinz Hofstetter,Wynigen,Bern und Oberwallis,CHE
-2283019,HB9HVE,Ueli No_name,Interlaken,Interlaken,CHE
-2283020,HB9CIU,Res No_name,Unterseen,Interlaken,CHE
-2283021,HB9EVL,Heinz No_name,Frutigen,Frutigland,CHE
-2283022,HB9EVL,Heinz No_name,Frutigen,Frutigland,CHE
-2283023,HB9EVK,Barbara No_name,Frutigen,Frutigland,CHE
-2283024,HB3YUK,Oli No_name,Bern,Bern und Umgebung,CHE
-2283025,HB9DTN,Lorenz No_name,Bern,Bern und Umgebung,CHE
-2283026,HB9BEN,Ruedi No_name,Brienzwiler,Haslital,CHE
-2283027,HB9FGW,Urs No_name,Helgisried,Seftigen,CHE
-2283028,HB9FGW,Urs No_name,Helgisried,Seftigen,CHE
-2283029,HB3YEH,Jan No_name,Matten,Interlaken,CHE
+2283019,HB9HVE,Ueli ,Interlaken,Interlaken,CHE
+2283020,HB9CIU,Res ,Unterseen,Interlaken,CHE
+2283021,HB9EVL,Heinz ,Frutigen,Frutigland,CHE
+2283022,HB9EVL,Heinz ,Frutigen,Frutigland,CHE
+2283023,HB9EVK,Barbara ,Frutigen,Frutigland,CHE
+2283024,HB3YUK,Oli ,Bern,Bern und Umgebung,CHE
+2283025,HB9DTN,Lorenz ,Bern,Bern und Umgebung,CHE
+2283026,HB9BEN,Ruedi ,Brienzwiler,Haslital,CHE
+2283027,HB9FGW,Urs ,Helgisried,Seftigen,CHE
+2283028,HB9FGW,Urs ,Helgisried,Seftigen,CHE
+2283029,HB3YEH,Jan ,Matten,Interlaken,CHE
 2283030,HB9FVW,Peter Wyss,Brienzwiler,No_name,CHE
-2283031,HB9STJ,Cyrill No_name,Belp,Bern-Mittelland,CHE
-2283032,HB9STJ,Cyrill No_name,Belp,Bern-Mittelland,CHE
-2283033,HB3YIR,Alex No_name,Meiringen,Haslital,CHE
-2283034,HB9CUF,Paul-Adrien No_name,Bern,Bern und Umgebung,CHE
-2283035,HB9ESW,Christoph No_name,Burgdorf,Bern,CHE
+2283031,HB9STJ,Cyrill ,Belp,Bern-Mittelland,CHE
+2283032,HB9STJ,Cyrill ,Belp,Bern-Mittelland,CHE
+2283033,HB3YIR,Alex ,Meiringen,Haslital,CHE
+2283034,HB9CUF,Paul-Adrien ,Bern,Bern und Umgebung,CHE
+2283035,HB9ESW,Christoph ,Burgdorf,Bern,CHE
 2283036,HB9ERS,Reto Buetzberger,Kehrsatz,Bern,CHE
 2283037,HB9FIL,Marcel Staehli,Walkringen,Bern,CHE
 2283038,HB9PFV,Peter Studer,Spiez,Bern und Oberwallis,CHE
@@ -492,41 +497,41 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2283128,HB9PKP,Hans Hort,Liebistorf,Bern und Oberwallis,CHE
 2283129,HB3YIW,Benjamin Grogg,Bern,Bern und Oberwallis,CHE
 2283130,HB9DNX,Massimo Greco,Krailigen,Bern und Oberwallis,CHE
-2283131,HB3YVR,Rudolf No_name,Bern,Bern und Oberwallis,CHE
-2283132,HB9DLB,Matthias No_name,no_city,Bern und Oberwallis,CHE
+2283131,HB3YVR,Rudolf ,Bern,Bern und Oberwallis,CHE
+2283132,HB9DLB,Matthias ,no_city,Bern und Oberwallis,CHE
 2283133,HB9GNB,Thomas Baehler,Zauggenried,Bern und Oberwallis,CHE
 2283134,HB9HQX,Beat Oehrli,Brig,Bern und Oberwallis,CHE
-2283135,HB3YSZ,Daniel No_name,no_city,Bern und Oberwallis,CHE
+2283135,HB3YSZ,Daniel ,no_city,Bern und Oberwallis,CHE
 2283136,HB9GSZ,Patrick Bruegger,Frutigen,Bern und Oberwallis,CHE
 2283137,HB3YYI,Martin Schoenholzer,Thun,Bern und Oberwallis,CHE
 2283138,HB3YDX,Markus Waelchli,Bern,Bern und Oberwallis,CHE
-2283139,HB9BRS,Walter No_name,Bern,Bern und Oberwallis,CHE
+2283139,HB9BRS,Walter ,Bern,Bern und Oberwallis,CHE
 2283140,HB9GPC,Christoph Glanzmann,Bern,Bern und Oberwallis,CHE
-2283141,HB3YIP,Adrian No_name,no_city,Bern und Oberwallis,CHE
+2283141,HB3YIP,Adrian ,no_city,Bern und Oberwallis,CHE
 2283142,HB9GAA,Roland Elmiger,Konolfingen,Bern und Oberwallis,CHE
 2283143,HB9BFC,Juerg Ruefli,Frutigen,Bern und Oberwallis,CHE
 2283144,HB9BWR,Kurt Kobel,Zollikofen,Bern und Oberwallis,CHE
 2283145,HB9FLW,Tobias Wurzbacher,Spiez,Bern und Oberwallis,CHE
 2283146,HB3YYW,Gottfried Bach,Heimenschwand,Bern und Oberwallis,CHE
 2283147,HB9UVM,Rudolf Wenger,no_city,Bern und Oberwallis,CHE
-2283148,HB3YBC,Christian No_name,no_city,Bern und Oberwallis,CHE
-2283149,HB9EIS,Florian No_name,no_city,Bern und Oberwallis,CHE
+2283148,HB3YBC,Christian ,no_city,Bern und Oberwallis,CHE
+2283149,HB9EIS,Florian ,no_city,Bern und Oberwallis,CHE
 2283150,HB9GIK,Kevin Streit,Walliswil,Bern und Oberwallis,CHE
-2283151,HB9FMG,Adrian No_name,no_city,Bern und Oberwallis,CHE
+2283151,HB9FMG,Adrian ,no_city,Bern und Oberwallis,CHE
 2283152,HB9DNM,Felix Kunz,Schofflisdorf,Bern und Oberwallis,CHE
-2283153,HB9FUR,Rodjo No_name,Moosseedorf,Bern und Oberwallis,CHE
+2283153,HB9FUR,Rodjo ,Moosseedorf,Bern und Oberwallis,CHE
 2283154,HB9FXH,Thomas Eichenberger,Aeschau,Bern und Oberwallis,CHE
 2283155,HB9FRN,Patrick Bach,Seftigen,Bern und Oberwallis,CHE
 2283156,HB9GSZ,Patrick Bruegger,no_city,Bern und Oberwallis,CHE
-2283157,HB9BPJ,Hans-Rudolf No_name,Frutigen,Bern und Oberwallis,CHE
+2283157,HB9BPJ,Hans-Rudolf ,Frutigen,Bern und Oberwallis,CHE
 2283158,HB3YHU,Daniel Schupbach,Muwensingen,Bern und Oberwallis,CHE
 2283159,HB9BWA,Walter Buehler,Belp,Bern und Oberwallis,CHE
-2283160,HB9XBK,Roman No_name,no_city,Bern und Oberwallis,CHE
+2283160,HB9XBK,Roman ,no_city,Bern und Oberwallis,CHE
 2283161,HB3YYH,Peter Schneider,Interlaken,Bern und Oberwallis,CHE
 2283162,HB9GNB,Thomas Bahler,Zauggenried,Bern und Oberwallis,CHE
-2283163,HB3YHJ,Simon No_name,Liechtenstein,Bern und Oberwallis,CHE
+2283163,HB3YHJ,Simon ,Liechtenstein,Bern und Oberwallis,CHE
 2283164,HB3YWJ,Bruno Bergmann,Gwatt,Bern und Oberwallis,CHE
-2283165,HB9GUN,Andreas No_name,no_city,Bern und Oberwallis,CHE
+2283165,HB9GUN,Andreas ,no_city,Bern und Oberwallis,CHE
 2283166,HB9GUV,Martin Schoenholzer,Thun,Bern und Oberwallis,CHE
 2283167,HB9GAS,Andre Buerki,Ostermundigen,Bern und Oberwallis,CHE
 2283168,HB9GAA,Roland Elmiger,Konolfingen,Bern und Oberwallis,CHE
@@ -547,30 +552,30 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2283183,HB3YRU,Mark Gress,Zollikofen,Bern,CHE
 2283184,HB3YZD,Pascal Marti,Grosshoechstetten,Bern,CHE
 2283185,HB9GZQ,Peter Baumann,Bern,Bern und Oberwallis,CHE
-2283186,HB3XRE,Peter No_name,St.Gallen,No_name,CHE
-2283187,HB9OAD,Gianpaolo No_name,Bellinzona,Ticino,CHE
+2283186,HB3XRE,Peter ,St.Gallen,No_name,CHE
+2283187,HB9OAD,Gianpaolo ,Bellinzona,Ticino,CHE
 2283188,HB9BJL,Christian Eugster,Messen,No_name,CHE
-2283189,HB9HDW,Christoph No_name,Worben,Bern und Oberwallis,CHE
+2283189,HB9HDW,Christoph ,Worben,Bern und Oberwallis,CHE
 2283190,HB9CZV,Werner Buechli,Spiez,No_name,CHE
 2283191,HB3XSX,Martin Bader,Steg im Tosstal,Bern,CHE
 2283192,HB3YWL,Michael Niederhausern,Heimberg,Bern,CHE
 2283193,HB9EWH,Hansjoerg Wittwer,Muensingen,Bern,CHE
 2283194,HB9RNP,Peter Kraft,Huenibach,Bern,CHE
-2283195,HB9HBH,Simon No_name,Schliern,Bern und Oberwallis,CHE
+2283195,HB9HBH,Simon ,Schliern,Bern und Oberwallis,CHE
 2283196,HB9FEA,Joaquim Dias,Brienz Be,Bern und Oberwallis,CHE
 2283197,HB9CWK,Hans Pfister,Heimiswil,Bern und Oberwallis,CHE
-2283198,HB3XUE,Elisabeth No_name,Thun,Bern und Oberwallis,CHE
-2283199,HB3XTM,Mario No_name,Muehlethurnen,Bern und Oberwallis,CHE
+2283198,HB3XUE,Elisabeth ,Thun,Bern und Oberwallis,CHE
+2283199,HB3XTM,Mario ,Muehlethurnen,Bern und Oberwallis,CHE
 2283200,HB9RWR,Urs Fluekiger,Ersigen,No_name,CHE
-2283201,HB9SHB,Marc No_name,Zollikofen,No_name,CHE
-2283202,HB9RVH,No_name No_name,no_city,.,CHE
-2283203,HB9RVG,Roli No_name,Graechen,No_name,CHE
-2283204,HB9TBI,Francesco No_name,Bern,No_name,CHE
-2283205,HB9EVN,Remo No_name,Bern,No_name,CHE
-2283206,HB9HGK,Kevin No_name,Zollikofen,Bern und Oberwallis,CHE
+2283201,HB9SHB,Marc ,Zollikofen,No_name,CHE
+2283202,HB9RVH,No_name ,no_city,.,CHE
+2283203,HB9RVG,Roli ,Graechen,No_name,CHE
+2283204,HB9TBI,Francesco ,Bern,No_name,CHE
+2283205,HB9EVN,Remo ,Bern,No_name,CHE
+2283206,HB9HGK,Kevin ,Zollikofen,Bern und Oberwallis,CHE
 2283207,HB9GUX,Hawe Grotemeyer,Muensingen / Bern,Bern,CHE
 2283208,HB9TKB,Reto Trachsel,Steffisburg,Bern,CHE
-2283209,HB9BMR,Lorenz No_name,Gurmels,.,CHE
+2283209,HB9BMR,Lorenz ,Gurmels,.,CHE
 2283210,HB9HGU,David Gertsch,Innertkirchen,Be,CHE
 2283211,HB9AOO,Kurt Von Escher,Ch-3267 Seedorf,.,CHE
 2283212,HB9HID,Meno Schnapauff,Spiegel Be,.,CHE
@@ -578,44 +583,44 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2284002,HB9EMQ,Andy Wetzikon,Oberbuchsitten,Olten,CHE
 2284003,HB9EMQ,Andy Wetzikon,Oberbuchsitten,Olten,CHE
 2284004,HB9EMQ,Andy Wetzikon,Oberbuchsitten,Olten,CHE
-2284005,HB9MFL,Armin No_name,Deitingen,Solothurn,CHE
-2284006,HB3YKD,Tata No_name,Oberbuchsitten,Olten,CHE
+2284005,HB9MFL,Armin ,Deitingen,Solothurn,CHE
+2284006,HB3YKD,Tata ,Oberbuchsitten,Olten,CHE
 2284007,HB9EBZ,Lukas Mundwiler,Hafelfingen,Basel Land,CHE
 2284008,HB9EBZ,Lukas Mundwiler,Hafelfingen,Basel Land,CHE
-2284009,HB9FGF,Beat No_name,Zofingen,Aargau,CHE
-2284010,HB9ROH,Erich No_name,Farnern,Solothurn,CHE
-2284011,HB9ROH,Erich No_name,Farnern,Solothurn,CHE
-2284012,HB9MNX,Christoph No_name,Langendorf,Solothurn,CHE
-2284013,HB9MNX,Christoph No_name,Langendorf,Solothurn,CHE
-2284014,HB9TWT,Max No_name,Langenbruck,Basel Land,CHE
-2284015,HB9TWT,Max No_name,Langenbruck,Basel Land,CHE
-2284016,HB9TWT,Max No_name,Langenbruck,Basel Land,CHE
-2284017,HB9TVW,Gabriele No_name,Basel,Basel,CHE
-2284018,HB9FEF,Beni No_name,Basel,Basel Stadt,CHE
+2284009,HB9FGF,Beat ,Zofingen,Aargau,CHE
+2284010,HB9ROH,Erich ,Farnern,Solothurn,CHE
+2284011,HB9ROH,Erich ,Farnern,Solothurn,CHE
+2284012,HB9MNX,Christoph ,Langendorf,Solothurn,CHE
+2284013,HB9MNX,Christoph ,Langendorf,Solothurn,CHE
+2284014,HB9TWT,Max ,Langenbruck,Basel Land,CHE
+2284015,HB9TWT,Max ,Langenbruck,Basel Land,CHE
+2284016,HB9TWT,Max ,Langenbruck,Basel Land,CHE
+2284017,HB9TVW,Gabriele ,Basel,Basel,CHE
+2284018,HB9FEF,Beni ,Basel,Basel Stadt,CHE
 2284019,HB9FEF,Beni Gelzer,Basel,Basel/solothurn,CHE
 2284020,HB9FEG,Jakob Grieder,Aurigeno,Basel Stadt,CHE
 2284021,HB9FEG,Jakob Grieder,Aurigeno,Basel Stadt,CHE
-2284022,HB3YDW,Samuel No_name,Oberamsern,Solothurn,CHE
-2284023,HB9RNX,Hansruedi No_name,Bellach,Solothurn,CHE
-2284024,HB9EXT,Lukas No_name,Riehen,Basel Stadt,CHE
-2284025,HB9EXT,Lukas No_name,Riehen,Basel Stadt,CHE
-2284026,HB9TQJ,Philipp No_name,Dornach,Solothurn,CHE
-2284027,HB9TQJ,Philipp No_name,Dornach,Solothurn,CHE
-2284028,HB9FND,Alex No_name,Steinhof,Solothurn,CHE
-2284029,HB9FND,Alex No_name,Steinhof,Solothurn,CHE
-2284030,HB9NMT,Matthias No_name,Muttenz,Basel Land,CHE
-2284031,HB9NMT,Matthias No_name,Muttenz,Basel Land,CHE
-2284032,HB9FIA,Philipp No_name,Basel,Basel Stadt,CHE
-2284033,HB9FIA,Philipp No_name,Basel,Basel Stadt,CHE
-2284034,HB9EYW,Philipp No_name,Allschwil,Basel Land,CHE
-2284035,HB9EYW,Philipp No_name,Allschwil,Basel Land,CHE
-2284036,HB9FMJ,Kurt No_name,Lohn,Solothurn,CHE
-2284037,HB9FEH,Sergio No_name,Basel,Basel Stadt,CHE
-2284038,HB9RCJ,Martin No_name,Arlesheim,Basel Land,CHE
-2284039,HB9RCJ,Martin No_name,Arlesheim,Basel Land,CHE
-2284040,HB9AUV,Ruedi No_name,Olten,Olten,CHE
+2284022,HB3YDW,Samuel ,Oberamsern,Solothurn,CHE
+2284023,HB9RNX,Hansruedi ,Bellach,Solothurn,CHE
+2284024,HB9EXT,Lukas ,Riehen,Basel Stadt,CHE
+2284025,HB9EXT,Lukas ,Riehen,Basel Stadt,CHE
+2284026,HB9TQJ,Philipp ,Dornach,Solothurn,CHE
+2284027,HB9TQJ,Philipp ,Dornach,Solothurn,CHE
+2284028,HB9FND,Alex ,Steinhof,Solothurn,CHE
+2284029,HB9FND,Alex ,Steinhof,Solothurn,CHE
+2284030,HB9NMT,Matthias ,Muttenz,Basel Land,CHE
+2284031,HB9NMT,Matthias ,Muttenz,Basel Land,CHE
+2284032,HB9FIA,Philipp ,Basel,Basel Stadt,CHE
+2284033,HB9FIA,Philipp ,Basel,Basel Stadt,CHE
+2284034,HB9EYW,Philipp ,Allschwil,Basel Land,CHE
+2284035,HB9EYW,Philipp ,Allschwil,Basel Land,CHE
+2284036,HB9FMJ,Kurt ,Lohn,Solothurn,CHE
+2284037,HB9FEH,Sergio ,Basel,Basel Stadt,CHE
+2284038,HB9RCJ,Martin ,Arlesheim,Basel Land,CHE
+2284039,HB9RCJ,Martin ,Arlesheim,Basel Land,CHE
+2284040,HB9AUV,Ruedi ,Olten,Olten,CHE
 2284041,HB9DBQ,Benj Tschumi,Zuchwil,Basel/solothurn,CHE
-2284042,HB9FGU,Michael No_name,Basel,Basel,CHE
+2284042,HB9FGU,Michael ,Basel,Basel,CHE
 2284043,HB9DDE,Urs Haechler,Rothrist,Aargau,CHE
 2284044,HB9SQV,Ralph Vonlaufen,Langendorf,Basel,CHE
 2284045,HB9FKF,Thomas Egloff,Basel,Basel Stadt,CHE
@@ -708,10 +713,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2284132,HB9DOL,Stefan Pauli,Biberist,Basel/solothurn,CHE
 2284133,HB3YMZ,Michel Meili,Laeufelfingen,Basel/solothurn,CHE
 2284134,HB9FZX,Christian Koelliker,Wynau,Basel/solothurn,CHE
-2284135,HB9GFI,Daniel No_name,no_city,Basel/solothurn,CHE
+2284135,HB9GFI,Daniel ,no_city,Basel/solothurn,CHE
 2284136,HB9BSL,Funkamateur Club,Basel,Basel/solothurn,CHE
 2284137,HB9KIDS,Funk-Amateur Club,Basel,Basel/solothurn,CHE
-2284138,HB9CWI,Budi No_name,no_city,Basel/solothurn,CHE
+2284138,HB9CWI,Budi ,no_city,Basel/solothurn,CHE
 2284139,HB9FZX,Christian Koelliker,Wynau,Basel/solothurn,CHE
 2284140,HB9TUL,Mimmo Labriola,Gerlafingen,Westschweiz-Nord,CHE
 2284141,HB9DHR,Heinz Ruef,Vordemwald,Basel/solothurn,CHE
@@ -720,34 +725,34 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2284144,HB9BVB,Helmut Scharrer,Rheinfelden,Basel/solothurn,CHE
 2284145,HB9FVK,Ruedi Kneubuehler,Strengelbach,Basel/solothurn,CHE
 2284146,HB9EOR,Rolf Schulthess,Melchnau,Basel/solothurn,CHE
-2284147,HB9FMZ,Walter No_name,Basel,Basel/solothurn,CHE
-2284148,HB9GIQ,Andreas No_name,Basel,Basel/solothurn,CHE
-2284149,HB9FSG,Toni No_name,Basel,Basel/solothurn,CHE
-2284150,HB9GNZ,Michel No_name,Basel,Basel/solothurn,CHE
+2284147,HB9FMZ,Walter ,Basel,Basel/solothurn,CHE
+2284148,HB9GIQ,Andreas ,Basel,Basel/solothurn,CHE
+2284149,HB9FSG,Toni ,Basel,Basel/solothurn,CHE
+2284150,HB9GNZ,Michel ,Basel,Basel/solothurn,CHE
 2284151,HB3YST,Bruno Strub,Daniken,Basel/solothurn,CHE
 2284152,HB9DSG,Paul Schar,Basel,Basel/solothurn,CHE
-2284153,HB9EAS,No_name No_name,Amateurfunkgruppe Hb9eas,Basel/solothurn,CHE
-2284154,HB3YDB,Daniel No_name,Basel,Basel/solothurn,CHE
-2284155,HB9GSQ,Mathias No_name,Basel,Basel/solothurn,CHE
-2284156,HB9GSI,Pascal No_name,Basel,Basel/solothurn,CHE
+2284153,HB9EAS,No_name ,Amateurfunkgruppe Hb9eas,Basel/solothurn,CHE
+2284154,HB3YDB,Daniel ,Basel,Basel/solothurn,CHE
+2284155,HB9GSQ,Mathias ,Basel,Basel/solothurn,CHE
+2284156,HB9GSI,Pascal ,Basel,Basel/solothurn,CHE
 2284157,HB3YOY,Hansruedi Thomann,Rheinfelden,Basel/solothurn,CHE
 2284158,HB9GSP,Josua Studer,Allschwil,Basel/solothurn,CHE
 2284159,HB9EDQ,Klaus Frank,Gempen,Basel/solothurn,CHE
 2284160,HB9DIO,Urs Keller,Muenchenstein,Basel/solothurn,CHE
 2284161,HB9DKQ,Christoph Briel,Basel,Basel/solothurn,CHE
 2284162,HB9BOQ,Thomas Kost,Basel,Basel/solothurn,CHE
-2284163,HB9GUB,Kurt No_name,Basel,Basel/solothurn,CHE
+2284163,HB9GUB,Kurt ,Basel,Basel/solothurn,CHE
 2284164,HB9FRL,Ernst Erni,Zofingen,Basel/solothurn,CHE
 2284165,HB9GSP,Josua Studer,Allschwil,Basel/solothurn,CHE
-2284166,HB9FGH,Werner No_name,Basel,Basel/solothurn,CHE
+2284166,HB9FGH,Werner ,Basel,Basel/solothurn,CHE
 2284167,HB9EHS,Raymond Kochli,Frenkendorf,Basel/solothurn,CHE
 2284168,HB9EDU,Franz Grolimund,Basel,Basel/solothurn,CHE
 2284169,HB9DKX,Michael Ackermann,Allschwil,Basel/solothurn,CHE
 2284170,HB9TPU,Udo Allmen,Olten,Basel/solothurn,CHE
-2284171,HB3XPM,Hans No_name,Basel,Basel/solothurn,CHE
+2284171,HB3XPM,Hans ,Basel,Basel/solothurn,CHE
 2284172,HB9GSV,Adrian Stauffer,Oensingen,Basel/solothurn,CHE
-2284173,HB9TPW,Hanspeter No_name,no_city,Basel/solothurn,CHE
-2284174,HB9GPK,Manuel No_name,Basel,Basel/solothurn,CHE
+2284173,HB9TPW,Hanspeter ,no_city,Basel/solothurn,CHE
+2284174,HB9GPK,Manuel ,Basel,Basel/solothurn,CHE
 2284175,HB9CKO,Jacques Wehrli,Giswil,Basel/solothurn,CHE
 2284176,HB9RMM,Marcel Krumm,Basel,Basel/solothurn,CHE
 2284177,HB3MAM,Christian Brunold,Reinach,Basel/solothurn,CHE
@@ -762,9 +767,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2284186,HB9TQP,Martin Nikles,Allschwil,Basel/solothurn,CHE
 2284187,HB9EBX,Angelo Gianola,Himmelried,No_name,CHE
 2284188,HB9BLV,Viktor Gnos,Binningen,Basel/solothurn,CHE
-2284189,HB9SNC,Rene No_name,Basel,No_name,CHE
+2284189,HB9SNC,Rene ,Basel,No_name,CHE
 2284190,HB9GXA,Susanne Studer,Allschwil,Basel/solothurn,CHE
-2284191,HB9GXV,Adrian No_name,Allschwil,Basel/solothurn,CHE
+2284191,HB9GXV,Adrian ,Allschwil,Basel/solothurn,CHE
 2284192,HB3YUR,Moll Charles,Olten,No_name,CHE
 2284193,HB9FRK,Andi Fuhr,Basel,No_name,CHE
 2284194,HB3YPO,Zsolt Tari,Basel,No_name,CHE
@@ -780,67 +785,67 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2284204,HB9GKH,Christian Kaiser,Basel,Basel,CHE
 2284205,HB9GXA,Susanne Studer,Allschwil,Basel,CHE
 2284206,HB9GZX,Daniel Grola,Liestal,No_name,CHE
-2284207,HB9HBC,Simon No_name,Basel,No_name,CHE
+2284207,HB9HBC,Simon ,Basel,No_name,CHE
 2284208,HB9HBB,Michael Senn,Muttenz,No_name,CHE
 2284209,HB9GSY,Philipp Gurtner,Gelterkinden,Basel,CHE
 2284210,HB9TXZ,Bernhard Acklin,Binningen,Basel,CHE
-2284211,HB3XTN,Remo No_name,no_city,Basel/solothurn,CHE
+2284211,HB3XTN,Remo ,no_city,Basel/solothurn,CHE
 2284212,HB9NCS,Leopoldo Schnalzer,Washington,Arkansas,CHE
 2284213,HB9FZQ,Nicolas Dirac,Itingen,Basel,CHE
-2284214,HB3YHG,Peter No_name,Rheinfelden,Basel/solothurn,CHE
-2284215,HB3XTL,Beatrice No_name,Daeniken,Basel/solothurn,CHE
+2284214,HB3YHG,Peter ,Rheinfelden,Basel/solothurn,CHE
+2284215,HB3XTL,Beatrice ,Daeniken,Basel/solothurn,CHE
 2284216,HB9OMP,Roland Bahler,Biel-Bienne,Basel/solothurn,CHE
-2284217,HB9BZG,Kurt No_name,Solothurn,Basel/solothurn,CHE
-2284218,HB9HCV,Raphael No_name,Wiedlisbach,Basel/solothurn,CHE
-2284219,HB9SLM,Roger No_name,Solothurn,Basel/solothurn,CHE
-2284220,HB9HBV,Jeanpierre No_name,Muttenz,Basel/solothurn,CHE
-2284221,HB9HBU,Anita No_name,Muttenz,Basel/solothurn,CHE
-2284222,HB9CNX,Stephan No_name,Welschenrohr,Basel/solothurn,CHE
+2284217,HB9BZG,Kurt ,Solothurn,Basel/solothurn,CHE
+2284218,HB9HCV,Raphael ,Wiedlisbach,Basel/solothurn,CHE
+2284219,HB9SLM,Roger ,Solothurn,Basel/solothurn,CHE
+2284220,HB9HBV,Jeanpierre ,Muttenz,Basel/solothurn,CHE
+2284221,HB9HBU,Anita ,Muttenz,Basel/solothurn,CHE
+2284222,HB9CNX,Stephan ,Welschenrohr,Basel/solothurn,CHE
 2284223,HB9HDH,Patrick Hak,Nenzlingen. Baselland,Basel/solothurn,CHE
 2284224,HB9HDK,Bruno Strub,Daeniken,Basel/solothurn,CHE
-2284225,HB9HIM,Markus No_name,Rheinfelden,Markus,CHE
-2284226,HB9BLA,Andreas No_name,Lausen,Andreas,CHE
+2284225,HB9HIM,Markus ,Rheinfelden,Markus,CHE
+2284226,HB9BLA,Andreas ,Lausen,Andreas,CHE
 2284227,HB9CEY,Gerald Eberle,Ziefen / Bl,Gerald,CHE
-2284228,HB3XUW,Simon No_name,Rohrbach,Simon,CHE
-2284229,HB9HEF,Beatrice No_name,Daeniken,No_name,CHE
+2284228,HB3XUW,Simon ,Rohrbach,Simon,CHE
+2284229,HB9HEF,Beatrice ,Daeniken,No_name,CHE
 2284230,HB9FFW,Daniel Wuester,Niederbipp,Daniel,CHE
-2284231,HB3XTY,Joerg No_name,Derendingen,No_name,CHE
+2284231,HB3XTY,Joerg ,Derendingen,No_name,CHE
 2284232,HB9BLA,Andreas Spiess,Lausen,No_name,CHE
-2284233,HB9EAJ,Stephan No_name,Basel,No_name,CHE
-2284234,HB9TPQ,Dieter No_name,Solothurn,No_name,CHE
-2284235,HB9PFA,Albert No_name,Muenchenstein,No_name,CHE
+2284233,HB9EAJ,Stephan ,Basel,No_name,CHE
+2284234,HB9TPQ,Dieter ,Solothurn,No_name,CHE
+2284235,HB9PFA,Albert ,Muenchenstein,No_name,CHE
 2284236,HB9GVA,Romeo Kienzler,Basel,No_name,CHE
 2284237,HB3XVF,Andrea Bertoneri,Basel,.,CHE
-2284238,HB9PCH,Christian No_name,Allschwil,.,CHE
+2284238,HB9PCH,Christian ,Allschwil,.,CHE
 2284239,HB3XVI,Pascal Steck,Muttenz,Basel,CHE
-2284240,HB9HGH,Schindler No_name,Pfeffingen,Basel-Landschaft,CHE
+2284240,HB9HGH,Schindler ,Pfeffingen,Basel-Landschaft,CHE
 2284241,HB9HGG,Simon Wuethrich,Rohrbach,Oberaargau,CHE
-2284242,HB9MKV,Rudi No_name,Buesserach,.,CHE
-2284243,HB9HEI,Dominic No_name,Winznau,.,CHE
+2284242,HB9MKV,Rudi ,Buesserach,.,CHE
+2284243,HB9HEI,Dominic ,Winznau,.,CHE
 2284244,HB9GUU,Peter Dietschi,Langendorf,.,CHE
-2284245,HB9TCZ,Rick No_name,Laupersdorf,.,CHE
-2284246,HB3XVW,Martin No_name,Lohn-Ammannsegg,Solothurn,CHE
-2284247,HB3XVM,Martin No_name,Basel-Stadt,.,CHE
-2284248,HB3XWF,Thomas No_name,Riehen,.,CHE
-2284249,HB9HHZ,Andy No_name,Basel,.,CHE
-2284250,HB9ANQ,Ruedi No_name,Subingen,.,CHE
-2284251,HB9MGI,Ernst No_name,Riehen,.,CHE
+2284245,HB9TCZ,Rick ,Laupersdorf,.,CHE
+2284246,HB3XVW,Martin ,Lohn-Ammannsegg,Solothurn,CHE
+2284247,HB3XVM,Martin ,Basel-Stadt,.,CHE
+2284248,HB3XWF,Thomas ,Riehen,.,CHE
+2284249,HB9HHZ,Andy ,Basel,.,CHE
+2284250,HB9ANQ,Ruedi ,Subingen,.,CHE
+2284251,HB9MGI,Ernst ,Riehen,.,CHE
 2284252,HB9XBY,Toni Thiele,Daeniken 4658,So,CHE
-2284253,HB3XWR,Eveline No_name,Nenzlingen,.,CHE
-2284254,HB3XWL,Thomas No_name,Rohrbach,.,CHE
-2284255,HB9HIF,Florian No_name,Grellingen,.,CHE
+2284253,HB3XWR,Eveline ,Nenzlingen,.,CHE
+2284254,HB3XWL,Thomas ,Rohrbach,.,CHE
+2284255,HB9HIF,Florian ,Grellingen,.,CHE
 2285001,HB9CNT,Paul Streich,Untersiggenthal,Baden,CHE
 2285002,HB9CNT,Paul Streich,Untersiggenthal,Baden,CHE
 2285003,HB9CNT,Paul Streich,Untersiggenthal,Baden,CHE
 2285004,HB9CNT,Paul Streich,Untersiggenthal,Baden,CHE
-2285005,HB9AQB,Heinz No_name,Doettingen,Aargau,CHE
-2285006,HB9RDD,Christian No_name,Holderbank,Aargau,CHE
-2285007,HB3YEC,Christian No_name,Rupperswil,Aargau,CHE
-2285008,HB9FDS,Christian No_name,Mellingen,Aargau,CHE
-2285009,HB9TUF,Andi No_name,Niedergoesgen,Solothurn,CHE
-2285010,HB3YLR,Sonia No_name,Niedergoesgen,Solothurn,CHE
-2285011,HB9TTD,Wolfram No_name,Hendschiken,Aargau,CHE
-2285012,HB9FGE,Sabrina No_name,Mellikon,Aargau,CHE
+2285005,HB9AQB,Heinz ,Doettingen,Aargau,CHE
+2285006,HB9RDD,Christian ,Holderbank,Aargau,CHE
+2285007,HB3YEC,Christian ,Rupperswil,Aargau,CHE
+2285008,HB9FDS,Christian ,Mellingen,Aargau,CHE
+2285009,HB9TUF,Andi ,Niedergoesgen,Solothurn,CHE
+2285010,HB3YLR,Sonia ,Niedergoesgen,Solothurn,CHE
+2285011,HB9TTD,Wolfram ,Hendschiken,Aargau,CHE
+2285012,HB9FGE,Sabrina ,Mellikon,Aargau,CHE
 2285013,HB9XCA,Yves Frey,Holziken,Aargau,CHE
 2285014,HB9DWW,Peter Amsler,Rupperswil,Aargau,CHE
 2285015,HB9DWS,Hansjoerg Baur,Schlossrued,Aargau,CHE
@@ -874,7 +879,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2285043,HB9TRQ,Oliver Schellenberg,Baden,Aargau,CHE
 2285044,HB9FPX,Fritz Tanner,Oberkulm,Aargau,CHE
 2285045,HB9FPW,Toni Tanner,Oberkulm,Aargau,CHE
-2285046,HB9PDM,Mathis No_name,Oberkulm,Aargau,CHE
+2285046,HB9PDM,Mathis ,Oberkulm,Aargau,CHE
 2285047,HB9SOI,Robert Waldvogel,Brugg,Aargau,CHE
 2285048,HB9FSI,Vittorio Boccone,Birmenstorf,Aargau,CHE
 2285049,HB9FPX,Fritz Tanner,Oberkulm,Aargau,CHE
@@ -883,54 +888,54 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2285052,HB9FFK,Christian Spieler,Rohr,Aargau,CHE
 2285053,HB9XBO,Robert Walker,Suhr,Aargau,CHE
 2285054,HB9DOD,Tom Hoedjes,Reinach,Aargau,CHE
-2285055,HB3XPK,Othmar No_name,no_city,Aargau,CHE
+2285055,HB3XPK,Othmar ,no_city,Aargau,CHE
 2285056,HB9GNI,Thomas Hartmeier,Baden,Aargau,CHE
 2285057,HB9GSN,Juerg Frey,Lupfig,Aargau,CHE
 2285058,HB9RWF,Heinz Menz,Reitnau,Aargau,CHE
 2285059,HB3YLY,Adrian Bircher,Oberkulm,Aargau,CHE
 2285060,HB9HDD,Raphael Raphael,Lenzburg,Aargau,CHE
-2285061,HB9RTJ,Robert No_name,Buttwil,Aargau,CHE
-2285062,HB9ROP,Juerg No_name,Koelliken,Aargau,CHE
-2285063,HB9HBD,Thomas No_name,Oberentfelden,Aargau,CHE
-2285064,HB9CTU,Herbert No_name,Kuettigen,Aargau,CHE
-2285065,HB9FEK,Gerhard No_name,Gretzenbach,Aargau,CHE
-2285066,HB3XUG,Dani No_name,Oberkulm,Aargau,CHE
-2285067,HB9DDZ,Nick No_name,Rheinsulz,Aargau,CHE
+2285061,HB9RTJ,Robert ,Buttwil,Aargau,CHE
+2285062,HB9ROP,Juerg ,Koelliken,Aargau,CHE
+2285063,HB9HBD,Thomas ,Oberentfelden,Aargau,CHE
+2285064,HB9CTU,Herbert ,Kuettigen,Aargau,CHE
+2285065,HB9FEK,Gerhard ,Gretzenbach,Aargau,CHE
+2285066,HB3XUG,Dani ,Oberkulm,Aargau,CHE
+2285067,HB9DDZ,Nick ,Rheinsulz,Aargau,CHE
 2285068,HB9HDE,Bhp Bhp,Neuenhof,Aargau,CHE
-2285069,HB9ERD,Udo No_name,Holderbank,Aargau,CHE
+2285069,HB9ERD,Udo ,Holderbank,Aargau,CHE
 2285070,HB9XBG,Walter Kaegi,Auenstein,.,CHE
-2285071,HB9HGQ,Tomasini No_name,Villmergen,Aargau,CHE
-2285072,HB3YFT,Walter No_name,Gontenschwil,.,CHE
-2285073,HB9BRH,Thomas No_name,Fischbach-Goeslikon,.,CHE
+2285071,HB9HGQ,Tomasini ,Villmergen,Aargau,CHE
+2285072,HB3YFT,Walter ,Gontenschwil,.,CHE
+2285073,HB9BRH,Thomas ,Fischbach-Goeslikon,.,CHE
 2285074,HB9HHO,Christian Volkmer,Wittnau,Aargau,CHE
 2286001,HB9BMC,Robert Murer,Steinhausen,Zentralschweiz und T,CHE
-2286002,HB9CPY,Peter No_name,Altdorf,Uri,CHE
-2286003,HB3YVK,Luca No_name,Comano,Tessin,CHE
-2286004,HB9TUO,Denis No_name,Gordevio,Tessin,CHE
-2286005,HB9TWC,Jiorgio No_name,Locarno,Tessin,CHE
-2286006,HB9THJ,Beat No_name,Luzern,Zentralschweiz,CHE
-2286007,HB9ENY,Yvonne No_name,Luzern,Zentralschweiz,CHE
-2286008,HB9FLB,Benny No_name,Luzern,Zentralschweiz,CHE
-2286009,HB9ODP,Mattia No_name,Mendrisio,Ticino,CHE
-2286010,HB9TLX,Walter No_name,Kriens,Luzern,CHE
-2286011,HB9TLX,Walter No_name,Kriens,Luzern,CHE
-2286012,HB3YWW,Luca No_name,Corteglia,Ticino,CHE
-2286013,HB9OBX,Hanspeter No_name,Oggio,Tessin,CHE
-2286014,HB3YWB,Annamaria No_name,Comano,Tessin,CHE
-2286015,HB9EZU,Roland No_name,Brunnen,Tessin,CHE
-2286016,HB9CNA,Stefano No_name,Lugano,Tessin,CHE
-2286017,HB3YVK,Luca No_name,Comano,Tessin,CHE
-2286018,HB3YWC,Marco No_name,Lugano,Tessin,CHE
-2286019,HB9FFA,Mauro No_name,Losone,Tessin,CHE
+2286002,HB9CPY,Peter ,Altdorf,Uri,CHE
+2286003,HB3YVK,Luca ,Comano,Tessin,CHE
+2286004,HB9TUO,Denis ,Gordevio,Tessin,CHE
+2286005,HB9TWC,Jiorgio ,Locarno,Tessin,CHE
+2286006,HB9THJ,Beat ,Luzern,Zentralschweiz,CHE
+2286007,HB9ENY,Yvonne ,Luzern,Zentralschweiz,CHE
+2286008,HB9FLB,Benny ,Luzern,Zentralschweiz,CHE
+2286009,HB9ODP,Mattia ,Mendrisio,Ticino,CHE
+2286010,HB9TLX,Walter ,Kriens,Luzern,CHE
+2286011,HB9TLX,Walter ,Kriens,Luzern,CHE
+2286012,HB3YWW,Luca ,Corteglia,Ticino,CHE
+2286013,HB9OBX,Hanspeter ,Oggio,Tessin,CHE
+2286014,HB3YWB,Annamaria ,Comano,Tessin,CHE
+2286015,HB9EZU,Roland ,Brunnen,Tessin,CHE
+2286016,HB9CNA,Stefano ,Lugano,Tessin,CHE
+2286017,HB3YVK,Luca ,Comano,Tessin,CHE
+2286018,HB3YWC,Marco ,Lugano,Tessin,CHE
+2286019,HB9FFA,Mauro ,Losone,Tessin,CHE
 2286020,HB9DSE,Kari Kuenzli,Willisau,Zentralschweiz und T,CHE
-2286021,HB9FHE,Davide No_name,Lugano,Tessin,CHE
+2286021,HB9FHE,Davide ,Lugano,Tessin,CHE
 2286022,HB3YWW,Luca Parravicini,Corteglia,Zentralschweiz und T,CHE
-2286023,HB9ODP,Mattia No_name,Mendrisio,Ticino,CHE
-2286024,HB3YWW,Luca No_name,Corteglia,Ticino,CHE
+2286023,HB9ODP,Mattia ,Mendrisio,Ticino,CHE
+2286024,HB3YWW,Luca ,Corteglia,Ticino,CHE
 2286025,HB9BZM,Tino Righini,Cadro,Ticino,CHE
-2286026,HB9TUZ,Massimo No_name,Lugano,Ticino,CHE
-2286027,HB9OAU,Claudio No_name,Caslano,Ticino,CHE
-2286028,HB3YVN,Ennio No_name,Gordola,Ticino,CHE
+2286026,HB9TUZ,Massimo ,Lugano,Ticino,CHE
+2286027,HB9OAU,Claudio ,Caslano,Ticino,CHE
+2286028,HB3YVN,Ennio ,Gordola,Ticino,CHE
 2286029,HB9EZO,Pasquale Arcangelo,Alberswil,Zentralschweiz,CHE
 2286030,HB9TRT,Reto Meyer,Grosswangen,Zentralschweiz und T,CHE
 2286031,HB9TRT,Reto Meyer,Grosswangen,Zentralschweiz und T,CHE
@@ -980,7 +985,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2286075,HB9FPF,Emanuele Pero,Bioggio,Zentralschweiz und T,CHE
 2286076,HB9JCQ,Erich Vogel,Neuenkirch,Zentralschweiz und T,CHE
 2286077,HB9FFA,Mauro Scolari,Losone,Zentralschweiz und T,CHE
-2286078,HB9DD,Digitalrc No_name,Lugano,Zentralschweiz und T,CHE
+2286078,HB9DD,Digitalrc ,Lugano,Zentralschweiz und T,CHE
 2286079,HB9OAB,Franco Borsa,Bellinzona,Zentralschweiz und T,CHE
 2286080,HB9OK,Radio Tera,Vezia,Zentralschweiz und T,CHE
 2286081,HB9WCH,Daniel Schwoerer,Eich,Zentralschweiz und T,CHE
@@ -1039,7 +1044,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2286134,HB9TSI,Andre Rieser,Goeschenen,Zentralschweiz und T,CHE
 2286135,HB9EWZ,Philipp Wilhelm,Luzern,Zentralschweiz und T,CHE
 2286136,HB9EHW,Gabriele Casa,San Pietro Di Stabio,Zentralschweiz und T,CHE
-2286137,HB9FKT,Francesco No_name,Bellizona,Zentralschweiz und T,CHE
+2286137,HB9FKT,Francesco ,Bellizona,Zentralschweiz und T,CHE
 2286138,HB9JAW,Michel Winiger,Neudorf,Zentralschweiz und T,CHE
 2286139,HB9FEX,Mirko Pagnamenta,Melide,Zentralschweiz und T,CHE
 2286140,HB4FG,Swiss Station,Bellinzona,Zentralschweiz und T,CHE
@@ -1054,10 +1059,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2286149,HB9CCU,Heinz Homberger,Ibach,Zentralschweiz und T,CHE
 2286150,HB9CDH,Bruno Ruesch,no_city,Zentralschweiz und T,CHE
 2286151,HB9TUO,Denis Tasinato,Gordevio,Zentralschweiz und T,CHE
-2286152,HB9ENK,Gianmaria No_name,no_city,Zentralschweiz und T,CHE
+2286152,HB9ENK,Gianmaria ,no_city,Zentralschweiz und T,CHE
 2286153,HB9WDN,Markus Geiger,Dierikon,Zentralschweiz und T,CHE
 2286154,HB9JBY,Alfons Keiser,Hochdorf,Zentralschweiz und T,CHE
-2286155,HB9JAY,Walter No_name,Luzern,Zentralschweiz und T,CHE
+2286155,HB9JAY,Walter ,Luzern,Zentralschweiz und T,CHE
 2286156,HB9CAB,Werner Feller,Brunnen,Zentralschweiz und T,CHE
 2286157,HB9RE,Swiss Rc,Zofingen,Zentralschweiz und T,CHE
 2286158,HB9RYY,Stephan Schlegel,Seewen,Zentralschweiz und T,CHE
@@ -1079,13 +1084,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2286174,HB9JA,Amateurfunkverein Hb9ja,Emmenbrucke,Zentralschweiz und T,CHE
 2286175,HB9IPHA,Uska Call,Nottwil,Zentralschweiz und T,CHE
 2286176,HB9DBM,Mark Brun,Beromuenster,Zentralschweiz und T,CHE
-2286177,HB9GSD,Michel No_name,Bellinzona,Zentralschweiz und T,CHE
+2286177,HB9GSD,Michel ,Bellinzona,Zentralschweiz und T,CHE
 2286178,HB9GSE,Marco Luca,Bioggio,Zentralschweiz und T,CHE
 2286179,HB9FLA,Jakob Brunner,Luzern,Zentralschweiz und T,CHE
 2286180,HB9JAB,Stefan Roosli,Eschenbach,Zentralschweiz und T,CHE
 2286181,HB9TKZ,Wolf Zemp,Goldau,Zentralschweiz und T,CHE
 2286182,HB9CVN,Ferdinando Bernasconi,no_city,Zentralschweiz und T,CHE
-2286183,HB9WCN,Rene No_name,Schoetz,Zentralschweiz und Tessin,CHE
+2286183,HB9WCN,Rene ,Schoetz,Zentralschweiz und Tessin,CHE
 2286184,HB9FSK,Michal Slomczykowski,Lu,Zentralschweiz und Tessin,CHE
 2286185,HB9FEV,Ferry Sengun,Beromunster,Zentralschweiz und T,CHE
 2286186,HB9EGC,Casimiro Mombelli,Vacallo,Zentralschweiz und T,CHE
@@ -1095,7 +1100,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2286190,HB3XPS,Nicola Crivelli,Gordola,Zentralschweiz und Tessin,CHE
 2286191,HB3XPX,Matteo Menca,no_city,Zentralschweiz und Tessin,CHE
 2286192,HB9EVZ,Karl Zgraggen,Lauerz,Zentralschweiz und Tessin,CHE
-2286193,HB3XPZ,Sergio No_name,no_city,Zentralschweiz und Tessin,CHE
+2286193,HB3XPZ,Sergio ,no_city,Zentralschweiz und Tessin,CHE
 2286194,HB9EKV,Thomas Fischer,Oberkirch,Zentralschweiz und Tessin,CHE
 2286195,HB9TKZ,Wolf Zemp,Goldau,Zentralschweiz und Tessin,CHE
 2286196,HB9JCI,Matthias Schumacher,Schwyz,Zentralschweiz und Tessin,CHE
@@ -1107,11 +1112,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2286202,HB9GZI,Ivan Mobilia,Giswil,Zentralschweiz und Tessin,CHE
 2286203,HB9FPR,Ricky Ranzoni,Quartino,No_name,CHE
 2286204,HB3YVG,Gaia Panarisi,Rivera,Ticino,CHE
-2286205,HB9GWZ,Ivan No_name,Gordola,Ticino,CHE
+2286205,HB9GWZ,Ivan ,Gordola,Ticino,CHE
 2286206,HB3XPW,Danilo Marchi,Massagno,No_name,CHE
 2286207,HB9DWL,Leo Marbach,St. Erhard,Zentralschweiz und Tessin,CHE
 2286208,HB9OAB,Franco Borsa,Bellinzona,Zentralschweiz und Tessin,CHE
-2286209,HB9GVN,Dario No_name,Coldrerio,Zentralschweiz und Tessin,CHE
+2286209,HB9GVN,Dario ,Coldrerio,Zentralschweiz und Tessin,CHE
 2286210,HB9FBK,Flavio Gada-Barenco,Bellinzona,No_name,CHE
 2286211,HB9DDW,Roger Frei,Adligenswil,Luzern,CHE
 2286212,HB9PHA,Bernardo Brentini,Campello,Zentralschweiz und Tessin,CHE
@@ -1121,11 +1126,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2286216,HB3YGD,Daniel Buerkler,Cham,Zentralschweiz und Tessin,CHE
 2286217,HB9SYO,Fabiano Veronelli,Bironico,Zentralschweiz und Tessin,CHE
 2286218,HB9FAL,Steve Sartori,Gnosca,Zentralschweiz und Tessin,CHE
-2286219,HB9GUD,Christoph No_name,Hochdorf,Ticino,CHE
+2286219,HB9GUD,Christoph ,Hochdorf,Ticino,CHE
 2286220,HB3YVO,Beat Fischer,Triengen,No_name,CHE
 2286221,HB9DDW,Roger Frei,Adligenswil,No_name,CHE
 2286222,HB9HJJ,Thomas Marchy,Brunnen,Schwyz,CHE
-2286223,HB9TQQ,Judith No_name,Emmen Hochdorf,Luzern,CHE
+2286223,HB9TQQ,Judith ,Emmen Hochdorf,Luzern,CHE
 2286224,HB9FEX,Mirko Pagnamenta,Melide,No_name,CHE
 2286225,HB9AJM,Ivo Pedruzzi,Locarno,Ticino,CHE
 2286226,HB9JBQ,Manuel Christen,Schenkon,No_name,CHE
@@ -1137,40 +1142,40 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2286232,HB9GZT,Pasinelli Tiziano,Porza,No_name,CHE
 2286233,HB9GZL,Gabriele Tos,Lavorgo,Zentralschweiz und Tessin,CHE
 2286234,HB9FIF,Roger Rodenhaeuser,Baar,Zug,CHE
-2286235,HB9HCE,Roland No_name,no_city,Ticino,CHE
+2286235,HB9HCE,Roland ,no_city,Ticino,CHE
 2286236,HB9PUE,Mauro Piffaretti,Pregassona,Ticino,CHE
 2286237,HB9FAB,Patrick Orso,Camignolo,Ticino,CHE
 2286238,HB3XST,Jaquier Michel,Casoro,Ticino,CHE
-2286239,HB9GZP,Patrick No_name,Minusio,Zentralschweiz und Tessin,CHE
+2286239,HB9GZP,Patrick ,Minusio,Zentralschweiz und Tessin,CHE
 2286240,HB9TXB,Branko Djokic,Luzern. .,Zentralschweiz und Tessin,CHE
 2286241,HB9FBD,Andrea Weick,Cugnasco,Zentralschweiz und Tessin,CHE
 2286242,HB9PLW,Peter Bucher,Reiden,Zentralschweiz und Tessin,CHE
-2286243,HB9HIR,Linus No_name,Gelfingen,.,CHE
-2286244,HB9EHU,Fabianzihlmann No_name,Ruswil,Zentralschweiz und Tessin,CHE
-2286245,HB3XUB,Mauro No_name,Gordola,Zentralschweiz und Tessin,CHE
-2286246,HB9TTZ,Brenno No_name,Bellinzona,Zentralschweiz und Tessin,CHE
-2286247,HB9MFY,Giancarlo No_name,Cugnasco,Zentralschweiz und Tessin,CHE
-2286248,HB9FOM,Michi No_name,Eschenbach,Zentralschweiz und Tessin,CHE
+2286243,HB9HIR,Linus ,Gelfingen,.,CHE
+2286244,HB9EHU,Fabianzihlmann ,Ruswil,Zentralschweiz und Tessin,CHE
+2286245,HB3XUB,Mauro ,Gordola,Zentralschweiz und Tessin,CHE
+2286246,HB9TTZ,Brenno ,Bellinzona,Zentralschweiz und Tessin,CHE
+2286247,HB9MFY,Giancarlo ,Cugnasco,Zentralschweiz und Tessin,CHE
+2286248,HB9FOM,Michi ,Eschenbach,Zentralschweiz und Tessin,CHE
 2286249,HB9ALH,Bernard Wehrli,Meggen /nr Lucerne,Zentralschweiz und Tessin,CHE
-2286250,HB3XPX,Menca No_name,Collina Doro,Zentralschweiz und Tessin,CHE
+2286250,HB3XPX,Menca ,Collina Doro,Zentralschweiz und Tessin,CHE
 2286251,HB9SBL,Sergio Gianini,Arzo,Zentralschweiz und Tessin,CHE
 2286252,HB9BXE,Peter Peter,Adligenswil,Zentralschweiz und Tessin,CHE
-2286253,HB9HDO,Tom No_name,Steinhausen,Zentralschweiz und Tessin,CHE
-2286254,HB9HEC,Gabri No_name,Astano,Gabri,CHE
-2286255,HB3YTC,Roberto No_name,Lumino,No_name,CHE
-2286256,HB9TTY,Fred No_name,Buttisholz,No_name,CHE
-2286257,HB9ERA,No_name No_name,no_city,.,CHE
+2286253,HB9HDO,Tom ,Steinhausen,Zentralschweiz und Tessin,CHE
+2286254,HB9HEC,Gabri ,Astano,Gabri,CHE
+2286255,HB3YTC,Roberto ,Lumino,No_name,CHE
+2286256,HB9TTY,Fred ,Buttisholz,No_name,CHE
+2286257,HB9ERA,No_name ,no_city,.,CHE
 2286258,HB9GHD,Davide Paganoni,Piedmont,Zentralschweiz und T,CHE
 2286259,HB3YKK,Marcel Kieliger,Brunnen,Zentralschweiz und T,CHE
 2286260,HB3XTP,Gianpaolo Ferrari,Chiasso,Ticino,CHE
-2286261,HB3XVP,Philipp No_name,Richenthal,.,CHE
-2286262,HB9TIK,Fausto No_name,Bidogno,.,CHE
+2286261,HB3XVP,Philipp ,Richenthal,.,CHE
+2286262,HB9TIK,Fausto ,Bidogno,.,CHE
 2286263,HB9GZL,Da Gabriele,Lavorgo,Zentralschweiz und T,CHE
-2286264,HB9GCC,Joe No_name,Luzern,.,CHE
+2286264,HB9GCC,Joe ,Luzern,.,CHE
 2286265,HB9DHG,Fulvio Galli,Origlio,Ticino,CHE
-2286266,HB9GCC,Joe No_name,Luzern,.,CHE
-2286267,HB9HHJ,Florian No_name,Luzern,.,CHE
-2287001,HB9FPO,Stefano No_name,Poschiavo,Graubuenden,CHE
+2286266,HB9GCC,Joe ,Luzern,.,CHE
+2286267,HB9HHJ,Florian ,Luzern,.,CHE
+2287001,HB9FPO,Stefano ,Poschiavo,Graubuenden,CHE
 2287002,HB9HAN,Roland Peter,Sargans,Graubuenden,CHE
 2287003,HB9FPO,Stefano Foppoli,Poschiavo,Graubuenden,CHE
 2287004,HB9SOA,Wilhelm Hug,Vilters,Graubuenden,CHE
@@ -1199,75 +1204,75 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2287027,HB9ASV,Peter Schudel,Chur,Graubuenden,CHE
 2287028,HB9CAN,Marco Leupin,Berne,Graubuenden,CHE
 2287029,HB3YYA,Andy Muenchbach,Laax,Graubuenden,CHE
-2287030,HB3XPV,Martha No_name,no_city,Graubuenden,CHE
-2287031,HB3XRK,Werner No_name,Sankt Gallen,Sankt Gallen,CHE
+2287030,HB3XPV,Martha ,no_city,Graubuenden,CHE
+2287031,HB3XRK,Werner ,Sankt Gallen,Sankt Gallen,CHE
 2287032,HB9GKX,Tobias Ebner,Zernez,Graubuenden,CHE
-2287033,HB9GYA,Mauro No_name,Zernez,Bern,CHE
+2287033,HB9GYA,Mauro ,Zernez,Bern,CHE
 2287034,HB9GNO,Chrigi Hartmann,Malans,Graubuenden,CHE
 2287035,HB9GPO,Franco Cristini,Bergamo,Italy,CHE
-2287036,HB9GZK,Mark No_name,Alvaneu Dorf,.,CHE
+2287036,HB9GZK,Mark ,Alvaneu Dorf,.,CHE
 2288000,HB9SDB,Rolf Tschumi,Waedenswil,Zuerich und Thurgau,CHE
-2288001,HB3YEJ,Andreas No_name,Schleitheim,Schaffhausen,CHE
-2288002,HB9WOF,Reto No_name,Winterthur,Winterthur,CHE
-2288003,HB9WOF,Reto No_name,Winterthur,Winterthur,CHE
-2288004,HB9WOF,Reto No_name,Winterthur,Winterthur,CHE
-2288005,HB9WOF,Reto No_name,Winterthur,Winterthur,CHE
-2288006,HB9ESL,Max No_name,Wetzikon,Hinwil,CHE
-2288007,HB9LCQ,Dani No_name,Kilchberg,Zuerich,CHE
-2288008,HB9TSP,Simon No_name,Jona,Zuerich,CHE
+2288001,HB3YEJ,Andreas ,Schleitheim,Schaffhausen,CHE
+2288002,HB9WOF,Reto ,Winterthur,Winterthur,CHE
+2288003,HB9WOF,Reto ,Winterthur,Winterthur,CHE
+2288004,HB9WOF,Reto ,Winterthur,Winterthur,CHE
+2288005,HB9WOF,Reto ,Winterthur,Winterthur,CHE
+2288006,HB9ESL,Max ,Wetzikon,Hinwil,CHE
+2288007,HB9LCQ,Dani ,Kilchberg,Zuerich,CHE
+2288008,HB9TSP,Simon ,Jona,Zuerich,CHE
 2288009,HB9ZAZ,Ueli Rieser,Zuerich,Zuerich und Thurgau,CHE
 2288010,HB9PJT,Peter Sidler,Affoltern am Albis,Zuerich und Thurgau,CHE
 2288011,HB9ZAZ,Ueli Rieser,Zuerich,Zuerich und Thurgau,CHE
-2288012,HB3YZE,Michi No_name,Kloten,Zuerich,CHE
+2288012,HB3YZE,Michi ,Kloten,Zuerich,CHE
 2288013,HB9ZCY,Urs Katz,Zuerich,Zuerich und Thurgau,CHE
-2288014,HB3YEJ,Andreas No_name,Schleitheim,Schaffhausen,CHE
-2288015,HB3YZE,Michi No_name,Kloten,Zuerich,CHE
-2288016,HB9TTQ,Stefan No_name,Birmensdorf,Zuerich,CHE
-2288017,HB9WNT,Roland No_name,Winterthur,Winterthur,CHE
-2288018,HB9WNT,Roland No_name,Winterthur,Winterthur,CHE
-2288019,HB9WNT,Roland No_name,Winterthur,Winterthur,CHE
-2288020,HB9WNT,Roland No_name,Winterthur,Winterthur,CHE
-2288021,HB9DRX,Nick No_name,Maennedorf,Zuerich,CHE
+2288014,HB3YEJ,Andreas ,Schleitheim,Schaffhausen,CHE
+2288015,HB3YZE,Michi ,Kloten,Zuerich,CHE
+2288016,HB9TTQ,Stefan ,Birmensdorf,Zuerich,CHE
+2288017,HB9WNT,Roland ,Winterthur,Winterthur,CHE
+2288018,HB9WNT,Roland ,Winterthur,Winterthur,CHE
+2288019,HB9WNT,Roland ,Winterthur,Winterthur,CHE
+2288020,HB9WNT,Roland ,Winterthur,Winterthur,CHE
+2288021,HB9DRX,Nick ,Maennedorf,Zuerich,CHE
 2288022,HB9DR,Club Digitalrc,Waedenswil,Zuerich und Thurgau,CHE
-2288023,HB9DRX,Nick No_name,Maennedorf,Zuerich,CHE
-2288024,HB9DRX,Nick No_name,Maennedorf,Zuerich,CHE
-2288025,HB9DRX,Nick No_name,Maennedorf,Zuerich,CHE
-2288026,HB9MNP,Ernst No_name,Hinwil,Zuerich,CHE
-2288027,HB9MNP,Ernst No_name,Hinwil,Zuerich,CHE
-2288028,HB9IRM,Mario No_name,Richterswil,Zuerich,CHE
-2288029,HB9IRM,Mario No_name,Richterswil,Zuerich,CHE
-2288030,HB9EUK,Benjamin No_name,Meilen,Zuerich,CHE
-2288031,HB9EUK,Benjamin No_name,Meilen,Zuerich,CHE
-2288032,HB3YEO,Gebi No_name,Richterswil,Zuerich,CHE
+2288023,HB9DRX,Nick ,Maennedorf,Zuerich,CHE
+2288024,HB9DRX,Nick ,Maennedorf,Zuerich,CHE
+2288025,HB9DRX,Nick ,Maennedorf,Zuerich,CHE
+2288026,HB9MNP,Ernst ,Hinwil,Zuerich,CHE
+2288027,HB9MNP,Ernst ,Hinwil,Zuerich,CHE
+2288028,HB9IRM,Mario ,Richterswil,Zuerich,CHE
+2288029,HB9IRM,Mario ,Richterswil,Zuerich,CHE
+2288030,HB9EUK,Benjamin ,Meilen,Zuerich,CHE
+2288031,HB9EUK,Benjamin ,Meilen,Zuerich,CHE
+2288032,HB3YEO,Gebi ,Richterswil,Zuerich,CHE
 2288033,HB3YGV,Horst Steinhauser,Winterthur,Zuerich,CHE
 2288034,HB9BHL,Fritz Hohermuth,Hittnau,Zuerich und Thurgau,CHE
-2288035,HB9ERT,Marc No_name,Winterthur,Zuerich,CHE
-2288036,HB9CCQ,Franz No_name,Zuerich,Zuerich,CHE
-2288037,HB9CCQ,Franz No_name,Zuerich,Zuerich,CHE
-2288038,HB9JBP,Markus No_name,Duebendorf,Zuerich,CHE
-2288039,HB9JBP,Markus No_name,Duebendorf,Zuerich,CHE
-2288040,HB3YLN,Fritz No_name,Winterthur,Zuerich,CHE
-2288041,HB3YLN,Fritz No_name,Winterthur,Zuerich,CHE
-2288042,HB3YLN,Fritz No_name,Winterthur,Zuerich,CHE
-2288043,HB3YLN,Fritz No_name,Winterthur,Zuerich,CHE
-2288044,HB9TTI,Ueli No_name,Wollerau,Schwyz,CHE
-2288045,HB9TTI,Ueli No_name,Wollerau,Schwyz,CHE
-2288046,HB9ZEI,Max No_name,Stadel,Zuerich,CHE
-2288047,HB9ZEI,Max No_name,Stadel,Zuerich,CHE
-2288048,HB9ZIC,Dany No_name,Neerach,Zuerich,CHE
-2288049,HB9FSU,Hans-Joerg No_name,Ebmatingen,Zuerich und Thurgau,CHE
-2288050,HB9SJO,Roland No_name,Regensdorf,Zuerich,CHE
-2288051,HB9DSY,Frank No_name,Zuerich,Zuerich,CHE
-2288052,HB9LEH,Juerg No_name,Zuerich,Zuerich,CHE
-2288053,HB9EMG,Andy No_name,Russikon,Zuerich,CHE
-2288054,HB9ZDU,Bruno No_name,Rudolfstetten,Aargau,CHE
-2288055,HB9LBX,Heinz No_name,Fehraltorf,Zuerich,CHE
-2288056,HB3YAU,Josef No_name,Zuerich,Zuerich,CHE
-2288057,HB9RIU,Georg No_name,Zuerich,Zuerich,CHE
-2288058,HB9MXQ,Peter No_name,Uster,Zuerich,CHE
-2288059,HB9EPQ,Werner No_name,Bauma,Zuerich,CHE
+2288035,HB9ERT,Marc ,Winterthur,Zuerich,CHE
+2288036,HB9CCQ,Franz ,Zuerich,Zuerich,CHE
+2288037,HB9CCQ,Franz ,Zuerich,Zuerich,CHE
+2288038,HB9JBP,Markus ,Duebendorf,Zuerich,CHE
+2288039,HB9JBP,Markus ,Duebendorf,Zuerich,CHE
+2288040,HB3YLN,Fritz ,Winterthur,Zuerich,CHE
+2288041,HB3YLN,Fritz ,Winterthur,Zuerich,CHE
+2288042,HB3YLN,Fritz ,Winterthur,Zuerich,CHE
+2288043,HB3YLN,Fritz ,Winterthur,Zuerich,CHE
+2288044,HB9TTI,Ueli ,Wollerau,Schwyz,CHE
+2288045,HB9TTI,Ueli ,Wollerau,Schwyz,CHE
+2288046,HB9ZEI,Max ,Stadel,Zuerich,CHE
+2288047,HB9ZEI,Max ,Stadel,Zuerich,CHE
+2288048,HB9ZIC,Dany ,Neerach,Zuerich,CHE
+2288049,HB9FSU,Hans-Joerg ,Ebmatingen,Zuerich und Thurgau,CHE
+2288050,HB9SJO,Roland ,Regensdorf,Zuerich,CHE
+2288051,HB9DSY,Frank ,Zuerich,Zuerich,CHE
+2288052,HB9LEH,Juerg ,Zuerich,Zuerich,CHE
+2288053,HB9EMG,Andy ,Russikon,Zuerich,CHE
+2288054,HB9ZDU,Bruno ,Rudolfstetten,Aargau,CHE
+2288055,HB9LBX,Heinz ,Fehraltorf,Zuerich,CHE
+2288056,HB3YAU,Josef ,Zuerich,Zuerich,CHE
+2288057,HB9RIU,Georg ,Zuerich,Zuerich,CHE
+2288058,HB9MXQ,Peter ,Uster,Zuerich,CHE
+2288059,HB9EPQ,Werner ,Bauma,Zuerich,CHE
 2288060,HB9DSF,Peter Meroni,Horgen,Zuerich,CHE
-2288061,HB9EHE,Thomas No_name,Hittnau,Zuerich,CHE
+2288061,HB9EHE,Thomas ,Hittnau,Zuerich,CHE
 2288062,HB9TPX,Reto Voser,Birmensdorf,Zuerich,CHE
 2288063,HB9AZT,Markus Schleutermann,Tagelswangen,Zuerich,CHE
 2288064,HB9SXQ,Eduard Baertschi,Kleinandelfingen,Zuerich,CHE
@@ -1387,29 +1392,29 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2288178,HB9FIH,Rieder Erich,Waedenswil,Zuerich und Thurgau,CHE
 2288179,HB3YGH,Fabian Sidler,Affoltern am Albis,Zuerich und Thurgau,CHE
 2288180,HB9PJT,Peter Sidler,Affoltern am Albis,Zuerich und Thurgau,CHE
-2288181,HB9IQY,Daniel No_name,Biel,Zuerich und Thurgau,CHE
+2288181,HB9IQY,Daniel ,Biel,Zuerich und Thurgau,CHE
 2288182,HB9DDS,Daniel Schaeffler,Zuerich,Zuerich und Thurgau,CHE
-2288183,HB3YBX,Roger No_name,no_city,Zuerich und Thurgau,CHE
-2288184,HB9PLB,Konrad No_name,Truttikon,Zuerich und Thurgau,CHE
+2288183,HB3YBX,Roger ,no_city,Zuerich und Thurgau,CHE
+2288184,HB9PLB,Konrad ,Truttikon,Zuerich und Thurgau,CHE
 2288185,HB9DQM,Manuel Kasper,Andelfingen,Zuerich und Thurgau,CHE
 2288186,HB9BRJ,Markus Leggenhager,Schaffhausen,Zuerich und Thurgau,CHE
 2288187,HB9UAG,Raffaele Sogno,Felben-Wellhausen,Zuerich und Thurgau,CHE
 2288188,HB9FVR,Silvan Mumenthaler,Romanshorn,Zuerich und Thurgau,CHE
-2288189,HB9FF,Funkerfreunde No_name,Zurich,Zuerich und Thurgau,CHE
+2288189,HB9FF,Funkerfreunde ,Zurich,Zuerich und Thurgau,CHE
 2288190,HB9ZCY,Urs Katz,Zurich,Zuerich und Thurgau,CHE
 2288191,HB9FU,Funkgruppe Untersee,Stein am Rhein,Zuerich und Thurgau,CHE
 2288192,HB9TZX,Michael Banditt,Zuerich,Zuerich und Thurgau,CHE
-2288193,HB3YVH,Ivan No_name,no_city,Zuerich und Thurgau,CHE
-2288194,HB9CAC,Konrad No_name,Thayngen,Zuerich und Thurgau,CHE
+2288193,HB3YVH,Ivan ,no_city,Zuerich und Thurgau,CHE
+2288194,HB9CAC,Konrad ,Thayngen,Zuerich und Thurgau,CHE
 2288195,HB9TPT,Guido Frohli,Horgen,Ostschweiz,CHE
 2288196,HB9LEK,Martin Neukomm,Illnau,Zuerich und Thurgau,CHE
 2288197,HB9GPG,Heinz Wortmann,Schaffhausen,Zuerich und Thurgau,CHE
 2288198,HB9STW,Thomas Bertolf,Balterswil,Zuerich und Thurgau,CHE
-2288199,HB3YZL,Heinz No_name,Mesenzana,Zuerich und Thurgau,CHE
+2288199,HB3YZL,Heinz ,Mesenzana,Zuerich und Thurgau,CHE
 2288200,HB9XXX,Id Blocked,Zurich,Zuerich und Thurgau,CHE
 2288201,HB9FFP,Peter Schmid,Bottighofen,Zuerich und Thurgau,CHE
 2288202,HB3YPI,Silvio Aldighieri,Uerikon,Zuerich und Thurgau,CHE
-2288203,HB9FGX,Lukas No_name,Bellinzona,Zuerich und Thurgau,CHE
+2288203,HB9FGX,Lukas ,Bellinzona,Zuerich und Thurgau,CHE
 2288204,HB9EGA,Marcin Korona,Zurich,Zuerich und Thurgau,CHE
 2288205,HB9GZY,Roland Guarlotti,Hemishofen,Zuerich und Thurgau,CHE
 2288206,HB9TQD,Stefan Nyffenegger,Urdorf,Zuerich und Thurgau,CHE
@@ -1419,10 +1424,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2288210,HB9BTE,Peter Thalmann,Meilen,Zuerich und Thurgau,CHE
 2288211,HB9EWB,Salvatore Bencivenga,Zurich,Zuerich und Thurgau,CHE
 2288212,HB9RMW,Leander Gutzwiller,Mettmwenstetten,Zuerich und Thurgau,CHE
-2288213,HB9LFK,Stefan No_name,no_city,Zuerich und Thurgau,CHE
+2288213,HB9LFK,Stefan ,no_city,Zuerich und Thurgau,CHE
 2288214,HB9IQR,Emanuel Schadegg,Glarus,Zuerich und Thurgau,CHE
 2288215,HB9FVR,Silvan Mumenthaler,Romanshorn,Zuerich und Thurgau,CHE
-2288216,HB3YZX,Michael No_name,Wila,Zuerich und Thurgau,CHE
+2288216,HB3YZX,Michael ,Wila,Zuerich und Thurgau,CHE
 2288217,HB9TQH,Hans Peter,no_city,Zuerich und Thurgau,CHE
 2288218,HB9XJ,Hans Buehler,Zuerich,Zuerich und Thurgau,CHE
 2288219,HB9THI,Alexander Angst,Giswil,Zuerich und Thurgau,CHE
@@ -1443,21 +1448,21 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2288234,HB9RPU,Felix Telli,Wetzikon,Zuerich und Thurgau,CHE
 2288235,HB9ZCF,Kurt Steiger,Kloten,Zuerich und Thurgau,CHE
 2288236,HB3YVX,Fabian Eichmann,Zuerich,Zuerich und Thurgau,CHE
-2288237,HB3YRW,Philipp No_name,no_city,Zuerich und Thurgau,CHE
+2288237,HB3YRW,Philipp ,no_city,Zuerich und Thurgau,CHE
 2288238,HB9TLH,Thomas Ruch,Hemishofen,Zuerich und Thurgau,CHE
-2288239,HB9GSX,Roberto No_name,Zuerich,Zuerich und Thurgau,CHE
+2288239,HB9GSX,Roberto ,Zuerich,Zuerich und Thurgau,CHE
 2288240,HB9EZE,Bruno Jun,Zuerich,Zuerich und Thurgau,CHE
-2288241,HB9GSW,Beat No_name,Zuerich,Zuerich und Thurgau,CHE
+2288241,HB9GSW,Beat ,Zuerich,Zuerich und Thurgau,CHE
 2288242,HB9EMD,Nebojsa Paunovic,Thalwil,Zuerich und Thurgau,CHE
 2288243,HB3YLQ,Daniel Robin,Zuerich,Zuerich und Thurgau,CHE
 2288244,HB3YYU,Ingo Kohler,Uster,Zuerich und Thurgau,CHE
-2288245,HB9FLY,Isabella No_name,no_city,Zuerich und Thurgau,CHE
+2288245,HB9FLY,Isabella ,no_city,Zuerich und Thurgau,CHE
 2288246,HB3XPA,Florian Gutzwiller,Zuerich,Zuerich und Thurgau,CHE
-2288247,HB3YTS,Martin No_name,no_city,Zuerich und Thurgau,CHE
+2288247,HB3YTS,Martin ,no_city,Zuerich und Thurgau,CHE
 2288248,HB9FSV,Martin Schwarz,Schaffhausen,Zuerich und Thurgau,CHE
 2288249,HB9SH,Uska Sektion,Schaffhausen,Zuerich und Thurgau,CHE
-2288250,HB9GIJ,Rudolf No_name,no_city,Zuerich und Thurgau,CHE
-2288251,HB9GUT,Richard No_name,no_city,Zuerich und Thurgau,CHE
+2288250,HB9GIJ,Rudolf ,no_city,Zuerich und Thurgau,CHE
+2288251,HB9GUT,Richard ,no_city,Zuerich und Thurgau,CHE
 2288252,HB9OOA,Amstad Michael,Tagerwilen,Zuerich und Thurgau,CHE
 2288253,HB3YXR,Marcel Martel-Reichmuth,Regensdorf,Zuerich und Thurgau,CHE
 2288254,HB9GNT,Rene Lobsiger,Adlikon,Zuerich und Thurgau,CHE
@@ -1467,8 +1472,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2288258,HB9GVS,Alex Schremmer,Zurich,Zuerich und Thurgau,CHE
 2288259,HB9GVR,Roberto Munafo,Buerglen,Zuerich und Thurgau,CHE
 2288260,HB9DRN,Mark Huerlemann,Wallenwil,Zuerich und Thurgau,CHE
-2288261,HB9GVM,Martin No_name,Private,Zuerich und Thurgau,CHE
-2288262,HB3YJY,Marco No_name,Sulgen,No_name,CHE
+2288261,HB9GVM,Martin ,Private,Zuerich und Thurgau,CHE
+2288262,HB3YJY,Marco ,Sulgen,No_name,CHE
 2288263,HB9ZBV,Rino Zanoni,Hochfelden,Zuerich und Thurgau,CHE
 2288264,HB9XOF,Roman Antink,Winterthur,No_name,CHE
 2288265,HB3XRP,Pascal Hammerli,Wetzikon,Zuerich und Thurgau,CHE
@@ -1486,7 +1491,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2288277,HB3YTX,Stefan Zahnd,Benken,Zuerich und Thurgau,CHE
 2288278,HB9GVR,Roberto Munafo,Buerglen,No_name,CHE
 2288279,HB9FIY,Christopher Astbury,Zuerich,Zuerich und Thurgau,CHE
-2288280,HB9GXQ,Manuela No_name,Buerglen,No_name,CHE
+2288280,HB9GXQ,Manuela ,Buerglen,No_name,CHE
 2288281,HB3YVB,Rolf Zengaffinen,Zuerich,No_name,CHE
 2288282,HB9AK,Rms Winlink,Neuenegg,No_name,CHE
 2288283,HB9GKP,Petru Paler,Adliswil,No_name,CHE
@@ -1518,42 +1523,42 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2288309,HB9GVF,Fabian Eichmann,Zuerich,Zuerich und Thurgau,CHE
 2288310,HB3XTO,Paul Odermatt,Oetwil am See,Zuerich und Thurgau,CHE
 2288311,HB9HBI,Marco Bolliger,Schindellegi,Zuerich und Thurgau,CHE
-2288312,HB3XUC,Chris No_name,Amriswil,Zuerich und Thurgau,CHE
-2288313,HB9RTV,Peter No_name,Reutlingen,Zuerich und Thurgau,CHE
-2288314,HB9RRL,Rolf No_name,Schwanden,Zuerich und Thurgau,CHE
-2288315,HB9NFO,Notfunkostschweiz No_name,Romanshorn,Zuerich und Thurgau,CHE
-2288316,HB9HDC,Maik No_name,Uitikon,Zuerich und Thurgau,CHE
+2288312,HB3XUC,Chris ,Amriswil,Zuerich und Thurgau,CHE
+2288313,HB9RTV,Peter ,Reutlingen,Zuerich und Thurgau,CHE
+2288314,HB9RRL,Rolf ,Schwanden,Zuerich und Thurgau,CHE
+2288315,HB9NFO,Notfunkostschweiz ,Romanshorn,Zuerich und Thurgau,CHE
+2288316,HB9HDC,Maik ,Uitikon,Zuerich und Thurgau,CHE
 2288317,HB3XUN,Digital Club,Waedenswil,Zuerich und Thurgau,CHE
 2288318,HB9LBR,Rolf Tschumi,Waedenswil,Zuerich und Thurgau,CHE
 2288319,HB9HCQ,Marius Matter,Berikon,.,CHE
-2288320,HB9WAV,Peter No_name,Mettmenstetten,Zuerich und Thurgau,CHE
+2288320,HB9WAV,Peter ,Mettmenstetten,Zuerich und Thurgau,CHE
 2288321,HB9GYI,Crispin Tschirky,Tagelswangen,Crispin,CHE
-2288322,HB9HDZ,Hans No_name,Embrach,Zh-Tg,CHE
-2288323,HB9HEM,Mark No_name,Zurich,Zh-Tg,CHE
-2288324,HB9HDM,Michi No_name,Zuerich,No_name,CHE
-2288325,HB9GSS,Stephan No_name,Zurich,Stephan,CHE
-2288326,HB9HEX,Fabian No_name,Opfikon,No_name,CHE
-2288327,HB9CCS,Wolfgang No_name,Zuerich,No_name,CHE
-2288328,HB9EKO,Jens No_name,Buelach,No_name,CHE
-2288329,HB3XVE,Lothar No_name,Zurich,No_name,CHE
+2288322,HB9HDZ,Hans ,Embrach,Zh-Tg,CHE
+2288323,HB9HEM,Mark ,Zurich,Zh-Tg,CHE
+2288324,HB9HDM,Michi ,Zuerich,No_name,CHE
+2288325,HB9GSS,Stephan ,Zurich,Stephan,CHE
+2288326,HB9HEX,Fabian ,Opfikon,No_name,CHE
+2288327,HB9CCS,Wolfgang ,Zuerich,No_name,CHE
+2288328,HB9EKO,Jens ,Buelach,No_name,CHE
+2288329,HB3XVE,Lothar ,Zurich,No_name,CHE
 2288330,HB9HBT,Tom Heierle,Duernten,Zh-Tg,CHE
-2288331,HB3XUX,Andy No_name,Meilen,.,CHE
-2288332,HB9HCP,Bruno No_name,Oberwil-Lieli,.,CHE
+2288331,HB3XUX,Andy ,Meilen,.,CHE
+2288332,HB9HCP,Bruno ,Oberwil-Lieli,.,CHE
 2288333,HB3XUD,Walter Bollier,Einsiedeln,Sz,CHE
-2288334,HB9HGP,Patrick No_name,Birchwil,.,CHE
-2288335,HB9HHQ,Stefan No_name,Staefa,.,CHE
+2288334,HB9HGP,Patrick ,Birchwil,.,CHE
+2288335,HB9HHQ,Stefan ,Staefa,.,CHE
 2288336,HB9CIG,Henry Salzmann,Uitikon Waldegg,.,CHE
 2288337,HB9AN,Amateur 2000,Kilchberg,.,CHE
-2288338,HB9BIS,Rene No_name,Uitikon Waldegg,.,CHE
+2288338,HB9BIS,Rene ,Uitikon Waldegg,.,CHE
 2288339,HB9HJK,Akio Kaesermann,Winterthur,Zurich,CHE
-2288340,HB3XWY,Roman No_name,Schoenholzerswilen,.,CHE
+2288340,HB3XWY,Roman ,Schoenholzerswilen,.,CHE
 2288424,HB9EPF,Peter Brunner,Embrach,Zuerich und Thurgau,CHE
 2288542,HB9ANF,Hans-Joerg Spring,Wiesendangen,Zuerich und Thurgau,CHE
 2288822,HB9SDB,Rolf Tschumi,Waedenswil,Zuerich und Thurgau,CHE
 2288867,HB9BXQ,Renato Schlittler,Zuerich,Zuerich und Thurgau,CHE
-2289000,HB9SG,Funkamateure No_name,St.Gallen,Ostschweiz,CHE
+2289000,HB9SG,Funkamateure ,St.Gallen,Ostschweiz,CHE
 2289001,HB9SOF,Charly Strassmann,Bettwiesen,Zuerich und Thurgau,CHE
-2289002,HB9SWR,Werner No_name,Trogen,Ostschweiz,CHE
+2289002,HB9SWR,Werner ,Trogen,Ostschweiz,CHE
 2289003,HB3YKN,Sandro Graf,Arbon,Ostschweiz,CHE
 2289004,HB9TIM,Andreas Kozma,Goldach,Ostschweiz,CHE
 2289005,HB9ASF,Franz Sigg,Rheineck,Ostschweiz,CHE
@@ -1588,10 +1593,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2289034,HB9MTJ,Walter Hutter,Kriessern,Ostschweiz,CHE
 2289035,HB9FGC,Rade Markovic,Niederuzwil,Ostschweiz,CHE
 2289036,HB9BEP,Michael Reinhold,Grabs,Ostschweiz,CHE
-2289037,HB9EKI,Franco No_name,Diepoldsau,Ostschweiz,CHE
+2289037,HB9EKI,Franco ,Diepoldsau,Ostschweiz,CHE
 2289038,HB9EUQ,Leandro Brassel,Altstaetten,Ostschweiz,CHE
 2289039,HB9FVF,Matthias Sen,Wolfhalden,Ostschweiz,CHE
-2289040,HB9DWD,Urban No_name,no_city,Ostschweiz,CHE
+2289040,HB9DWD,Urban ,no_city,Ostschweiz,CHE
 2289041,HB9DQL,Jurg Solenthaler,Wald,Ostschweiz,CHE
 2289042,HB9DQK,Daniel Venzin,Widnau,Ostschweiz,CHE
 2289043,HB9WG,Erich Ulmann,St.Gallen,Ostschweiz,CHE
@@ -1599,26 +1604,26 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2289045,HB9AKC,Carl Clauss,Horn,Ostschweiz,CHE
 2289046,HB9GNK,Erwin Lander,Wil,Ostschweiz,CHE
 2289047,HB9KNO,Carl Palatini,Untereggen,Ostschweiz,CHE
-2289048,HB9DWD,Urban No_name,no_city,Ostschweiz,CHE
+2289048,HB9DWD,Urban ,no_city,Ostschweiz,CHE
 2289049,HB9KOG,Robert Sutter,St.Gallen,Ostschweiz,CHE
-2289050,HB9TIP,Marinus No_name,Bern,Ostschweiz,CHE
+2289050,HB9TIP,Marinus ,Bern,Ostschweiz,CHE
 2289051,HB9EVD,Jack Braunwalder,Wilen,Ostschweiz,CHE
 2289052,HB9BZC,Kurt Hirschi,St.Gallen,Ostschweiz,CHE
 2289053,HB9KOO,Reto Lareida,Engelburg,Ostschweiz,CHE
 2289054,HB9FFY,Roman Krapf,Roggwil,Ostschweiz,CHE
-2289055,HB3YGP,Paul No_name,Ostschweiz,Ostschweiz,CHE
+2289055,HB3YGP,Paul ,Ostschweiz,Ostschweiz,CHE
 2289056,HB9TNW,Celso Bassanello,St.Gallen,Ostschweiz,CHE
 2289057,HB9BFY,Peter Aeschlimann,Walzenhausen,Ostschweiz,CHE
 2289058,HB9FES,Daniel Scheuss,Herisau,Ostschweiz,CHE
 2289059,HB9CMP,Alex Klingler,Widnau,Ostschweiz,CHE
-2289060,HB9DHH,Rene No_name,no_city,Ostschweiz,CHE
-2289061,HB9TKE,Johannes No_name,Bern,Ostschweiz,CHE
+2289060,HB9DHH,Rene ,no_city,Ostschweiz,CHE
+2289061,HB9TKE,Johannes ,Bern,Ostschweiz,CHE
 2289062,HB9AJF,Ernst Manser,Bern,Ostschweiz,CHE
 2289063,HB9EMZ,Harry Giger,Bussnang,Ostschweiz,CHE
 2289064,HB3YWF,Franz Willi,St.Gallen,Ostschweiz,CHE
 2289065,HB9FUT,Timm Schneider,Muenchwilen,Ostschweiz,CHE
-2289066,HB9BIPI,Scoutnet No_name,Scoutnet Schweiz,No_name,CHE
-2289067,HB3YBV,Andreas No_name,no_city,Ostschweiz,CHE
+2289066,HB9BIPI,Scoutnet ,Scoutnet Schweiz,No_name,CHE
+2289067,HB3YBV,Andreas ,no_city,Ostschweiz,CHE
 2289068,HB3YDM,Martin Waldispuehl,Wilen,Ostschweiz,CHE
 2289069,HB9FUE,Patrick Oberholzer,Bischofszell,Ostschweiz,CHE
 2289070,HB9CMI,Peter Altschul,Waengi,Ostschweiz,CHE
@@ -1628,13 +1633,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2289074,HB3YDT,Daniel Kaserer,Tagerschen,Ostschweiz,CHE
 2289075,HB9GPX,David Luber,Lauterach,Ostschweiz,CHE
 2289076,HB9EZX,Nassos Petrou,Moerschwil,Ostschweiz,CHE
-2289077,HB9GPJ,Tomislav No_name,no_city,Ostschweiz,CHE
+2289077,HB9GPJ,Tomislav ,no_city,Ostschweiz,CHE
 2289078,HB9DGR,Reinhold Erdmann,Rebstein,Ostschweiz,CHE
 2289079,HB9EIJ,Martin Jung,Rossruti,Ostschweiz,CHE
 2289080,HB9TMR,Hans Rudisuhli,Frumsen,Ostschweiz,CHE
 2289081,HB9DPM,Ernst Oehninger,Bazenheid,Ostschweiz,CHE
 2289082,HB3XPJ,Ralf Mader,St.Gallen,No_name,CHE
-2289083,HB9TUT,Michael No_name,St.Gallen,Sankt Gallen,CHE
+2289083,HB9TUT,Michael ,St.Gallen,Sankt Gallen,CHE
 2289084,HB3YBF,Patrick Kern,Gossau,Sankt Gallen,CHE
 2289085,HB9DWK,Fiorello Epper,Gossau,No_name,CHE
 2289086,HB9TRO,Roland Noll,Schwarzenbach,Ostschweiz,CHE
@@ -1645,20 +1650,20 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2289091,HB9ZGZ,Cyrill Schmid,Muenchwilen,No_name,CHE
 2289092,HB9GYB,Patrick Kern,Gossau,Sankt Gallen,CHE
 2289093,HB9DKC,Rudolf Clausen,Widnau,No_name,CHE
-2289094,HB9BEF,Wilfried No_name,Tubach,No_name,CHE
+2289094,HB9BEF,Wilfried ,Tubach,No_name,CHE
 2289095,HB3YJZ,Markus Ross,Flawil,No_name,CHE
 2289096,HB9DXB,Sven Wismer,Flawil,Stgalle,CHE
-2289097,HB9HBF,Beat No_name,Wolfhalden,Ostschweiz,CHE
-2289098,HB9DKC,Ruedi No_name,Widnau,Ostschweiz,CHE
-2289099,HB9ENE,Michael No_name,Tobel-Taegerschen,Ostschweiz,CHE
+2289097,HB9HBF,Beat ,Wolfhalden,Ostschweiz,CHE
+2289098,HB9DKC,Ruedi ,Widnau,Ostschweiz,CHE
+2289099,HB9ENE,Michael ,Tobel-Taegerschen,Ostschweiz,CHE
 2289100,HB3XUP,Florian Florian,Waldkirch,Ostschweiz,CHE
 2289101,HB9HEW,Michael Mohr,Engelburg,No_name,CHE
 2289102,HB9DVZ,Andre Jalkoczi,Sevelen Sg,.,CHE
-2289103,HB9FUG,Juerg No_name,Schwellbrunn,Ausserrhoden,CHE
-2289104,HB9BZY,Jakob No_name,Au/sg,.,CHE
-2289105,HB9SRD,Jakob No_name,Goldach,Stno_infogallen,CHE
+2289103,HB9FUG,Juerg ,Schwellbrunn,Ausserrhoden,CHE
+2289104,HB9BZY,Jakob ,Au/sg,.,CHE
+2289105,HB9SRD,Jakob ,Goldach,Stno_infogallen,CHE
 2289106,HB9HJQ,Christian Egger,Moerschwil,Stno_info Gallen,CHE
-2289107,HB3XWP,Dirk No_name,Ganterschwil,.,CHE
+2289107,HB3XWP,Dirk ,Ganterschwil,.,CHE
 2320010,OE1XAR,Oevsv Lv Wien,Wien,WIEN,AUT
 2320011,OE5XWM,Clubstation Wels,Wels,KTN,AUT
 2320012,OE8WUK,Walter Unterberger,Klagenfurt,KTN,AUT
@@ -1694,7 +1699,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2320042,OE3VYB,Reinhard Mick,Bad Voeslau,NOE,AUT
 2320043,OE3YLR,Larissa Rentmeister,Neulengbach,NOE,AUT
 2320044,OE7HDJ,Robert Huber,Pill,TIROL,AUT
-2320045,OE1EKG,Erwin Grabler,Wien,WIEN,AUT
+2320045,OE1EKG,Erwin Karl Grabler,Wien,NOE,AUT
 2320046,OE1DWD,Wolfgang Dusek,Wien,WIEN,AUT
 2320047,OE5HNG,Guenter Hangl,Tumeltsham,OOE,AUT
 2320048,OE9KHJ,Kurt Haemmerle,Dornbirn,VBG,AUT
@@ -1781,17 +1786,21 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2320129,OE5HOR,Gerhard Hoertenhummer,Ohlsdorf,OOE,AUT
 2320130,OE6CHD,Christof Dallermassl,Graz,.,AUT
 2320131,OE5WEO,Peter Wessely,Voecklabruck,OOE,AUT
+2320132,OE7PHT,Hermann Plank,Silz,TIROL,AUT
+2320133,OE5PBO,Peter Baumgartl,Pinsdorf,OOE,AUT
+2320134,OE8AIF,Andreas Hackl,Spittal An der Drau,KTN,AUT
+2320135,OE5WAQ,Andreas Weinzierl,Wels,KTN,AUT
 2321001,OE1KBC,Kurt Baumann,Wien,WIEN,AUT
 2321002,OE1KBC,Kurt Baumann,Wien,WIEN,AUT
 2321003,OE1KBC,Kurt Baumann,Wien,WIEN,AUT
-2321004,OE1TKT,Tom no_name,Wien,WIEN,AUT
+2321004,OE1TKT,Tom ,Wien,WIEN,AUT
 2321005,OE1RBC,Roman Binder,Wien,WIEN,AUT
 2321006,OE1NKC,Nail Klisura,Wien,WIEN,AUT
 2321007,OE1RPW,Peter Roditsch,Wien,WIEN,AUT
 2321008,OE1AZS,Andreas Schmid-Zartner,Wien,WIEN,AUT
-2321009,OE1RXW,No_name no_name,Wien,WIEN,AUT
-2321010,OE1ODS,No_name no_name,Wien,WIEN,AUT
-2321011,OE1OCB,No_name no_name,Wien,WIEN,AUT
+2321009,OE1RXW,No_name ,Wien,WIEN,AUT
+2321010,OE1ODS,No_name ,Wien,WIEN,AUT
+2321011,OE1OCB,No_name ,Wien,WIEN,AUT
 2321012,OE1WLA,Werner Lehner,Wien,WIEN,AUT
 2321013,OE1RGU,Robert Gilge,Wien,WIEN,AUT
 2321014,OE1RFC,Clemens Hopfer,Wien,WIEN,AUT
@@ -1800,34 +1809,34 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2321017,OE1TKS,Thomas Koch,Wien,WIEN,AUT
 2321018,OE1AFU,Alexander Farago,Wien,WIEN,AUT
 2321019,OE1UPS,Peter Schlegelgruber,Wien,WIEN,AUT
-2321020,OE1AMA,No_name no_name,Wien,WIEN,AUT
-2321021,OE1NHC,Norbert no_name,Wien,WIEN,AUT
+2321020,OE1AMA,No_name ,Wien,WIEN,AUT
+2321021,OE1NHC,Norbert ,Wien,WIEN,AUT
 2321022,OE1GPA,Gerald Pechoc,Wien,WIEN,AUT
 2321023,OE1WBC,Walter Bieringer,Wien,WIEN,AUT
 2321024,OE1LBS,Lukas Bachschwell,Wien,WIEN,AUT
 2321025,OE1KDA,Krzysztof Dabrowski,Wien,WIEN,AUT
 2321026,OE1WBS,Wolfgang Bachschwell,Wien,WIEN,AUT
 2321027,OE1HXA,Peter Haas,Wien,WIEN,AUT
-2321028,OE1DZS,No_name no_name,Wien,WIEN,AUT
+2321028,OE1DZS,No_name ,Wien,WIEN,AUT
 2321029,OE1UMS,Martin Stockhammer,Wien,WIEN,AUT
 2321030,OE1CMW,Michael Wurzinger,Wien,WIEN,AUT
 2321031,OE1HWS,Herbert Waloschek,Wien,WIEN,AUT
 2321032,OE1AMM,Michael Antolini,Wien,WIEN,AUT
-2321033,OE1LFB,No_name no_name,Wien,WIEN,AUT
+2321033,OE1LFB,No_name ,Wien,WIEN,AUT
 2321034,OE1JXS,Jan Barthel,Wien,WIEN,AUT
 2321035,OE1XMB,Club Icom Radio,Wien,WIEN,AUT
 2321036,OE1CUC,Christian Wutscher,Wien,WIEN,AUT
 2321037,OE1VZ,Werner Hochgoetz,Wien,WIEN,AUT
-2321038,OE1SRC,Hans no_name,Wien,WIEN,AUT
+2321038,OE1SRC,Hans ,Wien,WIEN,AUT
 2321039,OE1SGW,Gregor Sobotka,Wien,WIEN,AUT
 2321040,OE1PHS,Heribert Puchardt,Wien,WIEN,AUT
 2321041,OE1PZC,Peter Zoechling,Wien,WIEN,AUT
 2321042,OE1RIC,Richard Menedetter,Wien,WIEN,AUT
 2321043,OE1WKL,Willibald Kraml,Wien,WIEN,AUT
-2321044,OE1FRA,No_name no_name,Wien,WIEN,AUT
+2321044,OE1FRA,No_name ,Wien,WIEN,AUT
 2321045,OE1OWA,Oskar Wagner,Wien,WIEN,AUT
-2321046,OE1IKW,No_name no_name,Wien,WIEN,AUT
-2321047,OE1MIA,No_name no_name,Wien,WIEN,AUT
+2321046,OE1IKW,No_name ,Wien,WIEN,AUT
+2321047,OE1MIA,No_name ,Wien,WIEN,AUT
 2321048,OE1XNC,Oevsv Lv Wien,Wien,WIEN,AUT
 2321049,OE1XTK,Club Icom Radio,Wien,WIEN,AUT
 2321050,OE1SSU,Stefan Steininger,Wien,WIEN,AUT
@@ -1837,38 +1846,38 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2321054,OE1LRC,Ludwig Rausch,Wien,WIEN,AUT
 2321055,OE1AMS,Alexander Meier,Wien,WIEN,AUT
 2321056,OE1HWS,Herbert Waloschek,Wien,WIEN,AUT
-2321057,OE1VNA,Arne no_name,Wien,WIEN,AUT
+2321057,OE1VNA,Arne ,Wien,WIEN,AUT
 2321058,OE1GYA,Gustav Baumgartner,Wien,WIEN,AUT
-2321059,OE1DLA,No_name no_name,Wien,WIEN,AUT
-2321060,OE1KLM,Herwig no_name,Wien,WIEN,AUT
+2321059,OE1DLA,No_name ,Wien,WIEN,AUT
+2321060,OE1KLM,Herwig ,Wien,WIEN,AUT
 2321061,OE1ROB,Rupert Petsovits,Wien,WIEN,AUT
 2321062,OE1JXS,Jan Barthel,Wien,WIEN,AUT
 2321063,OE1JTB,Josef Tschapka,Wien,WIEN,AUT
-2321064,OE1VHS,No_name no_name,Wien,WIEN,AUT
+2321064,OE1VHS,No_name ,Wien,WIEN,AUT
 2321065,OE1OEA,Andreas Prokop,Wien,WIEN,AUT
 2321066,OE1VGC,Gregor Vehzely,Wien,WIEN,AUT
 2321067,OE1OWA,Oskar Wagner,Wien,WIEN,AUT
-2321068,OE1DLA,No_name no_name,Wien,WIEN,AUT
-2321069,OE1FEA,No_name no_name,Wien,WIEN,AUT
+2321068,OE1DLA,No_name ,Wien,WIEN,AUT
+2321069,OE1FEA,No_name ,Wien,WIEN,AUT
 2321070,OE1VRB,Roland Pfaffeneder,Wien,WIEN,AUT
 2321071,OE1AKA,Markus Krainz,Wien,WIEN,AUT
 2321072,OE1PYA,Peter Koenig,Wien,WIEN,AUT
 2321073,OE1SPS,Peter Schittelkopf,Wien,WIEN,AUT
 2321074,OE1LHU,Lukas Huber,Wien,WIEN,AUT
 2321075,OE1KHU,Karl Hengl,Wien,WIEN,AUT
-2321076,OE1ZEB,Robert no_name,Wien,WIEN,AUT
+2321076,OE1ZEB,Robert ,Wien,WIEN,AUT
 2321077,OE1MPB,Peter Mohr,Wien,WIEN,AUT
-2321078,OE1WFS,Werner no_name,Wien,WIEN,AUT
-2321079,OE1TMC,Thomas no_name,Wien,WIEN,AUT
+2321078,OE1WFS,Werner ,Wien,WIEN,AUT
+2321079,OE1TMC,Thomas ,Wien,WIEN,AUT
 2321080,OE1XIC,Club Icom Radio,Wien,WIEN,AUT
-2321081,OE1SJS,No_name no_name,Wien,WIEN,AUT
+2321081,OE1SJS,No_name ,Wien,WIEN,AUT
 2321082,OE1SWS,Wolfgang Stuckart,Wien,WIEN,AUT
 2321083,OE1EBC,Ernst Buchberger,Wien,WIEN,AUT
 2321084,OE1CGS,Christoph Schwaerzler,Wien,WIEN,AUT
 2321085,OE1PHB,Paul Hammerl,Wien,WIEN,AUT
 2321086,OE1FFS,Friedrich Frede,Wien,WIEN,AUT
-2321087,OE1MAB,No_name no_name,Wien,WIEN,AUT
-2321088,OE1RNQ,No_name no_name,Wien,WIEN,AUT
+2321087,OE1MAB,No_name ,Wien,WIEN,AUT
+2321088,OE1RNQ,No_name ,Wien,WIEN,AUT
 2321089,OE1OMK,Michael Knell,Wien,WIEN,AUT
 2321090,OE1OEB,Thomas Haden,Wien,WIEN,AUT
 2321091,OE1BAK,Benjamin Akhras,Wien,WIEN,AUT
@@ -1877,38 +1886,38 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2321094,OE1HAW,Georg Alberer Hans,Wien,WIEN,AUT
 2321095,OE1ABS,Arno Boehler,Wien,WIEN,AUT
 2321096,OE1YXS,Sylvia Bachschwell,Wien,WIEN,AUT
-2321097,OE4DEA,Denny No_name,Wien,WIEN,AUT
-2321098,OE1PSW,No_name no_name,Wien,WIEN,AUT
-2321099,OE1AMA,No_name no_name,Wien,WIEN,AUT
+2321097,OE4DEA,No_name ,no_city,,AUT
+2321098,OE1PSW,No_name ,Wien,WIEN,AUT
+2321099,OE1AMA,No_name ,Wien,WIEN,AUT
 2321100,OE1ROC,Werner Raul,Wien,WIEN,AUT
 2321101,OE1WDS,Wolfgang Detz,Wien,WIEN,AUT
-2321102,OE1BHS,Heinz no_name,Wien,WIEN,AUT
-2321103,OE1XMW,Metafunk no_name,Wien,WIEN,AUT
+2321102,OE1BHS,Heinz ,Wien,WIEN,AUT
+2321103,OE1XMW,Metafunk ,Wien,WIEN,AUT
 2321104,OE1GTU,Gerhard Rothfuss,Wien,WIEN,AUT
-2321105,OE1PSW,No_name no_name,Wien,WIEN,AUT
-2321106,OE1MSA,Manfred no_name,Wien,WIEN,AUT
-2321107,OE1MSA,Manfred no_name,Wien,WIEN,AUT
+2321105,OE1PSW,No_name ,Wien,WIEN,AUT
+2321106,OE1MSA,Manfred ,Wien,WIEN,AUT
+2321107,OE1MSA,Manfred ,Wien,WIEN,AUT
 2321108,OE1YHA,Herta Wasserburger,Wien,WIEN,AUT
 2321109,OE1GKS,Guenter Koller,Wien,WIEN,AUT
 2321110,OE1PYW,Peter Stiassny,Wien,WIEN,AUT
 2321111,OE1PYW,Peter Stiassny,Wien,WIEN,AUT
-2321112,OE1MHA,Hans no_name,Wien,WIEN,AUT
+2321112,OE1MHA,Hans ,Wien,WIEN,AUT
 2321113,OE1BSA,Heinz Stoff Robert,Wien,WIEN,AUT
 2321114,OE1MBW,Martin Belohrad,Wien,WIEN,AUT
 2321115,OE1AOA,Franz Sobotka,Wien,WIEN,AUT
-2321116,OE1GNU,No_name no_name,Wien,WIEN,AUT
-2321117,OE1MMU,No_name no_name,Wien,WIEN,AUT
+2321116,OE1GNU,No_name ,Wien,WIEN,AUT
+2321117,OE1MMU,No_name ,Wien,WIEN,AUT
 2321118,OE1RSA,Roland Schwarz,Wien,WIEN,AUT
-2321119,OE1SSS,No_name no_name,Wien,WIEN,AUT
-2321120,OE1SSS,No_name no_name,Wien,WIEN,AUT
+2321119,OE1SSS,No_name ,Wien,WIEN,AUT
+2321120,OE1SSS,No_name ,Wien,WIEN,AUT
 2321121,OE1RCS,Robert Schillinger,Wien,WIEN,AUT
-2321122,OE1FCQ,Christoph no_name,Wien,WIEN,AUT
-2321123,OE1MHA,Hans no_name,Wien,WIEN,AUT
-2321124,OE1MHA,Hans no_name,Wien,WIEN,AUT
+2321122,OE1FCQ,Christoph ,Wien,WIEN,AUT
+2321123,OE1MHA,Hans ,Wien,WIEN,AUT
+2321124,OE1MHA,Hans ,Wien,WIEN,AUT
 2321125,OE1CKW,Friedrich Polak,Wien,WIEN,AUT
 2321126,OE1PHS,Heribert Puchardt,Wien,WIEN,AUT
 2321127,OE1RGU,Robert Gilge,Wien,WIEN,AUT
-2321128,OE1ULA,Martin no_name,Wien,WIEN,AUT
+2321128,OE1ULA,Martin ,Wien,WIEN,AUT
 2321129,OE1BAW,Wilfried Baender,Wien,WIEN,AUT
 2321130,OE1ILW,Martin Roubal,Wien,WIEN,AUT
 2321131,OE1XBH,Am Austrian Military Radio Society Hq -,Wien,WIEN,AUT
@@ -1923,15 +1932,15 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2321140,OE1AQL,Alexander Lehner,Wien,WIEN,AUT
 2321141,OE1MMA,Markus Melcher,Wien,WIEN,AUT
 2321142,OE1MWW,Wolfgang Meister,Wien,WIEN,AUT
-2321143,OE1RSW,Rudolf no_name,Wien,WIEN,AUT
+2321143,OE1RSW,Rudolf ,Wien,WIEN,AUT
 2321144,OE1DGW,Gerhard Westphal,Wien,WIEN,AUT
 2321145,OE1WUA,Walter Zunke,Wien,WIEN,AUT
 2321146,OE1WLW,Wolfgang Langer,Wien,WIEN,AUT
 2321147,OE1EPU,Erwin Prem,Wien,WIEN,AUT
 2321148,OE1AGF,Joerg Hedtmann,Wien,WIEN,AUT
 2321149,OE1AGF,Joerg Hedtmann,Wien,WIEN,AUT
-2321150,OE1CRW,Christian no_name,Wien,WIEN,AUT
-2321151,OE1CRW,Christian no_name,Wien,WIEN,AUT
+2321150,OE1CRW,Christian ,Wien,WIEN,AUT
+2321151,OE1CRW,Christian ,Wien,WIEN,AUT
 2321152,OE1DOA,Volker Hois,Wien,WIEN,AUT
 2321153,OE1GQA,Guenter Pelan,Wien,WIEN,AUT
 2321154,OE1NHU,Stefan Harter,Wien,WIEN,AUT
@@ -1939,28 +1948,28 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2321156,OE1DFS,Willibald Friedreich,Wien,WIEN,AUT
 2321157,OE1CBC,Cyrill Busslinger,Wien,WIEN,AUT
 2321158,OE1HXS,Siegfried Hanisch,Wien,WIEN,AUT
-2321159,OE1LHP,No_name no_name,Wien,WIEN,AUT
+2321159,OE1LHP,No_name ,Wien,WIEN,AUT
 2321160,OE1WUW,Christian Wolf,Wien,WIEN,AUT
-2321161,OE1SQA,No_name no_name,Wien,WIEN,AUT
+2321161,OE1SQA,No_name ,Wien,WIEN,AUT
 2321162,OE1UVA,Heinz Reim,Wien,WIEN,AUT
 2321163,OE1FUC,Dominik Frey,Wien,WIEN,AUT
-2321164,OE1CWJ,Christian no_name,Wien,WIEN,AUT
-2321165,OE1NCH,No_name no_name,Wien,WIEN,AUT
+2321164,OE1CWJ,Christian ,Wien,WIEN,AUT
+2321165,OE1NCH,No_name ,Wien,WIEN,AUT
 2321166,OE1YHL,Christa Hertinger,Wien,WIEN,AUT
-2321167,OE1DHU,David no_name,Wien,WIEN,AUT
+2321167,OE1DHU,David ,Wien,WIEN,AUT
 2321168,OE1ROF,Roland Ferchenbauer Robert,Wien,WIEN,AUT
 2321169,OE1DHK,Alfred Defner Johannes,Wien,WIEN,AUT
 2321170,OE1FFA,Franz Froehlich,Wien,WIEN,AUT
 2321171,OE1INA,Ivaylo Naydenov,Wien,WIEN,AUT
 2321172,OE1WBC,Walter Bieringer,Wien,WIEN,AUT
 2321173,OE1XKW,Austria Radio Club,Wien,WIEN,AUT
-2321174,OE1LHP,No_name no_name,Wien,WIEN,AUT
+2321174,OE1LHP,No_name ,Wien,WIEN,AUT
 2321175,OE1DOA,Volker Hois,Wien,WIEN,AUT
 2321176,OE1LWA,Leopold Waitz,Wien,WIEN,AUT
-2321177,OE1MMU,No_name no_name,Wien,WIEN,AUT
+2321177,OE1MMU,No_name ,Wien,WIEN,AUT
 2321178,OE1LKU,Ludwig Kuhn,Wien,WIEN,AUT
 2321179,OE1SCU,Claus Schaefer,Wien,WIEN,AUT
-2321180,OE1DMB,Andy no_name,Wien,WIEN,AUT
+2321180,OE1DMB,Andy ,Wien,WIEN,AUT
 2321181,OE1NMA,Markus Strauss,Wien,WIEN,AUT
 2321182,OE1MKA,Manfred Kuso,Wien,WIEN,AUT
 2321183,OE1HLB,Hans-Joachim Lamprecht,Wien,WIEN,AUT
@@ -1973,8 +1982,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2321190,OE1LON,Roland Daxboeck,Wien,WIEN,AUT
 2321191,OE1WKC,Wolfgang Kabelka,Wien,WIEN,AUT
 2321192,OE1MOO,Oliver Morais,Wien,WIEN,AUT
-2321193,OE1HLT,No_name no_name,Wien,WIEN,AUT
-2321194,OE1ABV,No_name no_name,Wien,WIEN,AUT
+2321193,OE1HLT,No_name ,Wien,WIEN,AUT
+2321194,OE1ABV,No_name ,Wien,WIEN,AUT
 2321195,OE1UKB,Kurt Bischinger,Wien,WIEN,AUT
 2321196,OE1KDW,Karl Heidinger,Wien,WIEN,AUT
 2321197,OE1GLB,Gottfried Lechinger,Wien,WIEN,AUT
@@ -1983,7 +1992,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2321200,OE1XVC,Der Sektion Amateurfunk Kultur- und Sportverein,Wien,WIEN,AUT
 2321201,OE1NDB,Norbert Deutsch,Wien,WIEN,AUT
 2321202,OE1AKA,Markus Krainz,Wien,WIEN,AUT
-2321203,OE1PFC,No_name no_name,Wien,WIEN,AUT
+2321203,OE1PFC,No_name ,Wien,WIEN,AUT
 2321204,OE1CLC,Richard Lederer,Wien,WIEN,AUT
 2321205,OE1NDB,Norbert Deutsch,Wien,WIEN,AUT
 2321206,OE1CSR,Christopher Siedler,Wien,WIEN,AUT
@@ -1995,18 +2004,18 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2321212,OE1TOA,Oezcan Tok,Wien,WIEN,AUT
 2321213,OE1GOA,Gregor Ostrowski,Wien,WIEN,AUT
 2321214,OE1LYA,Martin Leyrer,Wien,WIEN,AUT
-2321215,OE1KCR,No_name no_name,Wien,WIEN,AUT
-2321216,OE1DZW,Dietmar no_name,Wien,WIEN,AUT
+2321215,OE1KCR,No_name ,Wien,WIEN,AUT
+2321216,OE1DZW,Dietmar ,Wien,WIEN,AUT
 2321217,OE1EWA,Wolfgang Empacher,Wien,WIEN,AUT
 2321218,OE1EAX,Andreas Gahleitner Engelbert,Wien,WIEN,AUT
 2321219,OE1PIM,Markus Pilz,Wien,WIEN,AUT
 2321220,OE1GXK,Gerhard Kaderavek,Wien,WIEN,AUT
-2321221,OE1MSX,No_name no_name,Wien,WIEN,AUT
-2321222,OE1TWW,Thorsten no_name,Wien,WIEN,AUT
-2321223,OE1LYK,Schabasser Oliver,Wien,WIEN,AUT
+2321221,OE1MSX,No_name ,Wien,WIEN,AUT
+2321222,OE1TWW,Thorsten ,Wien,WIEN,AUT
+2321223,OE1LYK,Oliver Schabasser,Wien,WIEN,AUT
 2321224,OE1TKW,Helmut Klein,Wien,WIEN,AUT
 2321225,OE1SSB,Hans Schmid,Wien,WIEN,AUT
-2321226,OE1DZW,Dietmar no_name,Wien,WIEN,AUT
+2321226,OE1DZW,Dietmar ,Wien,WIEN,AUT
 2321227,OE1SCS,Stefan Schultheis,Wien,WIEN,AUT
 2321228,OE1OIW,Wolfgang Wild,Wien,WIEN,AUT
 2321229,OE1LON,Roland Daxboeck,Wien,WIEN,AUT
@@ -2014,14 +2023,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2321231,OE1WCA,Werner Casett,Wien,WIEN,AUT
 2321232,OE1SKV,Stephan Kleibel,Wien,WIEN,AUT
 2321233,OE1EAX,Andreas Gahleitner Engelbert,Wien,WIEN,AUT
-2321234,OE1VZG,No_name No_name,no_city,WIEN,AUT
-2321235,OE1MEW,Hausermaier Maximilian,Wien,WIEN,AUT
-2321236,OE1WEH,Weber Heinz,Wien,WIEN,AUT
+2321234,OE1VZG,No_name ,no_city,,AUT
+2321235,OE1MEW,Maximilian Hausermaier,Wien,WIEN,AUT
+2321236,OE1WEH,Heinz Weber,Wien,WIEN,AUT
 2321237,OE1SCS,Stefan Schultheis,Wien,WIEN,AUT
 2321238,OE1NPC,Franz Pratl,Wien,WIEN,AUT
 2321239,OE1MUL,Laszlo Musiejovsky,Wien,WIEN,AUT
-2321240,OE1ZEB,Robert no_name,Wien,WIEN,AUT
-2321241,OE1TKB,No_name no_name,Wien,WIEN,AUT
+2321240,OE1ZEB,Robert ,Wien,WIEN,AUT
+2321241,OE1TKB,No_name ,Wien,WIEN,AUT
 2321242,OE1LPC,Ludwig Pschernig,Wien,WIEN,AUT
 2321243,OE1BAS,Axel Buechner,Wien,WIEN,AUT
 2321244,OE1CGC,Christioph Gasser,Wien,WIEN,AUT
@@ -2032,7 +2041,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2321249,OE1NBS,Nicolas Bachschwell,Wien,WIEN,AUT
 2321250,OE1HNA,Heribert Naber,Wien,WIEN,AUT
 2321251,OE1HNA,Heribert Naber,Wien,WIEN,AUT
-2321252,OE1ITA,No_name no_name,Wien,WIEN,AUT
+2321252,OE1ITA,No_name ,Wien,WIEN,AUT
 2321253,OE1THT,Thomas Tiefenbacher,Wien,WIEN,AUT
 2321254,OE1JTC,Jan Thomasberger,Wien,WIEN,AUT
 2321255,OE1AQL,Alexander Lehner,Wien,WIEN,AUT
@@ -2043,29 +2052,29 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2321260,OE1VDS,Dejan Stojanovic,Wien,WIEN,AUT
 2321261,OE1MIS,Michael Rubitschka,Wien,WIEN,AUT
 2321262,OE1ZMM,Michel Montfort,Wien,WIEN,AUT
-2321263,OE1VWA,Walter no_name,Wien,WIEN,AUT
+2321263,OE1VWA,Walter ,Wien,WIEN,AUT
 2321264,OE1YSI,Sabine Schweitzer,Wien,WIEN,AUT
 2321265,OE1RQH,Roman Hefele,Wien,WIEN,AUT
-2321266,OE1BHT,Bernd No_name,Wien,WIEN,AUT
+2321266,OE1BHT,No_name ,no_city,,AUT
 2321267,OE1WAA,Alexander Wacek,Wien,WIEN,AUT
 2321268,OE1UNS,Sascha Ungar,Wien,WIEN,AUT
-2321269,OE1MHZ,Wolfgang Mahr,Wien,WIEN,AUT
-2321270,OE1OEE,Arek No_name,Wien,WIEN,AUT
-2321271,OE1VEP,Peter No_name,Wien,WIEN,AUT
-2321272,OE1ITE,Peter Scharmueller,Wien,WIEN,AUT
-2321273,OE1WDH,Walter Dvorak,Wien,WIEN,AUT
+2321269,OE1MHZ,No_name ,no_city,,AUT
+2321270,OE1OEE,Arkadiusz Majcher,Wien,NOE,AUT
+2321271,OE1VEP,Peter Veress,Wien,WIEN,AUT
+2321272,OE1ITE,No_name ,no_city,,AUT
+2321273,OE1WDH,No_name ,no_city,,AUT
 2321274,OE1UHU,Stefan Hutter,Wien,WIEN,AUT
 2321275,OE1TRI,Thomas Rief,Wien,WIEN,AUT
 2321276,OE1KTU,Walter Kausalius,Wien,WIEN,AUT
 2321277,OE1TSU,Peter Schimanek,Wien,WIEN,AUT
 2321278,OE1TOA,Oezcan Tok,Wien,WIEN,AUT
-2321279,OE1PMD,Martin Puttner,Wien,WIEN,AUT
+2321279,OE1PMD,No_name ,no_city,,AUT
 2321280,OE1HGJ,Gustav-Josef Herold,Wien,WIEN,AUT
 2321281,OE1PUT,Roman Muellner,Wien,WIEN,AUT
 2321282,OE1JEW,Johann Eitzenberger,Wien,WIEN,AUT
 2321283,OE1EXW,Eberhard Wallner,Wien,WIEN,AUT
 2321301,OE1BAD,Andreas Boeck,Wien,WIEN,AUT
-2321302,OE1PNS,Peter no_name,Wien,WIEN,AUT
+2321302,OE1PNS,Peter ,Wien,WIEN,AUT
 2321303,OE1MCU,Michael Kastelic,Wien,WIEN,AUT
 2321304,OE1CSC,Clemens Schmikal,Wien,WIEN,AUT
 2321305,OE1IFM,Gernot Frauscher,Wien,WIEN,AUT
@@ -2075,17 +2084,17 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2322002,OE2WAO,Alexander Wedl Michael,Obertrum am See,SBG,AUT
 2322003,OE2KLM,Herwig Klima,Saalfelden am Steinernen Meer,SBG,AUT
 2322004,OE2IKN,Ingo Koenig,St.Gilgen,SBG,AUT
-2322005,OE2XIL,Ingo no_name,St. Gilgen,SBG,AUT
-2322006,OE2XXM,Ingo no_name,St. Gilgen,SBG,AUT
+2322005,OE2XIL,Ingo ,St. Gilgen,SBG,AUT
+2322006,OE2XXM,Ingo ,St. Gilgen,SBG,AUT
 2322007,OE2WIO,Franz Wittig,Werfen,SBG,AUT
 2322008,OE2CER,Antonius Ekkerman Ronald Johannes,Lungoetz,SBG,AUT
 2322009,OE2RPL,Peter Rubenzer,Salzburg,SBG,AUT
-2322010,OE2CEN,Claus no_name,Obertrum am See,SBG,AUT
+2322010,OE2CEN,Claus ,Obertrum am See,SBG,AUT
 2322011,OE2JHN,Johann Neulinger,Salzburg,SBG,AUT
 2322012,OE2FKM,Manfred Krahbichler,Maishofen,SBG,AUT
 2322013,OE2HPO,Hubert Ploderer,Bad Gastein,SBG,AUT
 2322014,OE2HPO,Hubert Ploderer,Bad Gastein,SBG,AUT
-2322015,OE2WPX,No_name no_name,no_city,SBG,AUT
+2322015,OE2WPX,No_name ,no_city,SBG,AUT
 2322016,OE2MLP,Michael Laubichler,Salzburg,SBG,AUT
 2322017,OE2MKR,Mario Krainer,Sankt Johann im Pongau,SBG,AUT
 2322018,OE2TRM,A.H. Rothschopf Wolfgang,St.Michael/lg.,SBG,AUT
@@ -2095,7 +2104,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2322022,OE2IGL,Gerald Ihninger,Salzburg,SBG,AUT
 2322023,OE2TXN,Nikolaus Scheuringer Thomas,Salzburg,SBG,AUT
 2322024,OE2MAL,Andreas Liebminger Markus,Seeham,SBG,AUT
-2322025,OE2TXO,No_name no_name,no_city,SBG,AUT
+2322025,OE2TXO,No_name ,no_city,SBG,AUT
 2322026,OE2XAL,Afv-Sbg Lv,Wals,SBG,AUT
 2322027,OE2ANP,Andreas Naissar,Saalfelden am Steinernen Meer,SBG,AUT
 2322028,OE2KTO,Tadej Krznar,Muhr,SBG,AUT
@@ -2109,11 +2118,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2322036,OE2TST,Torsten Stahf,Salzburg,SBG,AUT
 2322037,OE2JKN,Johannes Kainz,Bischofshofen,SBG,AUT
 2322038,OE2RXN,Wilfried Hoffmann,Wagrain,SBG,AUT
-2322039,OE2FGP,Florian no_name,Salzburg,SBG,AUT
-2322040,OE2HIT,No_name no_name,no_city,SBG,AUT
-2322041,OE2TXO,No_name no_name,no_city,SBG,AUT
+2322039,OE2FGP,Florian ,Salzburg,SBG,AUT
+2322040,OE2HIT,No_name ,no_city,SBG,AUT
+2322041,OE2TXO,No_name ,no_city,SBG,AUT
 2322042,OE2YYL,Mandy Kaiser Andrea,Hallein,SBG,AUT
-2322043,OE2CRP,No_name no_name,no_city,SBG,AUT
+2322043,OE2CRP,No_name ,no_city,SBG,AUT
 2322044,OE2FEP,Fridolin Einboeck,Wals,SBG,AUT
 2322045,OE2FAO,Arno Freudenschuss,Salzburg,SBG,AUT
 2322046,OE2CRT,Archibald Auer,Bsichofshofen,SBG,AUT
@@ -2123,12 +2132,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2322050,OE2KNN,Karl Kreuzer,Uttendorf,SBG,AUT
 2322051,OE2ADE,Domani Andreas,Schwarzach,SBG,AUT
 2322052,OE2AKO,Alexander Messner,Salzburg,SBG,AUT
-2322053,OE2PAX,No_name no_name,no_city,SBG,AUT
+2322053,OE2PAX,No_name ,no_city,SBG,AUT
 2322054,OE2SCJ,Rupert Schoenauer,Golling An der Salzach,SBG,AUT
 2322055,OE2TVL,Alois Weissenbacher,Altenmarkt/pg,SBG,AUT
-2322056,OE2LAT,Klima Lukas,Saalfelden am Steinernen Meer,SBG,AUT
+2322056,OE2LAT,Lukas Klima,Saalfelden am Steinernen Meer,SBG,AUT
 2322057,OE2RDO,Reinhard Damisch,Wals-Siezenheim,SBG,AUT
-2322058,OE2PFN,Poehr Franz,Pfarrwerfen,SBG,AUT
+2322058,OE2PFN,Franz Poehr,Salzburg,,AUT
 2322059,OE2VPK,Viktor Pflugbeil,Zederhaus,SBG,AUT
 2322060,OE2FGI,Gerhard Fuchs,Saalfelden am Steinernen Meer,SBG,AUT
 2322061,OE2SPN,Peter-Norbert Schlieff,Obertrum,SBG,AUT
@@ -2150,10 +2159,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323016,OE3WGU,Gerald Weber,Schloss Rosenau,NOE,AUT
 2323017,OE3CVS,Christian Vuleta,Korneuburg,NOE,AUT
 2323018,OE3MAS,Alfred Medek,Sankt Poelten,NOE,AUT
-2323019,OE3RVU,No_name no_name,no_city,NOE,AUT
+2323019,OE3RVU,No_name ,no_city,NOE,AUT
 2323020,OE3ANU,Andreas Karner,Moedling,NOE,AUT
 2323021,OE3NEC,Christoph-Emanuel Nechvatal,Gedersdorf,NOE,AUT
-2323022,OE3NAU,Norbert no_name,Perchtoldsdorf,NOE,AUT
+2323022,OE3NAU,Norbert ,Perchtoldsdorf,NOE,AUT
 2323023,OE3CDW,Christian Digruber,Sankt Poelten,NOE,AUT
 2323024,OE3FHU,Franz Hochwallner,Ulmerfeld-Hausmening-Neufurth,NOE,AUT
 2323025,OE3CHC,Christian Hammerl,Klosterneuburg,NOE,AUT
@@ -2161,17 +2170,17 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323027,OE3SUW,Gerd Riesenhuber,Rotheau,NOE,AUT
 2323028,OE3MHU,Maximilian Hladil,Klosterneuburg,NOE,AUT
 2323029,OE3KNC,Claudia Leonhartsberger-Kneth,Gedersdorf,NOE,AUT
-2323030,OE3ZK,Gerhard no_name,Klosterneuburg,NOE,AUT
+2323030,OE3ZK,Gerhard ,Klosterneuburg,NOE,AUT
 2323031,OE3OSB,Erich Varga,Obersiebenbrunn,NOE,AUT
-2323032,OE3SBU,No_name no_name,no_city,NOE,AUT
+2323032,OE3SBU,No_name ,no_city,NOE,AUT
 2323033,OE3FPA,Franz Popp,Heidenreichstein,NOE,AUT
 2323034,OE3IGW,Alois Gabler,Litschau,NOE,AUT
-2323035,OE3AAG,Gertrude no_name,Heidenreichstein,NOE,AUT
+2323035,OE3AAG,Gertrude ,Heidenreichstein,NOE,AUT
 2323036,OE3DJB,Friedmann Jagsch,Zwettl,NOE,AUT
 2323037,OE3SCC,Stefan Schoerg,Korneuburg,NOE,AUT
 2323038,OE3SCC,Stefan Schoerg,Korneuburg,NOE,AUT
 2323039,OE3WFC,Werner Fallmann,Stockerau,NOE,AUT
-2323040,OE3XMB,Werner no_name,Stockerau,NOE,AUT
+2323040,OE3XMB,Werner ,Stockerau,NOE,AUT
 2323041,OE3AAS,Rudolf Gheorghe,Korneuburg,NOE,AUT
 2323042,OE3PVC,Mitts Halvorsen Peter,Schwechat,NOE,AUT
 2323043,OE3AKB,Andreas Schlicksbier,Oberwoelbling,NOE,AUT
@@ -2188,7 +2197,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323054,OE3BSU,Bernd Stoecklmayr,Kritzendorf,NOE,AUT
 2323055,OE3NOB,Richard Novak,Sankt Poelten,NOE,AUT
 2323056,OE3FRU,Franz Rodinger,Nagelberg,NOE,AUT
-2323057,OE3CMW,Michael no_name,Grosebersdorf,NOE,AUT
+2323057,OE3CMW,Michael ,Grosebersdorf,NOE,AUT
 2323058,OE3PKB,Peter Krammer Mario,Kleinhadersdorf,NOE,AUT
 2323059,OE3PGU,Georg Pfandler,Gerasdorf,NOE,AUT
 2323060,OE3REC,Rainer Hemerka,Probstdorf,NOE,AUT
@@ -2241,7 +2250,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323107,OE3PAS,Peter Ackermann,Traiskirchen,NOE,AUT
 2323108,OE3MKU,Manfred Krenn,Wiener Neustadt,NOE,AUT
 2323109,OE3RDW,Reinhard Radl,Bad Voeslau,NOE,AUT
-2323110,OE3NSU,Hermann no_name,Perchtoldsdorf,NOE,AUT
+2323110,OE3NSU,Hermann ,Perchtoldsdorf,NOE,AUT
 2323111,OE3RHS,Rudolf Hinterleitner,Sollenau,NOE,AUT
 2323112,OE3ORW,Otto Rohm,Eibesbrunn,NOE,AUT
 2323113,OE3VBC,Martin Hinterleitner,Sollenau,NOE,AUT
@@ -2249,9 +2258,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323115,OE3VBA,Wolfgang Mazan,Gansbach,NOE,AUT
 2323116,OE3VBA,Wolfgang Mazan,Gansbach,NOE,AUT
 2323117,OE3FGB,Franz Grill,Sollenau,NOE,AUT
-2323118,OE3GJB,Gerhard no_name,Gainfarn,NOE,AUT
+2323118,OE3GJB,Gerhard ,Gainfarn,NOE,AUT
 2323119,OE3BMA,Manfred Belak,Leopoldsdorf,NOE,AUT
-2323120,OE3VGC,Gregor no_name,Leopoldsdorf,NOE,AUT
+2323120,OE3VGC,Gregor ,Leopoldsdorf,NOE,AUT
 2323121,OE3MKU,Manfred Krenn,Wiener Neustadt,NOE,AUT
 2323122,OE3FEC,Erwin Fass,Mollram,NOE,AUT
 2323123,OE3KLU,Karl Lichtenecker,Schwechat,NOE,AUT
@@ -2259,9 +2268,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323125,OE3KLU,Karl Lichtenecker,Schwechat,NOE,AUT
 2323126,OE3ARB,Andreas Redl,Moedling,NOE,AUT
 2323127,OE3PAS,Peter Ackermann,Traiskirchen,NOE,AUT
-2323128,OE3LSC,No_name no_name,no_city,NOE,AUT
+2323128,OE3LSC,No_name ,no_city,NOE,AUT
 2323129,OE3CDS,Christian Dworak,Harmannsdorf-Rueckersdorf,NOE,AUT
-2323130,OE3NSU,Hermann no_name,Perchtoldsdorf,NOE,AUT
+2323130,OE3NSU,Hermann ,Perchtoldsdorf,NOE,AUT
 2323131,OE3CRD,Christian Steger,Ebreichsdorf,NOE,AUT
 2323132,OE3CRD,Christian Steger,Ebreichsdorf,NOE,AUT
 2323133,OE3DMB,Andreas Malek,Muenchendorf,NOE,AUT
@@ -2270,7 +2279,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323136,OE3TWA,Thomas Woelfl,Korneuburg,NOE,AUT
 2323137,OE3PDB,Peter Kanera,Purkersdorf,NOE,AUT
 2323138,OE3CDL,Hubert Scheiblbrandner,Ma Lanzendorf,NOE,AUT
-2323139,OE3TKT,No_name no_name,no_city,NOE,AUT
+2323139,OE3TKT,No_name ,no_city,NOE,AUT
 2323140,OE3MBZ,Michael Brettraeger,Absdorf,NOE,AUT
 2323141,OE3WWE,Werner Winkelhofer,Grossweikersdorf,NOE,AUT
 2323142,OE3JDW,Josef Dietrich,Kaltenleutgeben,NOE,AUT
@@ -2285,12 +2294,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323151,OE3RPU,Rudolf Pfeffer,Moenichkirchen,NOE,AUT
 2323152,OE3AWU,Andreas Wandl,Markersdorf-Haindorf,NOE,AUT
 2323153,OE3ASA,Gerhard Elian,Gruenbach am Schneeberg,NOE,AUT
-2323154,OE3JFW,Hans no_name,Herzogenburg,NOE,AUT
+2323154,OE3JFW,Hans ,Herzogenburg,NOE,AUT
 2323155,OE3RFW,Roman Frimmel,Brunn am Gebirge,NOE,AUT
 2323156,OE3BLS,Sven-Erik Janc,Bruck An der Leitha,NOE,AUT
 2323157,OE3MTC,Christoph Mutter,Sankt Andrae-Woerdern,NOE,AUT
 2323158,OE3HOI,Harald Bischof,Laxenburg,NOE,AUT
-2323159,OE3FKR,Friedrich no_name,Moellersdorf,NOE,AUT
+2323159,OE3FKR,Friedrich ,Moellersdorf,NOE,AUT
 2323160,OE3NIM,Norbert Mehofer,Frauendorf An der Schmida,NOE,AUT
 2323161,OE3EIW,Herbert Eichberger,Puchberg am Schneeberg,NOE,AUT
 2323162,OE3FZB,Friedrich Zajicek,Wiener Neudorf,NOE,AUT
@@ -2300,13 +2309,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323166,OE3BHB,Heinz Binder,Heidenreichstn,NOE,AUT
 2323167,OE3FQR,Franz Russ,Waidhofen An der Thaya,NOE,AUT
 2323168,OE3FOA,Friedrich Offenberger,Ferschnitz,NOE,AUT
-2323169,OE3ULA,No_name no_name,no_city,NOE,AUT
-2323170,OE3VNA,Arne no_name,Trumau,NOE,AUT
+2323169,OE3ULA,No_name ,no_city,NOE,AUT
+2323170,OE3VNA,Arne ,Trumau,NOE,AUT
 2323171,OE3VSS,Stefan Straubinger,Sankt Peter In der Au,NOE,AUT
 2323172,OE3TWH,Wolfgang Thaler Bsc Msc,Voesendorf,NOE,AUT
 2323173,OE3LWC,Werner Leuthner,Koenigsbrunn am Wagram,NOE,AUT
 2323174,OE3KAU,Andreas Kuerner,Ferschnitz,NOE,AUT
-2323175,OE3MQK,No_name no_name,no_city,NOE,AUT
+2323175,OE3MQK,No_name ,no_city,NOE,AUT
 2323176,OE3RLQ,Roland Lindorfer,Blindenmarkt,NOE,AUT
 2323177,OE3MRA,Martin Rohrer,Oberwaltersdorf,NOE,AUT
 2323178,OE3RAS,Walter Auernig,Trautmannsdorf An der Leitha,NOE,AUT
@@ -2318,12 +2327,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323184,OE3PMS,Peter Mayr,Wiener Neustadt,NOE,AUT
 2323185,OE3MEN,Werner Mayerhofer,Herzogenburg,NOE,AUT
 2323186,OE3HGB,Heinz Hochgatterer,Mautern An der Donau,NOE,AUT
-2323187,OE3ZJC,Jose no_name,Strasshof An der Nordbahn,NOE,AUT
-2323188,OE3JTB,Josef no_name,Gfoehl,NOE,AUT
+2323187,OE3ZJC,Jose ,Strasshof An der Nordbahn,NOE,AUT
+2323188,OE3JTB,Josef ,Gfoehl,NOE,AUT
 2323189,OE3OZA,Werner Mitterbauer,Gaming,NOE,AUT
-2323190,OE3DZW,No_name no_name,no_city,NOE,AUT
+2323190,OE3DZW,No_name ,no_city,NOE,AUT
 2323191,OE3RFA,Rudolf Fuchs,Pyhra St Poelten,NOE,AUT
-2323192,OE3DMW,Erhard no_name,Wien,NOE,AUT
+2323192,OE3DMW,Erhard ,Wien,NOE,AUT
 2323193,OE3EHU,Erwin Huttmann,St Poelten-Spr,NOE,AUT
 2323194,OE3BWW,Walter Boeck,Waidhofen/ybbs,NOE,AUT
 2323195,OE3ELJ,Mba El-Awadi Josef,Schoenau An der Triesting,NOE,AUT
@@ -2332,7 +2341,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323198,OE3HCH,Christian Hoeltl,Leopoldsdorf,NOE,AUT
 2323199,OE3IGW,Alois Gabler,Litschau,NOE,AUT
 2323200,OE3AEU,Adolf Geppert,Laa/thaya,NOE,AUT
-2323201,OE3JIU,Johann no_name,Ulrichskirchen,NOE,AUT
+2323201,OE3JIU,Johann ,Ulrichskirchen,NOE,AUT
 2323202,OE3FLU,Franz Lammeranner,Baden,NOE,AUT
 2323203,OE3FLU,Franz Lammeranner,Baden,NOE,AUT
 2323204,OE3GAU,Rudolf Gabler,Deutsch/wagram,NOE,AUT
@@ -2341,7 +2350,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323207,OE3LTB,Leo Thorn,Klosterneuburg,NOE,AUT
 2323208,OE3UKW,Christian Beck,Gross-Schweinbarth,NOE,AUT
 2323209,OE3HZW,Helmut Zwickl,Hainfeld,NOE,AUT
-2323210,OE3OMC,Michael no_name,Klosterneuburg,NOE,AUT
+2323210,OE3OMC,Michael ,Klosterneuburg,NOE,AUT
 2323211,OE3HCH,Christian Hoeltl,Leopoldsdorf,NOE,AUT
 2323212,OE3NRC,Rudolf Nothmueller,Dietmanns,NOE,AUT
 2323213,OE3NJA,Natascha Jell,Hadersdorf am Kamp,NOE,AUT
@@ -2367,7 +2376,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323233,OE3RRW,Rudolf Rotthaler,Pfaffstaetten,NOE,AUT
 2323234,OE3TVJ,Thomas Jurcik,Neidling,NOE,AUT
 2323235,OE3FIB,Franz Spindler,Aggsbach Markt,NOE,AUT
-2323236,OE3HYC,Kirsti no_name,Langenlois,NOE,AUT
+2323236,OE3HYC,Kirsti ,Langenlois,NOE,AUT
 2323237,OE3FIB,Franz Spindler,Aggsbach Markt,NOE,AUT
 2323238,OE3YUR,Yuri Hoser,Sankt Valentin,NOE,AUT
 2323239,OE3GBC,Guido Blaschke,Pellendorf,NOE,AUT
@@ -2384,27 +2393,27 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323250,OE3YJM,Julia Maringer,Heidenreichstein,NOE,AUT
 2323251,OE3VPA,Mario Poik,Gmuend,NOE,AUT
 2323252,OE3YHC,Nadine Poik,Gmuend,NOE,AUT
-2323253,OE3MVW,No_name no_name,no_city,NOE,AUT
+2323253,OE3MVW,No_name ,no_city,NOE,AUT
 2323254,OE3WYC,Wilhelm Meyrath,Klosterneuburg,NOE,AUT
-2323255,OE3CQJ,No_name no_name,no_city,NOE,AUT
+2323255,OE3CQJ,No_name ,no_city,NOE,AUT
 2323256,OE3APM,Andreas Maringer,Heidenreichstein,NOE,AUT
 2323257,OE3KPC,Christian Krall,Haringsee,NOE,AUT
 2323258,OE3GWW,Guenter Wildmann,Neu-Purkersdorf,NOE,AUT
 2323259,OE3TFL,Thomas Flatschart,Bergern,NOE,AUT
 2323260,OE3JKA,Johann Koller,Schrems,NOE,AUT
 2323261,OE3KAI,Erwin Kaineder,Leobersdorf,NOE,AUT
-2323262,OE3RPR,No_name no_name,no_city,NOE,AUT
+2323262,OE3RPR,No_name ,no_city,NOE,AUT
 2323263,OE3BCB,Christoph Baier,Neulengbach,NOE,AUT
 2323264,OE3LKB,Helmut Kern,Neu-Mitterndorf,NOE,AUT
 2323265,OE3ABA,Alfred Benda,Nagelberg,NOE,AUT
 2323266,OE3PCB,Christian Plasser,Enzersdorf An der Fischa,NOE,AUT
-2323267,OE3DOS,No_name no_name,no_city,NOE,AUT
+2323267,OE3DOS,No_name ,no_city,NOE,AUT
 2323268,OE3GWC,Gerhard Wuerdinger,Woellersdorf,NOE,AUT
 2323269,OE3AGH,Andreas Gall,Sankt Poelten,NOE,AUT
 2323270,OE3WRB,Wolfgang Rummer,Sankt Poelten,NOE,AUT
 2323271,OE3AJA,Josef Aufgewekt,Haugsdorf,NOE,AUT
 2323272,OE3YMB,Jutta Matuschek,Ravelsbach,NOE,AUT
-2323273,OE3DOS,No_name no_name,no_city,NOE,AUT
+2323273,OE3DOS,No_name ,no_city,NOE,AUT
 2323274,OE3MES,Martin Esslinger,Klosterneuburg,NOE,AUT
 2323275,OE3MLC,Ludwig Mestnik,Limberg,NOE,AUT
 2323276,OE3BRU,Rupert Binder,Grossweikersdorf,NOE,AUT
@@ -2424,30 +2433,30 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323290,OE3MYR,Markus Renner,Horn,NOE,AUT
 2323291,OE3NHW,Georg Hartl Hans,Sankt Andrae/woerdern,NOE,AUT
 2323292,OE3AEA,Johann Sattler,Grossmugl,NOE,AUT
-2323293,OE3RQF,No_name no_name,no_city,NOE,AUT
+2323293,OE3RQF,No_name ,no_city,NOE,AUT
 2323294,OE3XRC,Waldviertel Amrs,Allentsteig,NOE,AUT
 2323295,OE3KDC,Bernhard Kraft,Goestling/ybbs,NOE,AUT
-2323296,OE3UZA,Rausch Guenter,Schrick,NOE,AUT
+2323296,OE3UZA,Guenter Rausch,Schrick,NOE,AUT
 2323297,OE3CBS,Christoph Braun,Zwoelfaxing,NOE,AUT
 2323298,OE3BHW,Herbert Hejna,Felixdorf,NOE,AUT
 2323299,OE3FAP,Peter Farcher,Sankt Poelten,NOE,AUT
 2323300,OE3DNA,Andreas Neubauer,Amstetten,NOE,AUT
 2323301,OE3WFA,Wolfgang Franta,Eichgraben,NOE,AUT
-2323302,OE3MVM,Schnepf Michael,Stockerau,NOE,AUT
+2323302,OE3MVM,Michael Schnepf,Stockerau,NOE,AUT
 2323303,OE3BGB,Gerhard Baeumler,Blindenmarkt,NOE,AUT
 2323304,OE3GHB,Gerhard Hickl,Gaweinstal,NOE,AUT
-2323305,OE3PLF,No_name no_name,no_city,NOE,AUT
+2323305,OE3PLF,No_name ,no_city,NOE,AUT
 2323306,OE3CKS,Christian Kuntscher,Matzendorf,NOE,AUT
 2323307,OE3PCS,Christian Pernerstorfer,Hadersdorf am Kamp,NOE,AUT
 2323308,OE3YOS,Susanne Huber,Bruck An der Leitha,NOE,AUT
-2323309,OE3PWT,No_name no_name,no_city,NOE,AUT
-2323310,OE3MVM,Schnepf Michael,Stockerau,NOE,AUT
+2323309,OE3PWT,No_name ,no_city,NOE,AUT
+2323310,OE3MVM,Michael Schnepf,Stockerau,NOE,AUT
 2323311,OE3EMC,Martin Engel,Bad Grosspertholz,NOE,AUT
 2323312,OE3YSC,Marion Stouy,Bad Grosspertholz,NOE,AUT
-2323313,OE3JAL,No_name No_name,Brunn am Gebirge,NOE,AUT
-2323314,OE3GKQ,No_name No_name,Seifritz,NOE,AUT
+2323313,OE3JAL,Michael Jalits,Brunn am Gebirge,NOE,AUT
+2323314,OE3GKQ,Gerhard Kiesl,Seifritz,NOE,AUT
 2323315,OE3BRW,Bernhard Wild,Sankt Poelten,NOE,AUT
-2323316,OE3TDF,No_name No_name,Oberwaltersdorf,NOE,AUT
+2323316,OE3TDF,Tillmann David Fuchs,Oberwaltersdorf,NOE,AUT
 2323317,OE3MWB,Manfred Weis,Amstetten,NOE,AUT
 2323318,OE3HLU,Hannes Kellner,Mank,NOE,AUT
 2323319,OE3PEA,Peter Elster,Gaubitsch,NOE,AUT
@@ -2459,31 +2468,31 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323325,OE3DMA,Alexander Wagner,Altenburg,NOE,AUT
 2323326,OE3CRA,Friedrich Reps,Sieghartskirchen,NOE,AUT
 2323327,OE3RQA,Martin Rafenstein,Brunn am Gebirge,NOE,AUT
-2323328,OE3FTC,No_name Rafenstein,no_city,NOE,AUT
+2323328,OE3FTC,Wolfgang Friedrich Gaerber,Moedling,NOE,AUT
 2323329,OE3KCC,Karl Koczan,Baden,NOE,AUT
-2323330,OE3MNU,Manuel Reiter,Sankt Poelten,NOE,AUT
+2323330,OE3MNU,No_name ,no_city,,AUT
 2323331,OE3AJS,Dieter Hagmann,Krems An der Donau,NOE,AUT
-2323332,OE3AKI,Andreas No_name,Berndorf,STMK,AUT
-2323333,OE3TRB,Thomas no_name,Berndorf,NOE,AUT
+2323332,OE3AKI,Andreas ,Berndorf,STMK,AUT
+2323333,OE3TRB,Thomas ,Berndorf,NOE,AUT
 2323334,OE3MTA,Max Schaffer,Perchtoldsdorf,NOE,AUT
-2323335,OE3PBS,Bernhard Ing. Peter Bambas,Scheiblingkirchen,NOE,AUT
-2323336,OE3TSH,No_name Ing. Peter Bambas,no_city,NOE,AUT
-2323337,OE3RFR,Robert No_name,Ruprechtshofen,OOE,AUT
+2323335,OE3PBS,Bernhard Peinsipp,),NOE,AUT
+2323336,OE3TSH,Thomas Schreiber,Poysdorf,NOE,AUT
+2323337,OE3RFR,Robert Fuchsbauer,Ruprechtshofen,NOE,AUT
 2323338,OE3EGH,Martin Haiderer,Gross Enzersdorf,NOE,AUT
-2323339,OE3THX,Matthias No_name,Maria Enzersdorf,NOE,AUT
-2323340,OE3WWP,Willi No_name,Laaben,NOE,AUT
-2323341,OE3WEK,Martin No_name,Laaben,NOE,AUT
-2323342,OE3OMR,Roland No_name,Grossrust,NOE,AUT
-2323343,OE3RBT,Reinhard No_name,Pyhra,NOE,AUT
-2323344,OE3WDK,Dominik No_name,Hafnerbach,NOE,AUT
-2323345,OE3HPT,Thomas No_name,Prein An der Rax,NOE,AUT
-2323346,OE3OEW,Wolfgang No_name,no_city,NOE,AUT
+2323339,OE3THX,No_name ,no_city,,AUT
+2323340,OE3WWP,Willibald Wesseli,Laaben,NOE,AUT
+2323341,OE3WEK,Martin Wesseli,Laaben,NOE,AUT
+2323342,OE3OMR,Roland Mitter,),NOE,AUT
+2323343,OE3RBT,Reinhard Biegel,Pyhra,NOE,AUT
+2323344,OE3WDK,Dominik Keles,Hafnerbach,NOE,AUT
+2323345,OE3HPT,Thomas Hillepold,Reichenau An der Rax,NOE,AUT
+2323346,OE3OEW,Wolfgang Oesterreicher,Sankt Poelten,NOE,AUT
 2323347,OE3KMZ,Markus Zaruba,Tresdorf,KTN,AUT
-2323348,OE3WHS,Walter Hahnemann,Amstetten,NOE,AUT
-2323349,OE3OEX,No_name Hahnemann,no_city,NOE,AUT
+2323348,OE3WHS,No_name ,no_city,,AUT
+2323349,OE3OEX,Johann Weinberger,Eggendorf am Wagram,NOE,AUT
 2323350,OE3FKN,Franz Kleindl,Goestling An der Ybbs,NOE,AUT
 2323351,OE3AMA,Adolf Roetsch,Sollenau,NOE,AUT
-2323352,OE3LIT,Tommy No_name,Wilfersdorf,STMK,AUT
+2323352,OE3LIT,Thomas Linner,Wilfersdorf,NOE,AUT
 2323353,OE3MJA,Josef Mathae,Seitenstetten,NOE,AUT
 2323354,OE3RVA,Roman Vymyslicky,Leopoldsdorf/m,NOE,AUT
 2323355,OE3YZC,Marlene Zehetner,Wolfsbach,NOE,AUT
@@ -2508,7 +2517,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323414,OE3JWC,Josef Waser,Neuhofen/ybbs,NOE,AUT
 2323415,OE3JDA,J. Donschachner,Mauer-Oehling,NOE,AUT
 2323416,OE3GNB,Franz Gruber,Neumarkt An der Ybbs,NOE,AUT
-2323417,OE3OHS,Sk no_name,Waidhofen Ybbs,NOE,AUT
+2323417,OE3OHS,Sk ,Waidhofen Ybbs,NOE,AUT
 2323418,OE3VWU,Christian Bergen,Oehling,NOE,AUT
 2323419,OE3LEB,Leopold Eder,Oed,NOE,AUT
 2323420,OE3NRU,Regina Nefischer,Mauer-Oehling,NOE,AUT
@@ -2522,9 +2531,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323435,OE3VKA,Markus Kern,Ybbs An der Donau,NOE,AUT
 2323436,OE3ATC,Alois Taranetz,Ardagger Markt,NOE,AUT
 2323500,OE3XHQ,(oevsv) Oevsv,Wiener Neudorf,NOE,AUT
-2323701,OE3DNW,Gerhard no_name,Ebreichsdorf,NOE,AUT
-2323702,OE3DNW,Gerhard no_name,Ebreichsdorf,NOE,AUT
-2323710,OE3DNW,Gerhard no_name,Ebreichsdorf,NOE,AUT
+2323701,OE3DNW,Gerhard ,Ebreichsdorf,NOE,AUT
+2323702,OE3DNW,Gerhard ,Ebreichsdorf,NOE,AUT
+2323710,OE3DNW,Gerhard ,Ebreichsdorf,NOE,AUT
 2324001,OE4KMU,Klaus-Michael Musser,Markt Allhau,BGLD,AUT
 2324002,OE4KMU,Klaus-Michael Musser,Markt Allhau,BGLD,AUT
 2324003,OE4NAU,Norbert Autengruber,Weiden am See,BGLD,AUT
@@ -2544,37 +2553,37 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2324017,OE4EUA,Erwin Putz,Andau,BGLD,AUT
 2324018,OE4HZB,Bernd Hammer,Guessing,BGLD,AUT
 2324019,OE4BAQ,Andreas Balluf,Wimpassing An der Leitha,BGLD,AUT
-2324020,OE4GUB,No_name no_name,no_city,BGLD,AUT
+2324020,OE4GUB,No_name ,no_city,BGLD,AUT
 2324021,OE4LQK,Wolfgang Windisch,Purbach am Neusiedler See,BGLD,AUT
 2324022,OE4RWD,Walter Rauter,Hornstein,BGLD,AUT
 2324023,OE4HDS,Helmut Steinberger,Stoettera,BGLD,AUT
-2324024,OE4GZC,Goran no_name,Stinatz,BGLD,AUT
+2324024,OE4GZC,Goran ,Stinatz,BGLD,AUT
 2324025,OE4RUK,Rudolf Kirchmayer,Frauenkirchen,BGLD,AUT
 2324026,OE4AFW,Fritz Wilfinger,Deutsch Kaltenbrunn,BGLD,AUT
 2324027,OE4SZS,Stefan Schuch,Guettenbach,BGLD,AUT
-2324028,OE4VIE,No_name no_name,no_city,BGLD,AUT
-2324029,OE4GZZ,Goran no_name,Stinatz,BGLD,AUT
+2324028,OE4VIE,No_name ,no_city,BGLD,AUT
+2324029,OE4GZZ,Goran ,Stinatz,BGLD,AUT
 2324030,OE4KZU,Karl Zach,Ritzing,BGLD,AUT
 2324031,OE4CHZ,Christian Zsilla,Grosshoeflein,BGLD,AUT
 2324032,OE4ENU,Ewald Nussbaum,Klingenbach,BGLD,AUT
-2324033,OE4GTU,Gerhard no_name,Steinbach,BGLD,AUT
+2324033,OE4GTU,Gerhard ,Steinbach,BGLD,AUT
 2324034,OE4RUM,Philipp Stelzer,Bernstein,BGLD,AUT
 2324035,OE4VNA,Arne Biedermann,Schandorf,BGLD,AUT
 2324036,OE4AZU,Petr Zak,Parndorf,BGLD,AUT
-2324037,OE4EIE,No_name no_name,no_city,BGLD,AUT
+2324037,OE4EIE,No_name ,no_city,BGLD,AUT
 2324038,OE4SMS,H Maritsch Siegfried,Pinkafeld,BGLD,AUT
-2324039,OE4UFB,No_name no_name,no_city,BGLD,AUT
+2324039,OE4UFB,No_name ,no_city,BGLD,AUT
 2324040,OE4WUA,Walter Zunke,Gattendorf,BGLD,AUT
 2324041,OE4AHG,Anton Hadl,Oberwart,BGLD,AUT
-2324042,OE4EWA,Wolfgang No_name,Lackenbach,BGLD,AUT
+2324042,OE4EWA,Wolfgang Empacher,Lackenbach,BGLD,AUT
 2324101,OE4KMU,Klaus-Michael Musser,Markt Allhau,BGLD,AUT
 2324102,OE4RLC,Rainer Stangl,Markt Allhau,BGLD,AUT
 2324103,OE4MUB,Martin Urbauer,Buchschachen,BGLD,AUT
 2324104,OE4VMB,Stefan Martinek,Woerterberg,BGLD,AUT
 2324111,OE4CRC,Christian Rockrohr,Jois,BGLD,AUT
 2324112,OE4CRC,Christian Rockrohr,Jois,BGLD,AUT
-2324115,OE4KNA,Karl no_name,Grosshoeflein,BGLD,AUT
-2324121,OE4SSE,Stefan no_name,Stegersbach,BGLD,AUT
+2324115,OE4KNA,Karl ,Grosshoeflein,BGLD,AUT
+2324121,OE4SSE,Stefan ,Stegersbach,BGLD,AUT
 2324127,OE4MXB,Michael Halvax,Neufeld/l,BGLD,AUT
 2324321,OE4JHW,Juergen Heissenberger,Neufeld An der Leitha,BGLD,AUT
 2324759,OE4KOB,Roman Kirner,Oggau,BGLD,AUT
@@ -2600,7 +2609,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2325020,OE5MCM,Maximilian Mayr,Ried/innkreis,OOE,AUT
 2325021,OE5MIL,Michael Gruber,Hallstatt,OOE,AUT
 2325022,OE5RCO,Gustav Klein,Rohrbach,OOE,AUT
-2325023,OE5KNT,No_name no_name,no_city,OOE,AUT
+2325023,OE5KNT,No_name ,no_city,OOE,AUT
 2325024,OE5FKL,Karl Feichtenschlager,Wippenham,OOE,AUT
 2325025,OE5WHN,Herbert Wimmer,Bad Ischl,OOE,AUT
 2325026,OE5GOL,Robert Gstoettenmayr,Linz,OOE,AUT
@@ -2616,11 +2625,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2325036,OE5VCO,Dominik Haslberger,Uttendorf,OOE,AUT
 2325037,OE5RSZ,Raimund Schoefecker,Traun,OOE,AUT
 2325038,OE5DRM,Wirtsch.- Mayr Richard,Attersee,OOE,AUT
-2325039,OE5MDD,No_name no_name,no_city,OOE,AUT
+2325039,OE5MDD,No_name ,no_city,OOE,AUT
 2325040,OE5RCA,Rudolf Curik,Linz,OOE,AUT
 2325041,OE5TGM,Georg Thurner,Sankt Marienkirchen An der Pols,OOE,AUT
 2325042,OE5XSN,Oafv Oberoesterreichischer Amateurfunkverband,Vorderweissenbach,OOE,AUT
-2325043,OE5GNB,Franz no_name,Waldhausen im Strude,OOE,AUT
+2325043,OE5GNB,Franz ,Waldhausen im Strude,OOE,AUT
 2325044,OE5LBO,Bogoljub Lazarevic,Braunau am Inn,OOE,AUT
 2325045,OE5GTN,Thomas Gruber,Sankt Marienkirchen An der Pols,OOE,AUT
 2325046,OE5HEL,Juergen Hell,St. Martin im Innkreis,OOE,AUT
@@ -2639,14 +2648,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2325059,OE5PSO,Peter Stockenreitner,Pettenbach,OOE,AUT
 2325060,OE5OEM,Andreas Greindl,Linz,OOE,AUT
 2325061,OE5KIL,Karl Hader,Schwertberg,OOE,AUT
-2325062,OE5DLH,No_name no_name,no_city,OOE,AUT
+2325062,OE5DLH,No_name ,no_city,OOE,AUT
 2325063,OE5WIK,Wieland Kleinlechner,Linz,OOE,AUT
 2325064,OE5DZL,Dieter Zechleitner,Mehrnbach,OOE,AUT
 2325065,OE5STM,Michael Schneider Timm,Voecklabruck,OOE,AUT
 2325066,OE5MXL,Karl Max,Steyr,OOE,AUT
 2325067,OE5TET,Gerald Landl,Eidenberg,OOE,AUT
 2325068,OE5KZM,Klaus Zehetner,St.Marien B.N.,OOE,AUT
-2325069,OE5YEE,Elen no_name,Linz,OOE,AUT
+2325069,OE5YEE,Elen ,Linz,OOE,AUT
 2325070,OE5EIN,Maximilian Wagner,Linz,OOE,AUT
 2325071,OE5ENL,Norbert Eggl,Frankenburg am Hausruck,OOE,AUT
 2325072,OE5HHP,Herbert Holzmann,Rutzenmoos,OOE,AUT
@@ -2676,10 +2685,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2325096,OE5MKL,Michael Kasteneder,Wippenham,OOE,AUT
 2325097,OE5GJN,Gerald Jungbauer,Linz,OOE,AUT
 2325098,OE5MKE,Mario Koppensteiner,Ansfelden,OOE,AUT
-2325099,OE5ASO,No_name no_name,no_city,OOE,AUT
+2325099,OE5ASO,No_name ,no_city,OOE,AUT
 2325100,OE5CGL,Hermann Kranzl,Perg,OOE,AUT
 2325101,OE5GOL,Robert Gstoettenmayr,Linz,OOE,AUT
-2325102,OE5ELL,Peter no_name,Trattnach,OOE,AUT
+2325102,OE5ELL,Peter ,Trattnach,OOE,AUT
 2325103,OE5LOH,Hansjoerg Handl Lothar Reinhard,no_city,OOE,AUT
 2325104,OE5SLS,Herbert Lugschitz Stefan,Schaerding,OOE,AUT
 2325105,OE5HNF,Florian Just Gregor,Linz,OOE,AUT
@@ -2734,17 +2743,17 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2325154,OE5DRO,Rene Dorn,Traun,OOE,AUT
 2325155,OE5AZG,August Zehetner,Haid/ansfelden,OOE,AUT
 2325156,OE5AMR,Marcel Arnetseder,Wels,OOE,AUT
-2325157,OE5BPA,No_name No_name,Linz,OOE,AUT
+2325157,OE5BPA,Peter Andreas Buchegger,Linz,OOE,AUT
 2325158,OE5GMO,Gerhard Mueller,Sankt Martin im Muehlkreis,OOE,AUT
-2325159,OE5NEO,Jachs Markus,Roitham,OOE,AUT
+2325159,OE5NEO,Markus Jachs,Pinsdorf,OOE,AUT
 2325160,OE5EIR,Philipp Doppelhofer,Bad Leonfelden,OOE,AUT
 2325161,OE5RNL,Reinhold Autengruber,Linz,OOE,AUT
-2325162,OE5HKQ,Krammer Harald,Traun,OOE,AUT
-2325163,OE5LEC,No_name no_name,no_city,OOE,AUT
+2325162,OE5HKQ,Harald Krammer,Traun,OOE,AUT
+2325163,OE5LEC,No_name ,no_city,OOE,AUT
 2325164,OE5RLP,Rainer Lappi,Untergruenburg,OOE,AUT
-2325165,OE5WZM,No_name no_name,no_city,OOE,AUT
+2325165,OE5WZM,No_name ,no_city,OOE,AUT
 2325166,OE5SLN,Stefan Lettner,Mehrnbach,OOE,AUT
-2325167,OE5JOH,Lang Johannes,Bad Hall,OOE,AUT
+2325167,OE5JOH,Johannes Lang,Bad Hall,OOE,AUT
 2325168,OE5UWL,Franz Unger Walter,Ried im Innkreis,OOE,AUT
 2325169,OE5STE,Stefan Steinhofer,Enns,OOE,AUT
 2325170,OE5GMP,Gerhard Meixner,Mettmach,OOE,AUT
@@ -2754,7 +2763,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2325174,OE5AKM,Alfred Mateja,Linz,OOE,AUT
 2325175,OE5CNN,Christian Bumberger,Traun,OOE,AUT
 2325176,OE5AGM,Andreas Gallistl,Wels,OOE,AUT
-2325177,OE5XXF,No_name no_name,no_city,OOE,AUT
+2325177,OE5XXF,No_name ,no_city,OOE,AUT
 2325178,OE5TJO,Tim Justus,Sankt Pantaleon,OOE,AUT
 2325179,OE5SGN,Gerhard Simader,Buchkirchen,OOE,AUT
 2325180,OE5ARP,Ralph Aichinger,Linz,KTN,AUT
@@ -2777,7 +2786,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2326003,OE6WKE,Kerstin Wolf,Hart-Purgstall,STMK,AUT
 2326004,OE6SSG,Anton Pfundner,Fehring,STMK,AUT
 2326005,OE6WND,Wolfgang Ninaus,Pirka,STMK,AUT
-2326006,OE6GJE,No_name no_name,no_city,STMK,AUT
+2326006,OE6GJE,No_name ,no_city,STMK,AUT
 2326007,OE6WAD,Wolfgang Aicher Franz,Feldbach,STMK,AUT
 2326008,OE6SDG,Guido Sloniowski,Deutschfeistritz,STMK,AUT
 2326009,OE6VFG,Wolfgang Schneider,Weissenbach Bei Liezen,STMK,AUT
@@ -2800,12 +2809,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2326026,OE6FID,Michael Witzani Friedrich,Graz,STMK,AUT
 2326027,OE6DLG,Franz Oswald,Sankt Michael In Obersteiermark,STMK,AUT
 2326028,OE6WWG,Siegfried Werlitsch,Graz,STMK,AUT
-2326029,OE6HHG,Helmut no_name,Tobelbad,STMK,AUT
+2326029,OE6HHG,Helmut ,Tobelbad,STMK,AUT
 2326030,OE6NHG,Herbert Nitsch,Graz,STMK,AUT
 2326031,OE6FID,Michael Witzani Friedrich,Graz,STMK,AUT
 2326032,OE6FTF,Markus Hofbauer,Hoenigsberg,STMK,AUT
 2326033,OE6FTF,Markus Hofbauer,Hoenigsberg,STMK,AUT
-2326034,OE6CGG,Gerold no_name,Schladming,STMK,AUT
+2326034,OE6CGG,Gerold ,Schladming,STMK,AUT
 2326035,OE6WSE,Sven Willkomm,Pirching am Traubenberg,STMK,AUT
 2326036,OE6PJF,Johann Parfuss,Stainz,STMK,AUT
 2326037,OE6DMD,Michaela Doppelreiter,Bruck An der Mur,STMK,AUT
@@ -2815,7 +2824,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2326041,OE6EMF,Thomas Voelker,Hartberg,STMK,AUT
 2326042,OE6KSE,Kurt Schubert,Kalsdorf Bei Graz,STMK,AUT
 2326043,OE6MGG,Gerald Meister,Graz,STMK,AUT
-2326044,OE6XMG,No_name no_name,no_city,STMK,AUT
+2326044,OE6XMG,No_name ,no_city,STMK,AUT
 2326045,OE6OCG,Richard Posch,Nestelbach,STMK,AUT
 2326046,OE6KUD,Klaus Krainz,Ilz,STMK,AUT
 2326047,OE6SSF,Stefan Samastur,Wettmannstaetten,STMK,AUT
@@ -2832,15 +2841,15 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2326058,OE6ABE,Alfred Bairl,Eggersdorf Bei Graz,STMK,AUT
 2326059,OE6WPG,Wolfgang Preising,Sinabelkirchen,STMK,AUT
 2326060,OE6GBG,Gerald Hohensinner,Gamlitz,STMK,AUT
-2326061,OE6FZE,Franz no_name,Hafning,STMK,AUT
+2326061,OE6FZE,Franz ,Hafning,STMK,AUT
 2326062,OE6IWG,Walter Steinwender,Kapfenberg,STMK,AUT
 2326063,OE6SWD,Walter Stelzer,Bruck/mur,STMK,AUT
-2326064,OE6XBZ,No_name no_name,no_city,STMK,AUT
+2326064,OE6XBZ,No_name ,no_city,STMK,AUT
 2326065,OE6BZE,Burghard Zeiler,Sulb,STMK,AUT
 2326066,OE6EWG,Klemens Stern,Graz,STMK,AUT
 2326067,OE6RST,Sebastian Poellabauer,Weiz,STMK,AUT
 2326068,OE6CPR,Philipp Rothmaier,Graz,STMK,AUT
-2326069,OE6XWG,No_name no_name,no_city,STMK,AUT
+2326069,OE6XWG,No_name ,no_city,STMK,AUT
 2326070,OE6LGF,Gerhard Laenger,Graz,STMK,AUT
 2326071,OE6POD,Johann Pachler,Zeltweg,STMK,AUT
 2326072,OE6POD,Johann Pachler,Zeltweg,STMK,AUT
@@ -2886,17 +2895,17 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2326112,OE6ARF,Alexander Rothaemmel,Graz,STMK,AUT
 2326113,OE6LSD,Helmut Stuebler,Graz-St.Peter,STMK,AUT
 2326114,OE6FJF,Franz Felber Johannes,Eggersdorf Bei Graz,STMK,AUT
-2326115,OE6UUE,No_name no_name,no_city,STMK,AUT
+2326115,OE6UUE,No_name ,no_city,STMK,AUT
 2326116,OE6AXG,Otto Allmer,St.Johann/herb,STMK,AUT
 2326117,OE6ATD,Alfred Brutti,Ehrenhausen,STMK,AUT
 2326118,OE6WID,Wolfgang Lipp,Kapfenberg,STMK,AUT
-2326119,OE6XFF,No_name no_name,no_city,STMK,AUT
+2326119,OE6XFF,No_name ,no_city,STMK,AUT
 2326120,OE6LUG,Edgar Haus Lothar,Graz,STMK,AUT
 2326121,OE6HOF,Franz Hocevar,Bad Gams,STMK,AUT
 2326122,OE6HOF,Franz Hocevar,Bad Gams,STMK,AUT
 2326123,OE6PKF,Kersten Pischler,Werndorf,STMK,AUT
 2326124,OE6PKF,Kersten Pischler,Werndorf,STMK,AUT
-2326125,OE6MMA,Markus no_name,Wien,STMK,AUT
+2326125,OE6MMA,Markus ,Wien,STMK,AUT
 2326126,OE6SHE,Helmut Schaffer,Kapfenberg,STMK,AUT
 2326127,OE6ESD,Heinrich Schaeffer,Leoben,STMK,AUT
 2326128,OE6FBD,Bertram Foetsch,Lang,STMK,AUT
@@ -2918,13 +2927,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2326144,OE6XRD,Be Oerk Landesverband,Feldbach,STMK,AUT
 2326145,OE6ASF,Alexander Spitzer,Weissenbach Bei Liezen,STMK,AUT
 2326146,OE6KCH,Christian Kamper,Scheifling,STMK,AUT
-2326147,OE6DEF,No_name no_name,no_city,STMK,AUT
+2326147,OE6DEF,No_name ,no_city,STMK,AUT
 2326148,OE6SSE,Stefan Stipsits,Ludersdorf-Wilfersdorf,STMK,AUT
 2326149,OE6UIG,Martin Schuettner,Lassing/selzt.,STMK,AUT
 2326150,OE6BYD,Simone Brutti,Ehrenhausen,STMK,AUT
 2326151,OE6HOE,Horst Eichinger,Trofaiach,STMK,AUT
 2326152,OE6RNT,Andreas Willingshofer,Langenwang-Schwoebing,STMK,AUT
-2326153,OE6KGD,No_name no_name,no_city,STMK,AUT
+2326153,OE6KGD,No_name ,no_city,STMK,AUT
 2326154,OE6WIG,Franz Wieser,Mureck,STMK,AUT
 2326155,OE6ARD,Alfred Peklar,Hartberg,STMK,AUT
 2326156,OE6RCD,Roland Robic,Leibnitz,STMK,AUT
@@ -2956,29 +2965,29 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2326182,OE6SLG,Lothar Schnedlitz,Kammern im Liesingtal,STMK,AUT
 2326183,OE6JDG,Josef Judmaier,Niklasdorf,STMK,AUT
 2326184,OE6UXS,Clemens Rabl,Graz,STMK,AUT
-2326185,OE6XRX,No_name no_name,no_city,STMK,AUT
-2326186,OE6BKQ,Koch Bernhard,Graz,STMK,AUT
+2326185,OE6XRX,No_name ,no_city,STMK,AUT
+2326186,OE6BKQ,Bernhard Koch,Graz,STMK,AUT
 2326187,OE6JMF,Joerg Meixner,Birkfeld,STMK,AUT
-2326188,OE6AGD,No_name no_name,no_city,STMK,AUT
+2326188,OE6AGD,No_name ,no_city,STMK,AUT
 2326189,OE6ADE,Andreas Domani,Koeflach,STMK,AUT
 2326190,OE6HFG,Franz Hermann,Murau,STMK,AUT
-2326191,OE6HFF,No_name no_name,no_city,STMK,AUT
-2326192,OE6FBI,Neumeister Michael,Graz,STMK,AUT
+2326191,OE6HFF,No_name ,no_city,STMK,AUT
+2326192,OE6FBI,Michael Neumeister,Graz,STMK,AUT
 2326193,OE6ETF,Engelbert Thaller,Eisenerz,STMK,AUT
 2326194,OE6BOT,Florian Kohl,Zlatten,STMK,AUT
-2326195,OE6KLF,No_name No_name,no_city,STMK,AUT
+2326195,OE6KLF,No_name ,no_city,,AUT
 2326196,OE6PSF,Patrick Schuller,Lemberg,STMK,AUT
 2326197,OE6RAD,Roland Maderbacher,Baernbach,STMK,AUT
-2326198,OE6MMR,No_name No_name,no_city,STMK,AUT
+2326198,OE6MMR,No_name ,no_city,,AUT
 2326199,OE6SSB,Schmid Hans,Wien,WIEN,AUT
 2326200,OE6TXG,Helmut Meitz,Graz-Liebenau,STMK,AUT
 2326201,OE6OLD,Heimo Muehler,Weinburg am Sassbach,STMK,AUT
-2326202,OE6LUI,No_name No_name,Graz,STMK,AUT
+2326202,OE6LUI,Peter Luidolt,Graz,STMK,AUT
 2326203,OE6JUE,Juergen Schweizer,Windorf,STMK,AUT
 2326204,OE6DUG,Edgar Neukirchner,Graz,STMK,AUT
 2326205,OE6PWE,Wolfgang Puhar,Neuseiersberg,STMK,AUT
 2326206,OE6OMC,Michael Heritsch,Aflenz,STMK,AUT
-2326207,OE6VIE,Jo Engelbrecht,St.Johann am Tauern,STMK,AUT
+2326207,OE6VIE,No_name ,no_city,,AUT
 2326208,OE6PVG,Heinrich Picher,Hetzendorf,STMK,AUT
 2326209,OE6KWG,Gernot Kaiser,Graz,STMK,AUT
 2326210,OE6KAE,Albin Kozar,Leutschach,KTN,AUT
@@ -2991,18 +3000,18 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2326231,OE6AUD,Anton Urschler,Eggersdorf,STMK,AUT
 2326232,OE6JWD,Klaus-Dieter Wolf,Hart-Purgstall,STMK,AUT
 2326233,OE6JWD,Klaus-Dieter Wolf,Hart-Purgstall,STMK,AUT
-2326234,OE6CLR,Christoph no_name,Graz,STMK,AUT
+2326234,OE6CLR,Christoph ,Graz,STMK,AUT
 2326235,OE6VHF,Joerg Kohlhofer,Sankt Oswald Bei Plankenwarth,STMK,AUT
 2326236,OE6RSD,Reinhard Stipsic,Gleisdorf,STMK,AUT
 2326237,OE6TSG,Dieter Tschermernig,Graz,STMK,AUT
 2326238,OE6CUD,Christian Thurner,Graz-Strassgng,STMK,AUT
 2326239,OE6PBD,Peter Boehler,Hausmannstaetten,STMK,AUT
-2326261,OE6KLU,Karl no_name,Stuhleck,STMK,AUT
+2326261,OE6KLU,Karl ,Stuhleck,STMK,AUT
 2326351,OE6DJG,Rolf-Dietrich Jahn,Kainbach,STMK,AUT
 2326532,OE6JWD,Klaus-Dieter Wolf,Hart-Purgstall,STMK,AUT
 2326533,OE6HWD,Herbert Walitsch,Unterlamm,STMK,AUT
 2327000,OE7BKH,Bernhard Kroell,Mayrhofen,TIROL,AUT
-2327001,OE7CAH,No_name no_name,no_city,TIROL,AUT
+2327001,OE7CAH,No_name ,no_city,TIROL,AUT
 2327002,OE7SRI,Richard Strobl,Kramsach,TIROL,AUT
 2327003,OE7BSH,H. Steiner Bernd,Wattens,TIROL,AUT
 2327004,OE7FMI,Markus Fankhauser,Finkenberg,TIROL,AUT
@@ -3042,7 +3051,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2327038,OE7TMJ,Martin Traxl,Zams,TIROL,AUT
 2327039,OE7MMT,Martin Moranduzzo,Kaunerberg,TIROL,AUT
 2327040,OE7GHJ,Herbert Grindhammer,Schwoich,TIROL,AUT
-2327041,OE7SBH,No_name no_name,no_city,TIROL,AUT
+2327041,OE7SBH,No_name ,no_city,TIROL,AUT
 2327042,OE7JRT,Josef Anfang,Tux,TIROL,AUT
 2327043,OE7XWI,Zill Sportverein der Verbund Hydro Power  Gmbh,Mayrhofen,TIROL,AUT
 2327044,OE7MWH,Michael Werhonik,Steinach A.Br.,TIROL,AUT
@@ -3128,8 +3137,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2327124,OE7WPA,Werner Pichl,Innsbruck,TIROL,AUT
 2327125,OE7GFT,Gerhard Floegel,Innsbruck,TIROL,AUT
 2327126,OE7PSH,Klaus-Peter Schulze,Scharnitz,TIROL,AUT
-2327127,OE7RAJ,No_name no_name,no_city,TIROL,AUT
-2327128,OE7RAJ,No_name no_name,no_city,TIROL,AUT
+2327127,OE7RAJ,No_name ,no_city,TIROL,AUT
+2327128,OE7RAJ,No_name ,no_city,TIROL,AUT
 2327129,OE7JVJ,Andreas Wechselberger,Aschau,TIROL,AUT
 2327130,OE7NJI,Arnold Janku,Wattens,TIROL,AUT
 2327131,OE7GDH,Gerhard Daum,Aschau,TIROL,AUT
@@ -3159,37 +3168,37 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2327155,OE7XKJ,Versuc Lv Tirol Des Oesterreichischen,Kufstein,TIROL,AUT
 2327156,OE7GMT,Guenter Mathoi,Innsbruck,TIROL,AUT
 2327157,OE7NHT,Nikolaus Henning,Innsbruck,TIROL,AUT
-2327158,OE7ECH,No_name no_name,no_city,TIROL,AUT
-2327159,OE7AYH,No_name no_name,no_city,TIROL,AUT
+2327158,OE7ECH,No_name ,no_city,TIROL,AUT
+2327159,OE7AYH,No_name ,no_city,TIROL,AUT
 2327160,OE7BFT,Franco Ball,Lans,TIROL,AUT
 2327161,OE7UTI,Ulf Tasch,Vomp,TIROL,AUT
 2327162,OE7SPI,Peter Soder,St.Ulrich am Pillers,TIROL,AUT
-2327163,OE7SBH,No_name no_name,no_city,TIROL,AUT
+2327163,OE7SBH,No_name ,no_city,TIROL,AUT
 2327164,OE7GWT,Guenther Wirth,Volders,TIROL,AUT
 2327165,OE7BOE,Robert Schneider,Mieming,TIROL,AUT
 2327166,OE7CAI,Christian Agerer,Niederndorf,TIROL,AUT
 2327167,OE7HKJ,Heinz Mazzurana Karl,Mils,TIROL,AUT
 2327168,OE7AAT,Alfred Sonnweber,Hall In Tirol,TIROL,AUT
 2327169,OE7FWJ,Franz Weitlaner,Innsbruck,TIROL,AUT
-2327170,OE7KIR,Kihr Markus,Pfaffenhofen,TIROL,AUT
-2327171,OE7SAE,Seelos Alexander,Seefeld In Tirol,TIROL,AUT
-2327172,OE7TSJ,Langmaier Stefan,Telfs,TIROL,AUT
-2327173,OE7LKT,No_name no_name,no_city,TIROL,AUT
-2327174,OE7AZO,No_name no_name,no_city,TIROL,AUT
+2327170,OE7KIR,Markus Kihr,Pfaffenhofen,TIROL,AUT
+2327171,OE7SAE,Alexander Seelos,Seefeld In Tirol,TIROL,AUT
+2327172,OE7TSJ,Stefan Langmaier,Telfs,TIROL,AUT
+2327173,OE7LKT,No_name ,no_city,TIROL,AUT
+2327174,OE7AZO,No_name ,no_city,TIROL,AUT
 2327175,OE7GKH,Kathrin Gabl,Sankt Leonhard im Pitztal,TIROL,AUT
-2327176,OE7CSM,Steinbacher Martin,Schwoich,TIROL,AUT
-2327177,OE7SZT,Zimmermann Stefan,Innsbruck,TIROL,AUT
-2327178,OE7SLF,Schaedl Stefan,Kufstein,TIROL,AUT
+2327176,OE7CSM,Martin Steinbacher,Schwoich,TIROL,AUT
+2327177,OE7SZT,Stefan Zimmermann,Innsbruck,TIROL,AUT
+2327178,OE7SLF,Stefan Schaedl,Kufstein,TIROL,AUT
 2327179,OE7AUI,Albin Untersteiner,Fliess,TIROL,AUT
-2327180,OE7DRT,Reich Dominic,Laengenfeld,TIROL,AUT
-2327181,OE7LPR,Preindl Laurenz,Zoeblen,TIROL,AUT
+2327180,OE7DRT,Dominic Reich,Laengenfeld,TIROL,AUT
+2327181,OE7LPR,Laurenz Preindl,Zoeblen,TIROL,AUT
 2327182,OE7RSI,Roland Stemmer,Prutz,TIROL,AUT
-2327183,OE7MOV,No_name no_name,no_city,TIROL,AUT
+2327183,OE7MOV,No_name ,no_city,TIROL,AUT
 2327184,OE7WDR,Markus Widmann,Ebbs,TIROL,AUT
 2327185,OE7MPT,Martin Pacher,Ebbs,TIROL,AUT
 2327186,OE7GMH,Manfred Gardener,Sillian,TIROL,AUT
 2327187,OE7WPJ,Werner Pesserer,Jenbach,TIROL,AUT
-2327188,OE7MOF,No_name No_name,Eben am Achensee,TIROL,AUT
+2327188,OE7MOF,Stefan Moosmann,Eben am Achensee,TIROL,AUT
 2327189,OE7NCT,Nikolaus Coluccini,Angerberg,TIROL,AUT
 2327190,OE7GWT,Guenther Wirth,Volders,TIROL,AUT
 2327191,OE7LOJ,Erik Loll-Nielsen,Kitzbuehel,TIROL,AUT
@@ -3202,23 +3211,23 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2327198,OE7OBD,David Oberhofer,Terfens,TIROL,AUT
 2327199,OE7WRT,Wolfgang Ramoser,Innsbruck,TIROL,AUT
 2327200,OE7TDK,Thomas Duracher,Ausservillgraten,TIROL,AUT
-2327201,OE7EJT,Elmar No_name,Fiss,TIROL,AUT
+2327201,OE7EJT,Elmar Illmer,Fiss,TIROL,AUT
 2327202,OE7IWT,Wilfried Haid,Aldrans,TIROL,AUT
-2327203,OE7HDR,Harald No_name,Tarrenz,TIROL,AUT
-2327204,OE7KJM,Mario No_name,Itter,TIROL,AUT
+2327203,OE7HDR,Harald Doblander,Tarrenz,TIROL,AUT
+2327204,OE7KJM,Mario Klingenschmid,Itter,TIROL,AUT
 2327205,OE7SIT,Stefan Isser,Seefeld,OOE,AUT
-2327206,OE7SXG,Gidis No_name,Niederndorf,TIROL,AUT
+2327206,OE7SXG,Egidius Steinbacher,Niederndorf,TIROL,AUT
 2327207,OE7MLH,Martin Hainz,Reith Bei Seefeld,TIROL,AUT
-2327208,OE7KIW,Klemens No_name,Innsbruck,TIROL,AUT
-2327209,OE7PIP,Hannes No_name,Innsbruck,TIROL,AUT
-2327210,OE7DAV,David No_name,Schwaz,TIROL,AUT
-2327211,OE7ETT,Peter No_name,Woergl,TIROL,AUT
+2327208,OE7KIW,Klemens Winter,Innsbruck,TIROL,AUT
+2327209,OE7PIP,No_name ,no_city,,AUT
+2327210,OE7DAV,David Habernig,Schwaz,TIROL,AUT
+2327211,OE7ETT,Peter Ettinger,Woergl,TIROL,AUT
 2327212,OE7DRT,Dominic Reich,Laengenfeld,TIROL,AUT
 2327213,OE7MET,Benedikt Dessl,Waengle,TIROL,AUT
 2327214,OE7CHJ,Christoph Hitthaler,Fliess,TIROL,AUT
 2327215,OE7RMT,Marco Rossini,Tarrenz,TIROL,AUT
 2327216,OE7PET,Egon Pelzer,Kufstein,TIROL,AUT
-2327217,OE7CSM,Martin No_name,Schwoich,TIROL,AUT
+2327217,OE7CSM,Martin Steinbacher,Schwoich,TIROL,AUT
 2327218,OE7RJU,Roland Juen,Pettneu A/a,TIROL,AUT
 2327219,OE7MOH,Othmar Mair,Innsbruck,TIROL,AUT
 2327220,OE7WIP,Robert Wuggenig,Innsbruck,TIROL,AUT
@@ -3227,9 +3236,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2327223,OE7ERJ,Erwin Raggl,Zams,TIROL,AUT
 2327232,OE7OST,Thomas Ostermann,Innsbruck,TIROL,AUT
 2328001,OE8AGK,Alfred Grascher,Eberndorf,KTN,AUT
-2328002,OE8DDK,No_name no_name,no_city,KTN,AUT
+2328002,OE8DDK,No_name ,no_city,KTN,AUT
 2328003,OE8LCK,Laszlo Lippay,Klagenfurt,KTN,AUT
-2328004,OE8JFK,No_name no_name,no_city,KTN,AUT
+2328004,OE8JFK,No_name ,no_city,KTN,AUT
 2328005,OE8MMK,Hemma Maas Margret,Spittal An der Drau,KTN,AUT
 2328006,OE8DMR,Antal Gulyas,Hermagor,KTN,AUT
 2328007,OE8URQ,Uwe Rimmele,Noetsch,KTN,AUT
@@ -3237,10 +3246,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2328009,OE8AEQ,Alexander Egger,Unteraichwald,KTN,AUT
 2328010,OE8AMK,Anton Haller,Ferlach,KTN,AUT
 2328011,OE8PJK,Johannes Ploessnig,Villach,KTN,AUT
-2328012,OE8KLK,No_name no_name,no_city,KTN,AUT
+2328012,OE8KLK,No_name ,no_city,KTN,AUT
 2328013,OE8LCK,Laszlo Lippay,Klagenfurt,KTN,AUT
 2328014,OE8AGK,Alfred Grascher,Eberndorf,KTN,AUT
-2328015,OE8JFK,No_name no_name,no_city,KTN,AUT
+2328015,OE8JFK,No_name ,no_city,KTN,AUT
 2328016,OE8DMK,Dieter Maier,Klagenfurt,KTN,AUT
 2328017,OE8AAK,Anton Augustin,Villach,KTN,AUT
 2328018,OE8AIR,Joachim Tragauer Friedrich,Villach,KTN,AUT
@@ -3248,7 +3257,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2328020,OE8HSR,Michael Steiner Hans,Rangersdorf,KTN,AUT
 2328021,OE8JDK,Josef Dedek,Villach,KTN,AUT
 2328022,OE8JDK,Josef Dedek,Villach,KTN,AUT
-2328023,OE8KBC,Kurt no_name,Saurachberg,KTN,AUT
+2328023,OE8KBC,Kurt ,Saurachberg,KTN,AUT
 2328024,OE8PSQ,Manfred Suppick,Wernberg,KTN,AUT
 2328025,OE8XMK,Landes Oevsv,Magdalensberg,KTN,AUT
 2328026,OE8BGK,Heribert Wurzer,Meiselding,KTN,AUT
@@ -3261,15 +3270,15 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2328033,OE8CKK,Christopher Kommetter,Waidegg,KTN,AUT
 2328034,OE8KKM,Kevin Mekul,Sankt Veit An der Glan,KTN,AUT
 2328035,OE8WOZ,Wolfgang Scherr,Villach,KTN,AUT
-2328036,OE8VIK,No_name no_name,no_city,KTN,AUT
+2328036,OE8VIK,No_name ,no_city,KTN,AUT
 2328037,OE8SCQ,Christian Seitner-Stadik,Feldkirchen In Kaernten,KTN,AUT
 2328038,OE8AEQ,Alexander Egger,Unteraichwald,KTN,AUT
-2328039,OE8VIK,No_name no_name,no_city,KTN,AUT
+2328039,OE8VIK,No_name ,no_city,KTN,AUT
 2328040,OE8XGK,Austria Radio Club,Finkenstein am Faakersee,KTN,AUT
-2328041,OE8DLG,Franz no_name,Ruden,KTN,AUT
+2328041,OE8DLG,Franz ,Ruden,KTN,AUT
 2328042,OE8DIV,Richard Rasser,Klagenfurt,KTN,AUT
 2328043,OE8AIR,Joachim Tragauer Friedrich,Villach,KTN,AUT
-2328044,OE8BJK,Joachim no_name,Klagenfurt,KTN,AUT
+2328044,OE8BJK,Joachim ,Klagenfurt,KTN,AUT
 2328045,OE8PAK,Klaus Pichler,Moellbruecke,KTN,AUT
 2328046,OE8PGQ,Guenther Felsperger,Rosegg,KTN,AUT
 2328047,OE8CMQ,Christoph Malle,Klagenfurt,KTN,AUT
@@ -3301,32 +3310,32 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2328073,OE8NWQ,Hermann Weiss,Berg/drau,KTN,AUT
 2328074,OE8PJQ,Johann Pichler,Baldramsdorf,KTN,AUT
 2328075,OE8WV,Leon Wolf,Villach,KTN,AUT
-2328076,OE8AED,No_name no_name,no_city,KTN,AUT
+2328076,OE8AED,No_name ,no_city,KTN,AUT
 2328077,OE8ADF,Werner Allmayer,Spittal An der Drau,KTN,AUT
 2328078,OE8ACQ,Luca Nachbar,Klagenfurt,KTN,AUT
 2328079,OE8ANK,Raimund Achatz,Pischeldorf,KTN,AUT
 2328080,OE8JPQ,Philipp Jeschofnik,Klagenfurt,KTN,AUT
-2328081,OE8KTR,Gerhard no_name,Grafenstein,KTN,AUT
+2328081,OE8KTR,Gerhard ,Grafenstein,KTN,AUT
 2328082,OE8MVG,Michael Veratschnig,Keutschach,KTN,AUT
 2328083,OE8JWK,Josef Berger,Poertschach am Woerther See,KTN,AUT
 2328084,OE8ACD,Stefan Joebstl,Wolfsberg,KTN,AUT
 2328085,OE8AEE,Helmut Stieger,Klagenfurt,KTN,AUT
-2328086,OE8GWQ,No_name No_name,Sankt Jakob im Rosental,KTN,AUT
-2328087,OE8IJK,Kugi Juergen,Sankt Veit An der Glan,KTN,AUT
-2328088,OE8GGE,Gradischnig Gerd,Sankt Veit An der Glan,KTN,AUT
+2328086,OE8GWQ,Wolfgang Gabrutsch,Sankt Jakob im Rosental,KTN,AUT
+2328087,OE8IJK,Juergen Kugi,Sankt Veit An der Glan,KTN,AUT
+2328088,OE8GGE,Gerd Gradischnig,Sankt Veit An der Glan,KTN,AUT
 2328089,OE8IMK,Peter Sternath,Sankt Veit An der Glan,KTN,AUT
-2328090,OE8ITG,Stromberger Gerhard,Sankt Veit An der Glan,KTN,AUT
-2328091,OE8IMR,Rauter Michael,Sankt Veit An der Glan,KTN,AUT
-2328092,OE8RAT,No_name No_name,no_city,KTN,AUT
-2328093,OE8JAS,Sacherer Joshua,Sittersdorf,KTN,AUT
+2328090,OE8ITG,Gerhard Stromberger,Sankt Veit An der Glan,KTN,AUT
+2328091,OE8IMR,Michael Rauter,Sankt Veit An der Glan,KTN,AUT
+2328092,OE8RAT,No_name ,no_city,,AUT
+2328093,OE8JAS,Joshua Sacherer,Sittersdorf,KTN,AUT
 2328094,OE8JSK,Juergen Scherzer,Sankt Veit An der Glan,KTN,AUT
 2328095,OE8ASK,Angelika Scherzer,Sankt Veit An der Glan,KTN,AUT
 2328096,OE8BSK,Albert Sitar,Miklauzhof,KTN,AUT
-2328097,OE8KYK,Unterkoefler Henryk,Ueberfeld,KTN,AUT
+2328097,OE8KYK,Henryk Unterkoefler,Ueberfeld,KTN,AUT
 2328098,OE8OGI,Wolfram Ogris,Feistritz im Rosental,KTN,AUT
 2328099,OE8SFK,Franz Schenk,Klagenfurt,KTN,AUT
-2328100,OE8ELO,No_name No_name,Feldkirchen In Kaernten,KTN,AUT
-2328101,OE8TEK,Elmar Tusch,Bodensdorf,KTN,AUT
+2328100,OE8ELO,Erich Londer,Feldkirchen In Kaernten,KTN,AUT
+2328101,OE8TEK,Thomas Enzenebner,Klagenfurt,KTN,AUT
 2328102,OE8FOX,Juergen Spreitzer,Steindorf,KTN,AUT
 2328103,OE8RPK,Roland Pobatschnig,Sankt Andrae,KTN,AUT
 2328104,OE8TLK,Ernst Lueger,Lambichl,KTN,AUT
@@ -3337,7 +3346,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2328109,OE8HKS,Helmut Kloss,Friesach,KTN,AUT
 2328110,OE8MEQ,Heinrich Meschnark,Wolfsberg,KTN,AUT
 2328111,OE8ARQ,Alfred Rieder,Viktring,KTN,AUT
-2328212,OE8LBK,Helmut no_name,Villach,KTN,AUT
+2328212,OE8LBK,Helmut ,Villach,KTN,AUT
 2328502,OE8WLK,Wolf Spielvogel,Villach,KTN,AUT
 2328503,OE8BCK,Christof Bodner,Gmuend,KTN,AUT
 2328504,OE8EGK,Erwin Krall,Klgft/viktring,KTN,AUT
@@ -3345,7 +3354,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2328506,OE8HJK,Hermann Jelinek,Klagenfurt,KTN,AUT
 2328507,OE8CHK,Christoph Rieder,Villach,KTN,AUT
 2328508,OE8HJK,Hermann Jelinek,Klagenfurt,KTN,AUT
-2328802,OE8SWR,Wolfgang no_name,Villach,KTN,AUT
+2328802,OE8SWR,Wolfgang ,Villach,KTN,AUT
 2328806,OE8OK,Oskar Kruschitz,St Kanzian,KTN,AUT
 2328811,OE8MDK,Michael Perdacher,Tainach,KTN,AUT
 2328812,OE8SGK,Gerhard Schellander,Wernberg,KTN,AUT
@@ -3360,12 +3369,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2328832,OE8YHQ,Heidi Karlin,St Ulrich,KTN,AUT
 2328841,OE8RVK,Robert Vrisk,Klagenfurt,KTN,AUT
 2328842,OE8URQ,Uwe Rimmele,Noetsch,KTN,AUT
-2328851,OE8KER,No_name no_name,no_city,KTN,AUT
+2328851,OE8KER,No_name ,no_city,KTN,AUT
 2328860,OE8AAK,Anton Augustin,Villach,KTN,AUT
 2328862,OE8PKR,Paul Karlin,St Magdalen,KTN,AUT
 2328864,OE8BGQ,Gerhard Brandner,Steinfeld,KTN,AUT
-2328872,OE8PTK,Sk no_name,Villach,KTN,AUT
-2328892,OE8MCQ,Udo no_name,Wernberg,KTN,AUT
+2328872,OE8PTK,Sk ,Villach,KTN,AUT
+2328892,OE8MCQ,Udo ,Wernberg,KTN,AUT
 2329001,OE9KFV,Frank Kossidowski,Hoerbranz,VBG,AUT
 2329002,OE9KSV,Karl Schoell,Bregenz,VBG,AUT
 2329003,OE9IGV,Ingo Giesinger,Dornbirn,VBG,AUT
@@ -3373,7 +3382,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2329005,OE9AFV,Alexander Fetz,Lauterach,VBG,AUT
 2329006,OE9SAJ,Stephan Autengruber,Bregenz,VBG,AUT
 2329007,OE9LTV,Thomas Antholzer,Bregenz,VBG,AUT
-2329008,OE9VVV,Rc no_name,Frastanz,VBG,AUT
+2329008,OE9VVV,Rc ,Frastanz,VBG,AUT
 2329009,OE9PKV,Klaus Pfister,Bludesch,VBG,AUT
 2329010,OE9AFV,Alexander Fetz,Lauterach,VBG,AUT
 2329011,OE9FRV,Fabian Friesenecker,Feldkirch,VBG,AUT
@@ -3381,13 +3390,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2329013,OE9LTV,Thomas Antholzer,Bregenz,VBG,AUT
 2329014,OE9TNT,Wilfried Molina,Bregenz,VBG,AUT
 2329015,OE9BBH,Bernhard Bleyle-Fink,Bregenz,VBG,AUT
-2329016,OE9WOH,Manfred no_name,Wolfurt,VBG,AUT
+2329016,OE9WOH,Manfred ,Wolfurt,VBG,AUT
 2329017,OE9PTI,Thomas Prettner,Bregenz,VBG,AUT
 2329018,OE9WLJ,Wilfried Haeusle,Hoerbranz,VBG,AUT
 2329019,OE9PGV,Peter Gstir,Dornbirn,VBG,AUT
 2329020,OE9HGV,Guenter Hug,Goetzis,VBG,AUT
 2329021,OE9HLH,Harald Longhi,Bregenz,VBG,AUT
-2329022,OE9UGV,Uwe no_name,Bregenz,VBG,AUT
+2329022,OE9UGV,Uwe ,Bregenz,VBG,AUT
 2329023,OE9WSJ,Wilfried Stoessl,Meiningen,VBG,AUT
 2329024,OE9FWV,Werner Furlan,Feldkirch,VBG,AUT
 2329025,OE9XGV,(oevsv) Oevsv,Koblach,VBG,AUT
@@ -3396,7 +3405,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2329028,OE9EFH,Engelbert Felder,Schoppernau,VBG,AUT
 2329029,OE9SJV,Julian Schenk,Bregenz,VBG,AUT
 2329030,OE9MOI,Guenther Kirchebner,Feldkirch,VBG,AUT
-2329031,OE9IMJ,No_name no_name,no_city,VBG,AUT
+2329031,OE9IMJ,No_name ,no_city,VBG,AUT
 2329032,OE9HPV,Heiner-Anton Prinz,Feldkirch,VBG,AUT
 2329033,OE9TFH,Thomas Vrisk,Bludesch,VBG,AUT
 2329034,OE9AZV,Rudolf Zimmermann Andreas,Feldkirch,VBG,AUT
@@ -3408,10 +3417,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2329040,OE9XVI,(oevsv) Oevsv,Feldkirch,VBG,AUT
 2329041,OE9SAM,Manfred Koeb,Wolfurt,VBG,AUT
 2329042,OE9EFJ,Edwin Floery,Gortipohl,VBG,AUT
-2329043,OE9JAP,Patrick no_name,Feldkirch,VBG,AUT
+2329043,OE9JAP,Patrick ,Feldkirch,VBG,AUT
 2329044,OE9DKH,Dirk Kuschke,Hoerbranz,VBG,AUT
 2329045,OE9CBV,Christoph Boss,Lauterach,VBG,AUT
-2329046,OE9IMJ,No_name no_name,no_city,VBG,AUT
+2329046,OE9IMJ,No_name ,no_city,VBG,AUT
 2329047,OE9EZI,Ernst Zwanziger,Bregenz,VBG,AUT
 2329048,OE9TEV,Tobias Eisemann,Loruens,VBG,AUT
 2329049,OE9PBV,Joerg Mielich,Bregenz,VBG,AUT
@@ -3423,7 +3432,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2329055,OE9VMR,Markus Ruedisser,Bregenz,VBG,AUT
 2329056,OE9DEV,Dominique Eberle,Lauterach,VBG,AUT
 2329057,OE9TNT,Wilfried Molina,Bregenz,VBG,AUT
-2329058,OE9SBV,No_name no_name,no_city,VBG,AUT
+2329058,OE9SBV,No_name ,no_city,VBG,AUT
 2329059,OE9RSV,Rene Sonnweber,Sulz,VBG,AUT
 2329060,OE9AKI,Arno Krainer,Dornbirn,VBG,AUT
 2329061,OE9MMH,Michael Kneidl,Dornbirn,VBG,AUT
@@ -3445,7 +3454,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2329077,OE9HWV,Walter Hauck,Dornbirn,VBG,AUT
 2329078,OE9OLT,Markus Wirth,Hard,VBG,AUT
 2329079,OE9MEV,Matthias Elbs,Bregenz,VBG,AUT
-2329080,OE9DLV,David no_name,Lauterach,VBG,AUT
+2329080,OE9DLV,David ,Lauterach,VBG,AUT
 2329081,OE9MDT,Markus Denifle,Bregenz,VBG,AUT
 2329082,OE9GBH,Guido Bitschi,Klaus,VBG,AUT
 2329083,OE9MMV,Martin Mayr,Bludenz,VBG,AUT
@@ -3465,7 +3474,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2329097,OE9GWV,Guntram Wagner,Bludesch,VBG,AUT
 2329098,OE9GZH,Johann Hirschmann Helmut,Dornbirn,VBG,AUT
 2329099,OE9XXV,Vorarlberg Amateurfunkverein Digital Force,Bregenz,VBG,AUT
-2329100,OE9VVV,Rc no_name,Frastanz,VBG,AUT
+2329100,OE9VVV,Rc ,Frastanz,VBG,AUT
 2329101,OE9DBI,Bianca Dobler,Vandans,VBG,AUT
 2329102,OE9DAI,Alexander Dobler,Vandans,VBG,AUT
 2329103,OE9OBV,Alexander Friedl Ingo,Dornbirn,VBG,AUT
@@ -3480,14 +3489,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2329112,OE9MVT,Tobias Matt,Frastanz,VBG,AUT
 2329113,OE9MNR,Michael Mohr,Wolfurt,VBG,AUT
 2329114,OE9BOK,Klaus Boeckle,Bregenz,VBG,AUT
-2329115,OE9IHR,Mesaric Ozren,Nenzing,VBG,AUT
+2329115,OE9IHR,Ozren Mesaric,Nenzing,VBG,AUT
 2329116,OE9CBV,Christoph Boss,Lauterach,VBG,AUT
 2329117,OE9KRI,Robert Kadis,Altach,VBG,AUT
 2329118,OE9FRV,Fabian Friesenecker,Feldkirch,VBG,AUT
 2329119,OE9MNR,Michael Mohr,Wolfurt,VBG,AUT
 2329120,OE9PHV,Heinz Petnig,Lustenau,VBG,AUT
 2329121,OE9TAV,Tamer Yekdes,Lustenau,VBG,AUT
-2329122,OE9RFV,No_name no_name,no_city,VBG,AUT
+2329122,OE9RFV,No_name ,no_city,VBG,AUT
 2329123,OE9IGV,Ingo Giesinger,Dornbirn,VBG,AUT
 2329124,OE9NGH,Guenther Nussbaumer,Langenegg,VBG,AUT
 2329125,OE9XBV,Amateurfunkclub A1,Bregenz,VBG,AUT
@@ -3939,7 +3948,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2620442,DL2BCQ,Andreas Kubutsch,Bissendorf,NI,DEU
 2620443,DG8MDP,Monika Bader,Unterostendorf,BY,DEU
 2620444,DO7MI,Mike Radmacher,no_city,NO_NAME,DEU
-2620445,DO3HKF,Markus Moehring,Bad Driburg,NW,DEU
+2620445,DL3MZ,Markus Moehring,Bad Driburg,NW,DEU
 2620446,DL1MJG,Johannes Gust,Ohlstadt,BY,DEU
 2620447,DD4FK,Frank Koenning,Berlin,BE,DEU
 2620448,DK9UW,Horst Schoenboeck,Otterberg,RP,DEU
@@ -3957,7 +3966,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2620460,DJ5HM,Hartmut Ost,Namborn,SL,DEU
 2620461,DD3FH,Frank Heubach,Bad Salzungen,TH,DEU
 2620462,DO1KHS,Horst Stoecker,Siegburg,NW,DEU
-2620463,DB4RNM,Norbert no_name,Ruelzheim,RP,DEU
+2620463,DB4RNM,Norbert ,Ruelzheim,RP,DEU
 2620464,DC9WI,Winrich Krupp,Augsburg,BY,DEU
 2620465,DA6PFL,Phillip Sibley,no_city,NO_NAME,DEU
 2620466,DF1YE,Thomas-Christian Fabian,Schoenfliess,BB,DEU
@@ -4110,13 +4119,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2620613,DO1OIB,Ingo Bloedorn,Bueddenstedt,NO_NAME,DEU
 2620614,DL1MP,Martin Pfeiffer,Waldbroel,NW,DEU
 2620615,DK3LM,Mathias Schellack,Hohenbucko,BB,DEU
-2620616,DO1MSE,Michael Seuffert,Grossmehring,BY,DEU
+2620616,DK7SM,Michael Seuffert,Grossmehring ()),BY,DEU
 2620617,DO1NSF,Nebojsa Simic,Frankfurt,HE,DEU
 2620618,DO9BES,Bernd Esters,Neustadt,NI,DEU
 2620619,DL9STX,Rouven Radtke,no_city,NO_NAME,DEU
 2620620,DL2YEJ,Friedhelm Macke,Marl,NI,DEU
 2620621,DO8HB,Herbert Birth,Hueckelhoven,NW,DEU
-2620622,DO3HKF,Markus Moehring,Bad Driburg,NW,DEU
+2620622,DL3MZ,Markus Moehring,Bad Driburg,NW,DEU
 2620623,DO1HE,Henning Schoo,Guetersloh,NW,DEU
 2620624,DK6DR,Jan Stroemann,Dortmund,NW,DEU
 2620625,DK9JL,Wolfgang Eckart,Heidelberg,BW,DEU
@@ -4350,7 +4359,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2620853,DC9DD,Hans Koester,Bergkamen,NW,DEU
 2620854,DJ9KK,Koichi Kasamatsu,Nuernberg,BY,DEU
 2620855,DO6BJ,Thomas Breit,Wolfsburg,NI,DEU
-2620856,DO8MAX,Maximilian Jaeger,no_city,NO_NAME,DEU
+2620856,DJ1MA,Max Jaeger,Ingolstadt ()),BY,DEU
 2620857,DG1FCL,Daniel Nottarp,Bad Soden,HE,DEU
 2620858,DO4TW,Thomas Warnstorff,Straubing,BY,DEU
 2620859,DC4XB,Holger Bomm,Wurster Nordseekueste,NI,DEU
@@ -4744,7 +4753,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2621247,DC1EKD,Eckhard Hensel,Eisenhuettenstadt,BB,DEU
 2621248,DO1JLH,Marco Fechner,Berlin,BE,DEU
 2621249,DL7TT,Manfred Sadler,Berlin,BE,DEU
-2621250,DG1BRB,Uwe no_name,Berlin,BE,DEU
+2621250,DG1BRB,Uwe ,Berlin,BE,DEU
 2621251,DL1NCZ,Bernhard Saukel,Luckenwalde,BB,DEU
 2621252,DL7VFX,Thomas Kroeger,Berlin,BE,DEU
 2621253,DL7VMO,Holger Stamer,Berlin,BE,DEU
@@ -4875,7 +4884,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2621378,DL7AAH,Andreas Herzog,Berlin,BE,DEU
 2621379,DG5BRE,Ronny Kelm,Petershagen,BB,DEU
 2621380,DO1REL,Rajko Engel,Hoerlitz,BB,DEU
-2621381,DO7SRBM,Sven no_name,no_city,BB,DEU
+2621381,DO7SRBM,Sven ,no_city,BB,DEU
 2621382,DO1NIC,Peter Emberger,Berlin,BE,DEU
 2621383,DD6URA,Rene Anhalt,Neuenhagen,BB,DEU
 2621384,DO7EA,Andreas Elsner,Berlin,BE,DEU
@@ -5236,7 +5245,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2621739,DL3NDZ,Gustav Herderich,Hirschaid,BY,DEU
 2621740,DK9ZW,Wolfgang Zwicker,Neuhausen Ob Eck,BW,DEU
 2621741,DO4SR,Sabrina Hoffmann,no_city,NO_NAME,DEU
-2621742,DG1YHS,Heiner No_name,Duesseldorf,NW,DEU
+2621742,DG1YHS,Heiner ,Duesseldorf,NW,DEU
 2621743,DK6OS,Olaf Strauch,Celle (RA),NI,DEU
 2621744,DD6MS,Matthias Seifert,Hainichen,SN,DEU
 2621745,DH1PU,Friedhelm Bauer,Ahrbrueck,RP,DEU
@@ -9386,13 +9395,33 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2625889,DL1RSH,Holger Merhout,Potsdam,BB,DEU
 2625890,DO1ZYM,Martin Zymelka,Bamberg,BY,DEU
 2625891,DM5TT,Holger Adams,Esslingen,BW,DEU
-2625892,DL7DI,David Innocente,Bad Liebenzell ()),BW,DEU
+2625892,DL7DI,David Innocente,Bad Liebenzell ())),BW,DEU
 2625893,DF8WP,Kurt Kohler,St. Augustin,NW,DEU
-2625894,DO7IW,Ingo Wiebusch,Tostedt ()),NI,DEU
+2625894,DO7IW,Ingo Wiebusch,Tostedt ())),NI,DEU
 2625895,DL5SBY,Franz Hermann,Boehmenkirch,BW,DEU
 2625896,DH6LP,Peter Luening,Holzkirchen,BY,DEU
 2625897,DM1MKF,Michael Fenske,Neuseddin,BB,DEU
 2625898,DG8DCN,Jens Lottes,Dortmund,NW,DEU
+2625899,DL4NAX,Friedrich Baer,Bindlach,BY,DEU
+2625900,DO8BI,Stephan Schade,Bernau,BB,DEU
+2625901,DO9SKU,Stefan Kaufmann,Unterwachingen,BW,DEU
+2625902,DO4MME,Marc Mertens,Wachtberg,NW,DEU
+2625903,DL1MS,Maik Schwarz,Bonn,NW,DEU
+2625904,DG5BDO,Andreas Brockmeyer,Hofstetten,BY,DEU
+2625905,DF2LS,Wolf-Michael Schneider,Bargteheide,SH,DEU
+2625906,DL7PUT,Bernhard Fluche,Potsdam,BB,DEU
+2625907,DO5ER,Norbert Weiss,Kamen,NW,DEU
+2625908,DO4DAN,Daniel Mueller,Lahntal,HE,DEU
+2625909,DO9EPL,Erik Plumpe,Bad Homburg,HE,DEU
+2625910,DH1LM,Lothar Lueck,Meerbusch,NW,DEU
+2625911,DO1DPA,Harald Dietz,Wuppertal,NW,DEU
+2625912,DJ5FS,Horst Kuehl,Winsen,NI,DEU
+2625913,DO5CR,Cornel Reschke,Lemgo ()),NW,DEU
+2625914,DG3YIT,Thorsten Hartmann,Westerheim,BW,DEU
+2625915,DO2ESB,Sascha Blum,Kaarst,NW,DEU
+2625916,DH5SA,Soner Aktas,Babenhausen,HE,DEU
+2625917,DL9DCA,Bjoern Hoffmann,Herne,NW,DEU
+2625918,DL4MTL,Steve Eifrig,Poehsig,SN,DEU
 2625998,DM0NR,Hans-Juergen Barthen,Kruft,RP,DEU
 2625999,DB0LJ,Hans-Juergen Barthen,Kruft,RP,DEU
 2626000,DF6RK,Ralf Klingler,Glashuetten,HE,DEU
@@ -10462,7 +10491,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627064,DL2MT,Thomas Mansch,Leonberg,BW,DEU
 2627065,DL9SAD,Martin Blanz,Schwieberdingen,BW,DEU
 2627066,DF0LEO,Dirk Eifler,Stuttgart,BW,DEU
-2627067,DK0ALC,Club no_name,Rutesheim,BW,DEU
+2627067,DK0ALC,Club ,Rutesheim,BW,DEU
 2627068,DL1IK,Burkhard Decker,Lauf,BW,DEU
 2627069,DL1SMD,Manuel Sommer,Heubach,BW,DEU
 2627070,DG8GL,Christian Von Mulert,Konstanz,BW,DEU
@@ -10509,7 +10538,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627111,DL1GKR,Klaus Ruedel,Ehingen,BW,DEU
 2627112,DL2BER,Berno Gilgen,Laupheim,BW,DEU
 2627113,DG6GC,Dirk Naumann,Konstanz,BW,DEU
-2627114,DO4WL,Andrea Gilgen,Laupheim,BW,DEU
+2627114,DL2GA,Andrea Gilgen,Laupheim,BW,DEU
 2627115,DM7RM,Ralf Mittelstaedt,Mudau,BW,DEU
 2627116,DK7US,Udo Hoffner,Karlsruhe,BW,DEU
 2627117,DK7US,Udo Hoffner,Karlsruhe,BW,DEU
@@ -11177,7 +11206,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627779,DL6SW,Wolfgang Hertkorn,Stuttgart,BW,DEU
 2627780,DF3IS,Michael Glaeser,Kuernbach,BW,DEU
 2627781,DL9SFE,Elmar Stein,Lossburg,BW,DEU
-2627782,DO9LT,Oliver no_name,Voehringen,BW,DEU
+2627782,DO9LT,Oliver ,Voehringen,BW,DEU
 2627783,DO1GTO,Thomas Oldag,Rheinfelden,BW,DEU
 2627784,DL3SDF,Ralf Hellener,Schorndorf,BW,DEU
 2627785,DL1SEV,Axel Conradt,Vaihingen,BW,DEU
@@ -12008,7 +12037,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2628620,DO2RAI,Rainer Hammer,Gablingen,BY,DEU
 2628621,DL0MO,Herbert Rinder,Bidingen,BY,DEU
 2628622,DL5YCW,Matthias Hinterding,Ingolstadt,BY,DEU
-2628623,DO6EE,Joachim Gay,Offingen,BY,DEU
+2628623,DO6EE,Joachim Gay,Sontheim An der Brenz,BW,DEU
 2628624,DK1MCS,Christian Scheucher,Brunnthal,BY,DEU
 2628625,DF7MB,Bernhard Boehner,Kolbermoor,BY,DEU
 2628626,DK1MFI,Ingomar Rydwal,Oettingen,BY,DEU
@@ -13513,7 +13542,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2633682,DC9XP,Andreas Fleischer,Bremen,HB,DEU
 2633683,DL1ROW,Michael Klueser,Rotenburg,NI,DEU
 2633684,DH1HD,Hans-Dieter Drechsler,Loxstedt,NI,DEU
-2633685,DO3HMO,Patty no_name,Lueneburg,NI,DEU
+2633685,DO3HMO,Patty ,Lueneburg,NI,DEU
 2633686,DJ7XB,Robert Grahn,Koenigslutter,NI,DEU
 2633687,DL1IN,Stefan Schulze,Sassenburg,NO_NAME,DEU
 2633688,DL9OAW,Frank Hammer,Lehrte,NI,DEU
@@ -14989,7 +15018,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2637372,DD7GR,Chrysovalantis Tziortzidis,Stuttgart,BW,DEU
 2637373,DG2SKJ,Juergen Klausnitzer,Moetzingen,BW,DEU
 2637374,DO7RL,Robin Lehmann,Stuttgart,BW,DEU
-2637375,DJ3RO,Rainer Oesterle,no_city,NO_NAME,DEU
+2637375,DJ3RO,Reiner Oesterle,no_city,,DEU
 2637376,DL7KM,Martin Kopp,Nagold,BW,DEU
 2637377,DK4HT,Horst Radau,Hanstedt,BW,DEU
 2637378,DL9ED,Elmar Damrau,Wannweil,BW,DEU
@@ -15114,7 +15143,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2637497,DJ1TF,Thomas Fritzsche,Bad Schoenborn,BW,DEU
 2637498,DH1HK,Henry Krause,Pforzheim,BW,DEU
 2637499,DL1SBU,Bernd Feuchter,Bretzfeld,BW,DEU
-2637500,DD5KA,Jose no_name,no_city,BW,DEU
+2637500,DD5KA,Jose ,no_city,BW,DEU
 2637501,DJ5SE,Sebastian Stetter,Konstanz,BW,DEU
 2637502,DO1RAU,Stefan Rau,Hermaringen,BW,DEU
 2637503,DL6FS,Frank Schulz,Schwetzingen,BW,DEU
@@ -16385,7 +16414,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2644163,DL4EBJ,Johannes Koering,Bedburg-Hau,NW,DEU
 2644164,DO5APO,Abdullah Agirkaya,Witten,NW,DEU
 2644165,DJ7QV,Ernst Fischer,Ennepetal,NW,DEU
-2644166,DB8LB,Thomas no_name,Koeln,NW,DEU
+2644166,DB8LB,Thomas ,Koeln,NW,DEU
 2644167,DB2CL,Christian Lehr,Musterhausen,NW,DEU
 2644168,DO6IP,Birgit Beckers,Geilenkirchen,NW,DEU
 2644169,DC3DV,Ralf Schachtner,Castrop-Rauxel,NW,DEU
